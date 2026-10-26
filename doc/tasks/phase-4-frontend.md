@@ -11,7 +11,7 @@ Status on 2026-10-26: tasks 4.1 to 4.9 are built, and Phase 0 task 0.1 is done. 
 - A postal code, 238895, sets the origin to 313 @ Somerset and lists 163 outlets within 1 km. A denied location request opens the postal code box with an explanation. The success path was tested with a stubbed `navigator.geolocation`, not a real device.
 - A copied link restores the search, the filters, the origin, and the selected outlet.
 
-Not done: task 4.10 on a real iPhone and Android phone over HTTPS, and the Lighthouse audit. The built `dist/client/` has not been loaded in a browser yet. Its files and references were checked on disk.
+On 2026-10-26 the owner opened the deployed site on their own phone. The OneMap tiles loaded and "Near me" found their location. Still open from task 4.10: the second phone platform (iOS or Android, whichever was not tested), and the Lighthouse audit.
 
 How the build differs from the tasks below:
 

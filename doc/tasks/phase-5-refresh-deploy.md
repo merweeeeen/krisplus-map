@@ -26,7 +26,7 @@ Done when you complete a refresh by following only the runbook.
 
 ### 5.3 Deploy the static site
 
-Status on 2026-10-26: the host is GitHub Pages, because the repo is public on GitHub and Pages needs no other account. `.github/workflows/deploy.yml` builds and deploys every push to `main`. The site lives at `https://merweeeeen.github.io/krisplus-map/`, so the build sets Vite's `base` from `BASE_PATH`, and the router base path and the GeoJSON URL follow it. A local `BASE_PATH=/krisplus-map/ pnpm preview` loaded every asset and the GeoJSON with HTTP 200. Pages sets its own cache headers, so step 3 below does not apply.
+Status on 2026-10-26: the host is GitHub Pages, because the repo is public on GitHub and Pages needs no other account. `.github/workflows/deploy.yml` builds and deploys every push to `main`. The site lives at `https://merweeeeen.github.io/krisplus-map/`, so the build sets Vite's `base` from `BASE_PATH`, and the router base path and the GeoJSON URL follow it. A local `BASE_PATH=/krisplus-map/ pnpm preview` loaded every asset and the GeoJSON with HTTP 200. The first deploy, commit `7ade24b`, passed every workflow step. The live page and GeoJSON return HTTP 200 over HTTPS with gzip, and the owner confirmed on their phone that the tiles load and "Near me" works. Pages sets its own cache headers, so step 3 below does not apply.
 
 1. Pick a static host. This is open question 3 in [the plan README](../README.md).
 2. Configure TanStack Start to prerender the site, or to build it in SPA mode, so the output needs no server.
