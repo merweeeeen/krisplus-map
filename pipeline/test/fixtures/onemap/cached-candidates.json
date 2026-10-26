@@ -550,5 +550,17 @@
 			"latitude": 1.294471559407876,
 			"longitude": 103.8315617190183
 		}
+	],
+	"CHANGI AIRPORT T2": [
+		{
+			"searchval": "CHANGI AIRPORT VIP COMPLEX",
+			"blk_no": "1",
+			"road_name": "T2 VIP DRIVE",
+			"building": "CHANGI AIRPORT VIP COMPLEX",
+			"address": "1 T2 VIP DRIVE CHANGI AIRPORT VIP COMPLEX SINGAPORE 818937",
+			"postal": "818937",
+			"latitude": 1.349172021922926,
+			"longitude": 103.9868473793911
+		}
 	]
 }

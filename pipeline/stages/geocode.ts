@@ -45,31 +45,46 @@ const STREET_WORD = "(ROAD|RD|AVENUE|AVE|STREET|ST|DRIVE|DR|LANE|WAY|BOULEVARD|B
 const ENDS_IN_STREET = new RegExp(`\\b${STREET_WORD}(\\s+\\d+[A-Z]?)?$`);
 const STARTS_AS_STREET = /^(LORONG|LOR|JALAN|JLN)\b/;
 
-export function tokens(text: string): string[] {
+function words(text: string): string[] {
 	return text
 		.toUpperCase()
 		.replace(/&/g, " AND ")
 		.replace(/[^A-Z0-9]+/g, " ")
 		.trim()
 		.split(" ")
-		.filter((token) => token !== "")
-		.flatMap((token) => ABBREVIATIONS[token] ?? [token]);
+		.filter((token) => token !== "");
+}
+
+export function tokens(text: string): string[] {
+	return words(text).flatMap((token) => ABBREVIATIONS[token] ?? [token]);
+}
+
+// OneMap writes road names in full. Expanding them only adds false words: the road "T2 VIP DRIVE" would read as Terminal 2.
+function roadTokens(candidate: Candidate): string[] {
+	return words(candidate.road_name ?? "");
 }
 
 // There is no street-only query. OneMap answers "BEDOK NORTH ROAD" with one point on the road, which says nothing about where the outlet is.
 export type GeocodeQuery =
 	| { kind: "building"; query: string }
 	| { kind: "address"; query: string; block: string; road: string }
-	| { kind: "merchant_street"; query: string };
+	| { kind: "merchant_street"; query: string }
+	| { kind: "merchant_on_street"; query: string; street: string };
 
 function isStreet(text: string): boolean {
 	return ENDS_IN_STREET.test(text) || STARTS_AS_STREET.test(text);
 }
 
+// Floor, level, and unit text does not help OneMap find a building, and neither does anything after a comma,
+// so "Dao by Dorsett Level 7, Lobby" searches as "DAO BY DORSETT".
 export function cleanOutletName(name: string): string {
 	return name
 		.toUpperCase()
 		.replace(/\([^)]*\)/g, " ")
+		.replace(/,.*$/, " ")
+		.replace(/\b(LEVEL|LVL|L) ?\d+\b/g, " ")
+		.replace(/#? ?\bB?\d{1,2}-\d{2,4}\b/g, " ")
+		.replace(/^BLK\s+/, "")
 		.replace(/\s*@\s*/g, " @ ")
 		.replace(/\s+/g, " ")
 		.trim();
@@ -81,19 +96,27 @@ export function buildQueries(outlet: Pick<Outlet, "merchant_name" | "outlet_name
 	if (name === "") return [];
 	const alias = aliases[name];
 	if (alias !== undefined) return [{ kind: "building", query: alias.query }];
-	const address = /^(\d+[A-Z]?)\s+(.+)$/.exec(name);
-	if (address?.[1] !== undefined && address[2] !== undefined && isStreet(address[2])) {
-		return [{ kind: "address", query: name, block: address[1], road: address[2] }];
+	// A name that starts with a house number is tried as an address first. "313 @ SOMERSET" is not one, so it falls through.
+	const address = /^(\d+[A-Z]?)\s+([^@].*)$/.exec(name);
+	if (address?.[1] !== undefined && address[2] !== undefined) {
+		return [
+			{ kind: "address", query: name, block: address[1], road: address[2] },
+			{ kind: "building", query: name },
+		];
 	}
 	if (isStreet(name)) {
-		const merchant = outlet.merchant_name.toUpperCase().replace(/\s+/g, " ").trim();
-		return [{ kind: "merchant_street", query: `${merchant} ${name}` }];
+		const merchant = cleanOutletName(outlet.merchant_name);
+		// OneMap often lists the business under its own name, so the merchant alone, on the right road, also counts.
+		return [
+			{ kind: "merchant_street", query: `${merchant} ${name}` },
+			{ kind: "merchant_on_street", query: merchant, street: name },
+		];
 	}
 	return [{ kind: "building", query: name }];
 }
 
 function candidateTokens(candidate: Candidate): Set<string> {
-	return new Set([candidate.searchval, candidate.building ?? "", candidate.road_name ?? ""].flatMap(tokens));
+	return new Set([...[candidate.searchval, candidate.building ?? ""].flatMap(tokens), ...roadTokens(candidate)]);
 }
 
 function requiredTokens(text: string): string[] {
@@ -114,11 +137,16 @@ function passes(query: GeocodeQuery, candidate: Candidate): boolean {
 	if (TRANSIT.test(candidate.searchval) && !TRANSIT.test(query.query)) return false;
 	switch (query.kind) {
 		case "address":
-			return candidate.blk_no === query.block && tokens(candidate.road_name ?? "").join(" ") === tokens(query.road).join(" ");
+			return candidate.blk_no === query.block && roadTokens(candidate).join(" ") === tokens(query.road).join(" ");
 		case "building":
 		case "merchant_street": {
 			const available = candidateTokens(candidate);
 			return requiredTokens(query.query).every((token) => available.has(token));
+		}
+		case "merchant_on_street": {
+			const name = new Set([candidate.searchval, candidate.building ?? ""].flatMap(tokens));
+			const road = new Set(roadTokens(candidate));
+			return requiredTokens(query.query).every((token) => name.has(token)) && tokens(query.street).every((token) => road.has(token));
 		}
 		default: {
 			const unhandled: never = query;

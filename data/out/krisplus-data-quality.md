@@ -1,6 +1,6 @@
 # Kris+ outlet data quality report
 
-Generated 2026-10-26T17:35:29.569+08:00 from crawl `20261026-172441`, which ran from 2026-10-26T17:24:41.167+08:00 to 2026-10-26T17:35:29.293+08:00.
+Generated 2026-10-27T00:07:43.095+08:00 from crawl `20261026-172441`, which ran from 2026-10-26T17:24:41.167+08:00 to 2026-10-26T17:35:29.293+08:00.
 
 The crawl is **complete**. Every URL in the partner sitemap was fetched or answered 404.
 
@@ -31,33 +31,37 @@ The sitemap lists these pages, but they answered 404:
 | online | 23 |
 | unknown | 12 |
 
-1802 records in `krisplus-outlets.json`. 1483 of them are map features in `krisplus-outlets.geojson`. Online merchants and partners that list no outlet get no map feature.
+1802 records in `krisplus-outlets.json`. 1566 of them are map features in `krisplus-outlets.geojson`. Online merchants and partners that list no outlet get no map feature.
 
 ## Geocoding
 
 | Geocode status | Physical outlets |
 | --- | --- |
-| matched | 1483 |
-| needs_review | 284 |
+| matched | 1566 |
+| needs_review | 198 |
+| missing | 3 |
 
 | Coordinate source | Physical outlets |
 | --- | --- |
-| onemap | 1483 |
+| onemap | 1566 |
 
 Every coordinate has building precision at best. Kris+ publishes outlet names, not addresses, so the pipeline finds the building and cannot place a shop inside it. Outlets in one mall share coordinates.
 
-284 physical outlets need review and have no coordinates. `needs-review.csv` lists each one with the query and the top OneMap candidates. The reasons:
+198 physical outlets need review and have no coordinates. `needs-review.csv` lists each one with the query and the top OneMap candidates. The reasons:
 
 | Reason | Outlets |
 | --- | --- |
-| building query: OneMap returned no results | 106 |
-| building query: matching results lie more than 250 m apart | 85 |
-| merchant_street query: OneMap returned no results | 62 |
-| building query: no result matched the name | 22 |
+| building query: matching results lie more than 250 m apart | 78 |
+| merchant_street query: OneMap returned no results; merchant_on_street query: OneMap returned no results | 50 |
+| building query: OneMap returned no results | 42 |
+| merchant_street query: OneMap returned no results; merchant_on_street query: no result matched the name | 9 |
 | building query: no matching result has a street address | 6 |
-| address query: matching results lie more than 250 m apart | 1 |
-| address query: OneMap returned no results | 1 |
-| merchant_street query: matching results lie more than 250 m apart | 1 |
+| building query: no result matched the name | 5 |
+| address query: no result matched the name; building query: no result matched the name | 3 |
+| No outlet name to search for | 2 |
+| address query: matching results lie more than 250 m apart; building query: matching results lie more than 250 m apart | 1 |
+| address query: OneMap returned no results; building query: OneMap returned no results | 1 |
+| merchant_street query: matching results lie more than 250 m apart; merchant_on_street query: no result matched the name | 1 |
 
 ## Validation
 

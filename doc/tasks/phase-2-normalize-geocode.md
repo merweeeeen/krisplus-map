@@ -9,7 +9,15 @@ Status on 2026-10-26: tasks 2.1 to 2.6 are done for run `20261026-162326`. Resul
 - In a random sample of 20 matches, all 20 were the right building. The 20 matches whose matched address lacks a word of the outlet name all come from aliases.
 - The 284 review rows cover 237 distinct names. 169 got no OneMap results, 87 had matches too far apart, 28 had results that did not match the name, and about 30 are area names such as "Toa Payoh", which have no single location.
 
-The match rules changed during the run. See "Geocoding accepts only clear matches" in [architecture.md](../architecture.md).
+Status on 2026-10-27, after a pass through `needs-review.csv` on run `20261026-172441`. Results, all measured:
+
+- 1,566 of 1,767 physical outlets matched (89%), 198 need review, and 3 are excluded by override. The 198 rows cover 165 distinct names.
+- Rule fixes placed 17 outlets: an address name falls back to a building search, a leading `BLK` and level, unit, and after-comma text are stripped, and a street name also tries the merchant alone on that road. 65 aliases in `data/overrides/geocode.json` placed 69 more. Each alias note gives the address that confirms it.
+- A hand check of 100 random pins found 98 on the right building. One was wrong. 9 Terminal 2 outlets sat on the Changi Airport VIP Complex, because the pipeline expanded OneMap's road name `T2 VIP DRIVE` to "Terminal 2". Road names are no longer expanded, and the T2 outlets now alias to `CHANGI AIRPORT TERMINAL 2 BUILDING`. One was imprecise. "Raffles Place" matched OneMap's record for the square, so its 3 outlets are excluded.
+- Compared with the previous output, the only pins that moved are the 9 Terminal 2 outlets, and the only pins lost are the 3 Raffles Place outlets.
+- Most remaining rows are area names such as "Toa Payoh" or "Sentosa", which have no single location, and restaurants named after their street. Those need an address from the merchant's own site and an `outlets` override.
+
+The match rules changed during both passes. See "Geocoding accepts only clear matches" in [architecture.md](../architecture.md).
 
 ## Tasks
 

@@ -24,8 +24,16 @@ test("outlet names become the right kind of query", () => {
 	assert.deepEqual(buildQueries({ merchant_name: "Cedele", outlet_name: "Guoco Tower" }), [{ kind: "building", query: "GUOCO TOWER" }]);
 	assert.deepEqual(buildQueries({ merchant_name: "Challenger", outlet_name: "313@Somerset" }), [{ kind: "building", query: "313 @ SOMERSET" }]);
 	assert.deepEqual(buildQueries({ merchant_name: "TWG Tea", outlet_name: "Marina Bay Sands (B1)" }), [{ kind: "building", query: "MARINA BAY SANDS" }]);
-	assert.deepEqual(buildQueries({ merchant_name: "Esso", outlet_name: "Ang Mo Kio Ave 8" }), [{ kind: "merchant_street", query: "ESSO ANG MO KIO AVE 8" }]);
-	assert.deepEqual(buildQueries({ merchant_name: "Esso", outlet_name: "611 Aljunied Road" }), [{ kind: "address", query: "611 ALJUNIED ROAD", block: "611", road: "ALJUNIED ROAD" }]);
+	assert.deepEqual(buildQueries({ merchant_name: "Esso", outlet_name: "Ang Mo Kio Ave 8" }), [
+		{ kind: "merchant_street", query: "ESSO ANG MO KIO AVE 8" },
+		{ kind: "merchant_on_street", query: "ESSO", street: "ANG MO KIO AVE 8" },
+	]);
+	assert.deepEqual(buildQueries({ merchant_name: "Esso", outlet_name: "611 Aljunied Road" }), [
+		{ kind: "address", query: "611 ALJUNIED ROAD", block: "611", road: "ALJUNIED ROAD" },
+		{ kind: "building", query: "611 ALJUNIED ROAD" },
+	]);
+	assert.deepEqual(buildQueries({ merchant_name: "Southbridge", outlet_name: "80 Boat Quay" })[0], { kind: "address", query: "80 BOAT QUAY", block: "80", road: "BOAT QUAY" });
+	assert.deepEqual(buildQueries({ merchant_name: "Superpets", outlet_name: "Blk 642 Senja Close" })[0], { kind: "address", query: "642 SENJA CLOSE", block: "642", road: "SENJA CLOSE" });
 	assert.deepEqual(buildQueries({ merchant_name: "Pelago", outlet_name: null }), []);
 });
 
@@ -33,6 +41,11 @@ test("abbreviations expand on both sides of a comparison", () => {
 	assert.deepEqual(tokens("Ang Mo Kio Ave 8"), ["ANG", "MO", "KIO", "AVENUE", "8"]);
 	assert.deepEqual(tokens("Changi Airport T1"), ["CHANGI", "AIRPORT", "TERMINAL", "1"]);
 	assert.equal(cleanOutletName("  Paragon Shopping Centre "), "PARAGON SHOPPING CENTRE");
+	assert.equal(cleanOutletName("Dao by Dorsett Level 7, Lobby"), "DAO BY DORSETT");
+	assert.equal(cleanOutletName("COMO Orchard L2"), "COMO ORCHARD");
+	assert.equal(cleanOutletName("Changi T2 Transit 02-195"), "CHANGI T2 TRANSIT");
+	assert.equal(cleanOutletName("Top of UOB Plaza 1"), "TOP OF UOB PLAZA 1");
+	assert.equal(cleanOutletName("Havelock 2"), "HAVELOCK 2");
 });
 
 test("Guoco Tower's five blocks sit within 150 m, so the first one with a postal code wins", () => {
@@ -119,6 +132,11 @@ test("Great World skips the MRT station and matches Great World City", () => {
 	const result = matchCandidates({ kind: "building", query: "GREAT WORLD" }, cachedCandidates("GREAT WORLD"));
 	assert.equal(result.status, "matched");
 	if (result.status === "matched") assert.equal(result.candidate.postal, "237994");
+});
+
+test("a road named T2 VIP Drive does not make the VIP Complex Terminal 2", () => {
+	const result = matchCandidates({ kind: "building", query: "CHANGI AIRPORT T2" }, cachedCandidates("CHANGI AIRPORT T2"));
+	assert.equal(result.status, "rejected");
 });
 
 test("an alias replaces the query for every outlet with that name", () => {

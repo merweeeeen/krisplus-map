@@ -76,13 +76,13 @@ A crawl is **complete** when discover succeeded and every partner URL fetched an
 
 Kris+ publishes outlet names, not addresses. Every coordinate therefore comes from OneMap and has building precision at best. Shared mall coordinates are expected, so the pipeline never deduplicates by coordinates.
 
-For each physical outlet, geocode builds one query from the outlet name. It removes the floor hint and normalizes the spacing around `@`, so `Marina Bay Sands (B1)` becomes `MARINA BAY SANDS`. The query takes one of three kinds:
+For each physical outlet, geocode builds its queries from the outlet name. It removes text in brackets, text after a comma, level and unit numbers, and a leading `BLK`, and it normalizes the spacing around `@`. So `Marina Bay Sands (B1)` becomes `MARINA BAY SANDS`, and `Dao by Dorsett Level 7, Lobby` becomes `DAO BY DORSETT`. Geocode tries the queries in order and keeps the first match:
 
-1. **Address.** The name starts with a house number and the rest is a street, such as `611 Aljunied Road`. A candidate must match both `BLK_NO` and `ROAD_NAME`.
-2. **Merchant and street.** The name is a street, ending in a word such as Road or Avenue. The query is `<merchant name> <outlet name>`, for example `ESSO ANG MO KIO AVE 8`, and a candidate must contain every word of it. The pipeline never searches a street alone. OneMap answers `BEDOK NORTH ROAD` with one point on the road, which says nothing about where the outlet is.
+1. **Address.** The name starts with a house number, such as `611 Aljunied Road`. A candidate must match both `BLK_NO` and `ROAD_NAME`. If none does, geocode searches the same text as a building, because names such as `100 AM` start with a number.
+2. **Merchant and street.** The name is a street, ending in a word such as Road or Avenue. The first query is `<merchant name> <outlet name>`, for example `ESSO ANG MO KIO AVE 8`, and a candidate must contain every word of it. The second query is the merchant name alone, and a candidate must contain the merchant's words in its name and the street's words in its road. The pipeline never searches a street alone. OneMap answers `BEDOK NORTH ROAD` with one point on the road, which says nothing about where the outlet is.
 3. **Building.** Any other name. A candidate must contain every word of the query except optional words such as "Shopping" and "Centre".
 
-Both sides of a comparison expand abbreviations, so `AVE` matches `AVENUE` and `T1` matches `TERMINAL 1`. Car parks, entrances, and bus stops never pass, and MRT and LRT stations pass only when the query names one. Then geocode narrows the passing candidates in three steps:
+Both sides of a comparison expand abbreviations, so `AVE` matches `AVENUE` and `T1` matches `TERMINAL 1`. OneMap's road names are the exception. OneMap writes them in full, and expanding them put 9 Terminal 2 outlets on the VIP Complex at `1 T2 VIP DRIVE`. Car parks, entrances, and bus stops never pass, and MRT and LRT stations pass only when the query names one. Then geocode narrows the passing candidates in three steps:
 
 1. Keep candidates with a block number. Results without one are roads and areas, such as the whole of Sentosa. Many real buildings, such as Changi City Point, have a block but no postal code.
 2. If any candidate's name equals the query, keep only those. This step drops a clinic 1.6 km from Jurong Point whose name contains both words.
@@ -93,7 +93,7 @@ Otherwise the outlet gets `geocode_status: "needs_review"` and `null` coordinate
 You resolve review rows in `data/overrides/geocode.json`, then rerun from `geocode`. The file has two parts:
 
 - `aliases` maps a cleaned outlet name to the building query OneMap knows it by, with a note giving the evidence. One alias fixes every outlet with that name. `"VIVO CITY": { "query": "VIVOCITY", ... }` fixes 9 outlets. The aliased query still has to pass the match rules.
-- `outlets` maps an `outlet_id` to coordinates and a note, or to `exclude: true` and a note.
+- `outlets` maps an `outlet_id` to coordinates and a note, or to `exclude: true` and a note. Exclude an outlet when its name is an area and OneMap still returns one point for it, such as "Raffles Place".
 
 The cache key is the normalized query string. Many outlets share malls, so the first run sends far fewer queries than there are outlets, and later runs send almost none. OneMap returned HTTP 429 on the third call in a loop with no gap, and 200 for ten calls 1.2 seconds apart (both measured). The client waits at least 1.1 seconds between calls, honours `Retry-After`, and backs off on 429. It sends no token, because search works without one. Add token support when OneMap starts to require it.
 
