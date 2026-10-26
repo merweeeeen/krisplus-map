@@ -6,9 +6,11 @@ import { RAW_ROOT, runPaths } from "./lib/paths.ts";
 import { runIdFor } from "./lib/time.ts";
 import { discover } from "./stages/discover.ts";
 import { fetchPartners } from "./stages/fetch.ts";
+import { geocodeOutlets } from "./stages/geocode.ts";
+import { normalizeOutlets } from "./stages/normalize.ts";
 import { parsePartners } from "./stages/parse.ts";
 
-const STAGES = ["discover", "fetch", "parse"] as const;
+const STAGES = ["discover", "fetch", "parse", "normalize", "geocode"] as const;
 type Stage = (typeof STAGES)[number];
 
 function isStage(value: string): value is Stage {
@@ -49,6 +51,8 @@ const startedAt = new Date();
 const runId = values.run ?? (firstStage === "discover" ? runIdFor(startedAt) : await latestRunId());
 const paths = runPaths(runId);
 const http = createHttpClient({ minIntervalMs: 1000, retries: 3, backoffBaseMs: 2000 });
+// Ten OneMap searches 1.2 s apart all returned 200 on 2026-10-26. Calls with no gap got 429 by the third.
+const oneMapHttp = createHttpClient({ minIntervalMs: 1100, retries: 5, backoffBaseMs: 5000 });
 
 log("run.start", { runId, stages: stagesToRun.join(","), limit });
 for (const stage of stagesToRun) {
@@ -61,6 +65,12 @@ for (const stage of stagesToRun) {
 			break;
 		case "parse":
 			await parsePartners({ paths });
+			break;
+		case "normalize":
+			await normalizeOutlets({ paths, runId });
+			break;
+		case "geocode":
+			await geocodeOutlets({ http: oneMapHttp, paths });
 			break;
 		default: {
 			const unhandled: never = stage;

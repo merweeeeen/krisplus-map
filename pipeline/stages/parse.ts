@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { z } from "zod";
 import { log } from "../lib/log.ts";
@@ -90,6 +90,7 @@ export async function parsePartners(options: { paths: RunPaths }): Promise<{ par
 			log("parse.failed", { slug, issues: result.issues });
 		}
 	}
+	await mkdir(options.paths.workDir, { recursive: true });
 	await writeFile(options.paths.parsedPartners, `${JSON.stringify({ partners, failures }, null, "\t")}\n`);
 	log("parse.done", { parsed: partners.length, failed: failures.length });
 	return { partners, failures };

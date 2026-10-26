@@ -1,0 +1,554 @@
+{
+	"SENTOSA": [
+		{
+			"searchval": "SENTOSA",
+			"blk_no": null,
+			"road_name": null,
+			"building": "SENTOSA",
+			"address": "SENTOSA",
+			"postal": null,
+			"latitude": 1.249812276259076,
+			"longitude": 103.8294906662792
+		},
+		{
+			"searchval": "SENTOSA - FORT SILOSO",
+			"blk_no": "103",
+			"road_name": "SILOSO ROAD",
+			"building": "SENTOSA - FORT SILOSO",
+			"address": "103 SILOSO ROAD SENTOSA - FORT SILOSO SINGAPORE 098978",
+			"postal": "098978",
+			"latitude": 1.259590190449395,
+			"longitude": 103.8080591684573
+		},
+		{
+			"searchval": "SENTOSA - MOUNT IMBIAH NATURE RESERVE",
+			"blk_no": null,
+			"road_name": "IMBIAH WALK",
+			"building": "SENTOSA - MOUNT IMBIAH NATURE RESERVE",
+			"address": "IMBIAH WALK SENTOSA - MOUNT IMBIAH NATURE RESERVE",
+			"postal": null,
+			"latitude": 1.257150796889931,
+			"longitude": 103.8141131806587
+		},
+		{
+			"searchval": "SENTOSA 4D ADVENTURELAND",
+			"blk_no": "51B",
+			"road_name": "IMBIAH ROAD",
+			"building": "SENTOSA 4D ADVENTURELAND",
+			"address": "51B IMBIAH ROAD SENTOSA 4D ADVENTURELAND SINGAPORE 099708",
+			"postal": "099708",
+			"latitude": 1.255427105838584,
+			"longitude": 103.8165311403638
+		},
+		{
+			"searchval": "SENTOSA BOARDWALK",
+			"blk_no": "6",
+			"road_name": "SENTOSA GATEWAY",
+			"building": "SENTOSA BOARDWALK",
+			"address": "6 SENTOSA GATEWAY SENTOSA BOARDWALK SINGAPORE 098072",
+			"postal": "098072",
+			"latitude": 1.258302142002749,
+			"longitude": 103.823350504845
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "10",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "10 TREASURE ISLAND SENTOSA COVE SINGAPORE 098346",
+			"postal": "098346",
+			"latitude": 1.248516971467716,
+			"longitude": 103.8432294877584
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "6",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "6 TREASURE ISLAND SENTOSA COVE SINGAPORE 098344",
+			"postal": "098344",
+			"latitude": 1.248774956644219,
+			"longitude": 103.8428764892598
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "8",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "8 TREASURE ISLAND SENTOSA COVE SINGAPORE 098345",
+			"postal": "098345",
+			"latitude": 1.24866306568251,
+			"longitude": 103.8430507056973
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "135",
+			"road_name": "OCEAN DRIVE",
+			"building": "SENTOSA COVE",
+			"address": "135 OCEAN DRIVE SENTOSA COVE SINGAPORE 098517",
+			"postal": "098517",
+			"latitude": 1.252359782377901,
+			"longitude": 103.8448007959271
+		},
+		{
+			"searchval": "SENTOSA GOLF CLUB",
+			"blk_no": "27",
+			"road_name": "BUKIT MANIS ROAD",
+			"building": "SENTOSA GOLF CLUB",
+			"address": "27 BUKIT MANIS ROAD SENTOSA GOLF CLUB SINGAPORE 099892",
+			"postal": "099892",
+			"latitude": 1.243897075810938,
+			"longitude": 103.8293233684276
+		},
+		{
+			"searchval": "SENTOSA - BUTTERFLY PARK & INSECT KINGDOM",
+			"blk_no": "51",
+			"road_name": "IMBIAH ROAD",
+			"building": "SENTOSA - BUTTERFLY PARK & INSECT KINGDOM",
+			"address": "51 IMBIAH ROAD SENTOSA - BUTTERFLY PARK & INSECT KINGDOM SINGAPORE 099702",
+			"postal": "099702",
+			"latitude": 1.25562884989761,
+			"longitude": 103.817318463868
+		},
+		{
+			"searchval": "SENTOSA - IMAGES OF SINGAPORE LIVE",
+			"blk_no": "40",
+			"road_name": "IMBIAH ROAD",
+			"building": "SENTOSA - IMAGES OF SINGAPORE LIVE",
+			"address": "40 IMBIAH ROAD SENTOSA - IMAGES OF SINGAPORE LIVE",
+			"postal": null,
+			"latitude": 1.253806007183701,
+			"longitude": 103.8175050802072
+		},
+		{
+			"searchval": "SENTOSA - SOUTHERNMOST POINT OF ASIA CONTINENT",
+			"blk_no": null,
+			"road_name": "LIGHTHOUSE BEACH WALK",
+			"building": "SENTOSA - SOUTHERNMOST POINT OF ASIA CONTINENT",
+			"address": "LIGHTHOUSE BEACH WALK SENTOSA - SOUTHERNMOST POINT OF ASIA CONTINENT",
+			"postal": null,
+			"latitude": 1.247734593077618,
+			"longitude": 103.8216636046413
+		},
+		{
+			"searchval": "SENTOSA BEACH STATION",
+			"blk_no": "50",
+			"road_name": "BEACH VIEW",
+			"building": "SENTOSA BEACH STATION",
+			"address": "50 BEACH VIEW SENTOSA BEACH STATION",
+			"postal": null,
+			"latitude": 1.251595403355371,
+			"longitude": 103.818615766579
+		},
+		{
+			"searchval": "SENTOSA BOOSTER STATION",
+			"blk_no": null,
+			"road_name": "WOOLWICH ROAD",
+			"building": "SENTOSA BOOSTER STATION",
+			"address": "WOOLWICH ROAD SENTOSA BOOSTER STATION",
+			"postal": null,
+			"latitude": 1.248378350776028,
+			"longitude": 103.8352939605941
+		},
+		{
+			"searchval": "SENTOSA CINEBLAST",
+			"blk_no": "51C",
+			"road_name": "IMBIAH ROAD",
+			"building": "SENTOSA CINEBLAST",
+			"address": "51C IMBIAH ROAD SENTOSA CINEBLAST SINGAPORE 098464",
+			"postal": "098464",
+			"latitude": 1.255682396094183,
+			"longitude": 103.8156569599766
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "14",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "14 TREASURE ISLAND SENTOSA COVE SINGAPORE 098348",
+			"postal": "098348",
+			"latitude": 1.248148553247094,
+			"longitude": 103.8434501454649
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "1",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "1 TREASURE ISLAND SENTOSA COVE SINGAPORE 098332",
+			"postal": "098332",
+			"latitude": 1.249286848578077,
+			"longitude": 103.8424673534126
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "12",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "12 TREASURE ISLAND SENTOSA COVE SINGAPORE 098347",
+			"postal": "098347",
+			"latitude": 1.248339723892184,
+			"longitude": 103.8433522764976
+		},
+		{
+			"searchval": "SENTOSA NATURE DISCOVERY",
+			"blk_no": "21",
+			"road_name": "SILOSO ROAD",
+			"building": "SENTOSA NATURE DISCOVERY",
+			"address": "21 SILOSO ROAD SENTOSA NATURE DISCOVERY SINGAPORE 098968",
+			"postal": "098968",
+			"latitude": 1.255871219569572,
+			"longitude": 103.8173365318676
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "13",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "13 TREASURE ISLAND SENTOSA COVE SINGAPORE 098338",
+			"postal": "098338",
+			"latitude": 1.248579761920494,
+			"longitude": 103.8436760538178
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "156",
+			"road_name": "OCEAN DRIVE",
+			"building": "SENTOSA COVE",
+			"address": "156 OCEAN DRIVE SENTOSA COVE SINGAPORE 098422",
+			"postal": "098422",
+			"latitude": 1.252123866398533,
+			"longitude": 103.8468962749821
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "16",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "16 TREASURE ISLAND SENTOSA COVE SINGAPORE 098349",
+			"postal": "098349",
+			"latitude": 1.24787408908574,
+			"longitude": 103.8436404852526
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "162",
+			"road_name": "OCEAN DRIVE",
+			"building": "SENTOSA COVE",
+			"address": "162 OCEAN DRIVE SENTOSA COVE SINGAPORE 098446",
+			"postal": "098446",
+			"latitude": 1.251814688463351,
+			"longitude": 103.8471516174699
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "197",
+			"road_name": "OCEAN DRIVE",
+			"building": "SENTOSA COVE",
+			"address": "197 OCEAN DRIVE SENTOSA COVE SINGAPORE 098456",
+			"postal": "098456",
+			"latitude": 1.252475888019828,
+			"longitude": 103.8473007132165
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "2",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "2 TREASURE ISLAND SENTOSA COVE SINGAPORE 098342",
+			"postal": "098342",
+			"latitude": 1.248901252122122,
+			"longitude": 103.8424290018702
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "4",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "4 TREASURE ISLAND SENTOSA COVE SINGAPORE 098343",
+			"postal": "098343",
+			"latitude": 1.248883597188606,
+			"longitude": 103.8426534162631
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "5",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "5 TREASURE ISLAND SENTOSA COVE SINGAPORE 098334",
+			"postal": "098334",
+			"latitude": 1.249183877569062,
+			"longitude": 103.8429278580644
+		},
+		{
+			"searchval": "SENTOSA COVE",
+			"blk_no": "9",
+			"road_name": "TREASURE ISLAND",
+			"building": "SENTOSA COVE",
+			"address": "9 TREASURE ISLAND SENTOSA COVE SINGAPORE 098336",
+			"postal": "098336",
+			"latitude": 1.248922400136791,
+			"longitude": 103.8433426587188
+		},
+		{
+			"searchval": "SENTOSA DEVELOPMENT CORPORATION (SDC)",
+			"blk_no": "39",
+			"road_name": "ARTILLERY AVENUE",
+			"building": "SENTOSA DEVELOPMENT CORPORATION (SDC)",
+			"address": "39 ARTILLERY AVENUE SENTOSA DEVELOPMENT CORPORATION (SDC)",
+			"postal": null,
+			"latitude": 1.250558818431726,
+			"longitude": 103.8273289111253
+		}
+	],
+	"SUNTEC CITY": [
+		{
+			"searchval": "GOLDEN VILLAGE (GV SUNTEC CITY)",
+			"blk_no": "3",
+			"road_name": "TEMASEK BOULEVARD",
+			"building": "GOLDEN VILLAGE (GV SUNTEC CITY)",
+			"address": "3 TEMASEK BOULEVARD GOLDEN VILLAGE (GV SUNTEC CITY)",
+			"postal": null,
+			"latitude": 1.29485990186642,
+			"longitude": 103.860333693777
+		},
+		{
+			"searchval": "SUNTEC CITY",
+			"blk_no": null,
+			"road_name": null,
+			"building": "SUNTEC CITY",
+			"address": "SUNTEC CITY",
+			"postal": null,
+			"latitude": 1.295466755896756,
+			"longitude": 103.8585850260156
+		},
+		{
+			"searchval": "SUNTEC CITY MALL",
+			"blk_no": "3",
+			"road_name": "TEMASEK BOULEVARD",
+			"building": "SUNTEC CITY MALL",
+			"address": "3 TEMASEK BOULEVARD SUNTEC CITY MALL SINGAPORE 038983",
+			"postal": "038983",
+			"latitude": 1.295931894771942,
+			"longitude": 103.8590144067362
+		}
+	],
+	"NORTHPOINT CITY": [
+		{
+			"searchval": "NORTHPOINT CITY",
+			"blk_no": "930",
+			"road_name": "YISHUN AVENUE 2",
+			"building": "NORTHPOINT CITY",
+			"address": "930 YISHUN AVENUE 2 NORTHPOINT CITY SINGAPORE 769098",
+			"postal": "769098",
+			"latitude": 1.429698486262892,
+			"longitude": 103.8357764914675
+		},
+		{
+			"searchval": "NORTHPOINT CITY",
+			"blk_no": "1",
+			"road_name": "NORTHPOINT DRIVE",
+			"building": "NORTHPOINT CITY",
+			"address": "1 NORTHPOINT DRIVE NORTHPOINT CITY SINGAPORE 768019",
+			"postal": "768019",
+			"latitude": 1.427902889913047,
+			"longitude": 103.8361776509722
+		},
+		{
+			"searchval": "NORTHPOINT CITY",
+			"blk_no": "920",
+			"road_name": "YISHUN AVENUE 2",
+			"building": "NORTHPOINT CITY",
+			"address": "920 YISHUN AVENUE 2 NORTHPOINT CITY SINGAPORE 769100",
+			"postal": "769100",
+			"latitude": 1.42790289018678,
+			"longitude": 103.8361776507003
+		},
+		{
+			"searchval": "NORTHPOINT CITY (NORTH WING)",
+			"blk_no": "930",
+			"road_name": "YISHUN AVENUE 2",
+			"building": "NORTHPOINT CITY (NORTH WING)",
+			"address": "930 YISHUN AVENUE 2 NORTHPOINT CITY (NORTH WING)",
+			"postal": null,
+			"latitude": 1.429466608376663,
+			"longitude": 103.8357907144584
+		}
+	],
+	"JURONG POINT": [
+		{
+			"searchval": "FAMILY POINT CLINIC AND SURGERY TAMAN JURONG SHOPPING CENTRE",
+			"blk_no": "399",
+			"road_name": "YUNG SHENG ROAD",
+			"building": "FAMILY POINT CLINIC AND SURGERY TAMAN JURONG SHOPPING CENTRE",
+			"address": "399 YUNG SHENG ROAD FAMILY POINT CLINIC AND SURGERY TAMAN JURONG SHOPPING CENTRE",
+			"postal": null,
+			"latitude": 1.334844874712597,
+			"longitude": 103.7204620242775
+		},
+		{
+			"searchval": "GOLDEN VILLAGE (GV JURONG POINT)",
+			"blk_no": "1",
+			"road_name": "JURONG WEST CENTRAL 2",
+			"building": "GOLDEN VILLAGE (GV JURONG POINT)",
+			"address": "1 JURONG WEST CENTRAL 2 GOLDEN VILLAGE (GV JURONG POINT)",
+			"postal": null,
+			"latitude": 1.339452004363197,
+			"longitude": 103.7066850129261
+		},
+		{
+			"searchval": "JURONG POINT",
+			"blk_no": "1",
+			"road_name": "JURONG WEST CENTRAL 2",
+			"building": "JURONG POINT",
+			"address": "1 JURONG WEST CENTRAL 2 JURONG POINT SINGAPORE 648886",
+			"postal": "648886",
+			"latitude": 1.339452716614461,
+			"longitude": 103.7066850128896
+		},
+		{
+			"searchval": "JURONG POINT",
+			"blk_no": "63",
+			"road_name": "JURONG WEST CENTRAL 3",
+			"building": "JURONG POINT",
+			"address": "63 JURONG WEST CENTRAL 3 JURONG POINT SINGAPORE 648331",
+			"postal": "648331",
+			"latitude": 1.339401008559377,
+			"longitude": 103.7055941287289
+		},
+		{
+			"searchval": "JURONG POINT FOODCOURT",
+			"blk_no": "1",
+			"road_name": "JURONG WEST CENTRAL 2",
+			"building": "JURONG POINT FOODCOURT",
+			"address": "1 JURONG WEST CENTRAL 2 JURONG POINT FOODCOURT",
+			"postal": null,
+			"latitude": 1.340400380037503,
+			"longitude": 103.7066740585597
+		},
+		{
+			"searchval": "NEW HORIZON CENTRE (JURONG POINT)",
+			"blk_no": "1",
+			"road_name": "JURONG WEST CENTRAL 2",
+			"building": "NEW HORIZON CENTRE (JURONG POINT)",
+			"address": "1 JURONG WEST CENTRAL 2 NEW HORIZON CENTRE (JURONG POINT)",
+			"postal": null,
+			"latitude": 1.339738866121781,
+			"longitude": 103.7067895535881
+		}
+	],
+	"CHANGI CITY POINT": [
+		{
+			"searchval": "CHANGI CITY POINT",
+			"blk_no": "5",
+			"road_name": "CHANGI BUSINESS PARK CENTRAL 1",
+			"building": "CHANGI CITY POINT",
+			"address": "5 CHANGI BUSINESS PARK CENTRAL 1 CHANGI CITY POINT",
+			"postal": null,
+			"latitude": 1.334036379027078,
+			"longitude": 103.9629176155306
+		},
+		{
+			"searchval": "CHANGI CITY POINT (CAR PARK ENTRANCE)",
+			"blk_no": null,
+			"road_name": null,
+			"building": "CHANGI CITY POINT (CAR PARK ENTRANCE)",
+			"address": "CHANGI CITY POINT (CAR PARK ENTRANCE)",
+			"postal": null,
+			"latitude": 1.333389000381592,
+			"longitude": 103.9638197002658
+		}
+	],
+	"GREAT WORLD": [
+		{
+			"searchval": "GREAT WORLD CITY",
+			"blk_no": "1",
+			"road_name": "KIM SENG PROMENADE",
+			"building": "GREAT WORLD CITY",
+			"address": "1 KIM SENG PROMENADE GREAT WORLD CITY SINGAPORE 237994",
+			"postal": "237994",
+			"latitude": 1.293422726500028,
+			"longitude": 103.8320221466545
+		},
+		{
+			"searchval": "GREAT WORLD MRT STATION (TE15)",
+			"blk_no": "351",
+			"road_name": "RIVER VALLEY ROAD",
+			"building": "GREAT WORLD MRT STATION (TE15)",
+			"address": "351 RIVER VALLEY ROAD GREAT WORLD MRT STATION (TE15) SINGAPORE 238384",
+			"postal": "238384",
+			"latitude": 1.293948161693831,
+			"longitude": 103.8337208377308
+		},
+		{
+			"searchval": "GREAT WORLD MRT STATION EXIT 1",
+			"blk_no": null,
+			"road_name": null,
+			"building": "GREAT WORLD MRT STATION EXIT 1",
+			"address": "GREAT WORLD MRT STATION EXIT 1",
+			"postal": null,
+			"latitude": 1.293316456779603,
+			"longitude": 103.8339066309139
+		},
+		{
+			"searchval": "GREAT WORLD MRT STATION EXIT 2",
+			"blk_no": null,
+			"road_name": null,
+			"building": "GREAT WORLD MRT STATION EXIT 2",
+			"address": "GREAT WORLD MRT STATION EXIT 2",
+			"postal": null,
+			"latitude": 1.292866563678588,
+			"longitude": 103.8326055629772
+		},
+		{
+			"searchval": "GREAT WORLD MRT STATION EXIT 3",
+			"blk_no": null,
+			"road_name": null,
+			"building": "GREAT WORLD MRT STATION EXIT 3",
+			"address": "GREAT WORLD MRT STATION EXIT 3",
+			"postal": null,
+			"latitude": 1.293829771306573,
+			"longitude": 103.8327333800036
+		},
+		{
+			"searchval": "GREAT WORLD MRT STATION EXIT 4",
+			"blk_no": null,
+			"road_name": null,
+			"building": "GREAT WORLD MRT STATION EXIT 4",
+			"address": "GREAT WORLD MRT STATION EXIT 4",
+			"postal": null,
+			"latitude": 1.296030279213624,
+			"longitude": 103.8330452010763
+		},
+		{
+			"searchval": "GREAT WORLD MRT STATION EXIT 5",
+			"blk_no": null,
+			"road_name": null,
+			"building": "GREAT WORLD MRT STATION EXIT 5",
+			"address": "GREAT WORLD MRT STATION EXIT 5",
+			"postal": null,
+			"latitude": 1.296533356684658,
+			"longitude": 103.833402514731
+		},
+		{
+			"searchval": "GREAT WORLD MRT STATION EXIT 6",
+			"blk_no": null,
+			"road_name": null,
+			"building": "GREAT WORLD MRT STATION EXIT 6",
+			"address": "GREAT WORLD MRT STATION EXIT 6",
+			"postal": null,
+			"latitude": 1.29318404228584,
+			"longitude": 103.8328332271379
+		},
+		{
+			"searchval": "GREAT WORLD SERVICED APARTMENTS",
+			"blk_no": "2",
+			"road_name": "KIM SENG WALK",
+			"building": "GREAT WORLD SERVICED APARTMENTS",
+			"address": "2 KIM SENG WALK GREAT WORLD SERVICED APARTMENTS SINGAPORE 239404",
+			"postal": "239404",
+			"latitude": 1.294471559407876,
+			"longitude": 103.8315617190183
+		}
+	]
+}

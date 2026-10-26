@@ -1,0 +1,19 @@
+{
+  "found": 1,
+  "totalNumPages": 1,
+  "pageNum": 1,
+  "results": [
+    {
+      "SEARCHVAL": "ESSO ALJUNIED B",
+      "BLK_NO": "611",
+      "ROAD_NAME": "ALJUNIED ROAD",
+      "BUILDING": "ESSO ALJUNIED B",
+      "ADDRESS": "611 ALJUNIED ROAD ESSO ALJUNIED B SINGAPORE 389830",
+      "POSTAL": "389830",
+      "X": "33274.8538301466",
+      "Y": "34063.91071490757",
+      "LATITUDE": "1.324335973321711",
+      "LONGITUDE": "103.8807159677559"
+    }
+  ]
+}

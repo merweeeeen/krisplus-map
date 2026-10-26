@@ -2,6 +2,15 @@
 
 This phase produces one outlet record per participating branch. Each record has a stable ID. Where OneMap gives a clear answer, it also has building-level coordinates.
 
+Status on 2026-10-26: tasks 2.1 to 2.6 are done for run `20261026-162326`. Results, all measured:
+
+- Normalize produced 1,802 records: 1,767 physical outlets, 23 online merchants, and 12 of unknown type. A rerun leaves `data/state/registry.json` byte-identical.
+- Geocode sent 719 OneMap queries in about 16 minutes. 1,483 of 1,767 physical outlets matched (84%), and 284 need review.
+- In a random sample of 20 matches, all 20 were the right building. The 20 matches whose matched address lacks a word of the outlet name all come from aliases.
+- The 284 review rows cover 237 distinct names. 169 got no OneMap results, 87 had matches too far apart, 28 had results that did not match the name, and about 30 are area names such as "Toa Payoh", which have no single location.
+
+The match rules changed during the run. See "Geocoding accepts only clear matches" in [architecture.md](../architecture.md).
+
 ## Tasks
 
 ### 2.1 Expand partners into outlet records
@@ -16,7 +25,7 @@ Done when fixture tests produce 22 Cedele records with `earn_miles_per_sgd: 8`, 
 
 Write the registry logic in `normalize.ts`. `data/state/registry.json` maps each `outlet_id` to `first_seen_at`, `last_seen_at`, and the outlet name at each crawl.
 
-1. Set `last_seen_at` only from a complete crawl.
+1. Set `last_seen_at` to the fetch time of every page that lists the outlet, in any crawl. Completeness matters only for outlets that were not seen.
 2. If an `outlet_id` changes name, keep the record and add it to the review list.
 3. If two outlets of one merchant normalize to the same name, keep both and add them to the review list. TWG Tea's two Marina Bay Sands outlets differ only by floor hint, which is correct.
 
@@ -27,8 +36,8 @@ Done when running normalize twice on the same input leaves the registry byte-ide
 Write `pipeline/lib/onemap.ts`.
 
 1. Call the search endpoint with `returnGeom=Y` and `getAddrDetails=Y`, and read every result page.
-2. Start at one call every 1.5 seconds. Back off on 429 and honour `Retry-After`. Use the rate limit from Phase 0 if it allows a faster pace.
-3. If `ONEMAP_EMAIL` and `ONEMAP_PASSWORD` are set, fetch a token, send it, and refresh it before it expires.
+2. Wait at least 1.1 seconds between calls. Back off on 429 and honour `Retry-After`. Use the rate limit from Phase 0 if it allows a faster pace.
+3. Add token support only when OneMap requires it. Read `ONEMAP_EMAIL` and `ONEMAP_PASSWORD` from the environment, and refresh the token before it expires.
 4. Parse `LATITUDE` and `LONGITUDE` as numbers. Keep `POSTAL` as a string, and treat `NIL` as `null`.
 
 Done when a recorded test response for `GUOCO TOWER` parses into 5 candidates with postal codes `078881`, `078884`, and `078883`.
@@ -37,7 +46,7 @@ Done when a recorded test response for `GUOCO TOWER` parses into 5 candidates wi
 
 Write the rules from [architecture.md](../architecture.md) in `pipeline/stages/geocode.ts`.
 
-1. Build the query list for each physical outlet: the cleaned outlet name, the merchant plus street form, and the address form.
+1. Build one query for each physical outlet: the address form, the merchant plus street form, or the cleaned building name. Never search a street alone.
 2. Drop candidates whose text marks a car park, entrance, or bus stop.
 3. Keep candidates whose `BUILDING` or `SEARCHVAL` matches the query after normalization.
 4. Accept when every kept candidate lies within 150 m of the others. Pick the kept candidate with a real postal code.
@@ -45,7 +54,7 @@ Write the rules from [architecture.md](../architecture.md) in `pipeline/stages/g
 6. Fill `coordinate_source: "onemap"`, `coordinate_precision: "building"`, `geocode_query`, `geocode_matched_address`, `geocode_postal_code`, `geocode_building`, and `geocoded_at`.
 7. Write the reason for every non-match into `geocode_notes`.
 
-Done when fixture tests give these results: Guoco Tower matched at postal `078881`, 313@Somerset matched at postal `238895` without the car park, and a street-only name with several far-apart results set to `needs_review`.
+Done when fixture tests give these results: Guoco Tower matched at postal `078881`, 313@Somerset matched at postal `238895` without the car park, and `ESSO BEDOK NORTH ROAD` rejected when OneMap returns only the road.
 
 ### 2.5 Cache results and apply overrides
 

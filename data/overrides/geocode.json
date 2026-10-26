@@ -1,0 +1,13 @@
+{
+	"aliases": {
+		"VIVO CITY": { "query": "VIVOCITY", "note": "OneMap spells it VIVOCITY, 1 HarbourFront Walk, 098585. Checked 2026-10-26." },
+		"JEWEL": { "query": "JEWEL CHANGI AIRPORT", "note": "\"JEWEL\" matches Jewel @ Buangkok and others. Jewel Changi Airport is 78 Airport Boulevard, 819666. Checked 2026-10-26." },
+		"TAMPINES 1": { "query": "TAMPINES ONE", "note": "OneMap names the mall TAMPINES ONE, 10 Tampines Central 1, 529536. Checked 2026-10-26." },
+		"I12 KATONG": { "query": "112 KATONG", "note": "OneMap spells it 112 KATONG, 112 East Coast Road, 428802. Checked 2026-10-26." },
+		"SQUARE 2 @ NOVENA": { "query": "SQUARE 2", "note": "OneMap names it SQUARE 2, 10 Sinaran Drive, 307506. Checked 2026-10-26." },
+		"PARKROYAL ON BEACH ROAD": { "query": "PARKROYAL ON BEACH ROAD", "note": "A hotel whose name ends in Road, so search it as a building. OneMap has 7500A Beach Road. Checked 2026-10-26." },
+		"PARAGON": { "query": "THE PARAGON", "note": "OneMap names the mall THE PARAGON, 290 Orchard Road, 238859. \"PARAGON\" alone matches Paragon Dental Care in Pasir Ris. Checked 2026-10-26." },
+		"PARAGON SHOPPING CENTRE": { "query": "THE PARAGON", "note": "Same building as PARAGON." }
+	},
+	"outlets": {}
+}

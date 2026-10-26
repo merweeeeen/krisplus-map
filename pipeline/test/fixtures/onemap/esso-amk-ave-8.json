@@ -1,0 +1,20 @@
+{
+  "error": "Authentication token missing. Please create an account and generate or renew your API Token.",
+  "found": 1,
+  "totalNumPages": 1,
+  "pageNum": 1,
+  "results": [
+    {
+      "SEARCHVAL": "ESSO ANG MO KIO AVENUE 8",
+      "BLK_NO": "2225",
+      "ROAD_NAME": "ANG MO KIO AVENUE 8",
+      "BUILDING": "ESSO ANG MO KIO AVENUE 8",
+      "ADDRESS": "2225 ANG MO KIO AVENUE 8 ESSO ANG MO KIO AVENUE 8 SINGAPORE 569810",
+      "POSTAL": "569810",
+      "X": "30139.11344829202",
+      "Y": "38291.90794372931",
+      "LATITUDE": "1.362572857378394",
+      "LONGITUDE": "103.8525399602815"
+    }
+  ]
+}
