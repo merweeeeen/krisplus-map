@@ -1,6 +1,6 @@
 import { OutletFeatureCollection } from "../../shared/schema.ts";
 
-export const OUTLETS_URL = "/data/krisplus-outlets.geojson";
+export const OUTLETS_URL = `${import.meta.env.BASE_URL}data/krisplus-outlets.geojson`;
 
 export async function loadOutlets(): Promise<OutletFeatureCollection> {
 	const response = await fetch(OUTLETS_URL);

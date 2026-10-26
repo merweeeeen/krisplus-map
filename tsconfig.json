@@ -5,7 +5,7 @@
 		"moduleResolution": "bundler",
 		"jsx": "react-jsx",
 		"lib": ["es2024", "dom", "dom.iterable"],
-		"types": ["vite/client"],
+		"types": ["vite/client", "node"],
 		"strict": true,
 		"noUncheckedIndexedAccess": true,
 		"noUnusedLocals": true,

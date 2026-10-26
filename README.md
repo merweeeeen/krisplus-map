@@ -36,6 +36,16 @@ Build the static site into `dist/client/`, which any static host can serve:
 pnpm build
 ```
 
+Every push to `main` deploys the site to GitHub Pages at `https://merweeeeen.github.io/krisplus-map/`. The workflow in `.github/workflows/deploy.yml` runs the type check and the tests, then builds with `BASE_PATH=/krisplus-map/`. To check a base-path build locally, build and preview with the same variable:
+
+```bash
+BASE_PATH=/krisplus-map/ pnpm build
+```
+
+```bash
+BASE_PATH=/krisplus-map/ pnpm preview
+```
+
 "Near me" needs a secure context. It works on `localhost` and on HTTPS, but not on a plain-HTTP address from your phone. Without location access, the app asks for a postal code or address and looks it up with OneMap.
 
 ## Refresh the data

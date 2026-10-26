@@ -1,6 +1,7 @@
 {
 	"name": "krisplus-map",
 	"private": true,
+	"packageManager": "pnpm@11.25.0",
 	"type": "module",
 	"engines": {
 		"node": ">=22.18"
