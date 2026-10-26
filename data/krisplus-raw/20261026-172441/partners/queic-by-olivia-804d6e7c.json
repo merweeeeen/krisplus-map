@@ -1,0 +1,202 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/queic-by-olivia-804d6e7c",
+	"slug": "queic-by-olivia-804d6e7c",
+	"fetchedAt": "2026-10-26T17:29:15.514+08:00",
+	"payload": {
+		"partner": {
+			"_id": "64b4a8586f0f530055e17269",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dessert",
+				"Queic",
+				"Cheesecake",
+				"Olivia",
+				"Basque Burnt Cheesecake",
+				"Cake",
+				"Bakery",
+				"Cake Shop",
+				"Olivia Cheesecake",
+				"Dining",
+				"Kreta Ayer Road",
+				"Cafe",
+				"Café",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Coffee",
+				"Tea",
+				"Cakes",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Barmuteary Pte Ltd",
+			"brand": "Queic by Olivia",
+			"code": "QUC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5814",
+			"shortName": "Queic by Olivi",
+			"address": {
+				"line1": "71 Ubi Road 1, #09-47 Singapore 408732",
+				"postalCode": "408732",
+				"streetName": "Ubi Road 1",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"CAF"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "201808248K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/46634401177344764-Queic.png",
+			"websiteUrl": "https://www.queic.com",
+			"descriptionHtml": "<p>Queic by Olivia is the first tribute-boutique to cheesecakes in Singapore. Their signature item is Olivia’s homemade cheesecake. Singapore’s favourite cheesecake.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Fast Food Restaurants",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6711446603184146-Q1.png",
+			"createdAt": "2023-07-17T02:32:56.264Z",
+			"updatedAt": "2026-08-06T14:17:46.560Z",
+			"translations": [
+				"64eef9f9595add2492446493"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/46634401177344764-Queic.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6711446603184146-Q1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/46634401177344764-Queic_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/46634401177344764-Queic_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/46634401177344764-Queic_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6711446603184146-Q1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6711446603184146-Q1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6711446603184146-Q1_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Queic by Olivia is the first tribute-boutique to cheesecakes in Singapore. Their signature item is Olivia’s homemade cheesecake. Singapore’s favourite cheesecake. Dessert Queic Cheesecake Olivia Basque Burnt Cheesecake Cake Bakery Cake Shop Olivia Cheesecake Dining Kreta Ayer Road Cafe Café Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Coffee Tea Cakes Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Dining Beverages & Desserts Cafe",
+			"refundPeriodUpdatedAt": "2026-07-01T06:36:37.016Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "queic-by-olivia-804d6e7c",
+			"outlets": [
+				{
+					"_id": "64b4b61db9a0740055e6b367",
+					"name": "41 Kreta Ayer Road"
+				},
+				{
+					"_id": "66e3db20fa70e0006b9a41ed",
+					"name": "6 Scotts Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"41 Kreta Ayer Road",
+			"6 Scotts Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Queic by Olivia",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

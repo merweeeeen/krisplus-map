@@ -1,0 +1,193 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tung-lok-teahouse-2ea7357a",
+	"slug": "tung-lok-teahouse-2ea7357a",
+	"fetchedAt": "2026-10-26T17:27:54.103+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e8e3315eae3716fce5e88b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese Food",
+				"Chinese Cuisine",
+				"Cantonese Cuisine",
+				"Tunglok",
+				"Yum Cha",
+				"Dim Sum",
+				"Local Food",
+				"Dining",
+				"Square2",
+				"Reunion",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"Mooncake",
+				"tung lok",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "TUNG LOK TEAHOUSE",
+			"brand": "TUNG LOK TEAHOUSE",
+			"code": "TLT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "TL TEAHOUSE",
+			"address": {
+				"line1": "26 Tai Seng St, #02-01, Singapore 534057 ",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng St",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200006691H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3653740407580637-Tung%20Lok%20Teahouse.png",
+			"websiteUrl": "https://www.tunglokteahouse.com/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u>.</a></em><br> <br> ​​​​​​​TungLok Teahouse re-creates the convivial atmosphere where families can gather and relive yesteryears while chatting over a cup of good tea, handmade dim sum and traditional Chinese delicacies.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "           ",
+			"participatingOutlets": "Square 2, 01-73 ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/09768908261775033-23675888537130185-Brand%20Logo9.jpg",
+			"createdAt": "2022-08-02T08:41:21.904Z",
+			"updatedAt": "2026-08-06T14:17:34.067Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef973a3718718842dd948"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3653740407580637-Tung%20Lok%20Teahouse_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3653740407580637-Tung%20Lok%20Teahouse_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3653740407580637-Tung%20Lok%20Teahouse_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3653740407580637-Tung%20Lok%20Teahouse.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/09768908261775033-23675888537130185-Brand%20Logo9.jpg",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/09768908261775033-23675888537130185-Brand%20Logo9_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/09768908261775033-23675888537130185-Brand%20Logo9_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/09768908261775033-23675888537130185-Brand%20Logo9_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​TungLok Teahouse re-creates the convivial atmosphere where families can gather and relive yesteryears while chatting over a cup of good tea, handmade dim sum and traditional Chinese delicacies. Chinese Food Chinese Cuisine Cantonese Cuisine Tunglok Yum Cha Dim Sum Local Food Dining Square2 Reunion Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery Mooncake tung lok FortuneFeast Dining Casual Dining Chinese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-15T06:39:20.386Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tung-lok-teahouse-2ea7357a",
+			"outlets": [
+				{
+					"_id": "62e8e594e82b3a02c48df559",
+					"name": "Square 2@Novena"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Square 2@Novena"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TUNG LOK TEAHOUSE",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

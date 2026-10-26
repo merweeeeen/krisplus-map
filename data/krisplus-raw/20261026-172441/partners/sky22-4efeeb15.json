@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sky22-4efeeb15",
+	"slug": "sky22-4efeeb15",
+	"fetchedAt": "2026-10-26T17:33:13.129+08:00",
+	"payload": {
+		"partner": {
+			"_id": "692d0f2f690241da8a18ecfb",
+			"name": "HOI HUP NOVENA PTE LTD (COURTYARD BY MARRIOTT SINGAPORE NOVENA)",
+			"shortName": "Sky22",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Sky22",
+			"code": "522",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5078413216854527-Sky22.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4312650999044201-9006142326127742-2.%20Sky22_Brand%20Image.jpg",
+			"websiteUrl": "https://sky22restaurant.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "99 Irrawaddy Road Singapore 329568",
+				"postalCode": "329568",
+				"streetName": "99 Irrawaddy Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Perched on Level 22 of Courtyard by Marriott Singapore Novena, Sky22 is a modern oasis with sweeping city views. From vibrant à la carte lunches to its signature semi-buffet dinners, rotating themed high teas, Sky22 offers fresh flavours, warm hospitality, and a dining experience to remember.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><br></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Note: Payments made via Kris+ are not eligible for\nMarriott Bonvoy points.</span></p>",
+			"searchableKeywords": [
+				"SemiBuffet",
+				"Buffet",
+				"HighTea",
+				"Seafood Buffet",
+				"Lunch",
+				"Dinner",
+				"Modern Asian",
+				"Courtyard by Marriott Singapore Novena",
+				"Sky22",
+				"Skyline View",
+				"Hotel Dining",
+				"Panoramic View",
+				"Novena",
+				"AllDay Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"QBS",
+								"BD",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-01T03:44:47.467Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5078413216854527-Sky22.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4312650999044201-9006142326127742-2.%20Sky22_Brand%20Image.jpg",
+			"createdAt": "2025-12-01T03:44:47.477Z",
+			"updatedAt": "2026-08-06T14:18:25.688Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4312650999044201-9006142326127742-2_low.%20Sky22_Brand%20Image",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4312650999044201-9006142326127742-2_med.%20Sky22_Brand%20Image",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4312650999044201-9006142326127742-2_high.%20Sky22_Brand%20Image"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5078413216854527-Sky22_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5078413216854527-Sky22_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5078413216854527-Sky22_high.png"
+			},
+			"searchContent": "Perched on Level 22 of Courtyard by Marriott Singapore Novena, Sky22 is a modern oasis with sweeping city views. From vibrant à la carte lunches to its signature semi-buffet dinners, rotating themed high teas, Sky22 offers fresh flavours, warm hospitality, and a dining experience to remember. Note: Payments made via Kris+ are not eligible for Marriott Bonvoy points. SemiBuffet Buffet HighTea Seafood Buffet Lunch Dinner Modern Asian Courtyard by Marriott Singapore Novena Sky22 Skyline View Hotel Dining Panoramic View Novena AllDay Dining Dining Vegan-Friendly Vegetarian-Friendly Buffet Casual Dining Quick Bites & Snacks Beverages & Desserts Asian Western",
+			"newMerchantEndDate": "2026-03-14T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sky22-4efeeb15",
+			"outlets": [
+				{
+					"_id": "692d11df0e78e710924365c0",
+					"name": "Level 22"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Level 22"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sky22",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

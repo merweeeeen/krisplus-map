@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cilantro-the-biryani-club-586d7396",
+	"slug": "cilantro-the-biryani-club-586d7396",
+	"fetchedAt": "2026-10-26T17:33:50.070+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69844da57199d086170c9e52",
+			"name": "THECILANTRO PTE LIMITED",
+			"shortName": "Cilantro",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Cilantro: The Biryani Club",
+			"code": "CBY",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6284196503220307-CilantroClub.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2543040286911933-6463283976926797-Cilantro%20Brand%20Image%20PNG.png",
+			"websiteUrl": "https://www.instagram.com/cilantro.sg",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "102 JOO CHIAT ROAD  #01",
+				"postalCode": "427396",
+				"streetName": "102 JOO CHIAT ROAD  #01",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">The Finest Biryani in Singapore - Authentic Hyderabad Biryani Located in Joo Chiat, Singapore. Cilantro: The Biryani Club offers authentic Hyderabad Biryani with a modern twist. Enjoy flavorful biryanis like the classic Chicken or Lamb Dum Biryani, or a more modern pairing - the Tomahawk, Brisket, and or Beef, all cooked with healthier olive oil.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Cilantro: The Biryani Club <span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">is a Muslim owned establishment.</span></span></p>",
+			"searchableKeywords": [
+				"Biryani",
+				"cilantro",
+				"tomahawk",
+				"beef",
+				"halal",
+				"vegetarian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"FD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-05T07:58:29.606Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6284196503220307-CilantroClub.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2543040286911933-6463283976926797-Cilantro%20Brand%20Image%20PNG.png",
+			"createdAt": "2026-02-05T07:58:29.612Z",
+			"updatedAt": "2026-09-30T16:00:01.962Z",
+			"searchContent": "The Finest Biryani in Singapore - Authentic Hyderabad Biryani Located in Joo Chiat, Singapore. Cilantro: The Biryani Club offers authentic Hyderabad Biryani with a modern twist. Enjoy flavorful biryanis like the classic Chicken or Lamb Dum Biryani, or a more modern pairing - the Tomahawk, Brisket, and or Beef, all cooked with healthier olive oil. Cilantro: The Biryani Club is a Muslim owned establishment. Biryani cilantro tomahawk beef halal vegetarian Dining Halal Vegetarian-Friendly Beverages & Desserts Fine Dining Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2543040286911933-6463283976926797-Cilantro%20Brand%20Image%20PNG_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2543040286911933-6463283976926797-Cilantro%20Brand%20Image%20PNG_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2543040286911933-6463283976926797-Cilantro%20Brand%20Image%20PNG_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6284196503220307-CilantroClub_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6284196503220307-CilantroClub_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6284196503220307-CilantroClub_high.png"
+			},
+			"newMerchantEndDate": "2026-05-03T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cilantro-the-biryani-club-586d7396",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "698450597199d086170ca0b0",
+					"name": "102 Joo Chiat Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"102 Joo Chiat Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cilantro: The Biryani Club",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

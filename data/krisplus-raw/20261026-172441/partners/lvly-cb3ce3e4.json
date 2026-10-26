@@ -1,0 +1,153 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lvly-cb3ce3e4",
+	"slug": "lvly-cb3ce3e4",
+	"fetchedAt": "2026-10-26T17:30:08.696+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66c59196ec7acc0069708e2d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Flower Delivery Singapore",
+				"Flower Bouquet",
+				"Florist",
+				"Gift Delivery"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "FLOWER CHIMP PTE. LTD. (LVLY)",
+			"brand": "LVLY",
+			"code": "LVL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "LVLY",
+			"address": {
+				"city": "Singapore",
+				"line1": "68 CIRCULAR ROAD #02 - 01 SINGAPORE 049422",
+				"streetName": "68 CIRCULAR ROAD",
+				"postalCode": "049422",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.lvly.sg/",
+			"descriptionHtml": "<p>LVLY is dedicated to spread joy in the world. They fix forgotten birthdays, help celebrate happy moments, send last minute thank you's and make people's day. </p>  <p><span style=\"font-size:12pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:\"Calibri\",sans-serif\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. </span></span></span></span>​​​​​​​</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/0018737590362432055-08969101506399846-LVLYSG_SG%20Airlines_Logo%20Brand_1000x1000%20(002).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/48674854130797596-31801853479977105-LYLY.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-08-21T07:04:54.341Z",
+			"updatedAt": "2026-08-06T14:18:06.289Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/48674854130797596-31801853479977105-LYLY.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0018737590362432055-08969101506399846-LVLYSG_SG%20Airlines_Logo%20Brand_1000x1000%20(002).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/48674854130797596-31801853479977105-LYLY_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/48674854130797596-31801853479977105-LYLY_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/48674854130797596-31801853479977105-LYLY_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0018737590362432055-08969101506399846-LVLYSG_SG%20Airlines_Logo%20Brand_1000x1000%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0018737590362432055-08969101506399846-LVLYSG_SG%20Airlines_Logo%20Brand_1000x1000%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0018737590362432055-08969101506399846-LVLYSG_SG%20Airlines_Logo%20Brand_1000x1000%20(002)_high.jpg"
+			},
+			"searchContent": "LVLY is dedicated to spread joy in the world. They fix forgotten birthdays, help celebrate happy moments, send last minute thank you's and make people's day. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. ​​​​​​​ Flower Delivery Singapore Flower Bouquet Florist Gift Delivery Retail Home & Lifestyle Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:43:29.181Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lvly-cb3ce3e4",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "LVLY",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

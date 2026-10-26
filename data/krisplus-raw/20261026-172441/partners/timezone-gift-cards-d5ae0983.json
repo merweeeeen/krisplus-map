@@ -1,0 +1,150 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/timezone-gift-cards-d5ae0983",
+	"slug": "timezone-gift-cards-d5ae0983",
+	"fetchedAt": "2026-10-26T17:34:10.147+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69d510818820c3f60811be45",
+			"name": "Volyty Pte. Ltd.",
+			"shortName": "Timezone",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Timezone Gift Cards",
+			"code": "TIM",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/014546617641871151-3458023844079796-Timezone_260x260.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6343707651050576-982067919033901-Timezone_750x540.jpg",
+			"websiteUrl": "https://www.timezonegames.com/",
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"NOT_APPLICABLE"
+			],
+			"address": {
+				"line1": "7500A Beach Road, #14-302",
+				"postalCode": "199591",
+				"streetName": "The Plaza",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Established in 1978, the first Timezone Family Entertainment Centre opened in Perth, Western Australia. Unlike the traditional pinball parlors and pool halls of the era, Timezone was the first family oriented video amusement facility. This family emphasis is still a key focus of the brand today.</p><p><strong>Note: Gift cards are issued by Mooments. Direct payment via Kris+ in Timezone stores is not available. Earn or redeem miles via purchase of gift cards only.</strong></p>",
+			"searchableKeywords": [
+				"timezone",
+				"arcade",
+				"games",
+				"entertainment",
+				"indoor entertainment",
+				"indoor arcade",
+				"kids entertainment"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 6,
+				"baseFundedByPartner": 0,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 0,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"ENT",
+								"INDR"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-30T15:59:59.999Z",
+			"applicableCities": [],
+			"refundPeriodUpdatedAt": "2026-04-07T14:11:13.173Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/014546617641871151-3458023844079796-Timezone_260x260.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6343707651050576-982067919033901-Timezone_750x540.jpg",
+			"createdAt": "2026-04-07T14:11:13.180Z",
+			"updatedAt": "2026-08-06T14:18:30.612Z",
+			"searchContent": "Established in 1978, the first Timezone Family Entertainment Centre opened in Perth, Western Australia. Unlike the traditional pinball parlors and pool halls of the era, Timezone was the first family oriented video amusement facility. This family emphasis is still a key focus of the brand today. Note: Gift cards are issued by Mooments. Direct payment via Kris+ in Timezone stores is not available. Earn or redeem miles via purchase of gift cards only. timezone arcade games entertainment indoor entertainment indoor arcade kids entertainment Activities Entertainment Indoor",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6343707651050576-982067919033901-Timezone_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6343707651050576-982067919033901-Timezone_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6343707651050576-982067919033901-Timezone_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/014546617641871151-3458023844079796-Timezone_260x260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/014546617641871151-3458023844079796-Timezone_260x260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/014546617641871151-3458023844079796-Timezone_260x260_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "timezone-gift-cards-d5ae0983",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Timezone Gift Cards",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,198 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/four-seasons-durians-963f1ddb",
+	"slug": "four-seasons-durians-963f1ddb",
+	"fetchedAt": "2026-10-26T17:27:12.950+08:00",
+	"payload": {
+		"partner": {
+			"_id": "621eda642420712078b33d4d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Dessert",
+				"Durian",
+				"Ice Cream",
+				"Mochi",
+				"Pancake",
+				"Puffs",
+				"Mooncakes",
+				"Confectionaries",
+				"Four Seasons Durians",
+				"Fsd",
+				"Amk Hub",
+				"Ang Mo Kio",
+				"Nex",
+				"Serangoon",
+				"Retail",
+				"Bites",
+				"Snacks",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits",
+				"Mooncake"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Four Seasons Durians Pte Ltd",
+			"brand": "Four Seasons Durians",
+			"code": "FSD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5814",
+			"shortName": "FourSeasonsDur",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Senoko Avenue #03-05, Foodaxis at Senoko, Singapore",
+				"postalCode": "758297",
+				"streetName": "Senoko Avenue"
+			},
+			"regNumber": "199803780E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7904470126964-MicrosoftTeams-image%20(31).png",
+			"websiteUrl": "https://fourseasonsdurians.com/",
+			"descriptionHtml": "<p>At Four Seasons Durians, you can find quality durian products all year round. They are known for their durian confectionaries such as Durian Pancakes, Durian Mooncakes, Durian Cakes, Durian Puffs, Durian Mochi, Durian Ice Cream and more.</p>\n",
+			"countryCode": "SG",
+			"mccDescription": "Fast Food Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9975703985547213-3976569934709293-WhatsApp-Image-2022-01-18-at-17.27.40.jpg",
+			"createdAt": "2022-03-02T02:45:56.745Z",
+			"updatedAt": "2026-08-06T14:17:27.249Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "       ",
+			"promotional": "       ",
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"QBS"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"translations": [
+				"64eef98d9d00b0a527865c1a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7904470126964-MicrosoftTeams-image%20(31).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9975703985547213-3976569934709293-WhatsApp-Image-2022-01-18-at-17.27.40.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7904470126964-MicrosoftTeams-image%20(31)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7904470126964-MicrosoftTeams-image%20(31)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7904470126964-MicrosoftTeams-image%20(31)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9975703985547213-3976569934709293-WhatsApp-Image-2022-01-18-at-17_low.27",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9975703985547213-3976569934709293-WhatsApp-Image-2022-01-18-at-17_med.27",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9975703985547213-3976569934709293-WhatsApp-Image-2022-01-18-at-17_high.27"
+			},
+			"searchContent": "At Four Seasons Durians, you can find quality durian products all year round. They are known for their durian confectionaries such as Durian Pancakes, Durian Mooncakes, Durian Cakes, Durian Puffs, Durian Mochi, Durian Ice Cream and more. Dessert Durian Ice Cream Mochi Pancake Puffs Mooncakes Confectionaries Four Seasons Durians Fsd Amk Hub Ang Mo Kio Nex Serangoon Retail Bites Snacks Koi Dunkin Donuts Boost The Muffinry Delifrance Twelve Cupcakes Four Leaves Prima Deli Starbucks Old Chang Kee Finger Food Nibbles Light Bites Fast Food Refreshments Tidbits Mooncake Dining Quick Bites & Snacks",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "four-seasons-durians-963f1ddb",
+			"outlets": [
+				{
+					"_id": "634fa112315c3468500f1ec4",
+					"name": "Century Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Century Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Four Seasons Durians",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

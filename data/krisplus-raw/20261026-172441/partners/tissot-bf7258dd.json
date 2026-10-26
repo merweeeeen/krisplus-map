@@ -1,0 +1,186 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tissot-bf7258dd",
+	"slug": "tissot-bf7258dd",
+	"fetchedAt": "2026-10-26T17:33:40.114+08:00",
+	"payload": {
+		"partner": {
+			"_id": "697985000c0aea6ca3e4b5b3",
+			"name": "AWSM PTE LTD",
+			"shortName": "Tissot",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Tissot",
+			"code": "TIS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/553534566985705-Tissot.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/25329331818112055-8106254591918314-tissot.png",
+			"websiteUrl": "https://www.tissotwatches.com/en-sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "320 SERANGOON ROAD, #13-05 CENTRIUM SQUARE, SINGAPORE 218108",
+				"postalCode": "218108",
+				"streetName": "320 SERANGOON ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Embodying the motto \"Innovators by Tradition,\"     Tissot has been pioneering high-tech products since 1853. Today, as a proud     member of the Swatch Group, the world’s largest watch producer and distributor,     this esteemed watchmaker continues to set the standard in innovation.</p>",
+			"searchableKeywords": [
+				"Tissot",
+				"Tissot watches",
+				"watches",
+				"watch",
+				"men watches",
+				"ladies watches",
+				"women watches",
+				"seiko",
+				"SRV",
+				"PRX",
+				"seastar",
+				"Seiko watches",
+				"luxury watch",
+				"men’s watches",
+				"women’s watches",
+				"smartwatch",
+				"automatic watch",
+				"vintage watch",
+				"dive watch",
+				"chronograph watch",
+				"gold watch",
+				"quartz watch",
+				"designer watch",
+				"watch sale",
+				"watch brands",
+				"watch straps",
+				"smart watch",
+				"premium watches",
+				"best watches"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS",
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-28T03:39:44.432Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/553534566985705-Tissot.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/25329331818112055-8106254591918314-tissot.png",
+			"createdAt": "2026-01-28T03:39:44.440Z",
+			"updatedAt": "2026-08-06T14:18:28.211Z",
+			"searchContent": "Embodying the motto \"Innovators by Tradition,\" Tissot has been pioneering high-tech products since 1853. Today, as a proud member of the Swatch Group, the world’s largest watch producer and distributor, this esteemed watchmaker continues to set the standard in innovation. Tissot Tissot watches watches watch men watches ladies watches women watches seiko SRV PRX seastar Seiko watches luxury watch men’s watches women’s watches smartwatch automatic watch vintage watch dive watch chronograph watch gold watch quartz watch designer watch watch sale watch brands watch straps smart watch premium watches best watches Retail Fashion Accessories, Jewellery & Watches",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/25329331818112055-8106254591918314-tissot_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/25329331818112055-8106254591918314-tissot_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/25329331818112055-8106254591918314-tissot_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/553534566985705-Tissot_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/553534566985705-Tissot_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/553534566985705-Tissot_high.jpg"
+			},
+			"newMerchantEndDate": "2026-04-24T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tissot-bf7258dd",
+			"outlets": [
+				{
+					"_id": "6979881994711769fa919a75",
+					"name": "PLQ Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PLQ Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tissot",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

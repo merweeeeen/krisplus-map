@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/peppermint-parkroyal-collection-marina-bay-76389217",
+	"slug": "peppermint-parkroyal-collection-marina-bay-76389217",
+	"fetchedAt": "2026-10-26T17:27:22.679+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62392ef52caca43ccca3c5ee",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Halal",
+				"Parkroyal Marina Bay",
+				"Dining",
+				"Dates",
+				"Dinner",
+				"Lunch",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "AQUAMARINA HOTEL PRIVATE LIMITED (Peppermint)",
+			"brand": "Peppermint (PARKROYAL COLLECTION Marina Bay)",
+			"code": "PEM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Peppermint",
+			"address": {
+				"city": "Singapore",
+				"line1": "6 Raffles Boulevard, Marina Square, Singapore",
+				"streetName": "Raffles Boulevard ",
+				"postalCode": "039594",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198105200M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/18474396289410167-PeppermintBanner.png",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pr-collection-marina-bay.html",
+			"descriptionHtml": "<p>Peppermint introduces an intimate dining experience in nature’s embrace. Feast on a halal-certified spread of farm-to-table dishes, international and Asian cuisine.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/37707292231810285-7679344785048148-PM-App-Brand-logo-1000_1000.jpg",
+			"createdAt": "2022-03-22T02:05:41.998Z",
+			"updatedAt": "2026-08-06T14:17:28.583Z",
+			"partnershipGroup": "GR1",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "PARKROYAL Collection Marina Bay",
+			"promotional": "     ",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef989595add2492446456"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18474396289410167-PeppermintBanner.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/37707292231810285-7679344785048148-PM-App-Brand-logo-1000_1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18474396289410167-PeppermintBanner_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18474396289410167-PeppermintBanner_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18474396289410167-PeppermintBanner_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/37707292231810285-7679344785048148-PM-App-Brand-logo-1000_1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/37707292231810285-7679344785048148-PM-App-Brand-logo-1000_1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/37707292231810285-7679344785048148-PM-App-Brand-logo-1000_1000_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:04:42.477Z",
+			"searchContent": "Peppermint introduces an intimate dining experience in nature’s embrace. Feast on a halal-certified spread of farm-to-table dishes, international and Asian cuisine. Halal Parkroyal Marina Bay Dining Dates Dinner Lunch Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Halal",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "peppermint-parkroyal-collection-marina-bay-76389217",
+			"outlets": [
+				{
+					"_id": "6274bea83c59c949981cd8d5",
+					"name": "PARKROYAL Marina Bay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL Marina Bay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Peppermint (PARKROYAL COLLECTION Marina Bay)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,161 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/connect-it-9f92acb3",
+	"slug": "connect-it-9f92acb3",
+	"fetchedAt": "2026-10-26T17:31:00.744+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67aed1fa0434b00069f8ccbd",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.026,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Earphones",
+				"Headphones",
+				"Speakers",
+				"Soundbar",
+				"Smartwatch",
+				"Action Camera",
+				"Microphones"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Connect-IT Asia Pte. Ltd.",
+			"brand": "Connect-IT",
+			"code": "NEC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "Connect",
+			"address": {
+				"city": "Singapore",
+				"line1": "81 Ubi Avenue 4 #02-18 UB. One Singapore 408830",
+				"streetName": "81 Ubi Avenue 4",
+				"postalCode": "408830",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.connect-it.com.sg",
+			"descriptionHtml": "<p>Connect-IT is a multi-brand retailer offering the latest and trendiest tech products. Conveniently located in 313@Somerset, the store presents the latest wireless earbuds to the best home speakers, smart watches for style to financial calculators for work. With over 50-years of retail experience, the company continues to build trust by offering quality products at competitive prices.   </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7099908314706211-(A)%20App%20Brand%20Logo-260wx260h.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/680906748083107-(B)%20App%20Brand%20Image%20.png",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7099908314706211-(A)%20App%20Brand%20Logo-260wx260h.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/680906748083107-(B)%20App%20Brand%20Image%20.png",
+			"createdAt": "2025-02-14T05:17:46.751Z",
+			"updatedAt": "2026-08-06T14:18:12.177Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/680906748083107-(B)%20App%20Brand%20Image%20_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/680906748083107-(B)%20App%20Brand%20Image%20_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/680906748083107-(B)%20App%20Brand%20Image%20_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7099908314706211-(A)%20App%20Brand%20Logo-260wx260h_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7099908314706211-(A)%20App%20Brand%20Logo-260wx260h_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7099908314706211-(A)%20App%20Brand%20Logo-260wx260h_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:29:19.499Z",
+			"searchContent": "Connect-IT is a multi-brand retailer offering the latest and trendiest tech products. Conveniently located in 313@Somerset, the store presents the latest wireless earbuds to the best home speakers, smart watches for style to financial calculators for work. With over 50-years of retail experience, the company continues to build trust by offering quality products at competitive prices. Earphones Headphones Speakers Soundbar Smartwatch Action Camera Microphones Retail Electrical & Electronics",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "connect-it-9f92acb3",
+			"outlets": [
+				{
+					"_id": "67aed39c9903f600643070f2",
+					"name": "313@somerset"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@somerset"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Connect-IT",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

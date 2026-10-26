@@ -1,0 +1,167 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bar-somma-73c4bada",
+	"slug": "bar-somma-73c4bada",
+	"fetchedAt": "2026-10-26T17:32:17.933+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68a3f6af3981c9046ee76011",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.019,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Drinks",
+				"Cocktails",
+				"Bites",
+				"Italian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "SOMMA RESTAURANT PTE LTD",
+			"brand": "Bar Somma",
+			"code": "BSO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Bar Somma",
+			"address": {
+				"line1": "46 Kim Yam Road",
+				"postalCode": "239351",
+				"streetName": "New Bahru  #04-02",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB",
+								"ITA"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.somma.world/bar",
+			"descriptionHtml": "<p>Bar Somma is a modern Italian cocktail spot that celebrates the golden age of timeless icons—drinks, people, artistry, and era-defining moments. Led by Bar manager Mel Chavez, the bar programme breathes new life with bold, inventive twists and elevated by our test kitchen. Every sip, accompanied by small plates creates an experience that feels both classic and new.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5122635336474282-BarSomma.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4381096814326937-b947898f-e138-4453-ad98-5d1a2ff3e7dd.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5122635336474282-BarSomma.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4381096814326937-b947898f-e138-4453-ad98-5d1a2ff3e7dd.png",
+			"createdAt": "2025-08-19T03:59:43.143Z",
+			"updatedAt": "2026-08-20T02:34:24.667Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5122635336474282-BarSomma_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5122635336474282-BarSomma_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5122635336474282-BarSomma_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-11-05T02:23:42.550Z",
+			"searchContent": "Bar Somma is a modern Italian cocktail spot that celebrates the golden age of timeless icons—drinks, people, artistry, and era-defining moments. Led by Bar manager Mel Chavez, the bar programme breathes new life with bold, inventive twists and elevated by our test kitchen. Every sip, accompanied by small plates creates an experience that feels both classic and new. Drinks Cocktails Bites Italian Dining Pubs & Bars Italian",
+			"newMerchantEndDate": null,
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4381096814326937-b947898f-e138-4453-ad98-5d1a2ff3e7dd_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4381096814326937-b947898f-e138-4453-ad98-5d1a2ff3e7dd_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4381096814326937-b947898f-e138-4453-ad98-5d1a2ff3e7dd_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bar-somma-73c4bada",
+			"outlets": [
+				{
+					"_id": "68a3f82fbd2be70473e13675",
+					"name": "New Bahru"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"New Bahru"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bar Somma",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

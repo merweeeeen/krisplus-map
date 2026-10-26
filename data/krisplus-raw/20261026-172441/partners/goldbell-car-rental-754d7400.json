@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/goldbell-car-rental-754d7400",
+	"slug": "goldbell-car-rental-754d7400",
+	"fetchedAt": "2026-10-26T17:33:35.180+08:00",
+	"payload": {
+		"partner": {
+			"_id": "695766ff2aabba1ba3da6104",
+			"name": "GOLDBELL CAR RENTAL PTE. LTD.",
+			"shortName": "Goldbell Car R",
+			"mccCode": "5511",
+			"mccDescription": "Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing",
+			"brand": "Goldbell Car Rental",
+			"code": "GCR",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7564541889865808-GoldbellCarRental.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/11768331903167883-11376394502872045-Sample%20B.png",
+			"websiteUrl": "https://www.goldbell.com.sg/",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "14 BENOI ROAD SINGAPORE 629887",
+				"postalCode": "629887",
+				"streetName": "14 BENOI ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Experience Singapore's pioneering all-digital automotive subscription platform that delivers complete driving liberty through your smartphone. Select your ideal vehicle and enjoy transparent monthly pricing without concealed fees or extended commitments. Discover effortless, adaptable, and streamlined transportation management within a single application.</p>",
+			"searchableKeywords": [
+				"car rental",
+				"vehicle",
+				"car",
+				"rental",
+				"automotive",
+				"carpool",
+				"sharing",
+				"lease",
+				"SUV",
+				"lorry",
+				"goods van",
+				"van",
+				"electric",
+				"commercial",
+				"trucks",
+				"sedan",
+				"rent",
+				"limousines",
+				"charter"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-02T06:34:39.510Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7564541889865808-GoldbellCarRental.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11768331903167883-11376394502872045-Sample%20B.png",
+			"createdAt": "2026-01-02T06:34:39.568Z",
+			"updatedAt": "2026-09-01T01:42:19.150Z",
+			"searchContent": "Experience Singapore's pioneering all-digital automotive subscription platform that delivers complete driving liberty through your smartphone. Select your ideal vehicle and enjoy transparent monthly pricing without concealed fees or extended commitments. Discover effortless, adaptable, and streamlined transportation management within a single application. car rental vehicle car rental automotive carpool sharing lease SUV lorry goods van van electric commercial trucks sedan rent limousines charter Services Automotive",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11768331903167883-11376394502872045-Sample%20B_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11768331903167883-11376394502872045-Sample%20B_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11768331903167883-11376394502872045-Sample%20B_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7564541889865808-GoldbellCarRental_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7564541889865808-GoldbellCarRental_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7564541889865808-GoldbellCarRental_high.png"
+			},
+			"newMerchantEndDate": "2026-03-28T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "goldbell-car-rental-754d7400",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6957685b06bf790bcbca827a",
+					"name": "Raeburn Park"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Raeburn Park"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Goldbell Car Rental",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

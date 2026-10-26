@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/po-restaurant-9c3f99ae",
+	"slug": "po-restaurant-9c3f99ae",
+	"fetchedAt": "2026-10-26T17:29:55.636+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6614b0c4b6568a006930ead2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.019,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Singapore",
+				"Modsin",
+				"Popiah",
+				"Singaporean",
+				"Local",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"6614b0cdd246433ec41abece"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "NUVE WAREHOUSE PTE. LTD.",
+			"brand": "Po Restaurant",
+			"code": "POI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Po Restaurant",
+			"address": {
+				"line1": "10 Anson Road #09-12  International Plaza Singapore 079903",
+				"postalCode": "079903",
+				"streetName": "10 Anson Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.po.com.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Po%20Restaurant\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Po is a refined mod-Sin concept inspired by the rich culinary heritage of Singapore. Nestled within the historic walls of The Warehouse Hotel, Po is a celebration of Singaporean flavours and presents an array of elevated local classics and modernised Singaporean staples that pays homage to our collective memories of home-cooked specialties.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/38251242515236883-po1.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/984396093305997-po2.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-04-09T03:06:44.113Z",
+			"updatedAt": "2026-08-06T14:18:01.354Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/984396093305997-po2.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/38251242515236883-po1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/984396093305997-po2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/984396093305997-po2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/984396093305997-po2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/38251242515236883-po1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/38251242515236883-po1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/38251242515236883-po1_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T02:23:02.334Z",
+			"searchContent": "*Click here to Reserve A Table. Po is a refined mod-Sin concept inspired by the rich culinary heritage of Singapore. Nestled within the historic walls of The Warehouse Hotel, Po is a celebration of Singaporean flavours and presents an array of elevated local classics and modernised Singaporean staples that pays homage to our collective memories of home-cooked specialties. Singapore Modsin Popiah Singaporean Local FortuneFeast Dining Casual Dining Chinese Asian",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "po-restaurant-9c3f99ae",
+			"outlets": [
+				{
+					"_id": "6614b300139fe6006f3bac3b",
+					"name": "The Warehouse Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Warehouse Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Po Restaurant",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

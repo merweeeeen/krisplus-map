@@ -1,0 +1,134 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/fairprice-group-e-vouchers-0dff28df",
+	"slug": "fairprice-group-e-vouchers-0dff28df",
+	"fetchedAt": "2026-10-26T17:31:23.651+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67ea57fe6befb20417e6fc60",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 0,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false,
+				"base": 0,
+				"calculatedMilesEarnRate": 0
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Cold Storage",
+				"Sheng Siong",
+				"Giant",
+				"Redmart",
+				"Digital Vouchers",
+				"Groceries",
+				"Health And Beauty",
+				"Electronics",
+				"Household Goods"
+			],
+			"burn": true,
+			"earn": false,
+			"convert": false,
+			"payByCard": false,
+			"payByAmexCard": false,
+			"supportedCards": [],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "NTUC FairPrice Co-operative Limited (FairPrice Group e-Vouchers)",
+			"brand": "FairPrice Group e-Vouchers",
+			"code": "FGV",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5411",
+			"shortName": "FairPrice Grou",
+			"address": {
+				"line1": "No. 1 Joo Koon Circle, #13-01 FairPrice Hub, Singapore 629117",
+				"postalCode": "629117",
+				"streetName": "No. 1 Joo Koon Circle",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC",
+								"HL",
+								"FS",
+								"BK"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://help.fairprice.com.sg/hc/en-us/articles/360046938612-What-are-FairPrice-Group-E-Vouchers-and-how-to-redeem-them",
+			"descriptionHtml": "<p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\">⚠️ Important: Use the FPG e‑Voucher QR via Wallet → Promo Codes.<br> 🚨 Note: Promo codes are restocked periodically—check back if unavailable.</p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\"><br>FairPrice Group E-vouchers can be used at over 190 stores to offset payment at the cashier, or self-checkout counters (except Scan & Go).</p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\"><strong style=\"box-sizing: border-box; font-weight: bolder;\">Upon purchase, go to Kris+ \"Wallet\" > \"Promo Codes\". A unique URL will be saved in your list of Promo Codes.</strong></p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\"><strong style=\"box-sizing: border-box; font-weight: bolder;\"><br></strong></p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\"><strong style=\"box-sizing: border-box; font-weight: bolder;\">Participating Outlets:</strong></p><ul style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255); font-size: 18px;\"><li style=\"box-sizing: border-box; font-weight: 300;\"><span lang=\"EN-GB\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">Redeemable in-stores at: FairPrice Supermarkets, FairPrice Finest, FairPrice Xtra, FairPrice Shop & Unity Pharmacy (except Changi Airport).</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span lang=\"EN-GB\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">Not valid at FairPrice Xpress and Cheers. Not valid for checkout via Scan & Go.</span></li></ul><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\"><strong style=\"box-sizing: border-box; font-weight: bolder;\"><br style=\"box-sizing: border-box; font-weight: 300;\"></strong></p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\"><strong style=\"box-sizing: border-box; font-weight: bolder;\">Terms & Conditions:</strong></p><ul style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255); font-size: 18px;\"><li style=\"box-sizing: border-box; font-weight: 300;\"><span lang=\"EN-GB\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">Only KrisPay miles can be used to redeem for FairPrice Group E-vouchers. Payment by credit card is not allowed and no miles can be earned for FairPrice Group E-vouchers via Kris+.</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span lang=\"EN-GB\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">KrisPay miles cannot be used to offset the bill at the cashier.</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span lang=\"EN-GB\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">Refer to FairPrice Group E-vouchers’ T&C here.</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span lang=\"EN-GB\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">An E-Voucher can be drawn down multiple times until the balance runs out or until expiry. Unused amount/value at expiry of eVoucher is not refundable.</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span lang=\"EN-GB\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">NTUC FairPrice Co-operative Limited reserves the right to amend the terms & conditions without prior notice.</span></li></ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1451160795839006-FPG%20EV%20-%20For%20Kris%2B%20-%20540x540.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/017681088833141345-FPG%20EV%20-%20For%20Kris%2B%20-%20750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Grocery Stores and Supermarkets",
+			"partnershipGroup": "GR3",
+			"applicableCities": [],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1451160795839006-FPG%20EV%20-%20For%20Kris%2B%20-%20540x540.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/017681088833141345-FPG%20EV%20-%20For%20Kris%2B%20-%20750x540.jpg",
+			"createdAt": "2025-03-31T08:53:18.797Z",
+			"updatedAt": "2026-08-12T07:25:27.684Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/017681088833141345-FPG%20EV%20-%20For%20Kris%2B%20-%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/017681088833141345-FPG%20EV%20-%20For%20Kris%2B%20-%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/017681088833141345-FPG%20EV%20-%20For%20Kris%2B%20-%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1451160795839006-FPG%20EV%20-%20For%20Kris%2B%20-%20540x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1451160795839006-FPG%20EV%20-%20For%20Kris%2B%20-%20540x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1451160795839006-FPG%20EV%20-%20For%20Kris%2B%20-%20540x540_high.jpg"
+			},
+			"searchContent": "$30",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-21T01:20:48.769Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 2,
+			"slugId": "fairprice-group-e-vouchers-0dff28df",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": null,
+			"appleAndGooglePayNotice": null
+		}
+	},
+	"rendered": {
+		"heading": "FairPrice Group e-Vouchers",
+		"earnBadge": null,
+		"paymentOptions": [
+			"KrisPay Miles"
+		]
+	}
+}

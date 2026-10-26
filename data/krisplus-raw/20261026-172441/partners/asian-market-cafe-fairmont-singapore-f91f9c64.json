@@ -1,0 +1,218 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/asian-market-cafe-fairmont-singapore-f91f9c64",
+	"slug": "asian-market-cafe-fairmont-singapore-f91f9c64",
+	"fetchedAt": "2026-10-26T17:26:57.928+08:00",
+	"payload": {
+		"partner": {
+			"_id": "618c9785bb241c5b80b27364",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Fairmont Singapore",
+				"Asian Market Cafe",
+				"Buffet",
+				"Halal",
+				"City Hall",
+				"Central",
+				"Raffles City",
+				"Bras Basah",
+				"Esplanade",
+				"Southeast Asian",
+				"Local",
+				"Dining",
+				"Contemporary",
+				"Asian",
+				"Family",
+				"Celebrations",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar",
+				"Cafe",
+				"Café",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Coffee",
+				"Tea",
+				"Cakes",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "RC Hotels (Pte.) Ltd.",
+			"brand": "Asian Market Café (Fairmont Singapore)",
+			"code": "ASI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "AsianMarketCaf",
+			"address": {
+				"line1": "2 Stamford Road ",
+				"postalCode": "178882",
+				"streetName": "Stamford Road ",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198904859N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8327985384684242-Asian%20Market%20Cafe%20.png",
+			"websiteUrl": "https://www.fairmont-singapore.com/dining/asian-market-cafe/",
+			"descriptionHtml": "<p>For weddings related enquiries, kindly contact fbsales.singapore@Fairmont.com for more information.</p><p><br></p><p>Asian Market Café offers a glorious Halal-certified buffet line of local favourites and contemporary regional delicacies. Expect to be treated to an array of well-loved Southeast Asian cuisine that pays tribute to the diversity of flavour and cultures within the region. </p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3249261601408424-14159511759385213-Asian%20Market%20Cafe%20-%20BRAND%20LOGO%20crop.png",
+			"createdAt": "2021-11-11T04:09:41.884Z",
+			"updatedAt": "2026-08-06T14:17:22.852Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "                        ",
+			"promotional": "                  ",
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef999b35256c5b2c9bef3"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8327985384684242-Asian%20Market%20Cafe%20_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8327985384684242-Asian%20Market%20Cafe%20_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8327985384684242-Asian%20Market%20Cafe%20_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8327985384684242-Asian%20Market%20Cafe%20.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3249261601408424-14159511759385213-Asian%20Market%20Cafe%20-%20BRAND%20LOGO%20crop.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3249261601408424-14159511759385213-Asian%20Market%20Cafe%20-%20BRAND%20LOGO%20crop_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3249261601408424-14159511759385213-Asian%20Market%20Cafe%20-%20BRAND%20LOGO%20crop_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3249261601408424-14159511759385213-Asian%20Market%20Cafe%20-%20BRAND%20LOGO%20crop_high.png"
+			},
+			"searchContent": "For weddings related enquiries, kindly contact fbsales.singapore@Fairmont.com for more information. Asian Market Café offers a glorious Halal-certified buffet line of local favourites and contemporary regional delicacies. Expect to be treated to an array of well-loved Southeast Asian cuisine that pays tribute to the diversity of flavour and cultures within the region. Fairmont Singapore Asian Market Cafe Buffet Halal City Hall Central Raffles City Bras Basah Esplanade Southeast Asian Local Dining Contemporary Asian Family Celebrations Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Cafe Café Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Coffee Tea Cakes Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Dining Halal Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-02-24T02:40:36.945Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "asian-market-cafe-fairmont-singapore-f91f9c64",
+			"outlets": [
+				{
+					"_id": "619ddd0618902949802f92cd",
+					"name": "Fairmont Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fairmont Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Asian Market Café (Fairmont Singapore)",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

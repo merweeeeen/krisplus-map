@@ -1,0 +1,219 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tung-lok-seafood-67cbb07f",
+	"slug": "tung-lok-seafood-67cbb07f",
+	"fetchedAt": "2026-10-26T17:27:50.137+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e8becb5eae3716fce5e85e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese Food",
+				"Chinese Cuisine",
+				"Tunglok Seafood",
+				"Local Seafood",
+				"Chili Crab",
+				"Black Pepper Crab",
+				"White Pepper Crab",
+				"Dining",
+				"Darena Jurong",
+				"Orchard Central",
+				"Park Regis",
+				"Singapore",
+				"Plq Mall",
+				"Payalebar Quarter",
+				"Tourists",
+				"Gardens By The Bay",
+				"Reunion",
+				"Buffet",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar",
+				"Mooncake",
+				"tung lok",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "TUNG LOK SEAFOOD",
+			"brand": "TUNG LOK SEAFOOD",
+			"code": "TLS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "TL SEAFOOD",
+			"address": {
+				"line1": "26 Tai Seng St, #02-01, Singapore 534057 ",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng St",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200006691H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/11488186622422236-Tung%20Lok%20Seafood.png",
+			"websiteUrl": "https://www.tunglokseafood.com/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u></a>.</em><br>\n<br>\n​​​​​​​Offering you the freshest catch to welcome seafood lovers from all parts of Singapore, TungLok Seafood specialises in the best of Singapore-style seafood prepared with the quality and standards synonymous with the TungLok brand.</p>\n\n\n\n<p>At their outlets in d’Arena Jurong, Gardens by the Bay, and Park Regis Singapore which are co-located with TungLok Group's Douraku Sushi, you can also order items from Douraku Sushi - a quaint sushi bar which offers authentic Japanese selections.</p>\n\n\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t\n\t<li>PLQ Mall</li>\n</ul>\n\n<p>(Co-located with Douraku Sushi)</p>\n\n<ul>\n\t<li>d’Arena Jurong</li>\n\t<li>Gardens by the Bay</li>\n\t<li>Park Regis by Prince Singapore</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 12.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "             ",
+			"participatingOutlets": "•\td’Arena Jurong \n•\tOrchard Central\n•\tPark Regis Singapore\n•\tPLQ Mall",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3931255195800949-18433836716526897-Brand%20Logo11.jpg",
+			"createdAt": "2022-08-02T06:06:03.669Z",
+			"updatedAt": "2026-10-15T12:22:26.066Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef975a3718718842dd949"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11488186622422236-Tung%20Lok%20Seafood.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3931255195800949-18433836716526897-Brand%20Logo11.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11488186622422236-Tung%20Lok%20Seafood_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11488186622422236-Tung%20Lok%20Seafood_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11488186622422236-Tung%20Lok%20Seafood_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3931255195800949-18433836716526897-Brand%20Logo11_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3931255195800949-18433836716526897-Brand%20Logo11_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3931255195800949-18433836716526897-Brand%20Logo11_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​Offering you the freshest catch to welcome seafood lovers from all parts of Singapore, TungLok Seafood specialises in the best of Singapore-style seafood prepared with the quality and standards synonymous with the TungLok brand. At their outlets in d’Arena Jurong, Gardens by the Bay, and Park Regis Singapore which are co-located with TungLok Group's Douraku Sushi, you can also order items from Douraku Sushi - a quaint sushi bar which offers authentic Japanese selections. Participating Outlets: PLQ Mall (Co-located with Douraku Sushi) d’Arena Jurong Gardens by the Bay Park Regis by Prince Singapore Chinese Food Chinese Cuisine Tunglok Seafood Local Seafood Chili Crab Black Pepper Crab White Pepper Crab Dining Darena Jurong Orchard Central Park Regis Singapore Plq Mall Payalebar Quarter Tourists Gardens By The Bay Reunion Buffet Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Mooncake tung lok FortuneFeast Dining Chinese Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-15T06:40:48.778Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tung-lok-seafood-67cbb07f",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "62e8c114e82b3a02c48df536",
+					"name": "d'Arena Jurong"
+				},
+				{
+					"_id": "62e8c1adf4a16311d064bcfe",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "62e8c1e0e82b3a02c48df53d",
+					"name": "Park Regis by Prince Singapore"
+				},
+				{
+					"_id": "64f03ef930158c0054bf7a6f",
+					"name": "Gardens by the Bay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"d'Arena Jurong",
+			"PLQ Mall",
+			"Park Regis by Prince Singapore",
+			"Gardens by the Bay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TUNG LOK SEAFOOD",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

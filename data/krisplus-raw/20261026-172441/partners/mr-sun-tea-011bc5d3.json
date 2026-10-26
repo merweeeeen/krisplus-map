@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mr-sun-tea-011bc5d3",
+	"slug": "mr-sun-tea-011bc5d3",
+	"fetchedAt": "2026-10-26T17:35:00.286+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a4dc4d7fdc1b7b073dc9c31",
+			"name": "Sun Pin Jing Pte Ltd",
+			"shortName": "Mr Sun Tea",
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"brand": "Mr. Sun Tea",
+			"code": "MS7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/771080713617146-9118224031482203-Mr.%20Sun%20-%20Brand%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6600552021209589-45990646739219865-Mr.%20Sun%20-%20Brand%20Image.png",
+			"websiteUrl": "https://www.mrsuntea.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "18 HOWARD ROAD #08-04",
+				"postalCode": "369585",
+				"streetName": "NOVELTY BIZCENTRE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Hailing from Taiwan’s popular Red Sun Tea Group, Mr Sun Tea’s creations blend authentic Taiwanese flavor with bold, unique, and refreshing twists. Freshly handcrafted in-store, the pearls at Mr Sun have a unique chewy texture and lower calories, with an amazingly better taste. Experience the magic at Mr Sun Tea!</span></p>",
+			"searchableKeywords": [
+				"tea",
+				"beverage",
+				"dessert",
+				"pearl",
+				"boba",
+				"bbt",
+				"bubble tea"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.027,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"KID",
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-16T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-08T03:32:39.313Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/771080713617146-9118224031482203-Mr.%20Sun%20-%20Brand%20Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6600552021209589-45990646739219865-Mr.%20Sun%20-%20Brand%20Image.png",
+			"createdAt": "2026-07-08T03:32:39.322Z",
+			"updatedAt": "2026-08-06T14:18:33.308Z",
+			"searchContent": "Hailing from Taiwan’s popular Red Sun Tea Group, Mr Sun Tea’s creations blend authentic Taiwanese flavor with bold, unique, and refreshing twists. Freshly handcrafted in-store, the pearls at Mr Sun have a unique chewy texture and lower calories, with an amazingly better taste. Experience the magic at Mr Sun Tea! tea beverage dessert pearl boba bbt bubble tea Dining Cafe Kid-Friendly Quick Bites & Snacks Beverages & Desserts",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6600552021209589-45990646739219865-Mr_low.%20Sun%20-%20Brand%20Image",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6600552021209589-45990646739219865-Mr_med.%20Sun%20-%20Brand%20Image",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6600552021209589-45990646739219865-Mr_high.%20Sun%20-%20Brand%20Image"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/771080713617146-9118224031482203-Mr_low.%20Sun%20-%20Brand%20Logo",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/771080713617146-9118224031482203-Mr_med.%20Sun%20-%20Brand%20Logo",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/771080713617146-9118224031482203-Mr_high.%20Sun%20-%20Brand%20Logo"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mr-sun-tea-011bc5d3",
+			"outlets": [
+				{
+					"_id": "6a4dc65245aafea3df292f72",
+					"name": "SCAPE"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"SCAPE"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mr. Sun Tea",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

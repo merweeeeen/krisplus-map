@@ -1,0 +1,213 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/amici-events-and-catering-ef5b7b14",
+	"slug": "amici-events-and-catering-ef5b7b14",
+	"fetchedAt": "2026-10-26T17:27:03.841+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61bbe8b2628fdc3f9c3b0dc2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES",
+				"DINING"
+			],
+			"physicalShop": false,
+			"searchableKeywords": [
+				"Bento",
+				"Meals",
+				"Canapes",
+				"Halal",
+				"Food",
+				"Beverages",
+				"Dining",
+				"Tapas",
+				"Online",
+				"Catering",
+				"Bbq",
+				"Baby Shower",
+				"Buffet",
+				"Dessert Bar",
+				"Cheese",
+				"Wedding",
+				"Party",
+				"Group",
+				"Platter",
+				"Festive",
+				"Events",
+				"Parties",
+				"Services",
+				"Dinner",
+				"Western",
+				"Gathering",
+				"Buffet",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": false,
+			"hideFromCustomer": false,
+			"name": "AMICI EVENTS AND CATERING PTE LTD",
+			"brand": "Amici Events and Catering",
+			"code": "AMI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "AmiciCatering",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "FOODXCHANGE ADMIRALTY, 8A ADMIRALTY STREET #06-02",
+				"postalCode": "757437",
+				"streetName": "ADMIRALTY STREET "
+			},
+			"regNumber": "200204204D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8698338176275398-3952587737061275-brand_image_750x540px.jpg",
+			"websiteUrl": "https://amici.com.sg/",
+			"descriptionHtml": "<p>A boutique caterer who takes on events with a passionate heart and a spirit of excellence. They offer canapes, buffet spreads, ‘live’ cooking stations and more. Whether you are planning to host an intimate dinner or a large-scale catering event, Amici’s menus are crafted in-house to reflect the diversity of Eastern and Western cuisines.</p>\n\n<p>Email <a href=\"mailto:sales@amici.com.sg\" title=\"mailto:sales@amici.com.sg\">sales@amici.com.sg</a> to place your order and quote Kris+ to receive the Kris+ QR code for payment/voucher redemption.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/32489830549334275-9036794782852506-amici_logo_1000x1000px.jpg",
+			"createdAt": "2021-12-17T01:32:34.681Z",
+			"updatedAt": "2026-08-06T14:17:24.780Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "                                          \n",
+			"promotional": "               \n",
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"ONLINE"
+			],
+			"subCategories": [
+				{
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS"
+						}
+					],
+					"categoryName": "Services"
+				},
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HAL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"BUF"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"translations": [
+				"64eef9939d00b0a527865c1e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8698338176275398-3952587737061275-brand_image_750x540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/32489830549334275-9036794782852506-amici_logo_1000x1000px.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8698338176275398-3952587737061275-brand_image_750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8698338176275398-3952587737061275-brand_image_750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8698338176275398-3952587737061275-brand_image_750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/32489830549334275-9036794782852506-amici_logo_1000x1000px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/32489830549334275-9036794782852506-amici_logo_1000x1000px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/32489830549334275-9036794782852506-amici_logo_1000x1000px_high.jpg"
+			},
+			"searchContent": "A boutique caterer who takes on events with a passionate heart and a spirit of excellence. They offer canapes, buffet spreads, ‘live’ cooking stations and more. Whether you are planning to host an intimate dinner or a large-scale catering event, Amici’s menus are crafted in-house to reflect the diversity of Eastern and Western cuisines. Email sales@amici.com.sg to place your order and quote Kris+ to receive the Kris+ QR code for payment/voucher redemption. Bento Meals Canapes Halal Food Beverages Dining Tapas Online Catering Bbq Baby Shower Buffet Dessert Bar Cheese Wedding Party Group Platter Festive Events Parties Services Dinner Western Gathering Buffet Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Services Dining Halal Buffet",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "amici-events-and-catering-ef5b7b14",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Amici Events and Catering",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

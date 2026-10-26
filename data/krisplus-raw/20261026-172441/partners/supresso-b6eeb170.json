@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/supresso-b6eeb170",
+	"slug": "supresso-b6eeb170",
+	"fetchedAt": "2026-10-26T17:25:52.632+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60008931840cfa2ea89e9ad0",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Indraco Pte. Ltd",
+			"brand": "Supresso",
+			"code": "SPS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Supresso",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "4 Battery Road, #25-074, Bank of China Building",
+				"postalCode": "049908",
+				"streetName": "Battery Road"
+			},
+			"regNumber": "200803778N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/883404246798182-Option%201%20-%20Brand%20Image%20(750%20x%20540).jpg",
+			"websiteUrl": "https://www.supresso.com/",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"descriptionHtml": "<p>Created to encapsulate the world of Indonesian coffee, Supresso’s coffee beans are sourced from the east to the west of Indonesia. Supresso single-origin collection, gourmet and world blend collection offers a premium range of exquisite and distinctive tastes.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/433045037740005-Brand%20Logo%20App.png",
+			"createdAt": "2021-01-14T18:10:57.493Z",
+			"updatedAt": "2026-08-06T14:17:13.179Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "     ",
+			"searchableKeywords": [
+				"Orchard",
+				"Somerset",
+				"Coffee",
+				"Coffee Beans",
+				"Drip Coffee",
+				"Capsules",
+				"Ground Coffee",
+				"Cafe",
+				"Coffee Machine",
+				"Birthday",
+				"Gifts",
+				"Mandarin Gallery",
+				"Retail",
+				"Indonesian",
+				"Gourmet",
+				"Premium",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"ONLINE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9cea65eaf5ea7682886"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/883404246798182-Option%201%20-%20Brand%20Image%20(750%20x%20540).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/433045037740005-Brand%20Logo%20App.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/883404246798182-Option%201%20-%20Brand%20Image%20(750%20x%20540)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/883404246798182-Option%201%20-%20Brand%20Image%20(750%20x%20540)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/883404246798182-Option%201%20-%20Brand%20Image%20(750%20x%20540)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/433045037740005-Brand%20Logo%20App_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/433045037740005-Brand%20Logo%20App_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/433045037740005-Brand%20Logo%20App_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Created to encapsulate the world of Indonesian coffee, Supresso’s coffee beans are sourced from the east to the west of Indonesia. Supresso single-origin collection, gourmet and world blend collection offers a premium range of exquisite and distinctive tastes. Orchard Somerset Coffee Coffee Beans Drip Coffee Capsules Ground Coffee Cafe Coffee Machine Birthday Gifts Mandarin Gallery Retail Indonesian Gourmet Premium Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Birthdays Holidays Anniversary Special Occasions Retail Gifts & Souvenirs",
+			"refundPeriodUpdatedAt": "2026-01-13T06:47:20.791Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "supresso-b6eeb170",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Supresso",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

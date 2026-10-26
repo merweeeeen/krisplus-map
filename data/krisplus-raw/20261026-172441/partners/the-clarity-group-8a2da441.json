@@ -1,0 +1,207 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-clarity-group-8a2da441",
+	"slug": "the-clarity-group-8a2da441",
+	"fetchedAt": "2026-10-26T17:34:23.067+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69f80f463ddde965d37cdcda",
+			"name": "CLARITY AV PTE. LTD.",
+			"shortName": "The Clarity Gr",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "The Clarity Group",
+			"code": "TCG",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8180261311594963-7434050184165124-The%20Clarity%20Group%20Brand%20Logo%20-%20260%20x%20260px.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7105187394346444-4826884421802127-The%20Clarity%20Group%20-%20Brand%20Image%20(750%20x%20540px).jpg",
+			"websiteUrl": "https://www.claritygroup.com.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 COLEMAN STREET, #03-36, THE ADELPHI, SINGAPORE 179803",
+				"postalCode": "179803",
+				"streetName": "1 COLEMAN STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">The Clarity Group is Singapore’s premium home technology\n    specialist, backed by nearly 100 years of heritage. They create luxury private\n    cinemas, invisible sound systems, smart home automation, and digital art\n    displays that blend seamlessly into your interior design. From first\n    consultation to flawless installation and white-glove aftersales care, they\n    deliver beautifully crafted, design-led technology for modern living.</p>\n\n<ul style=\"list-style-type: circle;\"><br></ul>",
+			"searchableKeywords": [
+				"home audio",
+				"home theatre",
+				"private cinema",
+				"smart home",
+				"home automation",
+				"luxury audio",
+				"high end audio",
+				"audio",
+				"premium speakers",
+				"wireless speakers",
+				"sound system",
+				"surround sound",
+				"Dolby Atmos",
+				"projector",
+				"4K projector",
+				"TV upgrade",
+				"entertainment room",
+				"media room",
+				"custom installation",
+				"invisible speakers",
+				"multi room audio",
+				"smart lighting",
+				"motorized curtains",
+				"home control",
+				"integrated living",
+				"digital art display",
+				"luxury living",
+				"designer home tech",
+				"premium home entertainment",
+				"audiophile",
+				"music lovers",
+				"vinyl setup",
+				"hifi system",
+				"stereo system",
+				"soundbar upgrade",
+				"immersive audio",
+				"cinema experience",
+				"movie night",
+				"karaoke room",
+				"private screening",
+				"gaming room setup",
+				"luxury showroom",
+				"bespoke solutions",
+				"interior design tech",
+				"modern home upgrade",
+				"lifestyle technology",
+				"premium electronics",
+				"home experience",
+				"smart lifestyle",
+				"residential technology",
+				"home cinema Singapore"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-07-05T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-04T03:15:18.660Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8180261311594963-7434050184165124-The%20Clarity%20Group%20Brand%20Logo%20-%20260%20x%20260px.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7105187394346444-4826884421802127-The%20Clarity%20Group%20-%20Brand%20Image%20(750%20x%20540px).jpg",
+			"createdAt": "2026-05-04T03:15:18.668Z",
+			"updatedAt": "2026-08-06T14:18:31.367Z",
+			"searchContent": "The Clarity Group is Singapore’s premium home technology specialist, backed by nearly 100 years of heritage. They create luxury private cinemas, invisible sound systems, smart home automation, and digital art displays that blend seamlessly into your interior design. From first consultation to flawless installation and white-glove aftersales care, they deliver beautifully crafted, design-led technology for modern living. home audio home theatre private cinema smart home home automation luxury audio high end audio audio premium speakers wireless speakers sound system surround sound Dolby Atmos projector 4K projector TV upgrade entertainment room media room custom installation invisible speakers multi room audio smart lighting motorized curtains home control integrated living digital art display luxury living designer home tech premium home entertainment audiophile music lovers vinyl setup hifi system stereo system soundbar upgrade immersive audio cinema experience movie night karaoke room private screening gaming room setup luxury showroom bespoke solutions interior design tech modern home upgrade lifestyle technology premium electronics home experience smart lifestyle residential technology home cinema Singapore Retail Electrical & Electronics Home & Lifestyle",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7105187394346444-4826884421802127-The%20Clarity%20Group%20-%20Brand%20Image%20(750%20x%20540px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7105187394346444-4826884421802127-The%20Clarity%20Group%20-%20Brand%20Image%20(750%20x%20540px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7105187394346444-4826884421802127-The%20Clarity%20Group%20-%20Brand%20Image%20(750%20x%20540px)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8180261311594963-7434050184165124-The%20Clarity%20Group%20Brand%20Logo%20-%20260%20x%20260px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8180261311594963-7434050184165124-The%20Clarity%20Group%20Brand%20Logo%20-%20260%20x%20260px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8180261311594963-7434050184165124-The%20Clarity%20Group%20Brand%20Logo%20-%20260%20x%20260px_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-clarity-group-8a2da441",
+			"outlets": [
+				{
+					"_id": "69f810d43ddde965d37cdee1",
+					"name": "The Adelphi"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Adelphi"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Clarity Group",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

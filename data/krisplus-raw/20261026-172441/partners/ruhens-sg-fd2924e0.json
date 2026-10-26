@@ -1,0 +1,211 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ruhens-sg-fd2924e0",
+	"slug": "ruhens-sg-fd2924e0",
+	"fetchedAt": "2026-10-26T17:28:45.437+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63f8676a026505141417576c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Water Purifier",
+				"Air Purifier",
+				"Home Appliances",
+				"Electronics",
+				"Home Water Filter",
+				"Water Dispenser",
+				"Hot Water Dispenser",
+				"Retail",
+				"Ubi Avenue",
+				"Vertex",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electrical Components",
+				"Electronical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Hairdryer",
+				"Airconditioner",
+				"Washing Machine",
+				"Kettle",
+				"Hair Straightener",
+				"Lifestyle Appliances",
+				"Fans",
+				"Samsung",
+				"Ruhens Sg",
+				"The Expert Sound",
+				"Technology",
+				"Tech Gadgets",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Home Hedge Pte Ltd",
+			"brand": "RUHENS SG",
+			"code": "HHP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "RUHENS SG",
+			"address": {
+				"line1": "33 Ubi Ave 3, #01-32 Vertex, Singapore 408868",
+				"postalCode": "408868",
+				"streetName": "33 Ubi Ave 3",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201625626C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/423741537624694-Brand%20Image_Ruhens%20NEW.jpg",
+			"websiteUrl": "https://www.ruhens.com.sg",
+			"descriptionHtml": "<p>A global leader in home-health technology and appliances with more than 30 years of experience, Ruhens’ relentless focus on R&D has produced many cutting-edge home appliances including the first ice-making water purifier, the Ruhens Ice, award-winning water purifiers such as their flagship model, the Ruhens V, and air purifiers.</p>  <p>Participating Outlets:</p>  <p>•    Suntec City<br> •    Vertex Building<br> •    Mobile Showroom (Book an appointment at https://www.ruhens.com.sg/mobileshowroom/)</p>",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR1",
+			"promotional": "                                           ",
+			"participatingOutlets": "                                            ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/13714252272450778-4637410648729652-A.jpg",
+			"createdAt": "2023-02-24T07:29:46.359Z",
+			"updatedAt": "2026-08-06T14:17:41.592Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL",
+								"EE"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9542f71c855d5496e20"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/423741537624694-Brand%20Image_Ruhens%20NEW.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13714252272450778-4637410648729652-A.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/423741537624694-Brand%20Image_Ruhens%20NEW_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/423741537624694-Brand%20Image_Ruhens%20NEW_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/423741537624694-Brand%20Image_Ruhens%20NEW_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13714252272450778-4637410648729652-A_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13714252272450778-4637410648729652-A_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13714252272450778-4637410648729652-A_high.jpg"
+			},
+			"searchContent": "A global leader in home-health technology and appliances with more than 30 years of experience, Ruhens’ relentless focus on R&D has produced many cutting-edge home appliances including the first ice-making water purifier, the Ruhens Ice, award-winning water purifiers such as their flagship model, the Ruhens V, and air purifiers. Participating Outlets: • Suntec City • Vertex Building • Mobile Showroom (Book an appointment at https://www.ruhens.com.sg/mobileshowroom/) Water Purifier Air Purifier Home Appliances Electronics Home Water Filter Water Dispenser Hot Water Dispenser Retail Ubi Avenue Vertex Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electrical Components Electronical Components Audio Television Headphones Cables Plug Travel Accessories Hairdryer Airconditioner Washing Machine Kettle Hair Straightener Lifestyle Appliances Fans Samsung Ruhens Sg The Expert Sound Technology Tech Gadgets Ruhens Grohe Hansgrohe Mayer Simmons Sealy Homefurnishing Retail Home & Lifestyle Electrical & Electronics",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-02T01:24:37.927Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ruhens-sg-fd2924e0",
+			"outlets": [
+				{
+					"_id": "63fc103a64a2ff1cfc9e483b",
+					"name": "Ubi Vertex"
+				},
+				{
+					"_id": "63fc10649870e526e8f76b04",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Ubi Vertex",
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "RUHENS SG",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

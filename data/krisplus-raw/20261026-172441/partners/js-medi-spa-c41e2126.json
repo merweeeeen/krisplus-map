@@ -1,0 +1,165 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/js-medi-spa-c41e2126",
+	"slug": "js-medi-spa-c41e2126",
+	"fetchedAt": "2026-10-26T17:34:33.160+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a04356068930fc9e5dde6f6",
+			"name": "J'S MEDI SPA PTE. LTD.",
+			"shortName": "Js Medi Spa",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "J's Medi Spa",
+			"code": "JMS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7697265644486071-17995067475682114-js%20medispa%20logo%20240x240.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/32767877127580314-7640367481015273-js%20medi%20spa%20Brand%20Image%20750x540.png",
+			"websiteUrl": "https://js.com.sg/services/#1582100454122-cc00664a-a20a",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "392 HAVELOCK ROAD #03-00 GRAND COPTHORNE WATERFRONT SINGAPORE 169663",
+				"postalCode": "169663",
+				"streetName": "392 HAVELOCK ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">J’s Medi Spa combines advanced aesthetics with luxurious     pampering to deliver visible results and deep relaxation. Located in Singapore,     it offers personalised treatments by certified therapists, using premium     skincare technologies to rejuvenate the skin, body, and mind.</p>",
+			"searchableKeywords": [
+				"Facial",
+				"skin",
+				"skin care",
+				"spa",
+				"massage",
+				"pedicure",
+				"manicure",
+				"beauty",
+				"mask"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-11T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-13T08:25:04.279Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7697265644486071-17995067475682114-js%20medispa%20logo%20240x240.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/32767877127580314-7640367481015273-js%20medi%20spa%20Brand%20Image%20750x540.png",
+			"createdAt": "2026-05-13T08:25:04.290Z",
+			"updatedAt": "2026-08-06T14:18:31.720Z",
+			"searchContent": "J’s Medi Spa combines advanced aesthetics with luxurious pampering to deliver visible results and deep relaxation. Located in Singapore, it offers personalised treatments by certified therapists, using premium skincare technologies to rejuvenate the skin, body, and mind. Facial skin skin care spa massage pedicure manicure beauty mask Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/32767877127580314-7640367481015273-js%20medi%20spa%20Brand%20Image%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/32767877127580314-7640367481015273-js%20medi%20spa%20Brand%20Image%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/32767877127580314-7640367481015273-js%20medi%20spa%20Brand%20Image%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7697265644486071-17995067475682114-js%20medispa%20logo%20240x240_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7697265644486071-17995067475682114-js%20medispa%20logo%20240x240_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7697265644486071-17995067475682114-js%20medispa%20logo%20240x240_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "js-medi-spa-c41e2126",
+			"outlets": [
+				{
+					"_id": "6a0436dd10c5850a842a1ce7",
+					"name": "Grand Copthorne Waterfront"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Grand Copthorne Waterfront"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "J's Medi Spa",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

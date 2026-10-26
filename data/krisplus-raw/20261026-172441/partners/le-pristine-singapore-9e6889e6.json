@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/le-pristine-singapore-9e6889e6",
+	"slug": "le-pristine-singapore-9e6889e6",
+	"fetchedAt": "2026-10-26T17:34:44.231+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a33845eb1e378d32fd5c030",
+			"name": "Borneo  Properties Sdn Bhd  (Trading as Grand Hyatt Singapore)",
+			"shortName": "Le Pristine",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Le Pristine Singapore",
+			"code": "LP5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8203316419510742-42331360389183015-Le%20Pristine%20Singapore%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3520349224142345-Le%20Pristine%20Singapore.png",
+			"websiteUrl": "https://lepristinesingapore.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "10 Scotts Road",
+				"postalCode": "228211",
+				"streetName": "10 Scotts Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Le Pristine Singapore stands as the crowning jewel of Grand Hyatt Singapore, showcasing a menu that balances both tradition and innovation. Alongside rich, creative, and fresh-on-the-palate dishes is a specially curated, well-balanced and vibrant wine list which perfectly complements the mouth-watering food presented.</p>",
+			"searchableKeywords": [
+				"Dining",
+				"Wine",
+				"Tasting Menu",
+				"European",
+				"Grand Hyatt Singapore",
+				"Brunch",
+				"Le Pristine",
+				"Dinner"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"EUR",
+								"PB",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-20T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-18T05:38:38.965Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8203316419510742-42331360389183015-Le%20Pristine%20Singapore%20Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3520349224142345-Le%20Pristine%20Singapore.png",
+			"createdAt": "2026-06-18T05:38:38.972Z",
+			"updatedAt": "2026-08-06T14:18:32.669Z",
+			"searchContent": "Le Pristine Singapore stands as the crowning jewel of Grand Hyatt Singapore, showcasing a menu that balances both tradition and innovation. Alongside rich, creative, and fresh-on-the-palate dishes is a specially curated, well-balanced and vibrant wine list which perfectly complements the mouth-watering food presented. Dining Wine Tasting Menu European Grand Hyatt Singapore Brunch Le Pristine Dinner Dining Vegetarian-Friendly Casual Dining European Pubs & Bars Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3520349224142345-Le%20Pristine%20Singapore_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3520349224142345-Le%20Pristine%20Singapore_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3520349224142345-Le%20Pristine%20Singapore_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8203316419510742-42331360389183015-Le%20Pristine%20Singapore%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8203316419510742-42331360389183015-Le%20Pristine%20Singapore%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8203316419510742-42331360389183015-Le%20Pristine%20Singapore%20Logo_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "le-pristine-singapore-9e6889e6",
+			"outlets": [
+				{
+					"_id": "6a3614bb6182adb9d870ae01",
+					"name": "Grand Hyatt"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Grand Hyatt"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Le Pristine Singapore",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

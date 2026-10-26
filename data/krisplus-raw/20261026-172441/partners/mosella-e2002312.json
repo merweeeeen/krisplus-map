@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mosella-e2002312",
+	"slug": "mosella-e2002312",
+	"fetchedAt": "2026-10-26T17:31:30.572+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68198114675a3d078de2b8fa",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"saleOfMiles": 0.046,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Mediterranean",
+				"Spanish",
+				"Italian",
+				"Top Restaurants",
+				"Restaurant In Orchard",
+				"Romantic Dinner",
+				"Romantic Getaway",
+				"Set Lunch",
+				"Set Dinner",
+				"Restaurants",
+				"Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "UOL Claymore Investment Pte Ltd (Mosella)",
+			"brand": "Mosella",
+			"code": "ELL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Mosella",
+			"address": {
+				"city": "Singapore",
+				"line1": "101 Thomson Road  United Square  #33-00",
+				"streetName": "101 Thomson Road",
+				"postalCode": "307591",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"EUR",
+								"FRE",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://mosella.sg/",
+			"descriptionHtml": "<p>Since June 2023, Mosella has enchanted diners, beckoning them to its lush enclave nestled within the Forest Terrace of Pan Pacific Orchard. Patrons are welcomed to an elevated dining experience centered around the joy of shared meals. Here, every dish is artfully crafted from the freshest ingredients, brimming with vibrant flavors and culinary finesse.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/018760072363924296-Mosella.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9984634763712932-8389636590846989-Brand%20image%20(750x540px).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/018760072363924296-Mosella.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9984634763712932-8389636590846989-Brand%20image%20(750x540px).jpg",
+			"createdAt": "2025-05-06T03:25:08.591Z",
+			"updatedAt": "2026-08-06T14:18:14.387Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9984634763712932-8389636590846989-Brand%20image%20(750x540px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9984634763712932-8389636590846989-Brand%20image%20(750x540px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9984634763712932-8389636590846989-Brand%20image%20(750x540px)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/018760072363924296-Mosella_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/018760072363924296-Mosella_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/018760072363924296-Mosella_high.jpg"
+			},
+			"searchContent": "Since June 2023, Mosella has enchanted diners, beckoning them to its lush enclave nestled within the Forest Terrace of Pan Pacific Orchard. Patrons are welcomed to an elevated dining experience centered around the joy of shared meals. Here, every dish is artfully crafted from the freshest ingredients, brimming with vibrant flavors and culinary finesse. Mediterranean Spanish Italian Top Restaurants Restaurant In Orchard Romantic Dinner Romantic Getaway Set Lunch Set Dinner Restaurants Dining Dining European French Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:22:41.034Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mosella-e2002312",
+			"outlets": [
+				{
+					"_id": "681c5cb41a05c129892e885f",
+					"name": "Pan Pacific Orchard Hotel L2"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pan Pacific Orchard Hotel L2"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mosella",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,268 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/aburi-en-2257e394",
+	"slug": "aburi-en-2257e394",
+	"fetchedAt": "2026-10-26T17:25:27.758+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5ec336349412f50a8892c13e",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Aburi-EN",
+			"brand": "Aburi-EN",
+			"code": "AEN",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "160 ROBINSON ROAD, #22-04/05/06, SBF CENTER",
+				"postalCode": "068914",
+				"streetName": "Robinson Road"
+			},
+			"category": "DINING",
+			"regNumber": "200205654C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-82c8f197-72af-4b66-afdc-ec0b5bc64433.jpg",
+			"websiteUrl": "https://www.aburi-en.com",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-80e742bd-45c1-4e16-9325-84a025a6b0df.jpg",
+			"createdAt": "2020-05-19T01:28:20.519Z",
+			"updatedAt": "2026-10-15T12:22:01.234Z",
+			"categories": [
+				"DINING"
+			],
+			"description": "Aburi-EN specialises in aburi or partially grilled meats, offering a variety of high quality donburi at affordable prices in a comfortable and affable ambience. At Aburi-EN, you can enjoy Japanese drinking culture with an extensive selection of Japanese cocktails, highballs, shochu and sake that complements the array of grilled meats.\n\nParticipating Outlets:\n•\tCauseway Point \n•\tGuoco Tower \n•\tJEM\n•\tNEX\n•\tNovena Square \n•\tOrchard Central \n•\tSuntec City \n•\tVivo City",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 6,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tVivoCity\n•\tGuoco Tower \n•\tSuntec City \n•\tCauseway Point \n•\tOrchard Central \n•\tJEM \n•\tNEX",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"promotional": "       ",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"payByCard": true,
+			"shortName": "AburiEN",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Aburi-EN\">Reserve A Table</a>.</p><p>Specialised in quality Japanese grilled meats. Aburi-EN offers a variety of high-quality donburi (rice bowls) at affordable prices.</p>  <p>Participating Outlets:</p>  <p>Aburi-EN:</p>  <ul> \t<li>Causeway Point</li> \t<li>Changi City Point</li> \t<li>Guoco Tower </li> \t<li>Isetan Scotts</li> \t<li>JEM</li> \t<li>Jewel Changi Airport</li> \t \t<li>NEX</li> \t \t<li>Suntec City</li> \t \t<li>VivoCity</li> </ul>    <p>Aburi-EN Grand:</p>  <ul> \t<li>Paragon</li> </ul>",
+			"searchableKeywords": [
+				"Woodlands",
+				"City",
+				"Central",
+				"Town",
+				"City Hall",
+				"Jurong",
+				"Harbourfront",
+				"Serangoon",
+				"Tanjong Pagar",
+				"Orchard",
+				"Japanese",
+				"Marina Bay",
+				"Bento",
+				"Sashimi",
+				"Ramen",
+				"Udon",
+				"Tempura",
+				"Noodles",
+				"Foodie",
+				"Trending",
+				"Sushi",
+				"Sake",
+				"Wine",
+				"Syochu",
+				"Highball",
+				"Izakaya",
+				"Miso",
+				"Jewel",
+				"Guoco Tower",
+				"Isetan Scotts",
+				"Jem",
+				"Nex",
+				"Orchard Central",
+				"Orchard Road",
+				"Somerset",
+				"Suntec City",
+				"Raffles Boulevard",
+				"Vivocity",
+				"Telok Blangah Road",
+				"Shaw",
+				"Shaw House",
+				"Causeway Point",
+				"Changi Business Park",
+				"Changi",
+				"Changi Airport",
+				"Suntec",
+				"Vivo",
+				"Dining",
+				"Paragon",
+				"Changi City Point",
+				"Tampines Mall"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"JAP",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef947fd404ac7a5ba301b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 9
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-82c8f197-72af-4b66-afdc-ec0b5bc64433.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-80e742bd-45c1-4e16-9325-84a025a6b0df.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-82c8f197-72af-4b66-afdc-ec0b5bc64433_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-82c8f197-72af-4b66-afdc-ec0b5bc64433_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-82c8f197-72af-4b66-afdc-ec0b5bc64433_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-80e742bd-45c1-4e16-9325-84a025a6b0df_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-80e742bd-45c1-4e16-9325-84a025a6b0df_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-80e742bd-45c1-4e16-9325-84a025a6b0df_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:02:15.669Z",
+			"searchContent": "*Click here to Reserve A Table. Specialised in quality Japanese grilled meats. Aburi-EN offers a variety of high-quality donburi (rice bowls) at affordable prices. Participating Outlets: Aburi-EN: Causeway Point Changi City Point Guoco Tower Isetan Scotts JEM Jewel Changi Airport NEX Suntec City VivoCity Aburi-EN Grand: Paragon Woodlands City Central Town City Hall Jurong Harbourfront Serangoon Tanjong Pagar Orchard Japanese Marina Bay Bento Sashimi Ramen Udon Tempura Noodles Foodie Trending Sushi Sake Wine Syochu Highball Izakaya Miso Jewel Guoco Tower Isetan Scotts Jem Nex Orchard Central Orchard Road Somerset Suntec City Raffles Boulevard Vivocity Telok Blangah Road Shaw Shaw House Causeway Point Changi Business Park Changi Changi Airport Suntec Vivo Dining Paragon Changi City Point Tampines Mall Dining Casual Dining Japanese Asian",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "aburi-en-2257e394",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5eccdf7410ea911bc844e980",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "5ecce00188c6fd1f3c6f2476",
+					"name": "NEX"
+				},
+				{
+					"_id": "5ecce04210ea911bc844e982",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "5ecce0a110ea911bc844e984",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "5ecce17588c6fd1f3c6f2478",
+					"name": "Guoco Tower"
+				},
+				{
+					"_id": "5ecce19e88c6fd1f3c6f247a",
+					"name": "JEM"
+				},
+				{
+					"_id": "6107a98fbe8047581435be3c",
+					"name": "Isetan Scotts"
+				},
+				{
+					"_id": "6107aa45b9f1f97500ecb098",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "6128791fb0e7582c9c5726d8",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "61ade080292b070a2035121c",
+					"name": "Paragon"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Causeway Point",
+			"NEX",
+			"Suntec City",
+			"VivoCity",
+			"Guoco Tower",
+			"JEM",
+			"Isetan Scotts",
+			"Changi City Point",
+			"Jewel Changi Airport",
+			"Paragon"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Aburi-EN",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

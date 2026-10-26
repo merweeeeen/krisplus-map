@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/las-palmas-rooftop-bar-147cc4a1",
+	"slug": "las-palmas-rooftop-bar-147cc4a1",
+	"fetchedAt": "2026-10-26T17:33:14.075+08:00",
+	"payload": {
+		"partner": {
+			"_id": "692d145859a315a46ebfa3ca",
+			"name": "HOI HUP NOVENA PTE LTD (COURTYARD BY MARRIOTT SINGAPORE NOVENA) (Las Palmas)",
+			"shortName": "Las Palmas RTB",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Las Palmas Rooftop Bar",
+			"code": "LAS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/43431848734428136-LasPalmas.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9788594696995898-8930504410510764-2.%20Las%20Palmas_Brand%20Image.jpg",
+			"websiteUrl": "https://www.laspalmasbar.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "99 Irrawaddy Road Singapore 329568",
+				"postalCode": "329568",
+				"streetName": "99 Irrawaddy Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Perched on Level 33 of Courtyard by Marriott Singapore Novena, Las Palmas is a Palm Springs-inspired rooftop bar and poolside paradise. Enjoy crafted cocktails, vibrant bar bites with a hint of Asian flavour, and soak in panoramic skyline and mesmerising sunset views in a stylish, retro-chic oasis above the city.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><br></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Note: Payments made via Kris+ are not eligible for\nMarriott Bonvoy points.</span></p>",
+			"searchableKeywords": [
+				"Las Palmas Singapore",
+				"Las Palmas",
+				"Courtyard by Marriott Singapore Novena",
+				"Hotel Rooftop Bar",
+				"Hotel Bar",
+				"Rooftop Bar",
+				"Poolside Bar",
+				"Singapore",
+				"Rooftop Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB",
+								"QBS",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-01T04:06:48.320Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/43431848734428136-LasPalmas.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9788594696995898-8930504410510764-2.%20Las%20Palmas_Brand%20Image.jpg",
+			"createdAt": "2025-12-01T04:06:48.332Z",
+			"updatedAt": "2026-08-06T14:18:25.729Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9788594696995898-8930504410510764-2_low.%20Las%20Palmas_Brand%20Image",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9788594696995898-8930504410510764-2_med.%20Las%20Palmas_Brand%20Image",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9788594696995898-8930504410510764-2_high.%20Las%20Palmas_Brand%20Image"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/43431848734428136-LasPalmas_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/43431848734428136-LasPalmas_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/43431848734428136-LasPalmas_high.png"
+			},
+			"searchContent": "Perched on Level 33 of Courtyard by Marriott Singapore Novena, Las Palmas is a Palm Springs-inspired rooftop bar and poolside paradise. Enjoy crafted cocktails, vibrant bar bites with a hint of Asian flavour, and soak in panoramic skyline and mesmerising sunset views in a stylish, retro-chic oasis above the city. Note: Payments made via Kris+ are not eligible for Marriott Bonvoy points. Las Palmas Singapore Las Palmas Courtyard by Marriott Singapore Novena Hotel Rooftop Bar Hotel Bar Rooftop Bar Poolside Bar Singapore Rooftop Dining Dining Pubs & Bars Quick Bites & Snacks Western",
+			"newMerchantEndDate": "2026-03-14T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "las-palmas-rooftop-bar-147cc4a1",
+			"outlets": [
+				{
+					"_id": "692d3035e3c3ea4d0ea22609",
+					"name": "Level 33"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Level 33"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Las Palmas Rooftop Bar",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,310 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/krispy-kreme-60b20b67",
+	"slug": "krispy-kreme-60b20b67",
+	"fetchedAt": "2026-10-26T17:25:00.652+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5d64f08b54c0c70c48d54b61",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Krispy Kreme",
+			"brand": "Krispy Kreme",
+			"code": "KPK",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "119 Genting Lane, #02-01, HB 119 Genting",
+				"postalCode": "349570",
+				"streetName": "Genting Lane"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "201220834E",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3b73f582-9132-41a5-aca4-12edd1cbfcb0.png",
+			"createdAt": "2019-08-27T08:57:47.091Z",
+			"updatedAt": "2026-10-14T08:02:04.778Z",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "Terms and Conditions: \n•\tKrispy Kreme reserves all rights to amend, withdraw all or any terms / promotional offers without prior notice\n\nFind out more: http://krispykreme.sg/",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-cb0dd17f-dc9b-4d89-9507-c70626e98d69.jpg",
+			"participatingOutlets": "•\tChangi Airport T2\n•\tChangi Airport T3 (Transit)\n•\tCompass One\n•\tIncome@Raffles \n•\tJurong Point \n•\tNorthpoint City \n•\tParagon Shopping Centre\n•\tPaya Lebar Quarter\n•\tResorts World Sentosa \n•\tSuntec City \n•\tVivoCity ",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.manna360.com.sg/our-brands/krispy-kreme",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Krispy Kreme",
+			"descriptionHtml": "<p>Krispy Kreme is an American Icon - home to world famous original glazed doughnuts. Krispy Kreme delivers a wide variety of delicious doughnuts, made fresh daily, with a mission to bring joy and to enhance lives. Krispy Kreme believes that everyone deserves a Happy Place!</p>  <p style=\"margin-left:-2.85pt\">Participating Outlets:</p>  <ul> \t \t<li>Bugis Junction</li> \t<li>Century Square</li> \t<li>Changi Airport T3 (Public)</li> \t<li>Changi City Point</li> \t<li>Compass One</li> \t<li>Great World City</li> \t<li>Hillion Mall</li> \t<li>IMM</li><li>Jewel</li> \t \t<li>NEX </li> \t<li>Northpoint City</li> \t<li>Paragon Shopping Centre</li> \t \t \t<li>Suntec City</li> \t<li>The Clementi Mall</li> \t<li>VivoCity</li> \t </ul>",
+			"searchableKeywords": [
+				"Yishun",
+				"Yishun Avenue 2",
+				"Sengkang Square",
+				"Raffles Boulevard",
+				"Promenade",
+				"Jurong East",
+				"Jurong East Street 21",
+				"Orchard",
+				"Orchard Road",
+				"Paya Lebar",
+				"Paya Lebar Road",
+				"Zion Road",
+				"Kim Seng Road",
+				"Havelock",
+				"Harbourfront",
+				"Telok Blangah Road",
+				"Boon Lay",
+				"Jurong West Central 2",
+				"Sentosa Gateway",
+				"Changi Airport",
+				"Airport Boulevard",
+				"Raffles Place",
+				"Collyer Quay",
+				"Dessert",
+				"American",
+				"Doughnuts",
+				"Icing",
+				"Sugar Coated",
+				"Great World City",
+				"Resorts World Sentosa",
+				"Vivocity",
+				"Income Raffles",
+				"Suntec City",
+				"Paya Lebar Quarter",
+				"Plq",
+				"Terminal 2",
+				"Paragon",
+				"Wisma Atria",
+				"Dining",
+				"Snacks",
+				"Donut",
+				"Northpoint",
+				"Terminal 3",
+				"Hillion Mall",
+				"Changi City Point",
+				"Amk Hub",
+				"Ang Mo Kio",
+				"Nex",
+				"Serangoon",
+				"Bites",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9ef595add2492446485"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 12
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-cb0dd17f-dc9b-4d89-9507-c70626e98d69.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-3b73f582-9132-41a5-aca4-12edd1cbfcb0.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-cb0dd17f-dc9b-4d89-9507-c70626e98d69_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-cb0dd17f-dc9b-4d89-9507-c70626e98d69_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-cb0dd17f-dc9b-4d89-9507-c70626e98d69_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3b73f582-9132-41a5-aca4-12edd1cbfcb0_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3b73f582-9132-41a5-aca4-12edd1cbfcb0_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3b73f582-9132-41a5-aca4-12edd1cbfcb0_high.png"
+			},
+			"refundPeriodInDays": 180,
+			"searchContent": "Krispy Kreme is an American Icon - home to world famous original glazed doughnuts. Krispy Kreme delivers a wide variety of delicious doughnuts, made fresh daily, with a mission to bring joy and to enhance lives. Krispy Kreme believes that everyone deserves a Happy Place! Participating Outlets: Bugis Junction Century Square Changi Airport T3 (Public) Changi City Point Compass One Great World City Hillion Mall IMMJewel NEX Northpoint City Paragon Shopping Centre Suntec City The Clementi Mall VivoCity Yishun Yishun Avenue 2 Sengkang Square Raffles Boulevard Promenade Jurong East Jurong East Street 21 Orchard Orchard Road Paya Lebar Paya Lebar Road Zion Road Kim Seng Road Havelock Harbourfront Telok Blangah Road Boon Lay Jurong West Central 2 Sentosa Gateway Changi Airport Airport Boulevard Raffles Place Collyer Quay Dessert American Doughnuts Icing Sugar Coated Great World City Resorts World Sentosa Vivocity Income Raffles Suntec City Paya Lebar Quarter Plq Terminal 2 Paragon Wisma Atria Dining Snacks Donut Northpoint Terminal 3 Hillion Mall Changi City Point Amk Hub Ang Mo Kio Nex Serangoon Bites Koi Dunkin Donuts Boost The Muffinry Delifrance Twelve Cupcakes Four Leaves Prima Deli Starbucks Old Chang Kee Finger Food Nibbles Light Bites Fast Food Refreshments Tidbits Dining Halal Beverages & Desserts Quick Bites & Snacks",
+			"refundPeriodUpdatedAt": "2026-01-02T08:56:57.792Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "krispy-kreme-60b20b67",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "5d679a875225ef2a604b627a",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "5d679c6893812a635c9de58a",
+					"name": "Paragon"
+				},
+				{
+					"_id": "5d679c8b5225ef2a604b627c",
+					"name": "Vivo City"
+				},
+				{
+					"_id": "5d679cb13f367b392484d7b3",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "5d89d37203385124286554a8",
+					"name": "Compass One"
+				},
+				{
+					"_id": "5f50c6bd73f04b9880f3bf9e",
+					"name": "IMM"
+				},
+				{
+					"_id": "5fd724c696b7bd07a0470e75",
+					"name": "Great World"
+				},
+				{
+					"_id": "61568ac37fa06358e063f835",
+					"name": "Century Square"
+				},
+				{
+					"_id": "61726a9ff0feb54ff8205cd7",
+					"name": "The Clementi Mall"
+				},
+				{
+					"_id": "6279c52616247a6fc0256434",
+					"name": "Changi Airport T3 (Public)"
+				},
+				{
+					"_id": "650978d44966e200556df47d",
+					"name": "Hillion Mall"
+				},
+				{
+					"_id": "65097bba4966e200556dfb31",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "651b71ab1893b30056b6a730",
+					"name": "NEX"
+				},
+				{
+					"_id": "65c192a3eec0da0054f3a8c7",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "682c1ac8d800329f21b4a52f",
+					"name": "Jewel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City",
+			"Paragon",
+			"Vivo City",
+			"Northpoint City",
+			"Compass One",
+			"IMM",
+			"Great World",
+			"Century Square",
+			"The Clementi Mall",
+			"Changi Airport T3 (Public)",
+			"Hillion Mall",
+			"Changi City Point",
+			"NEX",
+			"Bugis Junction",
+			"Jewel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Krispy Kreme",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

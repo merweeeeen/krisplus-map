@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sushi-airways-9c4b910f",
+	"slug": "sushi-airways-9c4b910f",
+	"fetchedAt": "2026-10-26T17:25:10.807+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e16867f9e36052300d76881",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "TETE PTE LTD",
+			"brand": "Sushi Airways",
+			"code": "SAW",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "20A BAGHDAD STREET, SINGAPORE",
+				"postalCode": "199659",
+				"streetName": "BAGHDAD STREET"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "201216596Z",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-0f59ccce-1b2d-4f8a-81dd-e2cd4424ca06.jpg",
+			"createdAt": "2020-01-09T01:48:48.005Z",
+			"updatedAt": "2026-08-06T14:17:08.198Z",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-8548cf49-9387-40e5-aa2e-8b389aeed2fb.jpg",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tBaghdad Street",
+			"physicalShop": true,
+			"privilege": false,
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy a complimentary dessert when you spend at least $38 per person on food items. \n\nTerms and Conditions:\n•\tPromotion is available for both lunch and dinner\n•\tNot valid in conjunction with other promotions, discounts, vouchers, or set meals.\n\nFind out more at: www.sushiairways.com",
+			"websiteUrl": "https://sushiairways.com/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"descriptionHtml": "<p>Sushi Airways is a Japanese restaurant with a unique retro-airplane theme. It serves the freshest sushi, sashimi and delicious cooked Japanese culinary delights. A non-traditional Omakase menu created to delight both your palate and eye is also available.</p>\n\n<p>Participating Outlet:<br />\n•    Baghdad Street</p>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Sushi Airways",
+			"countryCode": "SG",
+			"searchableKeywords": [
+				"Baghdad Street",
+				"Bugis",
+				"Nicoll Highway",
+				"Japanese",
+				"Lavender",
+				"Beach Road",
+				"Bento",
+				"Sashimi",
+				"Ramen",
+				"Udon",
+				"Tempura",
+				"Noodles",
+				"Foodie",
+				"Trending",
+				"Sushi",
+				"Sake",
+				"Wine",
+				"Syochu",
+				"Highball",
+				"Izakaya",
+				"Miso",
+				"Dining",
+				"Omakase"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e79d00b0a527865c3e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-8548cf49-9387-40e5-aa2e-8b389aeed2fb.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-0f59ccce-1b2d-4f8a-81dd-e2cd4424ca06.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-8548cf49-9387-40e5-aa2e-8b389aeed2fb_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-8548cf49-9387-40e5-aa2e-8b389aeed2fb_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-8548cf49-9387-40e5-aa2e-8b389aeed2fb_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-0f59ccce-1b2d-4f8a-81dd-e2cd4424ca06_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-0f59ccce-1b2d-4f8a-81dd-e2cd4424ca06_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-0f59ccce-1b2d-4f8a-81dd-e2cd4424ca06_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-13T06:40:08.217Z",
+			"searchContent": "Sushi Airways is a Japanese restaurant with a unique retro-airplane theme. It serves the freshest sushi, sashimi and delicious cooked Japanese culinary delights. A non-traditional Omakase menu created to delight both your palate and eye is also available. Participating Outlet: • Baghdad Street Baghdad Street Bugis Nicoll Highway Japanese Lavender Beach Road Bento Sashimi Ramen Udon Tempura Noodles Foodie Trending Sushi Sake Wine Syochu Highball Izakaya Miso Dining Omakase Dining Casual Dining Japanese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sushi-airways-9c4b910f",
+			"outlets": [
+				{
+					"_id": "5e562038e01d87371c9a6f53",
+					"name": "Baghdad Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Baghdad Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sushi Airways",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

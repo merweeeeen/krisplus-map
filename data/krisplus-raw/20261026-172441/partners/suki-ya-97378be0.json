@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/suki-ya-97378be0",
+	"slug": "suki-ya-97378be0",
+	"fetchedAt": "2026-10-26T17:30:43.624+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6768ee21527b43973fdcb457",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Leshrimp",
+				"Lenu",
+				"Sukiya",
+				"Steamboat",
+				"Japanese",
+				"Shabu",
+				"Hotpot",
+				"Family"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Suki-Ya Holdings Pte LTd",
+			"brand": "Suki-Ya",
+			"code": "SYA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Suki Ya",
+			"address": {
+				"line1": "211 Henderson Road  #05-03  Singapore 159552",
+				"postalCode": "159552",
+				"streetName": "211 Henderson Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"JAP",
+								"KID",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.suki-ya.com.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Suki-Ya\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Suki-Ya offers heart-warming dining experiences at affordable prices. Diners enjoy unlimited, top-quality chilled beef, pork and chicken slices. With sumptuous soups and broths, dining at Suki-Ya is bound to perk up everyone’s taste buds!</p>  <p>Participating Outlets:<br>- Bugis+ <br>- Marina Square<br> ​​​​​​​- Plaza Singapura</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5899435941407218-Suki-Ya%20Logo%20(260x260).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6667982712994183-424469115843791-Suki-Ya%20Brand%20Image%20(750x540).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"createdAt": "2024-12-23T04:59:13.172Z",
+			"updatedAt": "2026-08-06T14:18:10.497Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6667982712994183-424469115843791-Suki-Ya%20Brand%20Image%20(750x540)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6667982712994183-424469115843791-Suki-Ya%20Brand%20Image%20(750x540)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6667982712994183-424469115843791-Suki-Ya%20Brand%20Image%20(750x540)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5899435941407218-Suki-Ya%20Logo%20(260x260)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5899435941407218-Suki-Ya%20Logo%20(260x260)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5899435941407218-Suki-Ya%20Logo%20(260x260)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6667982712994183-424469115843791-Suki-Ya%20Brand%20Image%20(750x540).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5899435941407218-Suki-Ya%20Logo%20(260x260).jpg",
+			"searchContent": "*Click here to Reserve A Table. Suki-Ya offers heart-warming dining experiences at affordable prices. Diners enjoy unlimited, top-quality chilled beef, pork and chicken slices. With sumptuous soups and broths, dining at Suki-Ya is bound to perk up everyone’s taste buds! Participating Outlets: - Bugis+ - Marina Square ​​​​​​​- Plaza Singapura Leshrimp Lenu Sukiya Steamboat Japanese Shabu Hotpot Family Dining Casual Dining Japanese Kid-Friendly Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-11T01:21:06.188Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "suki-ya-97378be0",
+			"outlets": [
+				{
+					"_id": "676a199b87d9750074bcecfc",
+					"name": "Bugis+"
+				},
+				{
+					"_id": "676a1c17c4d12e0065944304",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "676a1cba0603690064647dab",
+					"name": "Plaza Singapura"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis+",
+			"Marina Square",
+			"Plaza Singapura"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Suki-Ya",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

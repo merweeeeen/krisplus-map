@@ -1,0 +1,168 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-arena-detailing-fb23e956",
+	"slug": "the-arena-detailing-fb23e956",
+	"fetchedAt": "2026-10-26T17:32:25.984+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68ae645eb2a460046bfe2617",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"car",
+				"car wash",
+				"automtive",
+				"detailing",
+				"PPF",
+				"coating",
+				"iroad",
+				"70mai",
+				"Paint Protection",
+				"grooming",
+				"polish",
+				"artdeshine",
+				"ceramic coating",
+				"graphene coating",
+				"waxing",
+				"shine",
+				"vehicle"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Arena Detailing Pte Ltd",
+			"brand": "The Arena Detailing",
+			"code": "DET",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7538",
+			"shortName": "The Arena Deta",
+			"address": {
+				"line1": "8 Kaki Bukit Ave 4 #04-36 Singapore 415875",
+				"postalCode": "415875",
+				"streetName": "8 Kaki Bukit Ave 4",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.thearenadetailing.com",
+			"descriptionHtml": "<div class=\"jodit-toolbar__box\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); --jd-color-background-default: #eaebef; background-color: rgb(234, 235, 239); border-bottom: 0.833333px solid rgb(218, 218, 218); border-radius: 3px 3px 0px 0px; overflow: hidden; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><div class=\"jodit-toolbar-editor-collection jodit-toolbar-editor-collection_mode_horizontal jodit-toolbar-editor-collection_size_middle\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: flex; flex-direction: column; background-image: repeating-linear-gradient(rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 37px, rgb(218, 218, 218) 38px); position: relative; --jd-button-icon-size: 14px;\"><div class=\"jodit-ui-group jodit-ui-group_line_true jodit-ui-group_size_middle\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: flex; flex: 0 0 auto; flex-wrap: wrap; max-width: 100%; justify-content: stretch; border-bottom: 0px;\"><br class=\"Apple-interchange-newline\"><div class=\"jodit-ui-spacer\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); flex: 1 1 0%;\"></div><div class=\"jodit-ui-group jodit-ui-group_size_middle\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex; flex: 0 0 auto; flex-wrap: wrap; max-width: 100%;\"></div><div class=\"jodit-ui-group jodit-ui-group_separated_true jodit-ui-group_group_history jodit-ui-group_size_middle\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex; flex: 0 0 auto; flex-wrap: wrap; max-width: 100%;\"><span class=\"jodit-toolbar-button jodit-toolbar-button_size_middle jodit-toolbar-button_variant_initial jodit-toolbar-button_undo jodit-ui-group__undo\" role=\"listitem\" data-ref=\"undo\" aria-label=\"Undo\" disabled=\"disabled\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); align-items: center; border: 1px solid transparent; border-radius: 3px; display: flex; height: 34px; justify-content: center; min-width: 34px; overflow: hidden; margin: 2px 1px; padding: 0px;\"><button class=\"jodit-toolbar-button__button\" type=\"button\" role=\"button\" aria-pressed=\"false\" tabindex=\"-1\" disabled=\"disabled\" style=\"box-sizing: border-box; font-weight: 300; border-radius: 3px; margin: 0px; font-family: inherit; font-size: inherit; line-height: inherit; overflow: visible; text-transform: none; appearance: none; letter-spacing: 0.88px; cursor: pointer; align-items: center; background: 0px 0px; border: 0px; box-shadow: none; color: rgba(0, 0, 0, 0.75); display: inline-flex; font-style: normal; justify-content: center; outline: 0px; padding: 0px; position: relative; text-align: center; text-decoration: none; user-select: none; height: 34px; min-width: 34px; opacity: 0.3; pointer-events: none;\"><span class=\"jodit-toolbar-button__icon\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1792 1792\" class=\"jodit-icon_undo jodit-icon\"></svg></span></button></span><span class=\"jodit-toolbar-button jodit-toolbar-button_size_middle jodit-toolbar-button_variant_initial jodit-toolbar-button_redo jodit-ui-group__redo\" role=\"listitem\" data-ref=\"redo\" aria-label=\"Redo\" disabled=\"disabled\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); align-items: center; border: 1px solid transparent; border-radius: 3px; display: flex; height: 34px; justify-content: center; min-width: 34px; overflow: hidden; margin: 2px 1px; padding: 0px;\"><button class=\"jodit-toolbar-button__button\" type=\"button\" role=\"button\" aria-pressed=\"false\" tabindex=\"-1\" disabled=\"disabled\" style=\"box-sizing: border-box; font-weight: 300; border-radius: 3px; margin: 0px; font-family: inherit; font-size: inherit; line-height: inherit; overflow: visible; text-transform: none; appearance: none; letter-spacing: 0.88px; cursor: pointer; align-items: center; background: 0px 0px; border: 0px; box-shadow: none; color: rgba(0, 0, 0, 0.75); display: inline-flex; font-style: normal; justify-content: center; outline: 0px; padding: 0px; position: relative; text-align: center; text-decoration: none; user-select: none; height: 34px; min-width: 34px; opacity: 0.3; pointer-events: none;\"><span class=\"jodit-toolbar-button__icon\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1792 1792\" class=\"jodit-icon_redo jodit-icon\"></svg></span></button></span></div><div class=\"jodit-ui-group jodit-ui-group_separated_true jodit-ui-group_group_source jodit-ui-group_size_middle\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex; flex: 0 0 auto; flex-wrap: wrap; max-width: 100%;\"><span class=\"jodit-toolbar-button jodit-toolbar-button_size_middle jodit-toolbar-button_variant_initial jodit-toolbar-button_source jodit-ui-group__source\" role=\"listitem\" data-ref=\"source\" aria-label=\"Change mode\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); align-items: center; border: 1px solid transparent; border-radius: 3px; display: flex; height: 34px; justify-content: center; min-width: 34px; overflow: hidden; margin: 2px 1px; padding: 0px;\"><button class=\"jodit-toolbar-button__button\" type=\"button\" role=\"button\" aria-pressed=\"false\" tabindex=\"-1\" style=\"box-sizing: border-box; font-weight: 300; border-radius: 3px; margin: 0px; font-family: inherit; font-size: inherit; line-height: inherit; overflow: visible; text-transform: none; appearance: none; letter-spacing: 0.88px; cursor: pointer; align-items: center; background: 0px 0px; border: 0px; box-shadow: none; color: rgba(0, 0, 0, 0.75); display: inline-flex; font-style: normal; justify-content: center; outline: 0px; padding: 0px; position: relative; text-align: center; text-decoration: none; user-select: none; height: 34px; min-width: 34px;\"><span class=\"jodit-toolbar-button__icon\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1792 1792\" class=\"jodit-icon_source jodit-icon\"></svg></span></button></span></div><div class=\"jodit-ui-group jodit-ui-group_separated_true jodit-ui-group_group_other jodit-ui-group_size_middle\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex; flex: 0 0 auto; flex-wrap: wrap; max-width: 100%;\"><span class=\"jodit-toolbar-button jodit-toolbar-button_size_middle jodit-toolbar-button_variant_initial jodit-toolbar-button_fullsize jodit-ui-group__fullsize\" role=\"listitem\" data-ref=\"fullsize\" aria-label=\"Open in fullsize\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); align-items: center; border: 1px solid transparent; border-radius: 3px; display: flex; height: 34px; justify-content: center; min-width: 34px; overflow: hidden; margin: 2px 1px; padding: 0px;\"><button class=\"jodit-toolbar-button__button\" type=\"button\" role=\"button\" aria-pressed=\"false\" tabindex=\"-1\" style=\"box-sizing: border-box; font-weight: 300; border-radius: 3px; margin: 0px; font-family: inherit; font-size: inherit; line-height: inherit; overflow: visible; text-transform: none; appearance: none; letter-spacing: 0.88px; cursor: pointer; align-items: center; background: 0px 0px; border: 0px; box-shadow: none; color: rgba(0, 0, 0, 0.75); display: inline-flex; font-style: normal; justify-content: center; outline: 0px; padding: 0px; position: relative; text-align: center; text-decoration: none; user-select: none; height: 34px; min-width: 34px;\"><span class=\"jodit-toolbar-button__icon\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" class=\"jodit-icon_fullsize jodit-icon\"></svg></span></button></span><span class=\"jodit-toolbar-button jodit-toolbar-button_size_middle jodit-toolbar-button_variant_initial jodit-toolbar-button_preview jodit-ui-group__preview\" role=\"listitem\" data-ref=\"preview\" aria-label=\"Preview\" disabled=\"disabled\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); align-items: center; border: 1px solid transparent; border-radius: 3px; display: flex; height: 34px; justify-content: center; min-width: 34px; overflow: hidden; margin: 2px 1px; padding: 0px;\"><button class=\"jodit-toolbar-button__button\" type=\"button\" role=\"button\" aria-pressed=\"false\" tabindex=\"-1\" disabled=\"disabled\" style=\"box-sizing: border-box; font-weight: 300; border-radius: 3px; margin: 0px; font-family: inherit; font-size: inherit; line-height: inherit; overflow: visible; text-transform: none; appearance: none; letter-spacing: 0.88px; cursor: pointer; align-items: center; background: 0px 0px; border: 0px; box-shadow: none; color: rgba(0, 0, 0, 0.75); display: inline-flex; font-style: normal; justify-content: center; outline: 0px; padding: 0px; position: relative; text-align: center; text-decoration: none; user-select: none; height: 34px; min-width: 34px; opacity: 0.3; pointer-events: none;\"><span class=\"jodit-toolbar-button__icon\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1792 1792\" class=\"jodit-icon_eye jodit-icon\"></svg></span></button></span></div><div class=\"jodit-ui-group jodit-ui-group_separated_true jodit-ui-group_group_info jodit-ui-group_size_middle\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex; flex: 0 0 auto; flex-wrap: wrap; max-width: 100%; border-bottom: 0px;\"><span class=\"jodit-toolbar-button jodit-toolbar-button_size_middle jodit-toolbar-button_variant_initial jodit-toolbar-button_about jodit-ui-group__about\" role=\"listitem\" data-ref=\"about\" aria-label=\"About Jodit\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); align-items: center; border: 1px solid transparent; border-radius: 3px; display: flex; height: 34px; justify-content: center; min-width: 34px; overflow: hidden; margin: 2px 1px; padding: 0px;\"><button class=\"jodit-toolbar-button__button\" type=\"button\" role=\"button\" aria-pressed=\"false\" tabindex=\"-1\" style=\"box-sizing: border-box; font-weight: 300; border-radius: 3px; margin: 0px; font-family: inherit; font-size: inherit; line-height: inherit; overflow: visible; text-transform: none; appearance: none; letter-spacing: 0.88px; cursor: pointer; align-items: center; background: 0px 0px; border: 0px; box-shadow: none; color: rgba(0, 0, 0, 0.75); display: inline-flex; font-style: normal; justify-content: center; outline: 0px; padding: 0px; position: relative; text-align: center; text-decoration: none; user-select: none; height: 34px; min-width: 34px;\"><span class=\"jodit-toolbar-button__icon\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); display: inline-flex;\"><svg viewBox=\"0 0 1792 1792\" xmlns=\"http://www.w3.org/2000/svg\" class=\"jodit-icon_about jodit-icon\"></svg></span></button></span></div></div></div></div><div class=\"jodit-workplace\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); overflow: hidden; position: relative; display: flex; flex-direction: column; height: 271px; min-height: 121px; background-color: rgb(255, 255, 255); border-color: rgb(218, 218, 218); border-style: solid; border-width: 0px; border-image: none 100% / 1 / 0 stretch; max-height: 100%; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><div aria-disabled=\"false\" tabindex=\"-1\" class=\"jodit-wysiwyg\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); outline: 0px; margin: 0px; overflow-x: auto; padding: 8px; position: relative; height: 270.99px; width: 896.719px; min-height: 121px;\"><p class=\"MsoNormal\" style=\"box-sizing: border-box; font-weight: 300; margin: 0px 0px 11px; color: rgb(61, 73, 105); line-height: 16.05px; font-size: 15px; font-family: Aptos, sans-serif;\">Founded in 2020, The Arena Detailing is an automotive grooming business dedicated to making your vehicle look as good as new. They offer a range of services including car washes, car coatings using ArtDeShine, car paint protection film (UPPF), and car camera installations with iRoad and 70mai.</p></div></div>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/088543862837968-TheArenaDetailing.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/39120273959894947-24058160762330316-B%20and%20D%20Arena%20Shop%20Front.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Automotive Service Shops (Non-dealer)",
+			"partnershipGroup": "GR6",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/088543862837968-TheArenaDetailing.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/39120273959894947-24058160762330316-B%20and%20D%20Arena%20Shop%20Front.jpg",
+			"createdAt": "2025-08-27T01:50:22.989Z",
+			"updatedAt": "2026-09-01T02:03:48.097Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/088543862837968-TheArenaDetailing_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/088543862837968-TheArenaDetailing_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/088543862837968-TheArenaDetailing_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Founded in 2020, The Arena Detailing is an automotive grooming business dedicated to making your vehicle look as good as new. They offer a range of services including car washes, car coatings using ArtDeShine, car paint protection film (UPPF), and car camera installations with iRoad and 70mai. car car wash automtive detailing PPF coating iroad 70mai Paint Protection grooming polish artdeshine ceramic coating graphene coating waxing shine vehicle Services Automotive",
+			"refundPeriodUpdatedAt": "2026-03-02T02:43:56.227Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-arena-detailing-fb23e956",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "68ae65d02fcc150467bf41f2",
+					"name": "8 Kaki Bukit Ave 4"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"8 Kaki Bukit Ave 4"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Arena Detailing",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

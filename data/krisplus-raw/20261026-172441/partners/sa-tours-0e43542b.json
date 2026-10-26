@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sa-tours-0e43542b",
+	"slug": "sa-tours-0e43542b",
+	"fetchedAt": "2026-10-26T17:29:22.436+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6535c49c93f1a40057f0f2d0",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 0,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 1,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Travel",
+				"Travel Agency",
+				"Tours",
+				"Holiday",
+				"Vacation",
+				"Tour Groups",
+				"Group Tours",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"6535c4a7512cd48c4dc69b1d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "SINO-AMERICA TOURS CORPORATION PTE LTD",
+			"brand": "SA TOURS",
+			"code": "SAL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "SA TOURS",
+			"address": {
+				"city": "Singapore",
+				"line1": "1 PARK ROAD, 04-62, SINGAPORE 059108",
+				"streetName": "1 PARK ROAD, 04-62,",
+				"postalCode": "059108",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"regNumber": "197400193H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5145598977191534-28118908820768973-App%20Brand%20Image%20-%20750x540px.png",
+			"websiteUrl": "https://www.satours.com",
+			"descriptionHtml": "<p>SA Tours, established in 1974, is a renowned travel agency. With a rich history spanning decades, they have earned a reputation for being a trustworthy and reliable choice for travelers. Specializing in guided tour groups from Singapore to destinations worldwide, SA Tours boasts a team of knowledgeable tour managers who ensure seamless and memorable travel experiences.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7340925673869216-28390169667698895-SA%20Logo%20-%201000px%20x%201000px.png",
+			"createdAt": "2023-10-23T00:55:56.127Z",
+			"updatedAt": "2026-08-06T14:17:49.928Z",
+			"privilege": false,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5145598977191534-28118908820768973-App%20Brand%20Image%20-%20750x540px.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7340925673869216-28390169667698895-SA%20Logo%20-%201000px%20x%201000px.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5145598977191534-28118908820768973-App%20Brand%20Image%20-%20750x540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5145598977191534-28118908820768973-App%20Brand%20Image%20-%20750x540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5145598977191534-28118908820768973-App%20Brand%20Image%20-%20750x540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7340925673869216-28390169667698895-SA%20Logo%20-%201000px%20x%201000px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7340925673869216-28390169667698895-SA%20Logo%20-%201000px%20x%201000px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7340925673869216-28390169667698895-SA%20Logo%20-%201000px%20x%201000px_high.png"
+			},
+			"searchContent": "SA Tours, established in 1974, is a renowned travel agency. With a rich history spanning decades, they have earned a reputation for being a trustworthy and reliable choice for travelers. Specializing in guided tour groups from Singapore to destinations worldwide, SA Tours boasts a team of knowledgeable tour managers who ensure seamless and memorable travel experiences. Travel Travel Agency Tours Holiday Vacation Tour Groups Group Tours Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Services",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-31T01:34:57.650Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sa-tours-0e43542b",
+			"outlets": [
+				{
+					"_id": "6535c7c27237200059d3d8f8",
+					"name": "People's Park Complex"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"People's Park Complex"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SA TOURS",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

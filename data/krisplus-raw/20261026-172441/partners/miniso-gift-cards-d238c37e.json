@@ -1,0 +1,150 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/miniso-gift-cards-d238c37e",
+	"slug": "miniso-gift-cards-d238c37e",
+	"fetchedAt": "2026-10-26T17:34:12.198+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69d514d7d28f3824506853cb",
+			"name": "Volyty Pte. Ltd. - Miniso",
+			"shortName": "Miniso",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Miniso Gift Cards",
+			"code": "MNS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6502197937528575-8023668872668883-Miniso%20banner.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6234859949551643-00906148880492208-Miniso%201000x1000.png",
+			"websiteUrl": "https://www.miniso.com/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"NOT_APPLICABLE"
+			],
+			"address": {
+				"line1": "7500A Beach Road, #14-302, The Plaza",
+				"postalCode": "199591",
+				"streetName": "7500A Beach Road, #14-302,",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Established in Tokyo, Miniso was jointly founded by Miyake Junya, the chief designer of MINISO, and Ye Guofu, a young Chinese entrepreneur, with the aim of advocating a fashionable and relaxed lifestyle. Today, Miniso is a global fast fashion designer brand, offering a wide range of products across 10 product categories including lifestyle, home, gifts, and electronics.</p><p> Miniso is dedicated to providing customers with quality and creative products at affordable prices; Miniso products are priced from as low as $3. To date, Miniso Singapore operates 27 stores island wide.</p><p><strong>Note: Gift cards are issued by Mooments. Direct payment via Kris+ in Miniso stores is not available. Earn or redeem miles via purchase of gift cards only.</strong></p>",
+			"searchableKeywords": [
+				"miniso",
+				"toys",
+				"gifts",
+				"presents",
+				"electronics"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 0,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 0,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW",
+								"HL",
+								"BK",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-30T15:59:59.999Z",
+			"applicableCities": [],
+			"refundPeriodUpdatedAt": "2026-04-07T14:29:43.556Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6502197937528575-8023668872668883-Miniso%20banner.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6234859949551643-00906148880492208-Miniso%201000x1000.png",
+			"createdAt": "2026-04-07T14:29:43.563Z",
+			"updatedAt": "2026-08-06T14:18:30.661Z",
+			"searchContent": "Established in Tokyo, Miniso was jointly founded by Miyake Junya, the chief designer of MINISO, and Ye Guofu, a young Chinese entrepreneur, with the aim of advocating a fashionable and relaxed lifestyle. Today, Miniso is a global fast fashion designer brand, offering a wide range of products across 10 product categories including lifestyle, home, gifts, and electronics. Miniso is dedicated to providing customers with quality and creative products at affordable prices; Miniso products are priced from as low as $3. To date, Miniso Singapore operates 27 stores island wide. Note: Gift cards are issued by Mooments. Direct payment via Kris+ in Miniso stores is not available. Earn or redeem miles via purchase of gift cards only. miniso toys gifts presents electronics Retail Accessories, Jewellery & Watches Home & Lifestyle Baby & Kids Gifts & Souvenirs",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6234859949551643-00906148880492208-Miniso%201000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6234859949551643-00906148880492208-Miniso%201000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6234859949551643-00906148880492208-Miniso%201000x1000_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6502197937528575-8023668872668883-Miniso%20banner_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6502197937528575-8023668872668883-Miniso%20banner_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6502197937528575-8023668872668883-Miniso%20banner_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "miniso-gift-cards-d238c37e",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Miniso Gift Cards",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sojao-abf42e4e",
+	"slug": "sojao-abf42e4e",
+	"fetchedAt": "2026-10-26T17:31:44.596+08:00",
+	"payload": {
+		"partner": {
+			"_id": "684a35ad25a8730409396889",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bed Sheets",
+				"Bedsheets",
+				"Fitted Sheets",
+				"Duvet",
+				"Duvet Cover",
+				"Flat Sheets",
+				"Flat Sheet",
+				"Towel",
+				"Bath Towel",
+				"Pillowcase",
+				"Pillow Case",
+				"Pillow Cases",
+				"Hand Towel",
+				"Face Towel",
+				"Body Pillow",
+				"Bolster Case",
+				"Bolstercase",
+				"Top Sheets",
+				"Bath Linen",
+				"Linen",
+				"Linens",
+				"Loungewear",
+				"Pyjamas",
+				"Sleepwear",
+				"Bedding Set",
+				"Luxury Bedsheets",
+				"Sateen",
+				"Percale",
+				"Organic Bedsheets",
+				"Organic",
+				"Ecofriendly",
+				"Natural",
+				"100 Organic Cotton",
+				"Plush",
+				"Plush Bath Towel",
+				"Sojao",
+				"Local",
+				"Luxury Bedding"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "SOJAO Pte Ltd",
+			"brand": "SOJAO",
+			"code": "SOJ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "SOJAO",
+			"address": {
+				"city": "Singapore",
+				"line1": "16 KALLANG PLACE #01-35/36 SINGAPORE 339156",
+				"streetName": "16 KALLANG PLACE",
+				"postalCode": "339156",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"FAS",
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"websiteUrl": "https://www.sojao.shop/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">SOJAO is Singapore’s first and only GOTS-certified organic bedding brand, known for its ultra-soft, luxury 100% organic cotton bed sheets, loungewear and towels. Discover the buttery-smooth<span> </span></span><i style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Classic Sateen</i><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span> </span>or the crisp, breathable<span> </span></span><i style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Percale</i><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span> </span>collections, available in their bold signature colours. Visit SOJAO at Joo Chiat or New Bahru to experience the full collection.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/31375484378243534-Sojao.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6286417084554681-3407582235901263-brand%20image.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/31375484378243534-Sojao.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6286417084554681-3407582235901263-brand%20image.jpg",
+			"createdAt": "2025-06-12T02:04:29.230Z",
+			"updatedAt": "2026-08-06T14:18:15.462Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/31375484378243534-Sojao_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/31375484378243534-Sojao_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/31375484378243534-Sojao_high.jpg"
+			},
+			"searchContent": "SOJAO is Singapore’s first and only GOTS-certified organic bedding brand, known for its ultra-soft, luxury 100% organic cotton bed sheets, loungewear and towels. Discover the buttery-smooth Classic Sateen or the crisp, breathable Percale collections, available in their bold signature colours. Visit SOJAO at Joo Chiat or New Bahru to experience the full collection. Bed Sheets Bedsheets Fitted Sheets Duvet Duvet Cover Flat Sheets Flat Sheet Towel Bath Towel Pillowcase Pillow Case Pillow Cases Hand Towel Face Towel Body Pillow Bolster Case Bolstercase Top Sheets Bath Linen Linen Linens Loungewear Pyjamas Sleepwear Bedding Set Luxury Bedsheets Sateen Percale Organic Bedsheets Organic Ecofriendly Natural 100 Organic Cotton Plush Plush Bath Towel Sojao Local Luxury Bedding Retail Fashion Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sojao-abf42e4e",
+			"outlets": [
+				{
+					"_id": "684a3712b772640405b4f808",
+					"name": "251 Joo Chiat Road"
+				},
+				{
+					"_id": "684a3776c6ec2503ff61aa86",
+					"name": "New Bahru"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"251 Joo Chiat Road",
+			"New Bahru"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SOJAO",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

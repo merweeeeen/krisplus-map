@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/absolute-sound-89fe9097",
+	"slug": "absolute-sound-89fe9097",
+	"fetchedAt": "2026-10-26T17:33:20.954+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69435c34a3bedc97882501a1",
+			"name": "ABSOLUTE SOUND DISTRIBUTION PTE LTD",
+			"shortName": "Absolute Sound",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Absolute Sound",
+			"code": "ASD",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8360080397639651-AbsoluteSound.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/516117631255022-4717678105928951-AbsoluteSound-HiFi%20img.jpg",
+			"websiteUrl": "https://absolutesound.com.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "190 CLEMENCEAU AVE, SINGAPORE SHOPPING CENTER, SINGAPORE 239924",
+				"postalCode": "239924",
+				"streetName": "190 CLEMENCEAU AVE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Absolute Sound is a premier distributor of luxury audio and\n    visual brands, representing names like Sonus Faber, Klipsch, Elipson, and\n    Loewe TV. With a dedication to sonic purity and visual elegance, it crafts\n    immersive entertainment experiences for discerning enthusiasts.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>\n\n\n\n<ul style=\"list-style-type: circle;\"><li><span>Singapore Shopping Center</span></li><li><span>Wintech Center</span></li><li><span>Millenia Walk</span></li></ul>",
+			"searchableKeywords": [
+				"Audio",
+				"tv",
+				"electronics",
+				"music",
+				"speakers",
+				"home theater"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-18T01:43:16.464Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8360080397639651-AbsoluteSound.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/516117631255022-4717678105928951-AbsoluteSound-HiFi%20img.jpg",
+			"createdAt": "2025-12-18T01:43:16.477Z",
+			"updatedAt": "2026-08-06T14:18:26.528Z",
+			"searchContent": "Absolute Sound is a premier distributor of luxury audio and visual brands, representing names like Sonus Faber, Klipsch, Elipson, and Loewe TV. With a dedication to sonic purity and visual elegance, it crafts immersive entertainment experiences for discerning enthusiasts. Participating outlets: Singapore Shopping CenterWintech CenterMillenia Walk Audio tv electronics music speakers home theater Retail Electrical & Electronics",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/516117631255022-4717678105928951-AbsoluteSound-HiFi%20img_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/516117631255022-4717678105928951-AbsoluteSound-HiFi%20img_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/516117631255022-4717678105928951-AbsoluteSound-HiFi%20img_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8360080397639651-AbsoluteSound_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8360080397639651-AbsoluteSound_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8360080397639651-AbsoluteSound_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "absolute-sound-89fe9097",
+			"outlets": [
+				{
+					"_id": "69435e9fba38c4debf33fdac",
+					"name": "Singapore Shopping Centre"
+				},
+				{
+					"_id": "69435eeb8b096f32545c947c",
+					"name": "Millenia Walk"
+				},
+				{
+					"_id": "69435f3c85cbaa36f7d94b30",
+					"name": "Wintech Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Singapore Shopping Centre",
+			"Millenia Walk",
+			"Wintech Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Absolute Sound",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

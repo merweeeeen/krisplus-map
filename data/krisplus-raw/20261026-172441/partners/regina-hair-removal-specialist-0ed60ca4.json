@@ -1,0 +1,224 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/regina-hair-removal-specialist-0ed60ca4",
+	"slug": "regina-hair-removal-specialist-0ed60ca4",
+	"fetchedAt": "2026-10-26T17:28:13.657+08:00",
+	"payload": {
+		"partner": {
+			"_id": "630735d583ac6f1018ec2f15",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 3,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Hair Removal",
+				"Hair Removal Singapore",
+				"Shr Singapore",
+				"Facial",
+				"Slimming",
+				"The Central",
+				"Clarke Quay",
+				"Bishan",
+				"Junction 8",
+				"J8",
+				"Cimb Plaza",
+				"Singpost Centre",
+				"Paya Lebar",
+				"Wellness",
+				"Spa",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Regina International Pte Ltd",
+			"brand": "Regina Hair Removal Specialist",
+			"code": "RHR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "ReginaHair",
+			"address": {
+				"city": "Singapore",
+				"line1": "6 Eu Tong Sen Street #04-68 The Central Singapore 059817",
+				"streetName": "6 Eu Tong Sen Street",
+				"postalCode": "059817",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200920751D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/620494902734475-3958803157387709-KRIS%20C.png",
+			"websiteUrl": "https://regina.sg/",
+			"descriptionHtml": "<p>​​Regina Hair Removal Specialist is one of the longest running hair removal salons in Singapore, being in the market for 12 years. The team of specialists provide top class hair removal services, and also offer facial and slimming treatments to complement your experience. With over a decade of experience, the team is dedicated to providing quality services that cater to your individual needs.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/19256338938057382-36251773058407055-KRIS%20A.png",
+			"createdAt": "2022-08-25T08:41:57.433Z",
+			"updatedAt": "2026-08-06T14:17:35.313Z",
+			"platformFee": 0,
+			"participatingOutlets": "        ",
+			"promotional": "            ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96c0108b03f047da57a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/620494902734475-3958803157387709-KRIS%20C.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/19256338938057382-36251773058407055-KRIS%20A.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/620494902734475-3958803157387709-KRIS%20C_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/620494902734475-3958803157387709-KRIS%20C_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/620494902734475-3958803157387709-KRIS%20C_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/19256338938057382-36251773058407055-KRIS%20A_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/19256338938057382-36251773058407055-KRIS%20A_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/19256338938057382-36251773058407055-KRIS%20A_high.png"
+			},
+			"searchContent": "​​Regina Hair Removal Specialist is one of the longest running hair removal salons in Singapore, being in the market for 12 years. The team of specialists provide top class hair removal services, and also offer facial and slimming treatments to complement your experience. With over a decade of experience, the team is dedicated to providing quality services that cater to your individual needs. Hair Removal Hair Removal Singapore Shr Singapore Facial Slimming The Central Clarke Quay Bishan Junction 8 J8 Cimb Plaza Singpost Centre Paya Lebar Wellness Spa Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Treatment Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:16:57.960Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "regina-hair-removal-specialist-0ed60ca4",
+			"outlets": [
+				{
+					"_id": "6308460b36247514bc685b21",
+					"name": "Clarke Quay Central"
+				},
+				{
+					"_id": "6316b5dff1260238dcc53a1b",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "6316b66ff1260238dcc53ac0",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "674ec6f3e2634a006cc017b1",
+					"name": "Raffles Place"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay Central",
+			"Junction 8",
+			"313@Somerset",
+			"Raffles Place"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Regina Hair Removal Specialist",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

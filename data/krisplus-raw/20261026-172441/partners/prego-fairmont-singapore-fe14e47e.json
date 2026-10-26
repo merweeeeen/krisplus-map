@@ -1,0 +1,201 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/prego-fairmont-singapore-fe14e47e",
+	"slug": "prego-fairmont-singapore-fe14e47e",
+	"fetchedAt": "2026-10-26T17:26:58.880+08:00",
+	"payload": {
+		"partner": {
+			"_id": "618c9b9cbb241c5b80b2736e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Fairmont Singapore",
+				"Prego",
+				"Afternoon Tea",
+				"City Hall",
+				"Raffles City",
+				"Central",
+				"Esplanade",
+				"Bras Basah",
+				"Pizza",
+				"Italian",
+				"Cheese",
+				"Pasta",
+				"Dining",
+				"Business",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "RC Hotels (Pte.) Ltd. (Prego)",
+			"brand": "Prego (Fairmont Singapore)",
+			"code": "PRG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Prego ",
+			"address": {
+				"city": "Singapore",
+				"line1": "2 Stamford Road ",
+				"streetName": "Stamford Road ",
+				"postalCode": "178882",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198904859N ",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/07639633254077371-Prego.png",
+			"websiteUrl": "https://www.fairmont-singapore.com/dining/prego/",
+			"descriptionHtml": "<p>Be greeted by the alluring aromas of pizza baking in wood-fired ovens, or the handcrafted Italian pastas made fresh daily. Indulge in a decadent selection of appetisers, cold cuts and Italian cheeses, pizzas and pastas made from the freshest produce and ingredients sourced directly from Italy.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/27702173769071625-6834782959535568-Prego%20-%20BRAND%20LOGO%201000%20x%201000.png",
+			"createdAt": "2021-11-11T04:27:08.734Z",
+			"updatedAt": "2026-08-06T14:17:22.905Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "                ",
+			"promotional": "                ",
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"ITA",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9979d00b0a527865c20"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07639633254077371-Prego_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07639633254077371-Prego_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07639633254077371-Prego_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07639633254077371-Prego.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/27702173769071625-6834782959535568-Prego%20-%20BRAND%20LOGO%201000%20x%201000.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/27702173769071625-6834782959535568-Prego%20-%20BRAND%20LOGO%201000%20x%201000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/27702173769071625-6834782959535568-Prego%20-%20BRAND%20LOGO%201000%20x%201000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/27702173769071625-6834782959535568-Prego%20-%20BRAND%20LOGO%201000%20x%201000_high.png"
+			},
+			"searchContent": "Be greeted by the alluring aromas of pizza baking in wood-fired ovens, or the handcrafted Italian pastas made fresh daily. Indulge in a decadent selection of appetisers, cold cuts and Italian cheeses, pizzas and pastas made from the freshest produce and ingredients sourced directly from Italy. Fairmont Singapore Prego Afternoon Tea City Hall Raffles City Central Esplanade Bras Basah Pizza Italian Cheese Pasta Dining Business Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Dining Italian Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T06:50:14.077Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "prego-fairmont-singapore-fe14e47e",
+			"outlets": [
+				{
+					"_id": "619e0a8b7b8a8508ec26e5a0",
+					"name": "Prego"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Prego"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Prego (Fairmont Singapore)",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

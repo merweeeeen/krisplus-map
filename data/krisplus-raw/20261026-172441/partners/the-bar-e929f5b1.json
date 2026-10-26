@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-bar-e929f5b1",
+	"slug": "the-bar-e929f5b1",
+	"fetchedAt": "2026-10-26T17:35:25.270+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6aaf9025ac89559755f29a47",
+			"name": "DHI DOWNTOWN PTE LTD (The Bar)",
+			"shortName": "The Bar",
+			"mccCode": "5812",
+			"mccDescription": "undefined",
+			"brand": "The Bar",
+			"code": "8AR",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/20024605614756585-6906944493021427-Dao%20by%20Dorsett%20AMTD%20Singapore%20Logo%20-%20Black.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/031683047900320505-9154502772759898-theBAR%20Brand%20Image.png",
+			"websiteUrl": "https://www.daobydorsett.com/dao-by-dorsett-amtd-singapore/dining/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "336 SMITH STREET #07-300",
+				"postalCode": "050336",
+				"streetName": "NEW BRIDGE CENTRE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Unwind at The Bar at Dao by Dorsett AMTD Singapore, where expertly crafted cocktails, premium wines and a curated selection of gins await. Whether for after-work drinks, casual catch-ups or evening celebrations, it's the perfect place to relax in the heart of; the CBD.</span></p>",
+			"searchableKeywords": [
+				"Downtown Singapore bar",
+				"hotel bar",
+				"lounge bar",
+				"cocktail bar",
+				"cocktails",
+				"signature cocktails",
+				"classic cocktails",
+				"premium cocktails",
+				"craft cocktails",
+				"gin",
+				"craft gin",
+				"gin and tonic",
+				"wine",
+				"red wine",
+				"white wine",
+				"sparkling wine",
+				"beer",
+				"premium spirits",
+				"whisky",
+				"mocktails",
+				"happy hour",
+				"after work drinks",
+				"evening drinks"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.039,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 11.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB",
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 0,
+			"newMerchantEndDate": "2026-12-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-09-20T07:49:57.935Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/20024605614756585-6906944493021427-Dao%20by%20Dorsett%20AMTD%20Singapore%20Logo%20-%20Black.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/031683047900320505-9154502772759898-theBAR%20Brand%20Image.png",
+			"createdAt": "2026-09-20T07:49:57.943Z",
+			"updatedAt": "2026-10-01T01:24:22.135Z",
+			"searchContent": "Unwind at The Bar at Dao by Dorsett AMTD Singapore, where expertly crafted cocktails, premium wines and a curated selection of gins await. Whether for after-work drinks, casual catch-ups or evening celebrations, it's the perfect place to relax in the heart of; the CBD. Downtown Singapore bar hotel bar lounge bar cocktail bar cocktails signature cocktails classic cocktails premium cocktails craft cocktails gin craft gin gin and tonic wine red wine white wine sparkling wine beer premium spirits whisky mocktails happy hour after work drinks evening drinks Dining Pubs & Bars Quick Bites & Snacks Beverages & Desserts",
+			"slugId": "the-bar-e929f5b1",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/031683047900320505-9154502772759898-theBAR%20Brand%20Image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/031683047900320505-9154502772759898-theBAR%20Brand%20Image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/031683047900320505-9154502772759898-theBAR%20Brand%20Image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/20024605614756585-6906944493021427-Dao%20by%20Dorsett%20AMTD%20Singapore%20Logo%20-%20Black_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/20024605614756585-6906944493021427-Dao%20by%20Dorsett%20AMTD%20Singapore%20Logo%20-%20Black_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/20024605614756585-6906944493021427-Dao%20by%20Dorsett%20AMTD%20Singapore%20Logo%20-%20Black_high.png"
+			},
+			"outlets": [
+				{
+					"_id": "6aaf940d03035cb4213f5112",
+					"name": "Dao by Dorsett Level 7, Lobby"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Dao by Dorsett Level 7, Lobby"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Bar",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

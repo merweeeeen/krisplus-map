@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/oso-ristorante-f1a9139b",
+	"slug": "oso-ristorante-f1a9139b",
+	"fetchedAt": "2026-10-26T17:34:34.092+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a0ea5cc82c09b0030a2a386",
+			"name": "OSO RISTORANTE PTE LTD",
+			"shortName": "OSO Ristorante",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "OSO Ristorante",
+			"code": "OSO",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1391061688629489-8171953706835418-Brand-Logo----OSO.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/45763535031520175-7104810077533341-Brand-Image---OSO.png",
+			"websiteUrl": "https://singapore.oso.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "100 Peck Seah Street, 27th Floor",
+				"postalCode": "079333",
+				"streetName": "Oasia Hotel Downtown",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">OSO Ristorante is a contemporary Italian fine-dining restaurant, established in 2004 by two long-time friends, Diego Chiarini and Stephane Colleoni.</p><p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Located on the top floor of Oasia Hotel Downtown, an iconic award-winning vertical garden hotel, you will experience Italian cuisine from across the regions of Italy in an understated elegance of industrial elements and vintage décor - delightful in the day and romantic by night.</p>",
+			"searchableKeywords": [
+				"Italian",
+				"fine dining",
+				"restaurant",
+				"wines",
+				"cuisine",
+				"private roomk",
+				"event",
+				"private dining",
+				"corporate event"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"BD",
+								"ITA",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-15T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-21T06:27:24.418Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1391061688629489-8171953706835418-Brand-Logo----OSO.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/45763535031520175-7104810077533341-Brand-Image---OSO.png",
+			"createdAt": "2026-05-21T06:27:24.425Z",
+			"updatedAt": "2026-08-06T14:18:31.746Z",
+			"searchContent": "OSO Ristorante is a contemporary Italian fine-dining restaurant, established in 2004 by two long-time friends, Diego Chiarini and Stephane Colleoni. Located on the top floor of Oasia Hotel Downtown, an iconic award-winning vertical garden hotel, you will experience Italian cuisine from across the regions of Italy in an understated elegance of industrial elements and vintage décor - delightful in the day and romantic by night. Italian fine dining restaurant wines cuisine private roomk event private dining corporate event Dining Vegan-Friendly Vegetarian-Friendly Fine Dining Beverages & Desserts Italian Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/45763535031520175-7104810077533341-Brand-Image---OSO_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/45763535031520175-7104810077533341-Brand-Image---OSO_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/45763535031520175-7104810077533341-Brand-Image---OSO_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1391061688629489-8171953706835418-Brand-Logo----OSO_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1391061688629489-8171953706835418-Brand-Logo----OSO_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1391061688629489-8171953706835418-Brand-Logo----OSO_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "oso-ristorante-f1a9139b",
+			"outlets": [
+				{
+					"_id": "6a0ea92bc6e5621e714febac",
+					"name": "Oasia Hotel Downtown"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Oasia Hotel Downtown"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "OSO Ristorante",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

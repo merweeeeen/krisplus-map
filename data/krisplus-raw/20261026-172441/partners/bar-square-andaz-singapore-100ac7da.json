@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bar-square-andaz-singapore-100ac7da",
+	"slug": "bar-square-andaz-singapore-100ac7da",
+	"fetchedAt": "2026-10-26T17:27:20.183+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62374dc5b3092a19d484a1ff",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Andaz Singapore",
+				"Bar",
+				"Cocktails",
+				"Relax",
+				"Bugis",
+				"After Work",
+				"Drinks",
+				"Friends",
+				"Happy Hour",
+				"Colleagues",
+				"Couple"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Bar Square ",
+			"brand": "Bar Square - Andaz Singapore",
+			"code": "BSQ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Bar Square",
+			"address": {
+				"city": "Singapore",
+				"line1": "5 Fraser Street",
+				"streetName": "Fraser Street",
+				"postalCode": "189354",
+				"cityCode": "SIN"
+			},
+			"regNumber": "53333587J",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3497984659506381-Bar%20Square%20(750%20x%20540)-01.jpg",
+			"websiteUrl": "https://www.hyatt.com/andaz/sinaz-andaz-singapore/dining/bar-square",
+			"descriptionHtml": "<p>Located at Level 25 of Andaz Singapore, Bar Square offers a backdrop of dramatic sunsets with servings of Asian-inspired cocktails. With decked-out statement communal bar counters, mixologists explore the many tastes of Singapore with localised infusions and tipples.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Asian-inspired cocktails with stellar views of the city",
+			"participatingOutlets": "Andaz Singapore",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6699816970145327-Bar%20Square%20Logo%201000%20x%201000.png",
+			"createdAt": "2022-03-20T15:52:37.026Z",
+			"updatedAt": "2026-08-06T14:17:28.361Z",
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef98a45578ca5d7f0b3a7"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3497984659506381-Bar%20Square%20(750%20x%20540)-01.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6699816970145327-Bar%20Square%20Logo%201000%20x%201000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3497984659506381-Bar%20Square%20(750%20x%20540)-01_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3497984659506381-Bar%20Square%20(750%20x%20540)-01_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3497984659506381-Bar%20Square%20(750%20x%20540)-01_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6699816970145327-Bar%20Square%20Logo%201000%20x%201000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6699816970145327-Bar%20Square%20Logo%201000%20x%201000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6699816970145327-Bar%20Square%20Logo%201000%20x%201000_high.png"
+			},
+			"searchContent": "Located at Level 25 of Andaz Singapore, Bar Square offers a backdrop of dramatic sunsets with servings of Asian-inspired cocktails. With decked-out statement communal bar counters, mixologists explore the many tastes of Singapore with localised infusions and tipples. Andaz Singapore Bar Cocktails Relax Bugis After Work Drinks Friends Happy Hour Colleagues Couple Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:41:40.294Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bar-square-andaz-singapore-100ac7da",
+			"outlets": [
+				{
+					"_id": "62398027540cf7816c37ef20",
+					"name": "Andaz Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Andaz Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bar Square - Andaz Singapore",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

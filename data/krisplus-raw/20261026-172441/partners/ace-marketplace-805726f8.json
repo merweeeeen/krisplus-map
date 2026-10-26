@@ -1,0 +1,214 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ace-marketplace-805726f8",
+	"slug": "ace-marketplace-805726f8",
+	"fetchedAt": "2026-10-26T17:32:04.630+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68897d92cdc93e0401aed705",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.03,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Supermarket",
+				"Minimart",
+				"Groceries",
+				"Essentials",
+				"Necessities",
+				"Daily",
+				"Food",
+				"Drinks",
+				"Rice"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Ace Marketplace Pte. Ltd.",
+			"brand": "ACE Marketplace",
+			"code": "ACD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5411",
+			"shortName": "ACE Marketplac",
+			"address": {
+				"line1": "713 Ang Mo Kio Avenue 6, #01-4040, Singapore 560713",
+				"postalCode": "560713",
+				"streetName": "713 Ang Mo Kio Avenue 6",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.instagram.com/acemarketplacesg/",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"box-sizing: border-box; font-weight: 300; margin: 0px 0px 11px; color: rgb(61, 73, 105); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 16.05px; font-family: Aptos, sans-serif; font-size: 15px;\">Established in May 2020, Ace Marketplace is a supermarket with outlets throughout Singapore's heartlands, dedicated to offering consumers a broad selection of affordable groceries and daily necessities.</p><p class=\"MsoNormal\" style=\"box-sizing: border-box; font-weight: 300; margin: 0px 0px 11px; color: rgb(61, 73, 105); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 16.05px; font-family: Aptos, sans-serif; font-size: 15px;\">Participating Outlets:</p><ul style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; list-style-type: circle; font-size: 18px;\"><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">151 Serangoon North Avenue 2 #01-27</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">151 Bukit Batok Street 11, #01-250</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">780 Yishun Ring Road, #01-3546</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">465 North Bridge Road, #01-5059</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">803 King George’s Avenue, #01-166</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">146 Jalan Bukit Merah, #01-1074,</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">181 Ang Mo Kio Avenue 5, #01-2926/28</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">537 Bedok North Street 3, #01-513</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">462 Tampines Street 44, #01-70</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">119 Aljunied Ave 2, #01-34</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105);\">88 Circuit Road, #01-96</span></li><li style=\"box-sizing: border-box; font-weight: 300;\">59 New Upper Changi Road</li></ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8146846652933932-AceMarketplace.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9827908306019277-3209222005132959-Ace%20Marketplace.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Grocery Stores and Supermarkets",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 12
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8146846652933932-AceMarketplace.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9827908306019277-3209222005132959-Ace%20Marketplace.jpg",
+			"createdAt": "2025-07-30T02:04:02.655Z",
+			"updatedAt": "2026-08-06T14:18:17.981Z",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T09:08:37.483Z",
+			"searchContent": "Established in May 2020, Ace Marketplace is a supermarket with outlets throughout Singapore's heartlands, dedicated to offering consumers a broad selection of affordable groceries and daily necessities. Participating Outlets: 151 Serangoon North Avenue 2 #01-27151 Bukit Batok Street 11, #01-250780 Yishun Ring Road, #01-3546465 North Bridge Road, #01-5059803 King George’s Avenue, #01-166146 Jalan Bukit Merah, #01-1074,181 Ang Mo Kio Avenue 5, #01-2926/28537 Bedok North Street 3, #01-513462 Tampines Street 44, #01-70119 Aljunied Ave 2, #01-3488 Circuit Road, #01-9659 New Upper Changi Road Supermarket Minimart Groceries Essentials Necessities Daily Food Drinks Rice Retail Groceries",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8146846652933932-AceMarketplace_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8146846652933932-AceMarketplace_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8146846652933932-AceMarketplace_high.png"
+			},
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ace-marketplace-805726f8",
+			"outlets": [
+				{
+					"_id": "6889c0fca0dcfc09ff45d1ca",
+					"name": "151 Serangoon North Avenue 2"
+				},
+				{
+					"_id": "6889c1403b6f710403c3577e",
+					"name": "151 Bukit Batok Street 11"
+				},
+				{
+					"_id": "6889c1820cd15f04000ce085",
+					"name": "780 Yishun Ring Road"
+				},
+				{
+					"_id": "6889c42e1f111d0402ff742e",
+					"name": "465 North Bridge Road"
+				},
+				{
+					"_id": "6889c5c2a0dcfc09ff45d636",
+					"name": "King George's Avenue"
+				},
+				{
+					"_id": "6889c62ab74adb0409825b92",
+					"name": "146 Jalan Bukit Merah"
+				},
+				{
+					"_id": "6889c674a8590904028bdae7",
+					"name": "181 Ang Mo Kio Avenue 5"
+				},
+				{
+					"_id": "6889c9772f1bc30401dfff9d",
+					"name": "537 Bedok North Street 3"
+				},
+				{
+					"_id": "6889c9f7feb5be0409dee8ab",
+					"name": "462 Tampines Street 44"
+				},
+				{
+					"_id": "694a5c349d6da1402ade3c11",
+					"name": "119 Aljunied Ave 2"
+				},
+				{
+					"_id": "6982a24e9c996470588b91be",
+					"name": "Blk 88 Circuit Road"
+				},
+				{
+					"_id": "69df55cdf3a751a1ce6eaa4b",
+					"name": "59 New Upper Changi Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"151 Serangoon North Avenue 2",
+			"151 Bukit Batok Street 11",
+			"780 Yishun Ring Road",
+			"465 North Bridge Road",
+			"King George's Avenue",
+			"146 Jalan Bukit Merah",
+			"181 Ang Mo Kio Avenue 5",
+			"537 Bedok North Street 3",
+			"462 Tampines Street 44",
+			"119 Aljunied Ave 2",
+			"Blk 88 Circuit Road",
+			"59 New Upper Changi Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ACE Marketplace",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

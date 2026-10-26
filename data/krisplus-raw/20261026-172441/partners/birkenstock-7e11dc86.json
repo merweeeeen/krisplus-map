@@ -1,0 +1,218 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/birkenstock-7e11dc86",
+	"slug": "birkenstock-7e11dc86",
+	"fetchedAt": "2026-10-26T17:24:49.593+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5c13023a669b001a186e885b",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "119 Genting Lane, , #03-00 HB 119 Genting",
+				"postalCode": "349570",
+				"streetName": "Genting Lane"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "Birkenstock",
+			"brand": "Birkenstock",
+			"code": "BKS",
+			"countryIncorporation": "Singapore",
+			"description": "",
+			"categary": "Fashion",
+			"regNumber": "200511297K",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-0c4f7eb1-64dd-4239-8ec2-bc7602d36db6.jpg",
+			"createdAt": "2018-12-14T01:07:06.462Z",
+			"updatedAt": "2026-09-01T02:09:26.717Z",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 10% off regular priced items when you flash the KrisPay app at the point of payment.\n\nTerms and Conditions:\n•\tPromotion is not valid with other promotions, discount vouchers or privileges.\n•\tSTAR360 management reserves the right to amend the terms and conditions without prior notice.\n\nFind out more at : https://starthreesixty.com/about/our-brands/brands-birkenstock/",
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-24d862ea-fe8b-4464-8583-d9bb67ea6b95.jpg",
+			"participatingOutlets": "•\tBugis Junction\n•\tCentury Square\n•\tParagon\n•\tSuntec City\n•\tVelocity\n•\tVivoCity",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://starthreesixty.com/about/our-brands/brands-birkenstock/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Birkenstock",
+			"descriptionHtml": "<p>Birkenstock is a global footwear brand that’s originated from Germany in 1774. With vast experience in the fine art of shoemaking, Birkenstock guarantees to bring shoes that exhibit the finest workmanship and utmost quality.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Bugis Junction</li> \t<li>Century Square</li> \t<li>Jewel</li> \t<li>Paragon</li> \t<li>Suntec City</li> \t<li>Vivocity</li> </ul>",
+			"searchableKeywords": [
+				"Bugis",
+				"Orchard",
+				"Promenade",
+				"Raffles Boulevard",
+				"Novena Square",
+				"Tampines",
+				"Tampines East",
+				"Retail",
+				"Shoes",
+				"Central",
+				"Birkis",
+				"Sandals",
+				"Slip Ons",
+				"Hiking",
+				"Waterproof",
+				"Running",
+				"Work",
+				"Men",
+				"Women",
+				"Bugis Junction",
+				"Century Square",
+				"Paragon",
+				"Suntec City",
+				"Velocity",
+				"Vivocity",
+				"Adidas",
+				"Puma",
+				"Skechers",
+				"Asics"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f23d10e34df66b474a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-24d862ea-fe8b-4464-8583-d9bb67ea6b95.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-0c4f7eb1-64dd-4239-8ec2-bc7602d36db6.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-24d862ea-fe8b-4464-8583-d9bb67ea6b95_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-24d862ea-fe8b-4464-8583-d9bb67ea6b95_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-24d862ea-fe8b-4464-8583-d9bb67ea6b95_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-0c4f7eb1-64dd-4239-8ec2-bc7602d36db6_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-0c4f7eb1-64dd-4239-8ec2-bc7602d36db6_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-0c4f7eb1-64dd-4239-8ec2-bc7602d36db6_high.jpg"
+			},
+			"searchContent": "Birkenstock is a global footwear brand that’s originated from Germany in 1774. With vast experience in the fine art of shoemaking, Birkenstock guarantees to bring shoes that exhibit the finest workmanship and utmost quality. Participating Outlets: Bugis Junction Century Square Jewel Paragon Suntec City Vivocity Bugis Orchard Promenade Raffles Boulevard Novena Square Tampines Tampines East Retail Shoes Central Birkis Sandals Slip Ons Hiking Waterproof Running Work Men Women Bugis Junction Century Square Paragon Suntec City Velocity Vivocity Adidas Puma Skechers Asics Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:31:07.265Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "birkenstock-7e11dc86",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "5c20724d29409b471417b12a",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "5c21b5823c13405bb828fca0",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "5c27251de3755606d0bb64c0",
+					"name": "Paragon Shopping Centre "
+				},
+				{
+					"_id": "5f8fd9883d533779b0ba69f2",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "66725003dc997f00686644f5",
+					"name": "Jewel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"VivoCity",
+			"Suntec City",
+			"Paragon Shopping Centre ",
+			"Bugis Junction",
+			"Jewel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Birkenstock",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

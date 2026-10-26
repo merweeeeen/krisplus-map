@@ -1,0 +1,209 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/swatow-restaurant-59d87c76",
+	"slug": "swatow-restaurant-59d87c76",
+	"fetchedAt": "2026-10-26T17:29:11.612+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6493a9cca2c36b004ed6367d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dim Sum Seafood",
+				"Teochew Cuisine",
+				"Traditional",
+				"Dim Sum Buffet",
+				"Chinese",
+				"Chinese New Year",
+				"Gatherings",
+				"Bukit Batok",
+				"Toa Payoh",
+				"Mother’S Day",
+				"Father’S Day",
+				"Reunion",
+				"Buffet",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Swatow Restaurant Pte Ltd",
+			"brand": "Swatow Restaurant",
+			"code": "STW",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Swatow",
+			"address": {
+				"city": "Singapore",
+				"line1": "Blk 181, Lor 4 Toa Payoh #02-602, Singapore 310181",
+				"streetName": "Blk 181, Lor 4 Toa Payoh",
+				"postalCode": "310181",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"CAF",
+								"BD",
+								"BUF",
+								"CHI"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"regNumber": "201003898K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8858842275400967-02776571815157025-Brand%20Image_1IMG_750x540px.png",
+			"websiteUrl": "https://swatow.com.sg",
+			"descriptionHtml": "<p>Swatow Restaurant features a wide range of authentic Teochew cuisine that has been influenced by centuries of cultural heritage. Their signature dishes are expertly prepared by top chefs from the Asia Pacific region, using only the freshest ingredients. You can also indulge in their traditional handmade dim sum offerings. Their restaurant combines nostalgic grandeur with a modern twist, offering a dining experience that will transport you back in time while enjoying the company of your loved ones.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Swatow City&nbsp;(Bukit Batok HomeTeamNS)</li>\n\t<li>Swatow Seafood (Toa Payoh)</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/05698078671537732-10578929718696162-Swatow%20Logo%201000px.png",
+			"createdAt": "2023-06-22T01:54:20.265Z",
+			"updatedAt": "2026-08-06T14:17:46.080Z",
+			"translations": [
+				"64eef9f7595add249244648e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8858842275400967-02776571815157025-Brand%20Image_1IMG_750x540px.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/05698078671537732-10578929718696162-Swatow%20Logo%201000px.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8858842275400967-02776571815157025-Brand%20Image_1IMG_750x540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8858842275400967-02776571815157025-Brand%20Image_1IMG_750x540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8858842275400967-02776571815157025-Brand%20Image_1IMG_750x540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/05698078671537732-10578929718696162-Swatow%20Logo%201000px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/05698078671537732-10578929718696162-Swatow%20Logo%201000px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/05698078671537732-10578929718696162-Swatow%20Logo%201000px_high.png"
+			},
+			"searchContent": "Swatow Restaurant features a wide range of authentic Teochew cuisine that has been influenced by centuries of cultural heritage. Their signature dishes are expertly prepared by top chefs from the Asia Pacific region, using only the freshest ingredients. You can also indulge in their traditional handmade dim sum offerings. Their restaurant combines nostalgic grandeur with a modern twist, offering a dining experience that will transport you back in time while enjoying the company of your loved ones. Participating Outlets: Swatow City (Bukit Batok HomeTeamNS) Swatow Seafood (Toa Payoh) Dim Sum Seafood Teochew Cuisine Traditional Dim Sum Buffet Chinese Chinese New Year Gatherings Bukit Batok Toa Payoh Mother’S Day Father’S Day Reunion Buffet Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery Dining Cafe Beverages & Desserts Buffet Chinese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "swatow-restaurant-59d87c76",
+			"outlets": [
+				{
+					"_id": "6493be4645084d0055be3b5b",
+					"name": "Toa Payoh Mall"
+				},
+				{
+					"_id": "6493bebb9b84c000562c20af",
+					"name": "HomeTeamNS Bukit Batok"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Toa Payoh Mall",
+			"HomeTeamNS Bukit Batok"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Swatow Restaurant",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

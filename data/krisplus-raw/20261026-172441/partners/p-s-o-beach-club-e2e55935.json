@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/p-s-o-beach-club-e2e55935",
+	"slug": "p-s-o-beach-club-e2e55935",
+	"fetchedAt": "2026-10-26T17:29:30.686+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6552ec89457a1e004f817ead",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 12.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Orchard",
+				"Pool",
+				"Pool Bar",
+				"Cocktails",
+				"Red Wine",
+				"White Wine",
+				"Celebration",
+				"Bar",
+				"Drinks",
+				"Alcohol",
+				"Beverages",
+				"Rosé Wine"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"6552ec93437616b8193d2151"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "P.S.O. Beach Club",
+			"brand": "P.S.O. Beach Club",
+			"code": "PSO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "P.S.O. Beach C",
+			"address": {
+				"line1": "Pullman Singapore Orchard",
+				"postalCode": "238857",
+				"streetName": "270 Orchard Road, Floor 4",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"PB",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "53453749M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9954880383220968-Untitled%20design.png",
+			"websiteUrl": "https://bit.ly/psobeachclub",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=P.S.O%20Beach%20Club\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Escape the city’s hustle and into a chic, tropical respite framed by lush greenery and a striking pool a place to slow down, sip well and savour delicious bites. Picture a striking pool, comfy cabanas and daybeds, a lively swim up bar and an atmosphere that moves effortlessly from languid daytime lounging to electric evenings. Whether you’re after a long, lazy lunch, pre dinner cocktails or a night out, P.S.O. Beach Club turns every visit into a mini getaway.</p><p><br></p><p>Mingle over playful appetisers like our addictive Sweet Potato Fries dusted with sour plum powder, or indulge in the satisfying crunch of our Korean Fried Chicken. Moving to mains, it’s a celebration of upscale comfort: bite into the stacked P.S.O. Beef Burger featuring premium Angus beef and smoky barbecue sauce, enjoy thick battered Halibut Fish & Chips, or discover the perfect plant-based bite with our hearty Vegan Burger.</p><p><br></p><p>No beach club experience is complete without the perfect pour. Toast to the stylish vibe with a Mint Pinacolada, a refreshing Jade Shore mocktail, or explore our curated selection of Provence Rosés and local craft beers. Every sip and every bite is designed to elevate your getaway.</p><p><br></p><p>Note: ALL points from Accor Live Limitless Loyalty programme can be utilized/earned in conjunction with payments via Kris+. All Accor Plus Explorer (paid membership) discounts and vouchers cannot be utilized in conjunction with Kris+ payments.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7410411513915576-pso1.jpg",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2023-11-14T03:42:01.415Z",
+			"updatedAt": "2026-10-12T03:08:40.168Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9954880383220968-Untitled%20design.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7410411513915576-pso1.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9954880383220968-Untitled%20design_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9954880383220968-Untitled%20design_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9954880383220968-Untitled%20design_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7410411513915576-pso1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7410411513915576-pso1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7410411513915576-pso1_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-08T02:25:46.255Z",
+			"searchContent": "$31",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "p-s-o-beach-club-e2e55935",
+			"outlets": [
+				{
+					"_id": "655b6dd7df5a190054ebc142",
+					"name": "Pullman Singapore Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pullman Singapore Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "P.S.O. Beach Club",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

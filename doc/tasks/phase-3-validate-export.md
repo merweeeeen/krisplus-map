@@ -2,6 +2,15 @@
 
 This phase writes the files the brief lists in its Phase 3, with a script you can rerun.
 
+Status on 2026-10-26: tasks 3.1 to 3.4 are done, and the acceptance checks below pass. Results, all measured:
+
+- The export holds 1,802 outlets, and 1,483 of them are GeoJSON features. Every record passed validation.
+- Rerunning from `normalize` left every file in `data/out/` identical apart from `generated_at`, and the registry byte-identical.
+- A second full crawl, `20261026-172441`, one hour after the first, kept all 1,802 outlet IDs and added or removed none. Registry entries changed only `last_seen_at`, and no outlet changed apart from its timestamps. Geocoding sent no OneMap requests.
+- Cedele has 22 records, and 20 of them are features. Suntec City Mall and VivoCity each hold 40 features at one coordinate.
+
+Two details differ from the tasks below. `.gitignore` has `!data/out/`, because the Node template ignores any folder named `out`. Records that break a rule get a `validation_notes` field, which the schema now includes.
+
 ## Tasks
 
 ### 3.1 Validate every record

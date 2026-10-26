@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/synthesis-restaurant-bar-81da3d93",
+	"slug": "synthesis-restaurant-bar-81da3d93",
+	"fetchedAt": "2026-10-26T17:35:10.257+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a66bca4393530ccb062b7f3",
+			"name": "KAWA LIFESTYLE PTE LTD",
+			"shortName": "Synthesis RB",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Synthesis Restaurant & Bar",
+			"code": "SN9",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2768670044501944-3364364951979619-Synthesis_BrandLogo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4826183055431925-8561867121870437-Synthesis_Main.jpg",
+			"websiteUrl": "https://www.synthesis.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "3 TEMASEK BOULEVARD #01-643",
+				"postalCode": "038983",
+				"streetName": "SUNTEC CITY MALL",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Synthesis combines the concepts of a restaurant, speakeasy and lounge, inspired by the rich history of traditional Chinese medicine culture. They constantly seek to creatively reinterpret classic and familiar elements to bring customers unique experiences through their herbal and Modern Asian cuisine and cocktails.</span></p>",
+			"searchableKeywords": [
+				"Cocktail",
+				"bar",
+				"TCM"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"PB",
+								"QBS",
+								"CHI",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-10-11T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-27T02:04:20.122Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2768670044501944-3364364951979619-Synthesis_BrandLogo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4826183055431925-8561867121870437-Synthesis_Main.jpg",
+			"createdAt": "2026-07-27T02:04:20.129Z",
+			"updatedAt": "2026-08-07T02:18:36.118Z",
+			"searchContent": "Synthesis combines the concepts of a restaurant, speakeasy and lounge, inspired by the rich history of traditional Chinese medicine culture. They constantly seek to creatively reinterpret classic and familiar elements to bring customers unique experiences through their herbal and Modern Asian cuisine and cocktails. Cocktail bar TCM Dining Casual Dining Pubs & Bars Quick Bites & Snacks Chinese Beverages & Desserts",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4826183055431925-8561867121870437-Synthesis_Main_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4826183055431925-8561867121870437-Synthesis_Main_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4826183055431925-8561867121870437-Synthesis_Main_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2768670044501944-3364364951979619-Synthesis_BrandLogo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2768670044501944-3364364951979619-Synthesis_BrandLogo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2768670044501944-3364364951979619-Synthesis_BrandLogo_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "synthesis-restaurant-bar-81da3d93",
+			"outlets": [
+				{
+					"_id": "6a66be7351de291e454336b1",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Synthesis Restaurant & Bar",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

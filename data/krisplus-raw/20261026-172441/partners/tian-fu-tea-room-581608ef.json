@@ -1,0 +1,188 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tian-fu-tea-room-581608ef",
+	"slug": "tian-fu-tea-room-581608ef",
+	"fetchedAt": "2026-10-26T17:26:10.812+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6077e9ecaa281432bc40b8fd",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Tian Fu Tea Room",
+			"brand": "Tian Fu Tea Room",
+			"code": "TFT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "TianFu TeaRoom",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "101 Thomson Road #33-00 , United Square ",
+				"postalCode": "307591",
+				"streetName": "Thomson Road"
+			},
+			"regNumber": "199705943E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6974339544366526-Tian%20Fu%20Tea%20Room.jpg",
+			"websiteUrl": "https://www.sichuandouhua.com/en/tea-room",
+			"descriptionHtml": "<p>Relish the invigorating aroma of premium brews at Tian Fu Tea Room, a fully dedicated tearoom serving premium Chinese tea and exquisitely handcrafted dim sum. You’ll find a wide selection of over 30 varieties of fine tea — ranging from the familiar green and red tea to more exotic variations of yellow, white and flower tea.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/13923913131493348-logoImage-b76404bf-6aef-4da1-92d0-c569030f7a88.png",
+			"createdAt": "2021-04-15T07:23:24.170Z",
+			"updatedAt": "2026-08-06T14:17:15.648Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "        ",
+			"promotional": "      ",
+			"searchableKeywords": [
+				"Raffles Place",
+				"Cecil Street",
+				"Chinese",
+				"Raffles Place",
+				"Shenton Way",
+				"Relaxation",
+				"Afternoon Tea",
+				"Chinese Tea",
+				"Dessert",
+				"Tea Time",
+				"Dining",
+				"Dim Sum",
+				"Uob Plaza 1",
+				"View",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiang-Nan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c445578ca5d7f0b3bf"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6974339544366526-Tian%20Fu%20Tea%20Room.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13923913131493348-logoImage-b76404bf-6aef-4da1-92d0-c569030f7a88.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6974339544366526-Tian%20Fu%20Tea%20Room_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6974339544366526-Tian%20Fu%20Tea%20Room_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6974339544366526-Tian%20Fu%20Tea%20Room_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13923913131493348-logoImage-b76404bf-6aef-4da1-92d0-c569030f7a88_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13923913131493348-logoImage-b76404bf-6aef-4da1-92d0-c569030f7a88_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13923913131493348-logoImage-b76404bf-6aef-4da1-92d0-c569030f7a88_high.png"
+			},
+			"searchContent": "Relish the invigorating aroma of premium brews at Tian Fu Tea Room, a fully dedicated tearoom serving premium Chinese tea and exquisitely handcrafted dim sum. You’ll find a wide selection of over 30 varieties of fine tea — ranging from the familiar green and red tea to more exotic variations of yellow, white and flower tea. Raffles Place Cecil Street Chinese Raffles Place Shenton Way Relaxation Afternoon Tea Chinese Tea Dessert Tea Time Dining Dim Sum Uob Plaza 1 View Reunion Business Corporate Dining Working Lunch Networking Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiang-Nan Chun Honolulu Tai Cheong Bakery Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:27:27.217Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tian-fu-tea-room-581608ef",
+			"outlets": [
+				{
+					"_id": "60915a15b389d6340456353d",
+					"name": "TOP OF UOB Plaza 1"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"TOP OF UOB Plaza 1"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tian Fu Tea Room",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

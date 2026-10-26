@@ -1,0 +1,186 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/8-korean-bbq-the-central-28fe62f3",
+	"slug": "8-korean-bbq-the-central-28fe62f3",
+	"fetchedAt": "2026-10-26T17:29:06.613+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6470667a2a82530050839aae",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bbq",
+				"Korean",
+				"Wagyu",
+				"Meat",
+				"Makgeolli",
+				"Pork",
+				"Grilled",
+				"Barbeque",
+				"Beef",
+				"Dining",
+				"Clarke Quay",
+				"Central"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "8 COLOURS SINGAPORE PTE LTD",
+			"brand": "8 Korean BBQ (The Central)",
+			"code": "8KB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "8 Korean BBQ",
+			"address": {
+				"line1": "28 Binchang Rise Singapore 579895",
+				"postalCode": "579895",
+				"streetName": "28 Binchang Rise Singapore",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201302048E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/905941543379424-7158120559605083-Brand_750.jpg",
+			"websiteUrl": "https://www.8koreanbbq.com/",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a><br><br></em>EIGHT Korean BBQ is named after its eponymous 8 Colours Set, which features thick, scrumptious slices of premium pork belly in an array of flavours. Located at The Central at Clarke Quay, they offer a selection of tantalising premium BBQ meats in a sleek industrial chic setting. At this full-service BBQ Korean restaurant, diners can simply sit back and enjoy their drink and conversations whilst their food is expertly prepared for them at their table.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9098861215906973-6286790885078253-logo2.jpg",
+			"createdAt": "2023-05-26T07:57:46.672Z",
+			"updatedAt": "2026-08-13T01:05:45.217Z",
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"translations": [
+				"64eef9420108b03f047da55e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"privilege": false,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/905941543379424-7158120559605083-Brand_750.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9098861215906973-6286790885078253-logo2.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/905941543379424-7158120559605083-Brand_750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/905941543379424-7158120559605083-Brand_750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/905941543379424-7158120559605083-Brand_750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9098861215906973-6286790885078253-logo2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9098861215906973-6286790885078253-logo2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9098861215906973-6286790885078253-logo2_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:03:59.784Z",
+			"searchContent": "*Click here to Reserve A Table. EIGHT Korean BBQ is named after its eponymous 8 Colours Set, which features thick, scrumptious slices of premium pork belly in an array of flavours. Located at The Central at Clarke Quay, they offer a selection of tantalising premium BBQ meats in a sleek industrial chic setting. At this full-service BBQ Korean restaurant, diners can simply sit back and enjoy their drink and conversations whilst their food is expertly prepared for them at their table. Bbq Korean Wagyu Meat Makgeolli Pork Grilled Barbeque Beef Dining Clarke Quay Central Feasttofly Dining Casual Dining",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "8-korean-bbq-the-central-28fe62f3",
+			"outlets": [
+				{
+					"_id": "6470678f80fad8004d64cd7b",
+					"name": "The Central"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Central"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "8 Korean BBQ (The Central)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

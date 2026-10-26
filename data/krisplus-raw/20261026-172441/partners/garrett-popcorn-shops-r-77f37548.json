@@ -1,0 +1,239 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/garrett-popcorn-shops-r-77f37548",
+	"slug": "garrett-popcorn-shops-r-77f37548",
+	"fetchedAt": "2026-10-26T17:27:09.035+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61fce5709140655ba085a01c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Snacks",
+				"Popcorn",
+				"Garrett Popcorn Shops",
+				"Chocolate",
+				"Petite Tin",
+				"Chicago",
+				"Usa",
+				"Cinema",
+				"Gifts",
+				"Changi Airport T1",
+				"Changi Airport T2",
+				"Jurong Point",
+				"Raffles City",
+				"Vivocity",
+				"Vivo",
+				"Harbourfront",
+				"Orchard",
+				"Wisma Atria",
+				"Retail",
+				"Tourists",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "CaramelCrisp Pte Ltd",
+			"brand": "Garrett Popcorn Shops®",
+			"code": "GAR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Garrett®",
+			"address": {
+				"line1": "8 Marina Boulevard, Marina Bay Financial Centre, #05-02, Singapore 018981",
+				"postalCode": "018981",
+				"streetName": "8 Marina Boulevard",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201229971E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/49949784912339323-Brand-GarrettMix-750x540.jpg",
+			"websiteUrl": "https://www.garrettpopcorn.com.sg/",
+			"descriptionHtml": "<p>Garrett Popcorn Shops<strong><sup>®</sup></strong>, a Chicago tradition since 1949, serves only the finest handcrafted popcorn. Every small batch of Garrett<strong><sup>® </sup></strong>is hot air popped throughout the day for ultimate freshness. Using only the highest quality ingredients, every kernel is coated with their secret family recipes in old-fashioned copper kettles. </p>  <p>Participating Shops:</p>  <ul> \t<li>Changi Airport Terminal 1/2/4 Transit Area</li> \t<li>Jurong Point</li> \t<li>Raffles City Shopping Centre</li> \t<li>313@Somerset</li> \t \t<li>VivoCity</li> \t<li>Wisma Atria</li> </ul>    <ul> <br></ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"earnRates": {
+				"amountBlock": 1,
+				"base": 3,
+				"cardSettlement": 0.978,
+				"saleOfMiles": 0.032,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 2.2,
+					"saleOfMilesPct": 0
+				},
+				"calculatedMilesEarnRate": 3,
+				"autoDeductSaleOfMilesPct": false
+			},
+			"promotional": "      ",
+			"participatingOutlets": "Participating Shops:\n\nJurong Point\nRaffles City Shopping Centre\nSomerset 313\nVivoCity\nWisma Atria\n\nTemporarily Closed Shops:\n\nChangi Airport Terminal 1 Transit Area\nChangi Airport Terminal 2 Transit Area",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8876036840463171-Garrett-Emblem-1000x1000.jpg",
+			"createdAt": "2022-02-04T08:36:00.030Z",
+			"updatedAt": "2026-09-10T04:22:52.341Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef99145578ca5d7f0b3ab"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 8
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/49949784912339323-Brand-GarrettMix-750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8876036840463171-Garrett-Emblem-1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/49949784912339323-Brand-GarrettMix-750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/49949784912339323-Brand-GarrettMix-750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/49949784912339323-Brand-GarrettMix-750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8876036840463171-Garrett-Emblem-1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8876036840463171-Garrett-Emblem-1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8876036840463171-Garrett-Emblem-1000x1000_high.jpg"
+			},
+			"searchContent": "Garrett Popcorn Shops®, a Chicago tradition since 1949, serves only the finest handcrafted popcorn. Every small batch of Garrett® is hot air popped throughout the day for ultimate freshness. Using only the highest quality ingredients, every kernel is coated with their secret family recipes in old-fashioned copper kettles. Participating Shops: Changi Airport Terminal 1/2/4 Transit Area Jurong Point Raffles City Shopping Centre 313@Somerset VivoCity Wisma Atria Snacks Popcorn Garrett Popcorn Shops Chocolate Petite Tin Chicago Usa Cinema Gifts Changi Airport T1 Changi Airport T2 Jurong Point Raffles City Vivocity Vivo Harbourfront Orchard Wisma Atria Retail Tourists Cnysnacks Chinese New Year Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Birthdays Holidays Anniversary Special Occasions Retail Gifts & Souvenirs",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "garrett-popcorn-shops-r-77f37548",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-09-10T04:21:19.437Z",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "6200c0b606001112a01b2551",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "6200c11e40dd1e3060fb32ed",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "6200c16940dd1e3060fb32ef",
+					"name": "Wisma Atria"
+				},
+				{
+					"_id": "6200c1cc40dd1e3060fb32f1",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "6200c22140dd1e3060fb32f3",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "6200c28206001112a01b2553",
+					"name": "Changi Airport T2 (Transit)"
+				},
+				{
+					"_id": "6200c37640dd1e3060fb32f5",
+					"name": "Changi Airport T1 (Transit)"
+				},
+				{
+					"_id": "6510ebba1e635800571ceb59",
+					"name": "Changi Airport T4 (Transit)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset",
+			"VivoCity",
+			"Wisma Atria",
+			"Jurong Point",
+			"Raffles City Shopping Centre",
+			"Changi Airport T2 (Transit)",
+			"Changi Airport T1 (Transit)",
+			"Changi Airport T4 (Transit)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Garrett Popcorn Shops®",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

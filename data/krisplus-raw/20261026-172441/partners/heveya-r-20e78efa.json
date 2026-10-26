@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/heveya-r-20e78efa",
+	"slug": "heveya-r-20e78efa",
+	"fetchedAt": "2026-10-26T17:30:11.737+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66cd4062b4dd770069471a96",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Heveya",
+				"Mattress",
+				"Bedding",
+				"Bed Sheets",
+				"Sheets",
+				"Linen",
+				"Bed",
+				"Bed Frame",
+				"Duvet",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Heveya Pte. Ltd.",
+			"brand": "Heveya®",
+			"code": "HEV",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Heveya®",
+			"address": {
+				"city": "Singapore",
+				"line1": "32 Eng Hoon Street, Singapore 169780",
+				"streetName": "32 Eng Hoon Street",
+				"postalCode": "169780",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"websiteUrl": "https://www.heveya.sg",
+			"descriptionHtml": "<p>Heveya® is a one-stop bedding store specialising in organic latex mattresses, FSC-certified bed bases, and eco-friendly bedding accessories - all crafted from natural materials and designed to ensure that you sleep in unparalleled comfort and luxury.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9661641184605276-39768722286465596-Heveya%20Logo%20(1000x1000)%20-%20green%20(002).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/738177586672349-14565613535978095-Brand%20image%20(750x540).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"createdAt": "2024-08-27T02:56:34.522Z",
+			"updatedAt": "2026-08-06T14:18:06.410Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/738177586672349-14565613535978095-Brand%20image%20(750x540).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9661641184605276-39768722286465596-Heveya%20Logo%20(1000x1000)%20-%20green%20(002).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/738177586672349-14565613535978095-Brand%20image%20(750x540)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/738177586672349-14565613535978095-Brand%20image%20(750x540)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/738177586672349-14565613535978095-Brand%20image%20(750x540)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9661641184605276-39768722286465596-Heveya%20Logo%20(1000x1000)%20-%20green%20(002)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9661641184605276-39768722286465596-Heveya%20Logo%20(1000x1000)%20-%20green%20(002)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9661641184605276-39768722286465596-Heveya%20Logo%20(1000x1000)%20-%20green%20(002)_high.png"
+			},
+			"searchContent": "Heveya® is a one-stop bedding store specialising in organic latex mattresses, FSC-certified bed bases, and eco-friendly bedding accessories - all crafted from natural materials and designed to ensure that you sleep in unparalleled comfort and luxury. Heveya Mattress Bedding Bed Sheets Sheets Linen Bed Bed Frame Duvet Homefurnishing Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.200Z",
+			"slugId": "heveya-r-20e78efa",
+			"outlets": [
+				{
+					"_id": "66ce88d4203b680068e6dfcf",
+					"name": "Great World"
+				},
+				{
+					"_id": "66ce893f203b680068e6e0b0",
+					"name": "32 Eng Hoon Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Great World",
+			"32 Eng Hoon Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Heveya®",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

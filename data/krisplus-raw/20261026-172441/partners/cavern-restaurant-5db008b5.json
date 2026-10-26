@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cavern-restaurant-5db008b5",
+	"slug": "cavern-restaurant-5db008b5",
+	"fetchedAt": "2026-10-26T17:31:07.755+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67c687100b5e3b19a57162f8",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 12.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"CAVE",
+				"CAVERN",
+				"MANDAI",
+				"DINING",
+				"CAVE DINING",
+				"MANDAI ZOO",
+				"tung lok"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "TUNG LOK CENTRAL RESTAURANT PTE LTD",
+			"brand": "Cavern Restaurant",
+			"code": "CAV",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Cavern Restaur",
+			"address": {
+				"line1": "26 TAI SENG STREET  #02-01 J'FORTE  SINGAPORE 534057",
+				"postalCode": "534057",
+				"streetName": "26 TAI SENG STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://cavernrestaurant.tunglok.com/",
+			"descriptionHtml": "<p>Step into the unique Cavern Restaurant, Singapore’s first and only restaurant in a cave setting inspired by the Mulu Caves in Sarawak. Open to public, the restaurant is located at the entrance of Rainforest Wild Adventure WEST and serves a menu of hearty grilled meats and shared platters alongside cocktails and craft beverages.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/34933377733584625-Cavern%20Logo%20(2026).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5503782429548658-Cavern.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/34933377733584625-Cavern%20Logo%20(2026).png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5503782429548658-Cavern.png",
+			"createdAt": "2025-03-04T04:52:32.583Z",
+			"updatedAt": "2026-10-15T12:22:05.765Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5503782429548658-Cavern_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5503782429548658-Cavern_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5503782429548658-Cavern_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/34933377733584625-Cavern%20Logo%20(2026)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/34933377733584625-Cavern%20Logo%20(2026)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/34933377733584625-Cavern%20Logo%20(2026)_high.png"
+			},
+			"searchContent": "Step into the unique Cavern Restaurant, Singapore’s first and only restaurant in a cave setting inspired by the Mulu Caves in Sarawak. Open to public, the restaurant is located at the entrance of Rainforest Wild Adventure WEST and serves a menu of hearty grilled meats and shared platters alongside cocktails and craft beverages. CAVE CAVERN MANDAI DINING CAVE DINING MANDAI ZOO tung lok Dining Casual Dining Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-15T06:44:57.478Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cavern-restaurant-5db008b5",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "67c68c39c8bfd8040f96b5a1",
+					"name": "Mandai Lake"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Mandai Lake"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cavern Restaurant",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/weddings-by-grain-00547d41",
+	"slug": "weddings-by-grain-00547d41",
+	"fetchedAt": "2026-10-26T17:33:18.141+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6939362a7f22c06003befe7f",
+			"name": "Grain Pte. Ltd.",
+			"shortName": "Weddings Grain",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Weddings by Grain",
+			"code": "WBG",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8520130234480872-WeddingsByGrain.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9570973950187072-5382251116443917-Brand%20Image%20App.png",
+			"websiteUrl": "https://grain.com.sg/weddings",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"address": {
+				"line1": "Tee Yih Jia Food Building",
+				"postalCode": "369972",
+				"streetName": "5 Burn Road,#05-01",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>   Note: Visit <a href=\"https://www.google.com/aclk?sa=L&ai=DChsSEwjCz-6s46WTAxWMM4MDHdNmKxYYACICCAEQARoCc2Y&co=1&gclid=CjwKCAjw1N7NBhAoEiwAcPchp2lRrnNTPfpOMXTQf-mS4-knVCV1wBflQB4ps-CdXJN-Kk8UUnSugxoC-a4QAvD_BwE&cid=CAASuwHkaBp30WgX-pU8W0vvXIxkWgz45FkmkefN9Z0RbINt2iWkyObDdFcVJBQCApqqyyvKVVjv8G6oRHMkLM9SdQu_LnymnFC8H-Ybwn3bu7gyZ4xmjLdVnIFQRJt4NSrLZsbBTOeF77PJZWsvt4jqSH1PX-eesFrbzAVwYn7ga_qvzDCji-jEBEJnU-zV_iSeHdaTQD2k-H-qc5r1MK2FZdOlsdjJ2qIH2Du8CtUeU23xBCYHCco-nU7eJ_eh&cce=2&sig=AOD64_2AYxVb7M3vRXkyC0vM57Ic1m5K9w&q&adurl&ved=2ahUKEwjsxOms46WTAxXryqACHYoBM28Q0Qx6BAglEAE\">https://grain.com.sg/weddings</a> for their full catalogue. Place your orders via concierge@grain.com.sg or +65 3163 5335 and quote Kris+ to receive the QR code for payment. Direct payment via Kris+ on partner’s website is not available.</p><p><br></p><p>Impress your parents and delight your friends. We take care of everything — from the food to the setup — so you can savour every moment of your wedding day. From grand buffet spreads to elegant canapés and live stations, every dish is crafted with wholesome ingredients and thoughtful touches for an unforgettable celebration.<br></p>",
+			"searchableKeywords": [
+				"Wedding",
+				"Weddings",
+				"Wedding Catering",
+				"Wedding Buffet",
+				"Wedding Reception",
+				"Mini Buffet",
+				"Buffet",
+				"Catering",
+				"Food Delivery",
+				"Event Catering",
+				"Party",
+				"Celebration",
+				"Engagement",
+				"Solemnisation",
+				"Anniversary",
+				"Intimate Dinner",
+				"Reception Catering",
+				"Singapore Wedding",
+				"Grain"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL",
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CHI",
+								"HEAL",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-10T08:58:18.860Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8520130234480872-WeddingsByGrain.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9570973950187072-5382251116443917-Brand%20Image%20App.png",
+			"createdAt": "2025-12-10T08:58:18.869Z",
+			"updatedAt": "2026-08-06T14:18:26.237Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9570973950187072-5382251116443917-Brand%20Image%20App_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9570973950187072-5382251116443917-Brand%20Image%20App_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9570973950187072-5382251116443917-Brand%20Image%20App_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8520130234480872-WeddingsByGrain_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8520130234480872-WeddingsByGrain_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8520130234480872-WeddingsByGrain_high.png"
+			},
+			"searchContent": "Note: Visit https://grain.com.sg/weddings for their full catalogue. Place your orders via concierge@grain.com.sg or +65 3163 5335 and quote Kris+ to receive the QR code for payment. Direct payment via Kris+ on partner’s website is not available. Impress your parents and delight your friends. We take care of everything — from the food to the setup — so you can savour every moment of your wedding day. From grand buffet spreads to elegant canapés and live stations, every dish is crafted with wholesome ingredients and thoughtful touches for an unforgettable celebration. Wedding Weddings Wedding Catering Wedding Buffet Wedding Reception Mini Buffet Buffet Catering Food Delivery Event Catering Party Celebration Engagement Solemnisation Anniversary Intimate Dinner Reception Catering Singapore Wedding Grain Dining Halal Vegan-Friendly Vegetarian-Friendly Buffet Chinese Healthy Asian Western",
+			"newMerchantEndDate": "2026-03-12T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "weddings-by-grain-00547d41",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Weddings by Grain",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

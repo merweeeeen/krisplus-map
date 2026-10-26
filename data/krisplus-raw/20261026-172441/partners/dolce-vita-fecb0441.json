@@ -1,0 +1,163 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/dolce-vita-fecb0441",
+	"slug": "dolce-vita-fecb0441",
+	"fetchedAt": "2026-10-26T17:32:08.833+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68919c642296040454f7122b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.035,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 17.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Italian Dining",
+				"Italian Delights",
+				"Pasta",
+				"Dining In Marina Bay"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Marina bay Hotel Pte Ltd (trading as Mandarin Oriental Singapore) (Dolce Vita)",
+			"brand": "Dolce Vita",
+			"code": "DOV",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Dolce Vita",
+			"address": {
+				"line1": "5 Raffles Avenue Singapore 039797",
+				"postalCode": "039797",
+				"streetName": "5 Raffles Avenue",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"ITA"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.mandarinoriental.com/en/singapore/marina-bay/dine/dolce-vita",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Enjoying a relaxed, convivial atmosphere, Dolce Vita puts a uniquely modern twist on the alluring flavours of authentic Italian cuisine. Passionate about retaining the true spirit of traditional Italian cuisine, Dolce Vita features the freshest of produce and the finest seasonal ingredients, which are translated into delicious daily creations.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5845773052825505-DolceVita.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/898510048567597-25094716892267144-Dolce%20Vita_Brand%20Image_750px%20X%20540px.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5845773052825505-DolceVita.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/898510048567597-25094716892267144-Dolce%20Vita_Brand%20Image_750px%20X%20540px.jpg",
+			"createdAt": "2025-08-05T05:53:40.425Z",
+			"updatedAt": "2026-10-15T12:22:08.076Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5845773052825505-DolceVita_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5845773052825505-DolceVita_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5845773052825505-DolceVita_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:39:29.794Z",
+			"searchContent": "Enjoying a relaxed, convivial atmosphere, Dolce Vita puts a uniquely modern twist on the alluring flavours of authentic Italian cuisine. Passionate about retaining the true spirit of traditional Italian cuisine, Dolce Vita features the freshest of produce and the finest seasonal ingredients, which are translated into delicious daily creations. Italian Dining Italian Delights Pasta Dining In Marina Bay Dining Casual Dining Kid-Friendly Beverages & Desserts Italian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "dolce-vita-fecb0441",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6891af6d2296040454f7242d",
+					"name": "Mandarin Oriental"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Mandarin Oriental"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Dolce Vita",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

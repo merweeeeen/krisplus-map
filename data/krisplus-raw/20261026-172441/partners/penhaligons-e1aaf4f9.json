@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/penhaligons-e1aaf4f9",
+	"slug": "penhaligons-e1aaf4f9",
+	"fetchedAt": "2026-10-26T17:27:15.839+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62286c7485f14b235448be6f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Retail",
+				"Penhaligons",
+				"Perfume",
+				"Specialty",
+				"Fashion",
+				"Gifts",
+				"Scents",
+				"British",
+				"Marina Bay Sands",
+				"Bayfront",
+				"Downtown",
+				"Mbs"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Penhaligon's",
+			"brand": "Penhaligon's",
+			"code": "PEN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Penhaligons",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "12 TAI SENG STREET #05-01 LUXASIA BUILDING SINGAPORE 534118",
+				"postalCode": "534118",
+				"streetName": "12 TAI SENG STREET"
+			},
+			"regNumber": "201103596H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/13959246824889404-PENHALIGONS%20APP%20BRAND%20IMAGE%20750%20x%20540.png",
+			"websiteUrl": "https://www.penhaligons.com/",
+			"descriptionHtml": "<p>Penhaligon’s is a creative perfumer that has entertained British nostrils with a dose of Britishness since 1870. Characterised by their creativity and rich heritage, they have a longstanding relationship with royalty and have been accorded two Royal Warrants.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Raffles City</li> \t<li>Marina Bay Sands</li><li>Takashimaya Shopping Centre</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/05083265854109653-PENHALIGONS%20LOGO%20260%20x%20260.png",
+			"participatingOutlets": "     ",
+			"createdAt": "2022-03-09T08:59:32.494Z",
+			"updatedAt": "2026-08-06T14:17:27.795Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "     ",
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef98bb35256c5b2c9beec"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13959246824889404-PENHALIGONS%20APP%20BRAND%20IMAGE%20750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/05083265854109653-PENHALIGONS%20LOGO%20260%20x%20260.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4964657826318335-6261238065991932-Portraits%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4964657826318335-6261238065991932-Portraits%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4964657826318335-6261238065991932-Portraits%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8703407406111363-9798496597664164-App%20Brand%20Logo_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8703407406111363-9798496597664164-App%20Brand%20Logo_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8703407406111363-9798496597664164-App%20Brand%20Logo_1000x1000_high.jpg"
+			},
+			"searchContent": "Penhaligon’s is a creative perfumer that has entertained British nostrils with a dose of Britishness since 1870. Characterised by their creativity and rich heritage, they have a longstanding relationship with royalty and have been accorded two Royal Warrants. Participating Outlets: Raffles City Marina Bay SandsTakashimaya Shopping Centre Retail Penhaligons Perfume Specialty Fashion Gifts Scents British Marina Bay Sands Bayfront Downtown Mbs Retail Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-11T07:55:38.953Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "penhaligons-e1aaf4f9",
+			"outlets": [
+				{
+					"_id": "6879c15ea1ec9a12152e74a9",
+					"name": "Marina Bay Sands"
+				},
+				{
+					"_id": "6879c1b41d2859040baee68b",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "6a0182e2a9dae48f7995a491",
+					"name": "Takashimaya Shopping Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Bay Sands",
+			"Raffles City Shopping Centre",
+			"Takashimaya Shopping Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Penhaligon's",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

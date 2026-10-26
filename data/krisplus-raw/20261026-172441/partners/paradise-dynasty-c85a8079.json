@@ -1,0 +1,214 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/paradise-dynasty-c85a8079",
+	"slug": "paradise-dynasty-c85a8079",
+	"fetchedAt": "2026-10-26T17:28:05.550+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7bd3fdede8b43dc1bbdb6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese Cuisine Local",
+				"Xiao Long Bao",
+				"Dining",
+				"Paradise Dynasty",
+				"Changiairport T3",
+				"Funan",
+				"City Hall",
+				"Paya Lebar Quarter",
+				"Suntec City",
+				"Vivocity",
+				"Harbourfront",
+				"Jurong East",
+				"Westgate",
+				"Wisma Atria",
+				"Orchard",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Mooncake",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Paradise Dynasty",
+			"brand": "Paradise Dynasty",
+			"code": "PDY",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Paradise Dyn",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201010333R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4192323095128885-Paradise%20Dynasty_xiao%20long%20bao_8%20flavours.jpg",
+			"websiteUrl": "https://www.paradisegp.com/brand-paradise-dynasty/",
+			"descriptionHtml": "<p>\nMarvel at the opulence and majesty of the restaurant settings while immersing yourself in the finest of northern and southern Chinese cuisine. Touted as a world-first, Paradise Dynasty is proud to present 8 first-of-its-kind legendary xiao long bao flavours. Accompanying these flavourful delicacies are La Mian, appetisers, seafood and rice dishes.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Changi Airport T3 (Public)</li>\n\t<li>Funan</li>\n\t\n\t<li>Paya Lebar Quarter</li>\n\t<li>Suntec</li>\n\t<li>Vivocity</li>\n\t<li>Westgate</li>\n\t<li>Wisma Atria</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "             ",
+			"participatingOutlets": "•\tChangi Airport T3\n•\tFunan\n•\tPaya Lebar Quarter\n•\tSuntec\n•\tVivoCity \n•\tWestgate\n•\tWisma Atria",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9155204852004282-ParadiseDynasty.jpg",
+			"createdAt": "2022-08-13T15:03:27.027Z",
+			"updatedAt": "2026-08-06T14:17:34.651Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96fb35256c5b2c9bed6"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 7
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4192323095128885-Paradise%20Dynasty_xiao%20long%20bao_8%20flavours.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9155204852004282-ParadiseDynasty.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4192323095128885-Paradise%20Dynasty_xiao%20long%20bao_8%20flavours_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4192323095128885-Paradise%20Dynasty_xiao%20long%20bao_8%20flavours_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4192323095128885-Paradise%20Dynasty_xiao%20long%20bao_8%20flavours_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9155204852004282-ParadiseDynasty_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9155204852004282-ParadiseDynasty_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9155204852004282-ParadiseDynasty_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-07T03:16:34.997Z",
+			"searchContent": "Marvel at the opulence and majesty of the restaurant settings while immersing yourself in the finest of northern and southern Chinese cuisine. Touted as a world-first, Paradise Dynasty is proud to present 8 first-of-its-kind legendary xiao long bao flavours. Accompanying these flavourful delicacies are La Mian, appetisers, seafood and rice dishes. Participating Outlets: Changi Airport T3 (Public) Funan Paya Lebar Quarter Suntec Vivocity Westgate Wisma Atria Chinese Cuisine Local Xiao Long Bao Dining Paradise Dynasty Changiairport T3 Funan City Hall Paya Lebar Quarter Suntec City Vivocity Harbourfront Jurong East Westgate Wisma Atria Orchard Reunion Business Corporate Dining Working Lunch Networking Mooncake paradise FortuneFeast Dining Chinese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "paradise-dynasty-c85a8079",
+			"outlets": [
+				{
+					"_id": "62f9219942de063c902ea240",
+					"name": "Changi Airport T3 (Public)"
+				},
+				{
+					"_id": "62f921ce42de063c902ea242",
+					"name": "Westgate"
+				},
+				{
+					"_id": "62f9225242de063c902ea24a",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "62f9228a42de063c902ea24e",
+					"name": "Wisma Atria"
+				},
+				{
+					"_id": "62f922b72fd51d0548ce0072",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "62f922de2fd51d0548ce0074",
+					"name": "VivoCity"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi Airport T3 (Public)",
+			"Westgate",
+			"Suntec City",
+			"Wisma Atria",
+			"PLQ Mall",
+			"VivoCity"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Paradise Dynasty",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

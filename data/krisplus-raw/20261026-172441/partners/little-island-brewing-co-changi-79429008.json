@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/little-island-brewing-co-changi-79429008",
+	"slug": "little-island-brewing-co-changi-79429008",
+	"fetchedAt": "2026-10-26T17:28:56.602+08:00",
+	"payload": {
+		"partner": {
+			"_id": "643df2f7e05c44005cdcd1e6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Craft Beers",
+				"Brewery",
+				"Pizzas",
+				"Sunday Roast",
+				"Wines",
+				"Cocktails",
+				"Bar",
+				"Grill",
+				"Birthdays",
+				"Anniversary",
+				"Corporate",
+				"Events",
+				"Weddings",
+				"Family",
+				"Gatherings",
+				"Live Band",
+				"Live Music",
+				"Changi",
+				"South Beach",
+				"Best",
+				"Steak",
+				"Seafood",
+				"Platters",
+				"Meats",
+				"Vegetarian",
+				"Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Little Island Brewing Co. Pte Ltd (Changi)",
+			"brand": "Little Island Brewing Co. (Changi)",
+			"code": "LII",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Little Island",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "6 Changi Village Road #01-01/02 ",
+				"postalCode": "509907",
+				"streetName": "6 Changi Village Road"
+			},
+			"regNumber": "201402278R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7537048762233332-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540.jpg",
+			"websiteUrl": "https://libc.co",
+			"descriptionHtml": "<p>Fancy fresh, locally-brewed craft beers paired with tantalising 15-hr smoked beef brisket and melt-in-your-mouth pork belly? Then, Little Island Brewing Co. (Changi)&nbsp;is what you&#39;ve been looking for! They are a 10,000 square feet, 400-seater microbrewery and smokehouse, employing traditional methods to produce award-winning world-class beers and awesome food!</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6712679603499234-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000.jpg",
+			"createdAt": "2023-04-18T01:31:35.737Z",
+			"updatedAt": "2026-08-06T14:17:43.856Z",
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [
+								"VEG"
+							],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"PB",
+								"CD"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94ca3718718842dd938"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7537048762233332-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6712679603499234-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7537048762233332-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7537048762233332-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7537048762233332-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6712679603499234-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6712679603499234-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6712679603499234-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000_high.jpg"
+			},
+			"searchContent": "Fancy fresh, locally-brewed craft beers paired with tantalising 15-hr smoked beef brisket and melt-in-your-mouth pork belly? Then, Little Island Brewing Co. (Changi) is what you've been looking for! They are a 10,000 square feet, 400-seater microbrewery and smokehouse, employing traditional methods to produce award-winning world-class beers and awesome food! Craft Beers Brewery Pizzas Sunday Roast Wines Cocktails Bar Grill Birthdays Anniversary Corporate Events Weddings Family Gatherings Live Band Live Music Changi South Beach Best Steak Seafood Platters Meats Vegetarian Dining Dining Vegetarian-Friendly Pubs & Bars Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "little-island-brewing-co-changi-79429008",
+			"outlets": [
+				{
+					"_id": "643df77afa2d2d005ce133be",
+					"name": "Changi Village Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi Village Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Little Island Brewing Co. (Changi)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/laundryheap-72b80fb3",
+	"slug": "laundryheap-72b80fb3",
+	"fetchedAt": "2026-10-26T17:34:15.185+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69df3482706cf9968e81f589",
+			"name": "Laundryheap Singapore Pte Ltd",
+			"shortName": "Laundryheap",
+			"mccCode": "7210",
+			"mccDescription": "Laundry, Cleaning, and Garment Services",
+			"brand": "Laundryheap",
+			"code": "LAU",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/26909120607618164-6292104581365776-260x260_2.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7815460121839193-Brand%20Image_750x540.png",
+			"websiteUrl": "https://www.laundryheap.com",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"address": {
+				"line1": "160 Robinson Road, #03-12, Singapore 068914",
+				"postalCode": "068914",
+				"streetName": "160 Robinson Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"pf0\" style=\"margin-right: 0px; margin-left: 0px; font-size: 16px; font-family:\"><span class=\"cf01\" style=\"font-family:\"><span style=\"font-size: 15px; font-family: Aptos, sans-serif;\">Stop losing             time to washing, ironing, or dragging clothes to the dry cleaners. Laundryheap’s             door-to-door service will collect, clean, and return your laundry in just 48             hours. Use the simple app to choose pickup and delivery slots, track your order             online, and get notifications when your driver is nearby. Trusted by over             400,000 customers, Laundryheap is rated Excellent on Trustpilot.</span></span><span style=\"font-size: 15px; font-family: Aptos, sans-serif;\"><br>         <br>         <span class=\"cf01\" style=\"font-family:\"><span style=\"font-family: Aptos, sans-serif;\">Note: Direct payment via Kris+ on partner’s                 website is not available. Earn or redeem miles via purchase of promo codes                 only.</span></span></span><span style=\"font-size: 15px; font-family: Aptos, sans-serif;\"></span></p>",
+			"searchableKeywords": [
+				"laundry near me",
+				"dry cleaning near me",
+				"laundromat near me",
+				"dry cleaning singapore",
+				"laundry",
+				"dry cleaning",
+				"laundromat singapore",
+				"laundry service singapore",
+				"laundryheap",
+				"dry cleaning tampines",
+				"laundry service near me",
+				"ironing service singapore",
+				"laundry singapore",
+				"dry cleaners near me",
+				"laundryheap singapore",
+				"laundromat",
+				"laundry heap",
+				"laundry service",
+				"dry cleaner singapore",
+				"dry clean near me",
+				"laundry sg",
+				"laundry shop near me",
+				"dry clean",
+				"dry cleaning singapore near me",
+				"laundry delivery service",
+				"laundry pick up service",
+				"laundry app"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-03T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-04-15T06:47:30.097Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/26909120607618164-6292104581365776-260x260_2.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7815460121839193-Brand%20Image_750x540.png",
+			"createdAt": "2026-04-15T06:47:30.125Z",
+			"updatedAt": "2026-09-01T01:59:47.326Z",
+			"searchContent": "$31",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7815460121839193-Brand%20Image_750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7815460121839193-Brand%20Image_750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7815460121839193-Brand%20Image_750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/26909120607618164-6292104581365776-260x260_2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/26909120607618164-6292104581365776-260x260_2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/26909120607618164-6292104581365776-260x260_2_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "laundryheap-72b80fb3",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Laundryheap",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

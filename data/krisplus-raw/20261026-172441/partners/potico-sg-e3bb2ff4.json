@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/potico-sg-e3bb2ff4",
+	"slug": "potico-sg-e3bb2ff4",
+	"fetchedAt": "2026-10-26T17:35:08.270+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a602a5e6f2df54f385df8d6",
+			"name": "POTICO SINGAPORE PTE. LTD.",
+			"shortName": "Potico",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Potico.sg",
+			"code": "PSP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2911802459028665-3105419223525021-A_POSG-Kris-App-Logo_260x260.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5099344012054308-7831629335401169-B_POSG-Kris-App-BrandImage_750x540.jpg",
+			"websiteUrl": "https://www.potico.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"address": {
+				"line1": "160 ROBINSON ROAD, #14-04, SINGAPORE BUSINESS FEDERATION CENTER, SINGAPORE 068914",
+				"postalCode": "068914",
+				"streetName": "160 ROBINSON ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Potico is Singapore’s trusted gifting destination, bringing     together a curated collection of flowers and lifestyle gifts for every     occasion. Whether it’s a birthday, an anniversary, or a corporate milestone,     Potico makes thoughtful gifting effortless with same-day delivery, beautifully     styled arrangements, and gifts designed to delight every recipient.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Note: Direct payment via Kris+ on partner’s website is not     available. Earn or redeem miles via purchase of promo codes only.</p>",
+			"searchableKeywords": [
+				"Gift",
+				"Gifts",
+				"Flowers",
+				"Bouquets",
+				"Baskets",
+				"gift baskets",
+				"hampers",
+				"gift boxes",
+				"birthday gifts",
+				"cakes",
+				"fruit basket",
+				"graduation gifts",
+				"tulips",
+				"roses",
+				"sunflowers",
+				"plants",
+				"grand openings",
+				"housewarming",
+				"valentines",
+				"valentines day gifts",
+				"mothers day",
+				"mothers day gifts",
+				"bridal bouquets",
+				"proposal flowers",
+				"plushies",
+				"hari raya",
+				"hari raya gifts",
+				"cny",
+				"chinese new year",
+				"cny gifts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-27T15:59:59.999Z",
+			"applicableCities": [],
+			"refundPeriodUpdatedAt": "2026-07-22T02:26:38.594Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2911802459028665-3105419223525021-A_POSG-Kris-App-Logo_260x260.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5099344012054308-7831629335401169-B_POSG-Kris-App-BrandImage_750x540.jpg",
+			"createdAt": "2026-07-22T02:26:38.656Z",
+			"updatedAt": "2026-08-13T01:16:49.132Z",
+			"searchContent": "Potico is Singapore’s trusted gifting destination, bringing together a curated collection of flowers and lifestyle gifts for every occasion. Whether it’s a birthday, an anniversary, or a corporate milestone, Potico makes thoughtful gifting effortless with same-day delivery, beautifully styled arrangements, and gifts designed to delight every recipient. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. Gift Gifts Flowers Bouquets Baskets gift baskets hampers gift boxes birthday gifts cakes fruit basket graduation gifts tulips roses sunflowers plants grand openings housewarming valentines valentines day gifts mothers day mothers day gifts bridal bouquets proposal flowers plushies hari raya hari raya gifts cny chinese new year cny gifts Retail Home & Lifestyle Gifts & Souvenirs",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5099344012054308-7831629335401169-B_POSG-Kris-App-BrandImage_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5099344012054308-7831629335401169-B_POSG-Kris-App-BrandImage_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5099344012054308-7831629335401169-B_POSG-Kris-App-BrandImage_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2911802459028665-3105419223525021-A_POSG-Kris-App-Logo_260x260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2911802459028665-3105419223525021-A_POSG-Kris-App-Logo_260x260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2911802459028665-3105419223525021-A_POSG-Kris-App-Logo_260x260_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "potico-sg-e3bb2ff4",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Potico.sg",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

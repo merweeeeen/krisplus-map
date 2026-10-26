@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/typhoon-cafe-b4b9e85f",
+	"slug": "typhoon-cafe-b4b9e85f",
+	"fetchedAt": "2026-10-26T17:30:44.602+08:00",
+	"payload": {
+		"partner": {
+			"_id": "676a252640f7e9006dcd81b6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Taiwan",
+				"Café",
+				"Souffle",
+				"Snacks",
+				"Taiwanese Cuisine",
+				"Bubble Tea",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Tai Feng Bistro Pte Ltd",
+			"brand": "Typhoon Cafe",
+			"code": "TYC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Typhoon Cafe",
+			"address": {
+				"line1": "211 Henderson Road #05-03 Singapore 159552",
+				"postalCode": "159552",
+				"streetName": "211 Henderson Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.typhooncafe.com.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Typhoon%20Cafe\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Typhoon Cafe, modelled after Taiwan's quaint Fujian Cafe Street, brings the “Taste of Taiwan” to the heart of Singapore. A cafe concept that features Taiwan’s unparalleled flavours, obsession for artisan fruit teas and larger-than-life desserts with innovative twists on Taiwanese classics.<br> <br> ​​​​​​​Participating Outlets: <br>- Plaza Singapura </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6320078058218428-Typhoon%20Logo%20(260x260).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8310116874076998-31726227047720323-Typhoon%20Brand%20Image%20(750x540).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-12-24T03:06:14.979Z",
+			"updatedAt": "2026-09-11T09:10:01.031Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8310116874076998-31726227047720323-Typhoon%20Brand%20Image%20(750x540)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8310116874076998-31726227047720323-Typhoon%20Brand%20Image%20(750x540)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8310116874076998-31726227047720323-Typhoon%20Brand%20Image%20(750x540)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6320078058218428-Typhoon%20Logo%20(260x260)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6320078058218428-Typhoon%20Logo%20(260x260)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6320078058218428-Typhoon%20Logo%20(260x260)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8310116874076998-31726227047720323-Typhoon%20Brand%20Image%20(750x540).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6320078058218428-Typhoon%20Logo%20(260x260).jpg",
+			"searchContent": "*Click here to Reserve A Table. Typhoon Cafe, modelled after Taiwan's quaint Fujian Cafe Street, brings the “Taste of Taiwan” to the heart of Singapore. A cafe concept that features Taiwan’s unparalleled flavours, obsession for artisan fruit teas and larger-than-life desserts with innovative twists on Taiwanese classics. ​​​​​​​Participating Outlets: - Plaza Singapura Taiwan Café Souffle Snacks Taiwanese Cuisine Bubble Tea FortuneFeast Dining Cafe Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Chinese Asian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-11T01:24:42.304Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "typhoon-cafe-b4b9e85f",
+			"outlets": [
+				{
+					"_id": "676a298c303de7006c44371d",
+					"name": "Plaza Singapura"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Plaza Singapura"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Typhoon Cafe",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

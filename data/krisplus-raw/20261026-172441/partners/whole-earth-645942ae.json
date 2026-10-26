@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/whole-earth-645942ae",
+	"slug": "whole-earth-645942ae",
+	"fetchedAt": "2026-10-26T17:32:33.942+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68c3d5d38603600466b1841d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Michelin",
+				"Michelin Bib Gourmand",
+				"Micheline Selection Singapore",
+				"Plantbased Restaurant",
+				"Vegetarianfriendly",
+				"Peranakan Cuisine",
+				"Thai Cuisine",
+				"Authentic Vegetarian Food",
+				"Best Natural Food",
+				"Best Vegetarian",
+				"Vegetarian Food Delivery",
+				"Family Celebration",
+				"Business And Corporate Event",
+				"Business Dining",
+				"Best Cny Restaurant",
+				"Recommended Restaurant Peck Seah",
+				"Handmade Vegetarian",
+				"Authentic Plantbased"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "THE WHOLE EARTH PTE LTD",
+			"brand": "Whole Earth",
+			"code": "WE3",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Whole Earth",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "76 PECK SEAH STREET",
+				"postalCode": "079331",
+				"streetName": "76 PECK SEAH STREET"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"BD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.wholeearth.com.sg/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">The first and only Peranakan-Thai vegetarian restaurant in Singapore, Whole Earth was founded in 2003 with the mission to elevate the standard of plant-based cooking and promote it to a wider audience beyond vegetarians and vegans in our little red dot. They are Singapore’s first and only Plant-based restaurant awarded the MICHELIN Bib Gourmand since 2016.</span><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"> </span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9074924160741082-Whole%20Earth.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5285779116429694-Image%20(72).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9074924160741082-Whole%20Earth.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5285779116429694-Image%20(72).jpg",
+			"createdAt": "2025-09-12T08:12:03.745Z",
+			"updatedAt": "2026-08-06T14:18:20.649Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9074924160741082-Whole%20Earth_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9074924160741082-Whole%20Earth_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9074924160741082-Whole%20Earth_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T02:02:45.507Z",
+			"searchContent": "The first and only Peranakan-Thai vegetarian restaurant in Singapore, Whole Earth was founded in 2003 with the mission to elevate the standard of plant-based cooking and promote it to a wider audience beyond vegetarians and vegans in our little red dot. They are Singapore’s first and only Plant-based restaurant awarded the MICHELIN Bib Gourmand since 2016. Michelin Michelin Bib Gourmand Micheline Selection Singapore Plantbased Restaurant Vegetarianfriendly Peranakan Cuisine Thai Cuisine Authentic Vegetarian Food Best Natural Food Best Vegetarian Vegetarian Food Delivery Family Celebration Business And Corporate Event Business Dining Best Cny Restaurant Recommended Restaurant Peck Seah Handmade Vegetarian Authentic Plantbased Dining Vegetarian-Friendly Casual Dining Beverages & Desserts Asian",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "whole-earth-645942ae",
+			"outlets": [
+				{
+					"_id": "68c788d78fb04e046da76756",
+					"name": "Peck Seah Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Peck Seah Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Whole Earth",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

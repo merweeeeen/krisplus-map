@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cherry-oak-eb6bf8b5",
+	"slug": "cherry-oak-eb6bf8b5",
+	"fetchedAt": "2026-10-26T17:29:01.581+08:00",
+	"payload": {
+		"partner": {
+			"_id": "644fd4bcd7c9cd005c3cb16c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Fusion Cuisine",
+				"Steakhouse",
+				"Tomahawk",
+				"Steak",
+				"Seafood",
+				"Halal",
+				"Muslim Owned",
+				"Dessert",
+				"Mocktail",
+				"Dining",
+				"Owen Road",
+				"All Day Breakfast",
+				"Pasta",
+				"Hi Tea"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "The Wangs Group",
+			"brand": "Cherry & Oak",
+			"code": "CNO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Cherry n Oak",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "93-95 Owen Road",
+				"postalCode": "218907",
+				"streetName": "Owen Road"
+			},
+			"regNumber": "2020119148K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/1872152761155248-750newimage540.png",
+			"websiteUrl": "https://www.cherrynoak.sg",
+			"descriptionHtml": "<p>Cherry & Oak is a unique dining destination that blends the Western art of slow-smoking meat with the beloved Malay dish, Nasi Lemak Bakar. With innovative dishes like Cherry & Oak Beef Brisket and Nasi Lemak Burger, they offer an exceptional culinary journey that excites and delights the taste buds. Beyond the plate, Cherry & Oak aims to create an immersive dining experience that engages all the senses.</p>  <p>Advance orders are highly recommended. Cherry & Oak smokes all their meats and does not grill them. The smoking process takes between 45 min to 1 hour. </p><p>Cherry & Oak <span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">is a Muslim owned establishment.</span></p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1029772167893257-cherryoaklogo.jpg",
+			"createdAt": "2023-05-01T15:03:24.211Z",
+			"updatedAt": "2026-09-04T07:03:03.005Z",
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94a0108b03f047da566"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1872152761155248-750newimage540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1029772167893257-cherryoaklogo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1872152761155248-750newimage540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1872152761155248-750newimage540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1872152761155248-750newimage540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1029772167893257-cherryoaklogo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1029772167893257-cherryoaklogo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1029772167893257-cherryoaklogo_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-27T00:50:38.836Z",
+			"searchContent": "Cherry & Oak is a unique dining destination that blends the Western art of slow-smoking meat with the beloved Malay dish, Nasi Lemak Bakar. With innovative dishes like Cherry & Oak Beef Brisket and Nasi Lemak Burger, they offer an exceptional culinary journey that excites and delights the taste buds. Beyond the plate, Cherry & Oak aims to create an immersive dining experience that engages all the senses. Advance orders are highly recommended. Cherry & Oak smokes all their meats and does not grill them. The smoking process takes between 45 min to 1 hour. Cherry & Oak is a Muslim owned establishment. Fusion Cuisine Steakhouse Tomahawk Steak Seafood Halal Muslim Owned Dessert Mocktail Dining Owen Road All Day Breakfast Pasta Hi Tea Dining Halal Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cherry-oak-eb6bf8b5",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "6467483c2a8253005074ccb4",
+					"name": "Owen Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Owen Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cherry & Oak",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,165 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/js-salon-a66c71e2",
+	"slug": "js-salon-a66c71e2",
+	"fetchedAt": "2026-10-26T17:34:32.216+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a03d914d5443b34e3d33416",
+			"name": "J'S SALON PTE. LTD.",
+			"shortName": "J Salon",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "J's Salon",
+			"code": "JSA",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/12530758913027262-37151727311343796-logo%20260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2283184347472611-24785497579755766-JSalon.png",
+			"websiteUrl": "https://www.js.com.sg/",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "392 HAVELOCK ROAD #03-00 GRAND COPTHORNE WATERFRONT SINGAPORE 169663",
+				"postalCode": "169663",
+				"streetName": "392 HAVELOCK ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">J’s Salon offers a luxurious hair and beauty experience in     the heart of Singapore. Renowned for its professional stylists, premium     services, and elegant ambiance, J’s Salon is committed to providing     personalized care that enhances every guest’s natural beauty and confidence.</p>",
+			"searchableKeywords": [
+				"Hair",
+				"hair cut",
+				"hair color",
+				"hair spa",
+				"dyeing",
+				"hair care",
+				"hair treatment",
+				"hair lightening",
+				"hair style"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-11T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-13T01:51:16.767Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12530758913027262-37151727311343796-logo%20260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2283184347472611-24785497579755766-JSalon.png",
+			"createdAt": "2026-05-13T01:51:16.777Z",
+			"updatedAt": "2026-08-06T14:18:31.694Z",
+			"searchContent": "J’s Salon offers a luxurious hair and beauty experience in the heart of Singapore. Renowned for its professional stylists, premium services, and elegant ambiance, J’s Salon is committed to providing personalized care that enhances every guest’s natural beauty and confidence. Hair hair cut hair color hair spa dyeing hair care hair treatment hair lightening hair style Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2283184347472611-24785497579755766-JSalon_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2283184347472611-24785497579755766-JSalon_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2283184347472611-24785497579755766-JSalon_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12530758913027262-37151727311343796-logo%20260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12530758913027262-37151727311343796-logo%20260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12530758913027262-37151727311343796-logo%20260x260_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "js-salon-a66c71e2",
+			"outlets": [
+				{
+					"_id": "6a03f05710c5850a8429b924",
+					"name": "Grand Copthorne Waterfront"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Grand Copthorne Waterfront"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "J's Salon",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

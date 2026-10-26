@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/phuture-e36bd0b5",
+	"slug": "phuture-e36bd0b5",
+	"fetchedAt": "2026-10-26T17:31:21.809+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67e6401a8947cd3ec3006233",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Club",
+				"night life",
+				"lounge",
+				"champagne",
+				"vodka",
+				"whisky",
+				"gin",
+				"rum",
+				"bourbon",
+				"drinking",
+				"alcohol",
+				"bar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Zouk Clarke Quay Pte Ltd - Phuture",
+			"brand": "Phuture",
+			"code": "ZOP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5813",
+			"shortName": "Phuture",
+			"address": {
+				"line1": "3C RIVER VALLEY ROAD #02-02 SINGAPORE 179022",
+				"postalCode": "179022",
+				"streetName": "3C RIVER VALLEY ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://zoukgroup.com/singapore/phuture/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Open to the public three nights a week, with a music policy currently focused on urban, hip hop and R&B, Phuture has an up-for-it, get down crowd, week in week out. Its futuristic approach to music is reflected in its decor, reinforcing the room’s aerodynamic design.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8209402685295071-phuture.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/10564554042080121-8771734238098132-Untitled.png",
+			"countryCode": "SG",
+			"mccDescription": "Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8209402685295071-phuture.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10564554042080121-8771734238098132-Untitled.png",
+			"createdAt": "2025-03-28T06:22:18.071Z",
+			"updatedAt": "2026-09-01T01:45:54.621Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10564554042080121-8771734238098132-Untitled_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10564554042080121-8771734238098132-Untitled_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10564554042080121-8771734238098132-Untitled_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8209402685295071-phuture_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8209402685295071-phuture_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8209402685295071-phuture_high.png"
+			},
+			"searchContent": "Open to the public three nights a week, with a music policy currently focused on urban, hip hop and R&B, Phuture has an up-for-it, get down crowd, week in week out. Its futuristic approach to music is reflected in its decor, reinforcing the room’s aerodynamic design. Club night life lounge champagne vodka whisky gin rum bourbon drinking alcohol bar Activities",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-30T01:53:17.828Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "phuture-e36bd0b5",
+			"outlets": [
+				{
+					"_id": "67e64322c7614a3270633612",
+					"name": "Phuture Bar"
+				},
+				{
+					"_id": "67e65d634375c60410db7d40",
+					"name": "Phuture Ticketing"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Phuture Bar",
+			"Phuture Ticketing"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Phuture",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

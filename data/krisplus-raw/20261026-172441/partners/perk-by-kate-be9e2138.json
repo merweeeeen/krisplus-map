@@ -1,0 +1,212 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/perk-by-kate-be9e2138",
+	"slug": "perk-by-kate-be9e2138",
+	"fetchedAt": "2026-10-26T17:25:35.776+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f3a2a4b800ea063f0c6c14f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "PBK RETAIL PTE LTD",
+			"brand": "Perk by Kate",
+			"code": "PBK",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "134A Telok Ayer Street,  ",
+				"postalCode": "068600",
+				"streetName": "Telok Ayer Street"
+			},
+			"category": "RETAIL",
+			"regNumber": "20200711N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/39362652597292036-PBKBrandImage.png",
+			"websiteUrl": "https://www.perkbykate.com",
+			"description": "",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6455511181881743-PBKLogo.png",
+			"createdAt": "2020-08-17T06:57:15.435Z",
+			"updatedAt": "2026-08-06T14:17:10.850Z",
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"countryCode": "SG",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "134A Telok Ayer Street",
+			"payByCard": true,
+			"promotional": "                      ",
+			"shortName": "PBK",
+			"descriptionHtml": "<p>Perk by Kate believes that feeling good starts with beautiful and comfortable inner wear. Signature intimates are characterised by the thought and attention-to-detail put into creating, or choosing them. From the perfect cut, to good support and quality fabric, Perk by Kate takes pride in its artistry by bringing exceptionally well-crafted lingerie.</p>",
+			"searchableKeywords": [
+				"Telok Ayer",
+				"134A Telok Ayer Street",
+				"Chinatown",
+				"Eu Tong Sen Street",
+				"Intimate",
+				"Lingerie",
+				"Intimacy",
+				"Intimates",
+				"Lineries",
+				"Barsseries",
+				"Bra",
+				"Panty",
+				"Panties",
+				"Thongs",
+				"Bralettes",
+				"Support",
+				"Undergarments",
+				"Ladies",
+				"Inner Wear",
+				"Birthday",
+				"Retail",
+				"Clothes",
+				"For Her",
+				"Nursing",
+				"Pyjamas",
+				"Sleepwear",
+				"Loungewear",
+				"Maternity",
+				"Comfort",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles",
+				"Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9dab35256c5b2c9bf14"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/39362652597292036-PBKBrandImage.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6455511181881743-PBKLogo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/39362652597292036-PBKBrandImage_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/39362652597292036-PBKBrandImage_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/39362652597292036-PBKBrandImage_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6455511181881743-PBKLogo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6455511181881743-PBKLogo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6455511181881743-PBKLogo_high.png"
+			},
+			"searchContent": "Perk by Kate believes that feeling good starts with beautiful and comfortable inner wear. Signature intimates are characterised by the thought and attention-to-detail put into creating, or choosing them. From the perfect cut, to good support and quality fabric, Perk by Kate takes pride in its artistry by bringing exceptionally well-crafted lingerie. Telok Ayer 134A Telok Ayer Street Chinatown Eu Tong Sen Street Intimate Lingerie Intimacy Intimates Lineries Barsseries Bra Panty Panties Thongs Bralettes Support Undergarments Ladies Inner Wear Birthday Retail Clothes For Her Nursing Pyjamas Sleepwear Loungewear Maternity Comfort Fashion Zara Uniqlo Charles Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Retail Fashion",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-11T05:32:14.685Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "perk-by-kate-be9e2138",
+			"outlets": [
+				{
+					"_id": "5f44d3603212007da0f8f3f0",
+					"name": "Telok Ayer"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Telok Ayer"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Perk by Kate",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

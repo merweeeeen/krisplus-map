@@ -1,0 +1,213 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tsui-wah-singapore-8cd7a8cb",
+	"slug": "tsui-wah-singapore-8cd7a8cb",
+	"fetchedAt": "2026-10-26T17:29:41.477+08:00",
+	"payload": {
+		"partner": {
+			"_id": "659cd0cbb71ae80053e6684f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Hong Kong Dim Sum Tapas",
+				"Forum",
+				"Orchard",
+				"Tanglin",
+				"Dining",
+				"Chinese",
+				"Hong Kong",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"659cd0d5e11e2b6d818869f7"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "VISTA F&B SERVICES PTE LTD",
+			"brand": "Tsui Wah Singapore",
+			"code": "VFB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Tsui Wah",
+			"address": {
+				"line1": "4 Kaki Bukit Avenue 1  #03-08  Singapore 417939",
+				"postalCode": "417939",
+				"streetName": "4 Kaki Bukit Avenue 1",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CAF",
+								"QBS",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "201728177R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9019993710451617-tw2.jpg",
+			"websiteUrl": "https://www.facebook.com/TsuiwahSingapore/",
+			"descriptionHtml": "<p>Famed cha<span style=\"margin: 0px 0px 16px;\"> chaan teng from Hong Kong, Tsui Wah Singapore offers an extensive range of Cantonese-style Western and Chinese dishes. Some of the must-try dishes: BBQ Pork and Scrambled Egg expertly executed with HK-style BBQ Sauce, Crispy Bun with Condensed Milk, Milk tea and more.</span></p>\n\n\n\n<p>Participating Outlets:</p><p>- Clarke Quay Central\n<br>- JEM <br>- Jewel Changi Airport\n<br>- Tai Seng\n<br>- The Cathay\n<br>- The Heeren</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2258667457656538-tw1.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"createdAt": "2024-01-09T04:51:23.813Z",
+			"updatedAt": "2026-08-27T07:40:45.494Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9019993710451617-tw2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2258667457656538-tw1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9019993710451617-tw2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9019993710451617-tw2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9019993710451617-tw2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2258667457656538-tw1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2258667457656538-tw1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2258667457656538-tw1_high.png"
+			},
+			"searchContent": "Famed cha chaan teng from Hong Kong, Tsui Wah Singapore offers an extensive range of Cantonese-style Western and Chinese dishes. Some of the must-try dishes: BBQ Pork and Scrambled Egg expertly executed with HK-style BBQ Sauce, Crispy Bun with Condensed Milk, Milk tea and more. Participating Outlets: - Clarke Quay Central - JEM - Jewel Changi Airport - Tai Seng - The Cathay - The Heeren Hong Kong Dim Sum Tapas Forum Orchard Tanglin Dining Chinese Hong Kong Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery Dining Casual Dining Cafe Quick Bites & Snacks Beverages & Desserts Chinese Asian",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-08-27T07:40:45.494Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tsui-wah-singapore-8cd7a8cb",
+			"outlets": [
+				{
+					"_id": "659cd1ea53a81e0055e62f49",
+					"name": "The Heeren"
+				},
+				{
+					"_id": "659cd2623bc312005347f2ff",
+					"name": "JEM"
+				},
+				{
+					"_id": "659cd2cfe9f3bf004e002520",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "659cd3394f1c3700509fe8c2",
+					"name": "Clarke Quay Central"
+				},
+				{
+					"_id": "67bfc330a69b63041baec90f",
+					"name": "The Cathay"
+				},
+				{
+					"_id": "695769a433455d526d4d7a91",
+					"name": "Tai Seng"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Heeren",
+			"JEM",
+			"Jewel Changi Airport",
+			"Clarke Quay Central",
+			"The Cathay",
+			"Tai Seng"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tsui Wah Singapore",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

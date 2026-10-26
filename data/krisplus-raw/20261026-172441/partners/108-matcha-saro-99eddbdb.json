@@ -1,0 +1,212 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/108-matcha-saro-99eddbdb",
+	"slug": "108-matcha-saro-99eddbdb",
+	"fetchedAt": "2026-10-26T17:25:02.582+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5d64f27ff73de85f90f776d8",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "108 Matcha Saro",
+			"brand": "108 Matcha Saro",
+			"code": "1MS",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "119 Genting Lane  #02-01  HB 119 Genting Singapore ",
+				"postalCode": "349570",
+				"streetName": "Genting Lane"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "107800043E",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3868fa9f-5004-4b05-9e59-ea27d4db3197.png",
+			"createdAt": "2019-08-27T09:06:07.195Z",
+			"updatedAt": "2026-10-06T06:44:36.264Z",
+			"description": "108 Matcha Saro is a premium matcha dessert shop that originated from Hokkaido, Japan. 108 Matcha Saro uses quality ingredients such as Uji Matcha powder from Kyoto in its desserts. 108 Matcha Saro also takes pride in ensuring items are made fresh daily.  \n\nParticipating Outlets: \n•\tChangi Airport T3 \n•\tION Orchard\n•\tSuntec City",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "Terms and Conditions: \n•\t108 Matcha Saro reserves all rights to amend, withdraw all or any terms / promotional offers without prior notice\n\nFind out more: https://www.facebook.com/108matchasarosg/",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-9e229467-5710-430e-99d3-3343d08fd0f5.jpg",
+			"participatingOutlets": "•\tChangi Airport T3 \n•\tSuntec City",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.instagram.com/108matchasarosg/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "108 MatchaSaro",
+			"descriptionHtml": "<p>108 Matcha Saro is a premium matcha dessert shop that originated from Hokkaido, Japan. 108 Matcha Saro uses quality ingredients such as Uji Matcha powder from Kyoto in its desserts. 108 Matcha Saro also takes pride in ensuring items are made fresh daily.  </p>  <p>Participating Outlets: <br> •    Tampines 1<br> </p>  <p><span style=\"font-size:12pt\"><span style=\"font-family:Aptos,sans-serif\">Non-Participating Outlets: <br> •    Bugis Junction </span></span>​​​​​​​</p>  <ul> <br></ul>",
+			"searchableKeywords": [
+				"Promenade",
+				"Esplanade",
+				"Raffles Boulevard",
+				"Orchard",
+				"Paterson Road",
+				"Orchard Road",
+				"Japanese",
+				"Changi Airport",
+				"East",
+				"Matcha",
+				"Cakes",
+				"Pastry",
+				"Pattisserie",
+				"Rolls",
+				"Pancakes",
+				"Biscuits",
+				"Ion Orchard",
+				"Suntec City",
+				"Dining",
+				"Ice Cream",
+				"Mochi",
+				"Bites",
+				"Snacks",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"JAP",
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9ee034603c3389299be"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-9e229467-5710-430e-99d3-3343d08fd0f5.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-3868fa9f-5004-4b05-9e59-ea27d4db3197.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-9e229467-5710-430e-99d3-3343d08fd0f5_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-9e229467-5710-430e-99d3-3343d08fd0f5_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-9e229467-5710-430e-99d3-3343d08fd0f5_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3868fa9f-5004-4b05-9e59-ea27d4db3197_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3868fa9f-5004-4b05-9e59-ea27d4db3197_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3868fa9f-5004-4b05-9e59-ea27d4db3197_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "108 Matcha Saro is a premium matcha dessert shop that originated from Hokkaido, Japan. 108 Matcha Saro uses quality ingredients such as Uji Matcha powder from Kyoto in its desserts. 108 Matcha Saro also takes pride in ensuring items are made fresh daily. Participating Outlets: • Tampines 1 Non-Participating Outlets: • Bugis Junction ​​​​​​​ Promenade Esplanade Raffles Boulevard Orchard Paterson Road Orchard Road Japanese Changi Airport East Matcha Cakes Pastry Pattisserie Rolls Pancakes Biscuits Ion Orchard Suntec City Dining Ice Cream Mochi Bites Snacks Koi Dunkin Donuts Boost The Muffinry Delifrance Twelve Cupcakes Four Leaves Prima Deli Starbucks Old Chang Kee Finger Food Nibbles Light Bites Fast Food Refreshments Tidbits Dining Beverages & Desserts Japanese Quick Bites & Snacks",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "108-matcha-saro-99eddbdb",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-09-10T07:03:52.070Z",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "6aab487b03035cb4213207cd",
+					"name": "Tampines 1"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tampines 1"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "108 Matcha Saro",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

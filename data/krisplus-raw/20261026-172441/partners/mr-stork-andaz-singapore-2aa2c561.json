@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mr-stork-andaz-singapore-2aa2c561",
+	"slug": "mr-stork-andaz-singapore-2aa2c561",
+	"fetchedAt": "2026-10-26T17:27:21.138+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62375179e1d7df113c59c20a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Andaz Singapore",
+				"Alfresco",
+				"Bar",
+				"Drinks",
+				"Breathtaking View",
+				"Cocktail",
+				"Wine",
+				"After Work",
+				"Bugis",
+				"Relax",
+				"Rooftop Bar",
+				"Friends",
+				"Happy Hour",
+				"Colleagues",
+				"Couple"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Mr Stork",
+			"brand": "Mr Stork - Andaz Singapore",
+			"code": "MSK",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Mr Stork",
+			"address": {
+				"city": "Singapore",
+				"line1": "5 Fraser Street",
+				"streetName": "Fraser Street",
+				"postalCode": "189354",
+				"cityCode": "SIN"
+			},
+			"regNumber": "53333587J",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/38138887648663733-Mr%20Stork%20(750%20x%20540)-01.jpg",
+			"websiteUrl": "https://www.hyatt.com/andaz/sinaz-andaz-singapore/dining/mr-stork",
+			"descriptionHtml": "<p>Nestled at the rooftop on Level 39 of Andaz Singapore, Mr. Stork is an alfresco drinking and dining spot that offers 360-degree views of the city below. Enjoy breathtaking views with Instagram-worthy and easy-to-drink tipples, best accompanied with a range of delectable bar snacks.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Destination outdoor rooftop bar ",
+			"participatingOutlets": "Andaz Singapore",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8944541949972344-Mr%20Stork%20Logo%201000%20x%201000.png",
+			"createdAt": "2022-03-20T16:08:25.964Z",
+			"updatedAt": "2026-08-06T14:17:28.396Z",
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef98a595add2492446457"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/38138887648663733-Mr%20Stork%20(750%20x%20540)-01.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8944541949972344-Mr%20Stork%20Logo%201000%20x%201000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/38138887648663733-Mr%20Stork%20(750%20x%20540)-01_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/38138887648663733-Mr%20Stork%20(750%20x%20540)-01_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/38138887648663733-Mr%20Stork%20(750%20x%20540)-01_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8944541949972344-Mr%20Stork%20Logo%201000%20x%201000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8944541949972344-Mr%20Stork%20Logo%201000%20x%201000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8944541949972344-Mr%20Stork%20Logo%201000%20x%201000_high.png"
+			},
+			"searchContent": "Nestled at the rooftop on Level 39 of Andaz Singapore, Mr. Stork is an alfresco drinking and dining spot that offers 360-degree views of the city below. Enjoy breathtaking views with Instagram-worthy and easy-to-drink tipples, best accompanied with a range of delectable bar snacks. Andaz Singapore Alfresco Bar Drinks Breathtaking View Cocktail Wine After Work Bugis Relax Rooftop Bar Friends Happy Hour Colleagues Couple Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:45:57.361Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mr-stork-andaz-singapore-2aa2c561",
+			"outlets": [
+				{
+					"_id": "623982e85fb669817c9d6474",
+					"name": "Andaz Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Andaz Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mr Stork - Andaz Singapore",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

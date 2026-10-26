@@ -1,0 +1,200 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/botanico-at-the-summerhouse-8393ddaf",
+	"slug": "botanico-at-the-summerhouse-8393ddaf",
+	"fetchedAt": "2026-10-26T17:26:08.950+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60779418147e2e43accd1acf",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "1-Garden Pte Ltd",
+			"brand": "Botanico at The Summerhouse",
+			"code": "TSH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Botanico Summe",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": " Level 2 The Summerhouse",
+				"postalCode": "798387",
+				"streetName": "3 Park Ln"
+			},
+			"regNumber": "200903063H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/18152306030171528-14032024_TheSummerhouse_Colossal_Upload_Clean_117.jpg",
+			"websiteUrl": "https://botanico.sg/",
+			"descriptionHtml": "<p>The Summerhouse is a unique dining destination tucked away in the idyllic Seletar countryside that offers French farm-to-table cuisine. Also, get to enjoy an immersive dining experience amidst the lush edible garden.</p>  <p> <br></p>  <p>Participating Outlet:</p>  <p>Botanico at The Summerhouse</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/449251171196033-Botanico-green.png",
+			"createdAt": "2021-04-15T01:17:13.011Z",
+			"updatedAt": "2026-09-18T08:25:53.083Z",
+			"searchableKeywords": [
+				"The Summerhouse",
+				"French",
+				"Dining",
+				"Romantic Dinner",
+				"Restaurant",
+				"Valentines Day",
+				"Dates",
+				"Park Lane",
+				"Seletar",
+				"Gardens",
+				"Peaceful",
+				"Occasions",
+				"Friends",
+				"Gathering",
+				"Alcohol",
+				"Wine",
+				"Drinks",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "3 Park Lane\nSingapore 798387",
+			"promotional": "A unique dining destination perfect for romantic dinners.",
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"EUR",
+								"CD",
+								"CAF",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c59d00b0a527865c2c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18152306030171528-14032024_TheSummerhouse_Colossal_Upload_Clean_117_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18152306030171528-14032024_TheSummerhouse_Colossal_Upload_Clean_117_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18152306030171528-14032024_TheSummerhouse_Colossal_Upload_Clean_117_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/449251171196033-Botanico-green_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/449251171196033-Botanico-green_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/449251171196033-Botanico-green_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18152306030171528-14032024_TheSummerhouse_Colossal_Upload_Clean_117.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/449251171196033-Botanico-green.png",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-10T09:32:43.291Z",
+			"searchContent": "The Summerhouse is a unique dining destination tucked away in the idyllic Seletar countryside that offers French farm-to-table cuisine. Also, get to enjoy an immersive dining experience amidst the lush edible garden. Participating Outlet: Botanico at The Summerhouse The Summerhouse French Dining Romantic Dinner Restaurant Valentines Day Dates Park Lane Seletar Gardens Peaceful Occasions Friends Gathering Alcohol Wine Drinks Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining European Casual Dining Cafe Beverages & Desserts Western",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "botanico-at-the-summerhouse-8393ddaf",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "615eb2d81737e66ebc0d3e6d",
+					"name": "Botanico at The Summerhouse"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Botanico at The Summerhouse"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Botanico at The Summerhouse",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,440 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/challenger-3e965393",
+	"slug": "challenger-3e965393",
+	"fetchedAt": "2026-10-26T17:24:43.646+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5b2872c338755b25085fff8d",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Ubi Link , Challenger TecHub",
+				"postalCode": "408553",
+				"streetName": "Ubi Link"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "Challenger Technologies Ltd",
+			"brand": "Challenger",
+			"code": "CHA",
+			"countryIncorporation": "Singapore",
+			"description": "",
+			"categary": "Electronics and Technology",
+			"regNumber": "198400182K",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/07615222343776784-logo.jpg",
+			"createdAt": "2018-06-19T03:04:35.482Z",
+			"updatedAt": "2026-09-16T07:16:52.452Z",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.03,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 0,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"promotional": "Find out more at :\nhttps://www.challenger.com.sg",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-4685923c-7239-4c0f-90a7-a05ea6c7793b.png",
+			"participatingOutlets": "All Challenger outlets                             ",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.challenger.sg/",
+			"categories": [
+				"RETAIL"
+			],
+			"hideFromCustomer": false,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"mccCode": "5732",
+			"mccDescription": "Electronics Stores",
+			"countryCode": "SG",
+			"payByCard": true,
+			"shortName": "Challenger",
+			"descriptionHtml": "<p>Founded in 1982, Challenger is a Singapore-based IT retailer serving over half a million members across 38 stores island-wide and online at Hachi.tech. </p>  <p>Terms & Conditions:</p>  <ul> \t<li>Valid for Challenger in-store use only.</li> \t<li>The following products are excluded from Kris+ payment / earn of KrisPay miles: Challenger vouchers, Apple iTunes gift cards and stored value game cards.</li> \t<li>Products purchased using the Kris+ app can only be exchanged or refunded for ValueClub e-credits if deemed faulty.</li> </ul>  <p>Participating Outlets: All Challenger outlets</p>",
+			"searchableKeywords": [
+				"Bugis",
+				"Victoria",
+				"Serangoon",
+				"Tampines",
+				"Orchard",
+				"Dhoby Ghaut",
+				"Marine Parade",
+				"Ang Mo Kio Central",
+				"Changi Airport",
+				"Boon Lay",
+				"Jurong West Central",
+				"Harbourfront",
+				"Telok Blangah",
+				"Commonwealth Ave",
+				"Clementi",
+				"Jurong East",
+				"Scotts",
+				"Peterson Road",
+				"City Hall",
+				"Raffles Boulevards",
+				"Tiong Bahru",
+				"Bishan",
+				"Gateway Drive",
+				"Sengkang",
+				"Punggol",
+				"Promenade",
+				"Raffles",
+				"Choa Chu Kang",
+				"Bukit Panjang",
+				"Jelubu",
+				"Bedok",
+				"Hougang",
+				"Sims Avenue",
+				"Sembawang",
+				"Retail",
+				"Appliances",
+				"Music",
+				"It",
+				"Technology",
+				"313",
+				"Bugis Junction",
+				"Causeway",
+				"Changi City Point",
+				"City Square",
+				"Eastpoint",
+				"Imm",
+				"Jem",
+				"Junction 8",
+				"Jurong Point",
+				"Lot One",
+				"Nex",
+				"Northpoint",
+				"Parkway Parade",
+				"Plaza Singapura",
+				"Sun Plaza",
+				"Suntec",
+				"Tampines 1",
+				"The Seletar",
+				"Vivocity",
+				"Waterway Point",
+				"Westgate",
+				"White Sands",
+				"Yew Tee",
+				"Jewel",
+				"West Coast",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electronical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Lifestyle Appliances",
+				"Fans",
+				"Gift",
+				"Souvenirs",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions",
+				"Samsung",
+				"The Expert Sound",
+				"Tech Gadgets",
+				"Homefurnishing"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR3",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"translations": [
+				"64eef9f53d10e34df66b474d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 30
+				}
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"GS",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-4685923c-7239-4c0f-90a7-a05ea6c7793b.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07615222343776784-logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-4685923c-7239-4c0f-90a7-a05ea6c7793b_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-4685923c-7239-4c0f-90a7-a05ea6c7793b_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-4685923c-7239-4c0f-90a7-a05ea6c7793b_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07615222343776784-logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07615222343776784-logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07615222343776784-logo_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-11T08:52:42.202Z",
+			"searchContent": "Founded in 1982, Challenger is a Singapore-based IT retailer serving over half a million members across 38 stores island-wide and online at Hachi.tech. Terms & Conditions: Valid for Challenger in-store use only. The following products are excluded from Kris+ payment / earn of KrisPay miles: Challenger vouchers, Apple iTunes gift cards and stored value game cards. Products purchased using the Kris+ app can only be exchanged or refunded for ValueClub e-credits if deemed faulty. Participating Outlets: All Challenger outlets Bugis Victoria Serangoon Tampines Orchard Dhoby Ghaut Marine Parade Ang Mo Kio Central Changi Airport Boon Lay Jurong West Central Harbourfront Telok Blangah Commonwealth Ave Clementi Jurong East Scotts Peterson Road City Hall Raffles Boulevards Tiong Bahru Bishan Gateway Drive Sengkang Punggol Promenade Raffles Choa Chu Kang Bukit Panjang Jelubu Bedok Hougang Sims Avenue Sembawang Retail Appliances Music It Technology 313 Bugis Junction Causeway Changi City Point City Square Eastpoint Imm Jem Junction 8 Jurong Point Lot One Nex Northpoint Parkway Parade Plaza Singapura Sun Plaza Suntec Tampines 1 The Seletar Vivocity Waterway Point Westgate White Sands Yew Tee Jewel West Coast Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electronical Components Audio Television Headphones Cables Plug Travel Accessories Lifestyle Appliances Fans Gift Souvenirs Birthdays Holidays Anniversary Special Occasions Samsung The Expert Sound Tech Gadgets Homefurnishing Retail Electrical & Electronics Gifts & Souvenirs Home & Lifestyle",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "challenger-3e965393",
+			"outlets": [
+				{
+					"_id": "5b28746f38755b25085fff95",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "5b2874ef38755b25085fff9d",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "5b2875ce38755b25085fffab",
+					"name": "Bugis Junction (B1)"
+				},
+				{
+					"_id": "5b2876ff38755b25085fffc1",
+					"name": "Bukit Panjang Plaza"
+				},
+				{
+					"_id": "5b28775b38755b25085fffc9",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "5b2877b738755b25085fffd3",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "5b2878bc38755b25085fffee",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "5b28791a38755b25085ffff9",
+					"name": "Compass One"
+				},
+				{
+					"_id": "5b287abe38755b2508600011",
+					"name": "IMM"
+				},
+				{
+					"_id": "5b287b2638755b2508600016",
+					"name": "JEM"
+				},
+				{
+					"_id": "5b287bf138755b2508600022",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "5b28801c38755b250860003c",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "5b2880a438755b2508600048",
+					"name": "Lot One Shoppers' Mall"
+				},
+				{
+					"_id": "5b28811638755b250860004f",
+					"name": "NEX"
+				},
+				{
+					"_id": "5b28924c38755b250860006e",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "5b2892a438755b2508600077",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "5b28931738755b2508600085",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "5b28944638755b250860009c",
+					"name": "Sun Plaza"
+				},
+				{
+					"_id": "5b2894aa38755b25086000a2",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "5b2894ec38755b25086000a7",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "5b28955c38755b25086000b4",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "5b2895a438755b25086000b9",
+					"name": "The Clementi Mall"
+				},
+				{
+					"_id": "5b2895fc38755b25086000bf",
+					"name": "The Seletar Mall"
+				},
+				{
+					"_id": "5b2896cf38755b25086000d1",
+					"name": "Tiong Bahru Plaza"
+				},
+				{
+					"_id": "5b28972938755b25086000db",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "5b28979538755b25086000e5",
+					"name": "Waterway Point"
+				},
+				{
+					"_id": "5b28985838755b25086000ee",
+					"name": "White Sands"
+				},
+				{
+					"_id": "5d1998e59f096e62387401f4",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "5d65f694a07c7d695007e5db",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "5f9bba99eb84cb29448d6e5c",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "5f9bbb85eb84cb29448d6e5f",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "600f6b0d96cb860f38d98a6a",
+					"name": "SingPost Centre"
+				},
+				{
+					"_id": "61c419f2ed5f1b08782a2964",
+					"name": "Great World"
+				},
+				{
+					"_id": "66441c510506f3006bc43d52",
+					"name": "Pasir Ris Mall"
+				},
+				{
+					"_id": "6912f9a1429b7153ab52d96c",
+					"name": "Funan"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset",
+			"AMK Hub",
+			"Bugis Junction (B1)",
+			"Bukit Panjang Plaza",
+			"Causeway Point",
+			"Changi City Point",
+			"City Square Mall",
+			"Compass One",
+			"IMM",
+			"JEM",
+			"Junction 8",
+			"Jurong Point",
+			"Lot One Shoppers' Mall",
+			"NEX",
+			"Northpoint City",
+			"Parkway Parade",
+			"Plaza Singapura",
+			"Sun Plaza",
+			"Suntec City",
+			"Tampines 1",
+			"Tampines Mall",
+			"The Clementi Mall",
+			"The Seletar Mall",
+			"Tiong Bahru Plaza",
+			"VivoCity",
+			"Waterway Point",
+			"White Sands",
+			"Jewel Changi Airport",
+			"PLQ Mall",
+			"Bedok Mall",
+			"ION Orchard",
+			"SingPost Centre",
+			"Great World",
+			"Pasir Ris Mall",
+			"Funan"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Challenger",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

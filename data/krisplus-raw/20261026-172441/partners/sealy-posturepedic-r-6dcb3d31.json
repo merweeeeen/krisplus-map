@@ -1,0 +1,221 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sealy-posturepedic-r-6dcb3d31",
+	"slug": "sealy-posturepedic-r-6dcb3d31",
+	"fetchedAt": "2026-10-26T17:29:19.473+08:00",
+	"payload": {
+		"partner": {
+			"_id": "650badcb3fc6ac0055658fd6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 300000,
+				"minTokens": 60000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Sealy",
+				"Bed",
+				"Mattress",
+				"Bedding",
+				"Posturepedic",
+				"Furniture",
+				"Sealy Posturepedic®",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"650badd4b05aed88a4c0bf1e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "SEALY ASIA (SINGAPORE) PTE LTD",
+			"brand": "Sealy Posturepedic®",
+			"code": "SAP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Sealy Posturep",
+			"address": {
+				"line1": "9 Raffles Place, #26-01, Republic Plaza, Singapore 048619",
+				"postalCode": "048619",
+				"streetName": "9 Raffles Place",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "200100827Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5045979196274151-173083357210831-Brand%20Image-App-750x540.jpg",
+			"websiteUrl": "https://www.sealy.com.sg/",
+			"descriptionHtml": "<p>Sealy Posturepedic® is designed to provide the perfect balance of correct support and superior comfort you desire. Each component is of the highest quality so you can enjoy your mattress for many years to come.</p>  <p><br> When you purchase a Sealy Posturepedic®, you are choosing the world’s most trusted mattress brand. </p>  <p>Partcipating Outlets:</p>  <ul> \t<li>Century Square</li> \t<li>City Square Mall</li> \t<li>Funan</li><li>i12 Katong</li> \t<li>IMM</li> \t<li>One Holland Village</li> \t<li>Plaza Singapura</li> \t<li>Tanglin Place</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/17289887835729645-6557062024522486-Brand%20Logo-App-1000x1000.jpg",
+			"createdAt": "2023-09-21T02:43:23.140Z",
+			"updatedAt": "2026-09-28T01:15:23.691Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 9
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5045979196274151-173083357210831-Brand%20Image-App-750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/17289887835729645-6557062024522486-Brand%20Logo-App-1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5045979196274151-173083357210831-Brand%20Image-App-750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5045979196274151-173083357210831-Brand%20Image-App-750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5045979196274151-173083357210831-Brand%20Image-App-750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/17289887835729645-6557062024522486-Brand%20Logo-App-1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/17289887835729645-6557062024522486-Brand%20Logo-App-1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/17289887835729645-6557062024522486-Brand%20Logo-App-1000x1000_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-11-17T09:33:03.737Z",
+			"refundPeriodInDays": 180,
+			"searchContent": "Sealy Posturepedic® is designed to provide the perfect balance of correct support and superior comfort you desire. Each component is of the highest quality so you can enjoy your mattress for many years to come. When you purchase a Sealy Posturepedic®, you are choosing the world’s most trusted mattress brand. Partcipating Outlets: Century Square City Square Mall Funani12 Katong IMM One Holland Village Plaza Singapura Tanglin Place Sealy Bed Mattress Bedding Posturepedic Furniture Sealy Posturepedic® Ruhens Grohe Hansgrohe Mayer Simmons Homefurnishing Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sealy-posturepedic-r-6dcb3d31",
+			"isDisplayOnKrisWeb": true,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "650bb113cbcf120055dd1d56",
+					"name": "Century Square"
+				},
+				{
+					"_id": "650bb1cad636190050b5dfd6",
+					"name": " City Square Mall"
+				},
+				{
+					"_id": "650bb3a1d636190050b5e3a5",
+					"name": "IMM"
+				},
+				{
+					"_id": "650bdee66eb026005016f245",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "650bdf7762a081004ead53e2",
+					"name": "Tanglin Place"
+				},
+				{
+					"_id": "650cfaef328bc0004f677060",
+					"name": "Funan"
+				},
+				{
+					"_id": "65670f7745dbf20050f492e9",
+					"name": "One Holland Village"
+				},
+				{
+					"_id": "684108360ff99804094565c3",
+					"name": "i12 Katong"
+				},
+				{
+					"_id": "6a9a6d9f5e796384b69de2e8",
+					"name": "1 Nassim Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Century Square",
+			" City Square Mall",
+			"IMM",
+			"Plaza Singapura",
+			"Tanglin Place",
+			"Funan",
+			"One Holland Village",
+			"i12 Katong",
+			"1 Nassim Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sealy Posturepedic®",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

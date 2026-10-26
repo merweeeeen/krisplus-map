@@ -1,0 +1,206 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/window-on-the-park-holiday-inn-r-singapore-orchard-city-centre-024a9dbc",
+	"slug": "window-on-the-park-holiday-inn-r-singapore-orchard-city-centre-024a9dbc",
+	"fetchedAt": "2026-10-26T17:25:16.939+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e5df101f41dfc342c99378f",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Window on the Park",
+			"brand": "Window on the Park (Holiday Inn® Singapore Orchard City Centre)",
+			"code": "WIN",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "11 Cavenagh Road,  ",
+				"postalCode": "229616",
+				"streetName": "Cavenagh Road"
+			},
+			"category": "HOTEL",
+			"regNumber": "198002635K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/352220695529303-WIN-1-for-1OnBuffets-750.jpg",
+			"websiteUrl": "https://singaporeorchard.holidayinn.com/wine-dine/window-park",
+			"description": "",
+			"participatingOutlets": "Holiday Inn® Singapore Orchard City Centre",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-497c88ed-741b-4385-ac0d-d5e3b1cf3ffa.jpg",
+			"createdAt": "2020-03-03T05:54:09.653Z",
+			"updatedAt": "2026-08-06T14:17:09.033Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "       ",
+			"categary": "Food and Beverage",
+			"hideFromCustomer": false,
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"categories": [
+				"DINING"
+			],
+			"countryCode": "SG",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "WindowOnThePk",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255); font-size: 18px;\">*Click here t<a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Window%20on%20the%20Park\">o </a><a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Window%20on%20the%20Park\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Enjoy the best of both worlds starting with an exciting shell out dining experience brimming with a sumptuous array of seafood that's aimed at igniting your five senses alongside an endless flow of your local, Asian & seafood favourites.</p>",
+			"searchableKeywords": [
+				"Orchard",
+				"City",
+				"Town",
+				"Central",
+				"Somerset",
+				"Chinese",
+				"Malay",
+				"Indian",
+				"Buffet",
+				"Lunch",
+				"Dinner",
+				"High Tea",
+				"Local",
+				"Seafood",
+				"Sandwiches",
+				"Scones",
+				"Birthday",
+				"Dining",
+				"Dates",
+				"Occasions",
+				"Celebrations",
+				"View",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Free Flow",
+				"Self Service",
+				"Food Bar",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e33d10e34df66b4741"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/352220695529303-WIN-1-for-1OnBuffets-750.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-497c88ed-741b-4385-ac0d-d5e3b1cf3ffa.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/352220695529303-WIN-1-for-1OnBuffets-750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/352220695529303-WIN-1-for-1OnBuffets-750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/352220695529303-WIN-1-for-1OnBuffets-750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-497c88ed-741b-4385-ac0d-d5e3b1cf3ffa_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-497c88ed-741b-4385-ac0d-d5e3b1cf3ffa_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-497c88ed-741b-4385-ac0d-d5e3b1cf3ffa_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Enjoy the best of both worlds starting with an exciting shell out dining experience brimming with a sumptuous array of seafood that's aimed at igniting your five senses alongside an endless flow of your local, Asian & seafood favourites. Orchard City Town Central Somerset Chinese Malay Indian Buffet Lunch Dinner High Tea Local Seafood Sandwiches Scones Birthday Dining Dates Occasions Celebrations View Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Free Flow Self Service Food Bar Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-05T03:36:00.970Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "window-on-the-park-holiday-inn-r-singapore-orchard-city-centre-024a9dbc",
+			"outlets": [
+				{
+					"_id": "5e5f6dcc901d0a40389787bf",
+					"name": "Window on the Park"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Window on the Park"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Window on the Park (Holiday Inn® Singapore Orchard City Centre)",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

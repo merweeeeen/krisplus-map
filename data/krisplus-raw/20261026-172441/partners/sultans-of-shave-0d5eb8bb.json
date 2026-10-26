@@ -1,0 +1,200 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sultans-of-shave-0d5eb8bb",
+	"slug": "sultans-of-shave-0d5eb8bb",
+	"fetchedAt": "2026-10-26T17:24:58.648+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5d3fa404e81b511018b43908",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "AURUM WELLNESS GROUP PTE. LTD.",
+			"brand": "Sultans of Shave",
+			"code": "SOS",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"line1": "390 Orchard Road #02-07, Palais Renaissance, Singapore 238871",
+				"postalCode": "238871",
+				"streetName": "Orchard Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"categary": "Services",
+			"regNumber": "201305754E",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"description": "",
+			"promotional": "Kris+ Exclusive Promotion: \nEnjoy 10% discount off all products and services when you flash the Kris+ app at the point of payment\n\nTerms and Conditions:\nNot valid in conjunction with any other discounts and promotions\n\nFind out more: http://sultansofshave.com/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-741ad4b0-8ad4-42cf-a4a7-47e487c3dabe.png",
+			"createdAt": "2019-07-30T01:57:24.078Z",
+			"updatedAt": "2026-08-18T03:29:52.833Z",
+			"loyaltyProgram": {
+				"name": " ",
+				"pointName": " ",
+				"logoPath": " ",
+				"description": " ",
+				"tncLink": " ",
+				"loginUrl": " "
+			},
+			"category": "SERVICES",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5617207857505029-SultansOfShave.jpg",
+			"participatingOutlets": "•\tJewel Changi Airport\n•\tPalais Renaissance\n•\tRaffles Place\n•\tTanjong Pagar\n•\tThe Shoppes at Marina Bay Sands",
+			"physicalShop": true,
+			"privilege": true,
+			"websiteUrl": "https://sultansofshave.com/",
+			"categories": [
+				"SERVICES"
+			],
+			"mccCode": "7298",
+			"mccDescription": "undefined",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Sultans of Shave, the quintessential male barbering destination. Created to revolutionize one of the oldest trades with a contemporary twist to suit the modern male, Sultans of Shave is a sanctuary for gentlemen that combines inspiration and passion for the art of male grooming.<br> <br> Participating Outlets:</p>  <ul> \t<li>Palais Renaissance</li> \t<li>Raffles Place</li> \t </ul>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "AWG",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Raffles Place",
+				"Wellness",
+				"Retail",
+				"Changi Airport",
+				"East",
+				"Barber",
+				"Shave",
+				"Men",
+				"Exclusives",
+				"Haircut",
+				"Hairstyle",
+				"Grooming",
+				"Stylist",
+				"Airport Boulevard",
+				"Palais Renaissance",
+				"Services",
+				"Wax",
+				"Modern",
+				"Hair Products",
+				"Sharp",
+				"Style"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f0b35256c5b2c9bf29"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5617207857505029-SultansOfShave.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-741ad4b0-8ad4-42cf-a4a7-47e487c3dabe.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5617207857505029-SultansOfShave_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5617207857505029-SultansOfShave_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5617207857505029-SultansOfShave_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-741ad4b0-8ad4-42cf-a4a7-47e487c3dabe_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-741ad4b0-8ad4-42cf-a4a7-47e487c3dabe_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-741ad4b0-8ad4-42cf-a4a7-47e487c3dabe_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:58:09.420Z",
+			"searchContent": "Sultans of Shave, the quintessential male barbering destination. Created to revolutionize one of the oldest trades with a contemporary twist to suit the modern male, Sultans of Shave is a sanctuary for gentlemen that combines inspiration and passion for the art of male grooming. Participating Outlets: Palais Renaissance Raffles Place Orchard Road Raffles Place Wellness Retail Changi Airport East Barber Shave Men Exclusives Haircut Hairstyle Grooming Stylist Airport Boulevard Palais Renaissance Services Wax Modern Hair Products Sharp Style Services Personal Care",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "sultans-of-shave-0d5eb8bb",
+			"outlets": [
+				{
+					"_id": "6a75969a6d0c24e2a6358f13",
+					"name": "Palais Renaissance"
+				},
+				{
+					"_id": "6a7597316d0c24e2a63590ce",
+					"name": "Raffles Place"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Palais Renaissance",
+			"Raffles Place"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sultans of Shave",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

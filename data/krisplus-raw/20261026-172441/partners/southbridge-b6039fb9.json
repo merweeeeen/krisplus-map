@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/southbridge-b6039fb9",
+	"slug": "southbridge-b6039fb9",
+	"fetchedAt": "2026-10-26T17:25:40.848+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f6c7ce2c5764717409002d9",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Southbridge",
+			"brand": "Southbridge",
+			"code": "SBG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Southbridge",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "43 Carpenter St, #04-01, Greatwood Building",
+				"postalCode": "059922",
+				"streetName": "Carpenter St"
+			},
+			"regNumber": "200515696D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-149fd33c-57e8-4eb3-86e0-551d16949dde.jpg",
+			"websiteUrl": "https://www.southbridge.sg/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-b164b940-7a54-4ee8-b4b2-54514d9a61ed.png",
+			"createdAt": "2020-09-24T11:02:58.648Z",
+			"updatedAt": "2026-08-06T14:17:11.331Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.2
+				},
+				"saleOfMiles": 0.031,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Boat Quay     ",
+			"promotional": "       ",
+			"descriptionHtml": "<p>A destination for chic and buzzy bar dining, with 360° skyline view featuring Marina Bay Sands and Boat Quay. Enjoy fresh oysters, moreish bar bites and the best craft gins from around the world.</p>\n\n<p> </p>",
+			"searchableKeywords": [
+				"Boat Quay",
+				"Clarke Quay",
+				"Western",
+				"American",
+				"Diner",
+				"Water Sports",
+				"Banana Boat",
+				"Fries",
+				"Soda",
+				"Drinks",
+				"Alcohol",
+				"Beer",
+				"Wine",
+				"Steak",
+				"Pasta",
+				"Oglio",
+				"Pizza",
+				"Bar",
+				"Pub",
+				"Cocktails",
+				"Spirit",
+				"Couples",
+				"First Dates",
+				"Dining",
+				"Valentines Day",
+				"Romantic",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"PB"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d8a65eaf5ea7682889"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-149fd33c-57e8-4eb3-86e0-551d16949dde.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-b164b940-7a54-4ee8-b4b2-54514d9a61ed.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-149fd33c-57e8-4eb3-86e0-551d16949dde_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-149fd33c-57e8-4eb3-86e0-551d16949dde_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-149fd33c-57e8-4eb3-86e0-551d16949dde_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-b164b940-7a54-4ee8-b4b2-54514d9a61ed_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-b164b940-7a54-4ee8-b4b2-54514d9a61ed_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-b164b940-7a54-4ee8-b4b2-54514d9a61ed_high.png"
+			},
+			"searchContent": "A destination for chic and buzzy bar dining, with 360° skyline view featuring Marina Bay Sands and Boat Quay. Enjoy fresh oysters, moreish bar bites and the best craft gins from around the world. Boat Quay Clarke Quay Western American Diner Water Sports Banana Boat Fries Soda Drinks Alcohol Beer Wine Steak Pasta Oglio Pizza Bar Pub Cocktails Spirit Couples First Dates Dining Valentines Day Romantic Art Braci Origin Nobu 665 Solo Restaurant Dining Pubs & Bars",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "southbridge-b6039fb9",
+			"outlets": [
+				{
+					"_id": "5f7d3415ed47323188101179",
+					"name": "80 Boat Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"80 Boat Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Southbridge",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

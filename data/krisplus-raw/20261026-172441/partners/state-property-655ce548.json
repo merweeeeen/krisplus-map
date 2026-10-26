@@ -1,0 +1,197 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/state-property-655ce548",
+	"slug": "state-property-655ce548",
+	"fetchedAt": "2026-10-26T17:27:37.138+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62a6a472f164452778359a81",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Fine Jewellery",
+				"Gold Jewellery",
+				"Ring",
+				"Necklaces",
+				"Pendants",
+				"Bracelets",
+				"Bangles",
+				"Earrings",
+				"Diamonds",
+				"Emeralds",
+				"Enamel",
+				"Jewellery",
+				"Jewelry",
+				"Engagement Ring",
+				"Wedding Bands",
+				"Wedding Rings",
+				"Si Dian Jin",
+				"Armenian Street",
+				"City Hall",
+				"Takashimaya",
+				"Ngee Ann City",
+				"Somerset",
+				"Retail"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Proper People Design Private Limited",
+			"brand": "State Property",
+			"code": "SPY",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "State Property",
+			"address": {
+				"city": "Singapore",
+				"line1": "36 Armenian Street, #01-02, Singapore 179934",
+				"streetName": "36 Armenian Street",
+				"postalCode": "179934",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201422896D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16887618198055243-7547910737919392-download.jpg",
+			"websiteUrl": "https://thisisstateproperty.com/",
+			"descriptionHtml": "<p>State Property is an award-winning contemporary fine jewellery label rooted in Singapore. Founded by a jeweller and an industrial designer, the label navigates the cusp of art and design, fusing contemporary approaches to design with traditional craftsmanship.</p>  <p>State Property is quickly becoming a cult favourite across the globe, with fans like Michelle Obama, Nicole Kidman, and Lady Gaga.</p>  <p>Participating Outlets:</p>  <ul> \t<li>36 Armenian Street</li> \t<li>Ngee Ann City</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/341524381798737-03195190319744268-State%20Property%20Logo%20-%20App.jpg",
+			"createdAt": "2022-06-13T02:44:02.699Z",
+			"updatedAt": "2026-08-06T14:17:31.946Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "        ",
+			"promotional": "       ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97f595add249244644e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16887618198055243-7547910737919392-download.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/341524381798737-03195190319744268-State%20Property%20Logo%20-%20App.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16887618198055243-7547910737919392-download_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16887618198055243-7547910737919392-download_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16887618198055243-7547910737919392-download_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/341524381798737-03195190319744268-State%20Property%20Logo%20-%20App_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/341524381798737-03195190319744268-State%20Property%20Logo%20-%20App_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/341524381798737-03195190319744268-State%20Property%20Logo%20-%20App_high.jpg"
+			},
+			"searchContent": "State Property is an award-winning contemporary fine jewellery label rooted in Singapore. Founded by a jeweller and an industrial designer, the label navigates the cusp of art and design, fusing contemporary approaches to design with traditional craftsmanship. State Property is quickly becoming a cult favourite across the globe, with fans like Michelle Obama, Nicole Kidman, and Lady Gaga. Participating Outlets: 36 Armenian Street Ngee Ann City Fine Jewellery Gold Jewellery Ring Necklaces Pendants Bracelets Bangles Earrings Diamonds Emeralds Enamel Jewellery Jewelry Engagement Ring Wedding Bands Wedding Rings Si Dian Jin Armenian Street City Hall Takashimaya Ngee Ann City Somerset Retail Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:53:47.194Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "state-property-655ce548",
+			"outlets": [
+				{
+					"_id": "62a85872c446a32a0c3f6496",
+					"name": "36 Armenian Street"
+				},
+				{
+					"_id": "62fcc84d9737c23198264287",
+					"name": "Ngee Ann City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"36 Armenian Street",
+			"Ngee Ann City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "State Property",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

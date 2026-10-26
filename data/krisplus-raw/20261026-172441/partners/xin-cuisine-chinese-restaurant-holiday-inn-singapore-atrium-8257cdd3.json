@@ -1,0 +1,215 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/xin-cuisine-chinese-restaurant-holiday-inn-singapore-atrium-8257cdd3",
+	"slug": "xin-cuisine-chinese-restaurant-holiday-inn-singapore-atrium-8257cdd3",
+	"fetchedAt": "2026-10-26T17:25:49.926+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5fc6f114e33daf3d605eefa1",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Xin Cuisine Chinese Restaurant",
+			"brand": "Xin Cuisine Chinese Restaurant - Holiday Inn Singapore Atrium",
+			"code": "XIN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Xin Cuisine",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "317 Outram Road, Concorde Shopping Centre",
+				"postalCode": "169075",
+				"streetName": "Outram Road"
+			},
+			"regNumber": "40516800D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/640176826032433-Xin%20Cuisine%20KrisPay%20App%20Brand%20Image%20750%20pixels(w)%20x%20540%20pixels(h).png",
+			"websiteUrl": "https://www.singaporeatrium.holidayinn.com",
+			"description": "",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a><br><br></em>Savour the best of Cantonese cuisine at Xin Cuisine Chinese Restaurant at Holiday Inn Singapore Atrium. Taste the finest Cantonese delicacies and intricate dim sums crafted by a team of Master Chefs.</p>\n\n<p> <br></p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5452749594178852-Xin%20Cuisine%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h).png",
+			"createdAt": "2020-12-02T01:42:44.659Z",
+			"updatedAt": "2026-09-30T16:00:06.725Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 5,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Holiday Inn Singapore Atrium\n317 Outram Road\nSingapore 169075",
+			"promotional": "The best of Cantonese cuisine at Xin Cuisine Chinese Restaurant.",
+			"searchableKeywords": [
+				"Havelock Road",
+				"Tiong Bahru",
+				"Chinese",
+				"Havelock Road",
+				"Holiday Inn",
+				"Fine Dining",
+				"Teochew",
+				"Cantonese",
+				"Soup",
+				"Dessert",
+				"Dim Sum",
+				"Roast Duck",
+				"Award Winning",
+				"Dining",
+				"Reunion",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"Mooncake",
+				"FortuneFeast"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d20108b03f047da5b0"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/640176826032433-Xin%20Cuisine%20KrisPay%20App%20Brand%20Image%20750%20pixels(w)%20x%20540%20pixels(h).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5452749594178852-Xin%20Cuisine%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/640176826032433-Xin%20Cuisine%20KrisPay%20App%20Brand%20Image%20750%20pixels(w)%20x%20540%20pixels(h)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/640176826032433-Xin%20Cuisine%20KrisPay%20App%20Brand%20Image%20750%20pixels(w)%20x%20540%20pixels(h)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/640176826032433-Xin%20Cuisine%20KrisPay%20App%20Brand%20Image%20750%20pixels(w)%20x%20540%20pixels(h)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5452749594178852-Xin%20Cuisine%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5452749594178852-Xin%20Cuisine%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5452749594178852-Xin%20Cuisine%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Savour the best of Cantonese cuisine at Xin Cuisine Chinese Restaurant at Holiday Inn Singapore Atrium. Taste the finest Cantonese delicacies and intricate dim sums crafted by a team of Master Chefs. Havelock Road Tiong Bahru Chinese Havelock Road Holiday Inn Fine Dining Teochew Cantonese Soup Dessert Dim Sum Roast Duck Award Winning Dining Reunion Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery Mooncake FortuneFeast Dining Chinese Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T06:45:01.904Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "xin-cuisine-chinese-restaurant-holiday-inn-singapore-atrium-8257cdd3",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5fd03375b0d01d6e441ff37e",
+					"name": "Holiday Inn Singapore Atrium"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Holiday Inn Singapore Atrium"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Xin Cuisine Chinese Restaurant - Holiday Inn Singapore Atrium",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

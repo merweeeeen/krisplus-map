@@ -1,0 +1,195 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/langelus-00b59507",
+	"slug": "langelus-00b59507",
+	"fetchedAt": "2026-10-26T17:25:29.780+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5ec465c76179dc20f4cb71b4",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "LAngelus Pte Ltd",
+			"brand": "L'Angelus",
+			"code": "LAN",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "85 Club Street,   ",
+				"postalCode": "069453",
+				"streetName": "Club Street"
+			},
+			"category": "DINING",
+			"regNumber": "199801563K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-9431dda5-9df3-445e-9af0-d4e4fdaaaa59.jpg",
+			"websiteUrl": "https://www.langelus.sg",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-3d298fce-4ece-4e19-ab5f-760daf76bba2.jpg",
+			"createdAt": "2020-05-19T23:03:35.778Z",
+			"updatedAt": "2026-08-06T14:17:09.976Z",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5.2
+				},
+				"saleOfMiles": 0.026,
+				"base": 4,
+				"calculatedMilesEarnRate": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "85 Club Street",
+			"promotional": "     ",
+			"categories": [
+				"DINING"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"payByCard": true,
+			"countryCode": "SG",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=L'Angelus\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>For over two decades, L’Angelus’s dedication to exceptional food and French wine has earned it its spot in history and a number of awards. Reminiscent of the charming restaurants tucked away in quiet corners of Paris, the setting and décor of L’Angelus evokes a very warm and familiar feeling.</p>  <p> <br></p>",
+			"shortName": "LAngelus",
+			"searchableKeywords": [
+				"Chinatown",
+				"Club Street",
+				"Tanjong Pagar",
+				"French",
+				"Central",
+				"Fine Dining",
+				"Anti Pasti",
+				"Anti Pasto",
+				"Wine",
+				"Chateau",
+				"Bordeaux",
+				"Pizza",
+				"Spaghetti",
+				"Pasta",
+				"Tortellini",
+				"Escargot",
+				"Steak",
+				"Couples",
+				"First Dates",
+				"Dining",
+				"Romantic",
+				"Valentines Day",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9ddb35256c5b2c9bf1a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-9431dda5-9df3-445e-9af0-d4e4fdaaaa59.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-3d298fce-4ece-4e19-ab5f-760daf76bba2.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-9431dda5-9df3-445e-9af0-d4e4fdaaaa59_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-9431dda5-9df3-445e-9af0-d4e4fdaaaa59_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-9431dda5-9df3-445e-9af0-d4e4fdaaaa59_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-3d298fce-4ece-4e19-ab5f-760daf76bba2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-3d298fce-4ece-4e19-ab5f-760daf76bba2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-3d298fce-4ece-4e19-ab5f-760daf76bba2_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. For over two decades, L’Angelus’s dedication to exceptional food and French wine has earned it its spot in history and a number of awards. Reminiscent of the charming restaurants tucked away in quiet corners of Paris, the setting and décor of L’Angelus evokes a very warm and familiar feeling. Chinatown Club Street Tanjong Pagar French Central Fine Dining Anti Pasti Anti Pasto Wine Chateau Bordeaux Pizza Spaghetti Pasta Tortellini Escargot Steak Couples First Dates Dining Romantic Valentines Day Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Dining Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-12T08:22:11.434Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "langelus-00b59507",
+			"outlets": [
+				{
+					"_id": "5ec468ba449723205c5fa5de",
+					"name": "Club Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Club Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "L'Angelus",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

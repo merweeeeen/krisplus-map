@@ -1,0 +1,168 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/belimbing-fed0323d",
+	"slug": "belimbing-fed0323d",
+	"fetchedAt": "2026-10-26T17:34:59.128+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a4bbd53594b5f353834212b",
+			"name": "THE COCONUT CLUB PTE LTD (Belimbing)",
+			"shortName": "Belimbing",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Belimbing",
+			"code": "8LB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/20265869876117426-8479210353217046-Belimbing%20Logo%20270x270.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3179961737564321-7680757757520305-Belimbing%20Brand%20Image%20750x540.png",
+			"websiteUrl": "https://www.instagram.com/belimbing.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "267 BEACH ROAD SINGAPORE  199545",
+				"postalCode": "199545",
+				"streetName": "267 BEACH ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Created by the people behind The Coconut Club, Belimbing is a New-Gen Singaporean restaurant helmed by Chef Marcus Leow that delves into the potential of local cuisine for the modern day.</span></p>",
+			"searchableKeywords": [
+				"Singapore",
+				"The Coconut Club",
+				"NewGen Singaporean",
+				"Singaporean Food"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.019,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 6,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"BD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-14T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-06T14:36:03.774Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/20265869876117426-8479210353217046-Belimbing%20Logo%20270x270.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3179961737564321-7680757757520305-Belimbing%20Brand%20Image%20750x540.png",
+			"createdAt": "2026-07-06T14:36:03.779Z",
+			"updatedAt": "2026-09-30T16:00:01.219Z",
+			"searchContent": "Created by the people behind The Coconut Club, Belimbing is a New-Gen Singaporean restaurant helmed by Chef Marcus Leow that delves into the potential of local cuisine for the modern day. Singapore The Coconut Club NewGen Singaporean Singaporean Food Dining Fine Dining Beverages & Desserts Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3179961737564321-7680757757520305-Belimbing%20Brand%20Image%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3179961737564321-7680757757520305-Belimbing%20Brand%20Image%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3179961737564321-7680757757520305-Belimbing%20Brand%20Image%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/20265869876117426-8479210353217046-Belimbing%20Logo%20270x270_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/20265869876117426-8479210353217046-Belimbing%20Logo%20270x270_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/20265869876117426-8479210353217046-Belimbing%20Logo%20270x270_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "belimbing-fed0323d",
+			"outlets": [
+				{
+					"_id": "6a4bbf010264e18a36231a81",
+					"name": "Beach Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Beach Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Belimbing",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

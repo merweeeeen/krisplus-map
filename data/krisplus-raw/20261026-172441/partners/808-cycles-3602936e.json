@@ -1,0 +1,189 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/808-cycles-3602936e",
+	"slug": "808-cycles-3602936e",
+	"fetchedAt": "2026-10-26T17:28:30.634+08:00",
+	"payload": {
+		"partner": {
+			"_id": "636b0c3fb017c733dc4b6774",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 3,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Brompton",
+				"Bicycle",
+				"Foldie",
+				"Folding",
+				"Hummingbird",
+				"Brooks",
+				"Restrap",
+				"Demano",
+				"Thousand",
+				"Vincita",
+				"Mks",
+				"Colorplus",
+				"Cateye",
+				"Quadlock",
+				"Bspokes",
+				"Junction",
+				"Oxygen",
+				"Happy Owl",
+				"Sopoong",
+				"King Albert Park",
+				"Services",
+				"808 Cycles",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "808 Cycles Pte. Ltd.",
+			"brand": "808 Cycles",
+			"code": "808",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "808 Cycles",
+			"address": {
+				"city": "Singapore",
+				"line1": "9 King Albert Park, #02-01 KAP, Singapore 598332",
+				"streetName": "9 King Albert Park",
+				"postalCode": "598332",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201629310E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4354078973396318-7419355560510272-C.jpg",
+			"websiteUrl": "https://www.808cycles.com",
+			"descriptionHtml": "<p>Your friendly and preferred Brompton Authorised Dealer in Singapore! Apart from brand new Brompton folding bikes, 808 Cycles also offers original spare parts, aftermarket accessories/upgrades, such as Brooks of England saddles, Demano bags, MKS pedals, and Thousand helmets etc.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5499530570239526-03987664364126653-A.png",
+			"createdAt": "2022-11-09T02:11:11.797Z",
+			"updatedAt": "2026-08-06T14:17:38.198Z",
+			"participatingOutlets": "King Albert Park",
+			"promotional": "                              ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9600108b03f047da574"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4354078973396318-7419355560510272-C.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5499530570239526-03987664364126653-A.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4354078973396318-7419355560510272-C_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4354078973396318-7419355560510272-C_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4354078973396318-7419355560510272-C_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5499530570239526-03987664364126653-A_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5499530570239526-03987664364126653-A_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5499530570239526-03987664364126653-A_high.png"
+			},
+			"searchContent": "Your friendly and preferred Brompton Authorised Dealer in Singapore! Apart from brand new Brompton folding bikes, 808 Cycles also offers original spare parts, aftermarket accessories/upgrades, such as Brooks of England saddles, Demano bags, MKS pedals, and Thousand helmets etc. Brompton Bicycle Foldie Folding Hummingbird Brooks Restrap Demano Thousand Vincita Mks Colorplus Cateye Quadlock Bspokes Junction Oxygen Happy Owl Sopoong King Albert Park Services 808 Cycles Ruhens Grohe Hansgrohe Mayer Simmons Sealy Retail Home & Lifestyle",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:20:59.838Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "808-cycles-3602936e",
+			"outlets": [
+				{
+					"_id": "6371c770e0926f30e085afb2",
+					"name": "KAP Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"KAP Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "808 Cycles",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

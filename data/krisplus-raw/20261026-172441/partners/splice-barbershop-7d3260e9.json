@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/splice-barbershop-7d3260e9",
+	"slug": "splice-barbershop-7d3260e9",
+	"fetchedAt": "2026-10-26T17:28:41.394+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63da0b62495292057c3e1711",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Men",
+				"Accessories",
+				"Men",
+				"Grooming",
+				"Men haircut",
+				"beard shaping",
+				"beard trimming",
+				"moustache trimming",
+				"nose wax",
+				"head massage",
+				"services",
+				"Suntec City"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "ELEMENTS OF SPLICE PRIVATE LIMITED",
+			"brand": "Splice Barbershop",
+			"code": "ESP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Splice Barbers",
+			"address": {
+				"city": "Singapore",
+				"line1": "3 Temasek Boulevard #01-487 Suntec City Singapore 038983",
+				"streetName": "3 Temasek Boulevard",
+				"postalCode": "038983",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201922720M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/21893722069024002-11681852607498588-brand.2.png",
+			"websiteUrl": "https://www.splicebarbershop.com.sg",
+			"descriptionHtml": "<p>Splice is an unpretentious modern city barbershop that has a team of experienced barbers specialised in the traditional art of barbering.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"promotional": "                                  ",
+			"participatingOutlets": "                              ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7973777016222969-7093064841886363-Splice%20Logo%20(2).png",
+			"createdAt": "2023-02-01T06:49:06.349Z",
+			"updatedAt": "2026-08-06T14:17:41.034Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef958595add2492446436"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/21893722069024002-11681852607498588-brand.2.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7973777016222969-7093064841886363-Splice%20Logo%20(2).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/21893722069024002-11681852607498588-brand_low.2",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/21893722069024002-11681852607498588-brand_med.2",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/21893722069024002-11681852607498588-brand_high.2"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7973777016222969-7093064841886363-Splice%20Logo%20(2)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7973777016222969-7093064841886363-Splice%20Logo%20(2)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7973777016222969-7093064841886363-Splice%20Logo%20(2)_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-05T03:07:44.983Z",
+			"searchContent": "Splice is an unpretentious modern city barbershop that has a team of experienced barbers specialised in the traditional art of barbering. Men Accessories Men Grooming Men haircut beard shaping beard trimming moustache trimming nose wax head massage services Suntec City Services Personal Care",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "splice-barbershop-7d3260e9",
+			"outlets": [
+				{
+					"_id": "63db1ba6d5f4f41714458a1a",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "656dce5429507e005485ca59",
+					"name": "One Holland Village"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City",
+			"One Holland Village"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Splice Barbershop",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

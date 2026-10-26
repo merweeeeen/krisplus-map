@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/soi-thai-kitchen-d924fd10",
+	"slug": "soi-thai-kitchen-d924fd10",
+	"fetchedAt": "2026-10-26T17:31:06.926+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67c0157808f5ab0ff8182a35",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Thai Food",
+				"Asian Cuisine",
+				"Tomyam",
+				"Phad Thai",
+				"Thai Milk Tea"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Superrise Pte Ltd",
+			"brand": "Soi Thai Kitchen",
+			"code": "SOI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Soi Thai Kitch",
+			"address": {
+				"line1": "133 Serangoon Ave 3 #02-07",
+				"postalCode": "556113",
+				"streetName": "133 Serangoon Ave 3",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://soithai.oddle.me/en_SG/",
+			"descriptionHtml": "<p>Bringing the true essence of Thai cuisine to the discerning palates of Singaporeans. Soi Thai Kitchen opened its doors with the aim of offering an unparalleled dining experience that celebrates the rich tapestry of flavors found across the diverse regions of Thailand.<br><br><br><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Participating Outlets:</span><br>- Jurong West<br>- Serangoon Garden<br>- Tampines<br>- Toa Payoh</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/22482887276095043-soi-thai%20logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9152920306193706-17396401301367326-thai%20750.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/22482887276095043-soi-thai%20logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9152920306193706-17396401301367326-thai%20750.jpg",
+			"createdAt": "2025-02-27T07:34:16.092Z",
+			"updatedAt": "2026-08-06T14:18:12.585Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9152920306193706-17396401301367326-thai%20750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9152920306193706-17396401301367326-thai%20750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9152920306193706-17396401301367326-thai%20750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/22482887276095043-soi-thai%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/22482887276095043-soi-thai%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/22482887276095043-soi-thai%20logo_high.jpg"
+			},
+			"searchContent": "Bringing the true essence of Thai cuisine to the discerning palates of Singaporeans. Soi Thai Kitchen opened its doors with the aim of offering an unparalleled dining experience that celebrates the rich tapestry of flavors found across the diverse regions of Thailand. Participating Outlets: - Jurong West - Serangoon Garden - Tampines - Toa Payoh Thai Food Asian Cuisine Tomyam Phad Thai Thai Milk Tea Dining Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:25:38.945Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "soi-thai-kitchen-d924fd10",
+			"outlets": [
+				{
+					"_id": "67c66334ca2ff10414b3f411",
+					"name": "Serangoon Garden"
+				},
+				{
+					"_id": "67c663ea461c6424b7c81d9b",
+					"name": "Toa Payoh"
+				},
+				{
+					"_id": "67c664647c528b041ac62394",
+					"name": "Jurong West"
+				},
+				{
+					"_id": "67c664f5b375a816c00f1d68",
+					"name": "Tampines"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Serangoon Garden",
+			"Toa Payoh",
+			"Jurong West",
+			"Tampines"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Soi Thai Kitchen",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

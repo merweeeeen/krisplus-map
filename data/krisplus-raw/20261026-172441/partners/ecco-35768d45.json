@@ -1,0 +1,276 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ecco-35768d45",
+	"slug": "ecco-35768d45",
+	"fetchedAt": "2026-10-26T17:28:52.651+08:00",
+	"payload": {
+		"partner": {
+			"_id": "641abd29bb1cf30052a75c94",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.015,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Ecco Ecco Women",
+				"Ecco Men",
+				"Ecco Handbags",
+				"Ecco Belt",
+				"Ecco Formal",
+				"Ecco Golf",
+				"Ecco Women Sneaker",
+				"Ecco Men Sneaker",
+				"Comfortable Sandals",
+				"Ecco Drawstring Bag",
+				"Leather Goods",
+				"Ecco Accessories",
+				"Ecco Mens Formal Shoes",
+				"Soft 7",
+				"Biom Street",
+				"Ecco Heels",
+				"Ecco Exostrike Gtx",
+				"Men Golf Shoes",
+				"Women Golf Shoes",
+				"Ecco Sg",
+				"Ecco Hybrid Women",
+				"Ecco Women Totes",
+				"Ecco Bags",
+				"Ecco Socks",
+				"Ecco Street",
+				"Ecco Clean Care Product",
+				"Shoe Cleaner",
+				"Ecco Promotion",
+				"Handbag",
+				"Bag",
+				"Leather Bag",
+				"Leather Shoes",
+				"Pouch",
+				"Belt",
+				"Shoes",
+				"Golf Shoes",
+				"Sneakers",
+				"Sandals",
+				"Walking Shoes",
+				"Imm",
+				"Jurong East",
+				"Ion Orchard",
+				"Jewel Changi Airport",
+				"Marina Bay Sands",
+				"Mbs",
+				"Raffles City",
+				"City Hall",
+				"Suntec City",
+				"Promenade",
+				"Esplanade",
+				"Vivocity",
+				"Vivo City",
+				"Harbourfront",
+				"Westgate",
+				"Newclothes",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "ECCO CHINA WHOLESALE HOLDING (SINGAPORE) PTE. LTD.",
+			"brand": "ECCO",
+			"code": "ECW",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "ECCO",
+			"address": {
+				"line1": "51 CUPPAGE RD, #06-10, SINGAPORE 229469",
+				"postalCode": "229469",
+				"streetName": "51 CUPPAGE RD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200506976Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16850860242436716-Lifestyle-750x-540.jpg",
+			"websiteUrl": "https://sg.ecco.com/",
+			"descriptionHtml": "<p>ECCO, a brand passionate about leather, represents 7 generations of tanning know-how, taking premium raw materials and transforming them into timeless shoes and accessories.</p>  <p>Participating Outlets:</p>  <p>•\tION Orchard<br>•\tJewel Changi Airport<br>•\tMarina Bay Sands<br>•\tPlaza Singapura <br>•\tSuntec City<br>•\tTampines Mall<br>•\tVivoCity<br>•\tIMM </p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/11579970591700728-3425928917493575-a)%20Brand%20Logo%20App%201000%20%20X%201000%20(002).jpg.png",
+			"createdAt": "2023-03-22T08:32:41.747Z",
+			"updatedAt": "2026-10-16T02:07:20.056Z",
+			"participatingOutlets": "                                           ",
+			"promotional": "                                    ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef951595add2492446432"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 8
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16850860242436716-Lifestyle-750x-540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16850860242436716-Lifestyle-750x-540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16850860242436716-Lifestyle-750x-540_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16850860242436716-Lifestyle-750x-540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11579970591700728-3425928917493575-a)%20Brand%20Logo%20App%201000%20%20X%201000%20(002).jpg.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11579970591700728-3425928917493575-a)%20Brand%20Logo%20App%201000%20%20X%201000%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11579970591700728-3425928917493575-a)%20Brand%20Logo%20App%201000%20%20X%201000%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11579970591700728-3425928917493575-a)%20Brand%20Logo%20App%201000%20%20X%201000%20(002)_high.jpg"
+			},
+			"searchContent": "ECCO, a brand passionate about leather, represents 7 generations of tanning know-how, taking premium raw materials and transforming them into timeless shoes and accessories. Participating Outlets: • ION Orchard • Jewel Changi Airport • Marina Bay Sands • Plaza Singapura • Suntec City • Tampines Mall • VivoCity • IMM Ecco Ecco Women Ecco Men Ecco Handbags Ecco Belt Ecco Formal Ecco Golf Ecco Women Sneaker Ecco Men Sneaker Comfortable Sandals Ecco Drawstring Bag Leather Goods Ecco Accessories Ecco Mens Formal Shoes Soft 7 Biom Street Ecco Heels Ecco Exostrike Gtx Men Golf Shoes Women Golf Shoes Ecco Sg Ecco Hybrid Women Ecco Women Totes Ecco Bags Ecco Socks Ecco Street Ecco Clean Care Product Shoe Cleaner Ecco Promotion Handbag Bag Leather Bag Leather Shoes Pouch Belt Shoes Golf Shoes Sneakers Sandals Walking Shoes Imm Jurong East Ion Orchard Jewel Changi Airport Marina Bay Sands Mbs Raffles City City Hall Suntec City Promenade Esplanade Vivocity Vivo City Harbourfront Westgate Newclothes Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Retail Fashion",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-02T02:06:03.635Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ecco-35768d45",
+			"outlets": [
+				{
+					"_id": "641bfdf706a42f0052d738af",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "641bfe306ca6680056a044b7",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "641bfe514777ab00521b0b83",
+					"name": "Marina Bay Sands"
+				},
+				{
+					"_id": "641bfea6f600ea00528455f7",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "641bfecc780626005c99f55c",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "641bff2e780626005c99f5da",
+					"name": "IMM"
+				},
+				{
+					"_id": "663b1d316df578006aa5ff27",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "6881c2370a8e8910b103c843",
+					"name": "Tampines Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard",
+			"Jewel Changi Airport",
+			"Marina Bay Sands",
+			"Suntec City",
+			"VivoCity",
+			"IMM",
+			"Plaza Singapura",
+			"Tampines Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ECCO",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

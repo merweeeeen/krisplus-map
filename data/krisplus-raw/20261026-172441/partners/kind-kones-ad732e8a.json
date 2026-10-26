@@ -1,0 +1,205 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kind-kones-ad732e8a",
+	"slug": "kind-kones-ad732e8a",
+	"fetchedAt": "2026-10-26T17:29:14.625+08:00",
+	"payload": {
+		"partner": {
+			"_id": "64af5e45a81e9f0051a6939a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 4,
+				"calculatedMilesEarnRate": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Ice Cream",
+				"Waffles",
+				"Dessert",
+				"Plantbased",
+				"Vegan",
+				"Dairyfree",
+				"Glutenfree",
+				"Healthy",
+				"Dining",
+				"Paragon",
+				"Orchard",
+				"I12 Katong",
+				"Joo Chiat",
+				"East Coast",
+				"Forum The Shopping Mall",
+				"Tanglin",
+				"Cafe",
+				"Café",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Coffee",
+				"Tea",
+				"Cakes",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "KIND KONES PTE. LTD.",
+			"brand": "Kind Kones",
+			"code": "KNK",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Kind Kones",
+			"address": {
+				"line1": "51 Bukit Batok Crescent #07-29  Unity Centre, Singapore 658077",
+				"postalCode": "658077",
+				"streetName": "51 Bukit Batok Crescent",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "201527909C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/29016874521779323-kk2.png",
+			"websiteUrl": "https://www.kindkones.com",
+			"descriptionHtml": "<p>Kind Kones is an all-natural plant-based ice cream brand. Their ice creams are dairy and egg-free, with no refined sugar or artificial additives. They offer healthier, gluten-free options and believe in being kind to your body, the environment and others while indulging in sweet treats.</p>  <p>Participating Outlet:</p>  <ul> \t<li>Forum The Shopping Mall</li> \t </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/526478501018043-kk1.png",
+			"createdAt": "2023-07-13T02:15:33.779Z",
+			"updatedAt": "2026-10-01T09:35:52.306Z",
+			"translations": [
+				"64eef9f845578ca5d7f0b3d8"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"privilege": false,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/29016874521779323-kk2.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/526478501018043-kk1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/29016874521779323-kk2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/29016874521779323-kk2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/29016874521779323-kk2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/526478501018043-kk1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/526478501018043-kk1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/526478501018043-kk1_high.png"
+			},
+			"searchContent": "Kind Kones is an all-natural plant-based ice cream brand. Their ice creams are dairy and egg-free, with no refined sugar or artificial additives. They offer healthier, gluten-free options and believe in being kind to your body, the environment and others while indulging in sweet treats. Participating Outlet: Forum The Shopping Mall Ice Cream Waffles Dessert Plantbased Vegan Dairyfree Glutenfree Healthy Dining Paragon Orchard I12 Katong Joo Chiat East Coast Forum The Shopping Mall Tanglin Cafe Café Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Coffee Tea Cakes Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Dining Vegan-Friendly Vegetarian-Friendly Beverages & Desserts",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-02T05:42:33.972Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kind-kones-ad732e8a",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "64b8ad60928b2a005514e699",
+					"name": "Forum Shopping Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Forum Shopping Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kind Kones",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

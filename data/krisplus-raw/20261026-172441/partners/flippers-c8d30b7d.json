@@ -1,0 +1,204 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/flippers-c8d30b7d",
+	"slug": "flippers-c8d30b7d",
+	"fetchedAt": "2026-10-26T17:29:25.604+08:00",
+	"payload": {
+		"partner": {
+			"_id": "654c486853a17d005678a61f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.2,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Pancakes",
+				"Japanese Dessert",
+				"Brunch",
+				"Café",
+				"Premium",
+				"Eggs",
+				"Fluffy",
+				"Souffle",
+				"Cafe",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Coffee",
+				"Tea",
+				"Cakes",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"654c48737833ecba6bfcb885"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Century Artisan Pte Ltd (Flipper's)",
+			"brand": "Flipper's",
+			"code": "FLP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Flipper's",
+			"address": {
+				"line1": "54 Lorong 23 Geylang, #05-01 TM54 Singapore 388380",
+				"postalCode": "388380",
+				"streetName": "54 Lorong 23 Geylang",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"BD",
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "2019",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8640458519545484-9918907460693269-KrisFlyer%20Visuals-C750.jpg",
+			"websiteUrl": "https://www.instagram.com/flippers.singapore/",
+			"descriptionHtml": "<p>FLIPPER'S serves authentic Japanese souffle pancakes. Founded in Tokyo in 2014, their Japanese pancakes are made with artisanal precision, with each order prepared freshly on the spot to ensure they remain light and fluffy when cooked. The pancakes are also made with meticulously-sourced ingredients including premium Japanese eggs, quality butter and flour. </p>  <p>Participating Outlets:</p>  <ul> \t<li>Bugis Junction</li><li>VivoCity</li> \t </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/48626452512020624-06065888266996433-KrisFlyer%20Visuals-A.jpg",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"createdAt": "2023-11-09T02:48:08.702Z",
+			"updatedAt": "2026-10-06T07:18:02.129Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8640458519545484-9918907460693269-KrisFlyer%20Visuals-C750.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/48626452512020624-06065888266996433-KrisFlyer%20Visuals-A.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8640458519545484-9918907460693269-KrisFlyer%20Visuals-C750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8640458519545484-9918907460693269-KrisFlyer%20Visuals-C750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8640458519545484-9918907460693269-KrisFlyer%20Visuals-C750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/48626452512020624-06065888266996433-KrisFlyer%20Visuals-A_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/48626452512020624-06065888266996433-KrisFlyer%20Visuals-A_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/48626452512020624-06065888266996433-KrisFlyer%20Visuals-A_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-17T02:03:28.987Z",
+			"searchContent": "FLIPPER'S serves authentic Japanese souffle pancakes. Founded in Tokyo in 2014, their Japanese pancakes are made with artisanal precision, with each order prepared freshly on the spot to ensure they remain light and fluffy when cooked. The pancakes are also made with meticulously-sourced ingredients including premium Japanese eggs, quality butter and flour. Participating Outlets: Bugis JunctionVivoCity Pancakes Japanese Dessert Brunch Café Premium Eggs Fluffy Souffle Cafe Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Coffee Tea Cakes Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Dining Halal Vegetarian-Friendly Cafe Casual Dining Beverages & Desserts Japanese",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "flippers-c8d30b7d",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "654d990e82f0ae005086cfde",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "69cb6cbd710c2e3268dd9e00",
+					"name": "Vivo City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis Junction",
+			"Vivo City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Flipper's",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

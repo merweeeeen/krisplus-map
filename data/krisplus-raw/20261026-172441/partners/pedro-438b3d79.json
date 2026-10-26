@@ -1,0 +1,298 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/pedro-438b3d79",
+	"slug": "pedro-438b3d79",
+	"fetchedAt": "2026-10-26T17:28:53.545+08:00",
+	"payload": {
+		"partner": {
+			"_id": "642ce81d78dcf1005c612cbd",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.022,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Singapore",
+				"Charles And Keith",
+				"Shoes",
+				"Bag",
+				"Online",
+				"Promo Code",
+				"Promo",
+				"Sale",
+				"Loafers",
+				"Discount Code",
+				"Belt",
+				"Man Shoes",
+				"Wallet Men",
+				"Wallet",
+				"Mens",
+				"Pazzion",
+				"Chelsea Boots",
+				"Men Shoes",
+				"Online Store",
+				"Shoes Com",
+				"Card Holder",
+				"Slingbag",
+				"Slippers",
+				"Ladies Wallet",
+				"Shoe Boot",
+				"Boots",
+				"Heels",
+				"Loafers Casual Shoes",
+				"Aldo",
+				"Bag Men",
+				"Leather Shoes",
+				"Strappy Heels",
+				"Mules",
+				"Pumps Heels",
+				"Discount",
+				"Wallet  Mens",
+				"Www Shoes Com Sg",
+				"Small Wallet For Ladies",
+				"Retail",
+				"Somerset",
+				"Bugis Junction",
+				"Changi Airport",
+				"Jewel",
+				"Terminal 1",
+				"Changi City Point",
+				"Ion Orchard",
+				"Imm",
+				"Jurong East",
+				"Jem",
+				"Plaza Singapura",
+				"Dhoby Ghaut",
+				"Raffles City",
+				"Suntec City",
+				"The Shoppes At Marina Bay",
+				"Bayfront",
+				"Vivocity",
+				"Wisma Atria",
+				"Newclothes",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Pedro Group Pte Ltd",
+			"brand": "PEDRO",
+			"code": "PGP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "PEDRO",
+			"address": {
+				"line1": "6 TAI SENG LINK, #08-00, SINGAPORE 534101",
+				"postalCode": "534101",
+				"streetName": "6 TAI SENG LINK",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200512535M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/38728669563987905-750x540.jpg",
+			"websiteUrl": "https://pedroshoes.com/sg",
+			"descriptionHtml": "<p>Empowering Effortless Confidence With Effortless Essentials.</p>  <p>PEDRO is a fashion brand designed to empower the effortless confidence of a modern style maven with effortless essentials. By relating, refining and reinventing, they create updated essentials to celebrate individualism that transcends time or gender.</p>  <p> </p>  <p>Participating Outlets:</p>  <ul> \t<li>313@Somerset</li> \t<li>Bugis Junction</li> \t<li>Changi Airport T1 (Transit)</li> \t<li>Changi City Point</li> \t<li>IMM </li> \t<li>ION Orchard</li> \t<li>Jem</li> \t<li>Jewel Changi Airport</li> \t<li>Plaza Singapura</li> \t<li>Raffles City Shopping Centre</li> \t<li>Suntec City Mall</li> \t<li>The Shoppes at Marina Bay Sands</li> \t<li>VivoCity</li> \t<li>Wisma Atria</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1762993716347867-1000%20x%201000_PEDRO%20LOGO.jpg",
+			"createdAt": "2023-04-05T03:16:45.635Z",
+			"updatedAt": "2026-09-01T02:10:43.633Z",
+			"participatingOutlets": "                                                        ",
+			"promotional": "                                                 ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef944a3718718842dd933"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 14
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/38728669563987905-750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/38728669563987905-750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/38728669563987905-750x540_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/38728669563987905-750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1762993716347867-1000%20x%201000_PEDRO%20LOGO.jpg",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1762993716347867-1000%20x%201000_PEDRO%20LOGO_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1762993716347867-1000%20x%201000_PEDRO%20LOGO_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1762993716347867-1000%20x%201000_PEDRO%20LOGO_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-07T07:38:45.683Z",
+			"searchContent": "Empowering Effortless Confidence With Effortless Essentials. PEDRO is a fashion brand designed to empower the effortless confidence of a modern style maven with effortless essentials. By relating, refining and reinventing, they create updated essentials to celebrate individualism that transcends time or gender. Participating Outlets: 313@Somerset Bugis Junction Changi Airport T1 (Transit) Changi City Point IMM ION Orchard Jem Jewel Changi Airport Plaza Singapura Raffles City Shopping Centre Suntec City Mall The Shoppes at Marina Bay Sands VivoCity Wisma Atria Singapore Charles And Keith Shoes Bag Online Promo Code Promo Sale Loafers Discount Code Belt Man Shoes Wallet Men Wallet Mens Pazzion Chelsea Boots Men Shoes Online Store Shoes Com Card Holder Slingbag Slippers Ladies Wallet Shoe Boot Boots Heels Loafers Casual Shoes Aldo Bag Men Leather Shoes Strappy Heels Mules Pumps Heels Discount Wallet  Mens Www Shoes Com Sg Small Wallet For Ladies Retail Somerset Bugis Junction Changi Airport Jewel Terminal 1 Changi City Point Ion Orchard Imm Jurong East Jem Plaza Singapura Dhoby Ghaut Raffles City Suntec City The Shoppes At Marina Bay Bayfront Vivocity Wisma Atria Newclothes Fashion Zara Uniqlo Charles  Keith H M Love Bonito Womans Shirts Pants Blouse Trousers Tshirt Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "pedro-438b3d79",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "643364dee589010052f2a3b4",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "64336505066f68005c9cbf79",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "6433658a25dfae0052b9c3d7",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "6433660671b307005c4a5b04",
+					"name": "IMM"
+				},
+				{
+					"_id": "6433661a78dcf1005c696eac",
+					"name": "JEM"
+				},
+				{
+					"_id": "643366311c3d3e005ce71b46",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "643366494777ab00523abfef",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "643366726ca6680056bfe974",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "6433669d4777ab00523ac046",
+					"name": "Marina Bay Sands"
+				},
+				{
+					"_id": "643366b1066f68005c9cc1df",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "643366c7066f68005c9cc21d",
+					"name": "Wisma Atria"
+				},
+				{
+					"_id": "690da3f8ba0cc90242c6e774",
+					"name": "Changi Airport T2 (Transit)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset",
+			"Bugis Junction",
+			"ION Orchard",
+			"IMM",
+			"JEM",
+			"Jewel Changi Airport",
+			"Plaza Singapura",
+			"Suntec City",
+			"Marina Bay Sands",
+			"VivoCity",
+			"Wisma Atria",
+			"Changi Airport T2 (Transit)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "PEDRO",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/peony-jade-595bd193",
+	"slug": "peony-jade-595bd193",
+	"fetchedAt": "2026-10-26T17:32:26.919+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68b167c1a1c5df04663adf75",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chinese",
+				"Dim Sum",
+				"Longevity Bun",
+				"Mooncakes",
+				"Pastries",
+				"Cny",
+				"Wedding",
+				"Banquet",
+				"Cantonese",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "The Quayside Group Pte Ltd",
+			"brand": "Peony Jade",
+			"code": "PEJ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Peony Jade",
+			"address": {
+				"line1": "8A ADMIRALTY STREET #02-20 FOOD XCHANGE ADMIRALTY",
+				"postalCode": "757437",
+				"streetName": "8A ADMIRALTY STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://peonyjade.com/",
+			"descriptionHtml": "<p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Peony%20Jade\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Peony Jade, an award-winning Michelin Plate SG brand, is renowned for its masterful execution of authentic Cantonese cuisine and artisanal seasonal classics. Kris+ members can use miles to redeem for their legendary handcrafted-in-SG, preservative-free Teochew Flaky Orhni (Yam), Cantonese-Baked, and Modern Snowskin mooncakes.</p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Celebrate special moments with their intricately-handcrafted birthday longevity buns (Sou Bao) and traditional pastries, all bearing the hallmark of skilled craftsmanship.<br><br>*Note that Kris+ payment is only available at Peony Jade's restaurant, not applicable for use at hotel lobby. </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7697800892078888-PeonyJade.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/04297432745566199-2954349011890174-PJ%20Brand%20750.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7697800892078888-PeonyJade.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/04297432745566199-2954349011890174-PJ%20Brand%20750.png",
+			"createdAt": "2025-08-29T08:41:37.376Z",
+			"updatedAt": "2026-08-06T14:18:20.199Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7697800892078888-PeonyJade_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7697800892078888-PeonyJade_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7697800892078888-PeonyJade_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:59:54.643Z",
+			"searchContent": "*Click here to Reserve A Table. Peony Jade, an award-winning Michelin Plate SG brand, is renowned for its masterful execution of authentic Cantonese cuisine and artisanal seasonal classics. Kris+ members can use miles to redeem for their legendary handcrafted-in-SG, preservative-free Teochew Flaky Orhni (Yam), Cantonese-Baked, and Modern Snowskin mooncakes. Celebrate special moments with their intricately-handcrafted birthday longevity buns (Sou Bao) and traditional pastries, all bearing the hallmark of skilled craftsmanship. *Note that Kris+ payment is only available at Peony Jade's restaurant, not applicable for use at hotel lobby. Chinese Dim Sum Longevity Bun Mooncakes Pastries Cny Wedding Banquet Cantonese FortuneFeast Dining Casual Dining Kid-Friendly Beverages & Desserts Chinese",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "peony-jade-595bd193",
+			"outlets": [
+				{
+					"_id": "68b169af390cbd046786c945",
+					"name": "Amara Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Amara Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Peony Jade",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

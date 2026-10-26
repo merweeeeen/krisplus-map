@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/highhouse-530184a7",
+	"slug": "highhouse-530184a7",
+	"fetchedAt": "2026-10-26T17:31:16.759+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67d827424238df04111d33b2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 5,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bar",
+				"speakeasy",
+				"beverage",
+				"restaurant",
+				"lounge",
+				"club",
+				"panasian",
+				"cocktails"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "OUE  Sky Pte Ltd",
+			"brand": "HighHouse",
+			"code": "HHO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5813",
+			"shortName": "HighHouse",
+			"address": {
+				"line1": "50 COLLYER QUAY",
+				"postalCode": "049321",
+				"streetName": "OUE BAYFRONT  #18-01/02",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"FD",
+								"PB",
+								"BD",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://highhouse.sg/",
+			"descriptionHtml": "<p><span lang=\"EN-US\" style=\"box-sizing: border-box; font-weight: 300; color: black; font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10pt; line-height: 14.2667px;\">HighHouse offers unparalleled 360-degree views of the Singapore skyline. It is the ultimate setting for meaningful<span> </span></span><span lang=\"EN-US\" style=\"box-sizing: border-box; font-weight: 300; color: black; font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10pt; line-height: 14.2667px;\">connections, exceptional cocktail and culinary experiences, impeccable service, and memorable gatherings coupled <span style=\"box-sizing: border-box; font-weight: 300; color: rgb(0, 0, 0); font-family: Proxima, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">with a progressive soundscape by renowned and emerging music selectors from Singapore and beyond.</span></span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8768588270160407-HighHouse%20logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7207035681417175-36494142521644224-HH%20brand.png",
+			"countryCode": "SG",
+			"mccDescription": "Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8768588270160407-HighHouse%20logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7207035681417175-36494142521644224-HH%20brand.png",
+			"createdAt": "2025-03-17T13:44:34.402Z",
+			"updatedAt": "2026-09-30T16:00:05.403Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7207035681417175-36494142521644224-HH%20brand_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7207035681417175-36494142521644224-HH%20brand_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7207035681417175-36494142521644224-HH%20brand_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8768588270160407-HighHouse%20logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8768588270160407-HighHouse%20logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8768588270160407-HighHouse%20logo_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:57:43.172Z",
+			"searchContent": "HighHouse offers unparalleled 360-degree views of the Singapore skyline. It is the ultimate setting for meaningful connections, exceptional cocktail and culinary experiences, impeccable service, and memorable gatherings coupled with a progressive soundscape by renowned and emerging music selectors from Singapore and beyond. Bar speakeasy beverage restaurant lounge club panasian cocktails Dining Casual Dining Fine Dining Pubs & Bars Beverages & Desserts Asian Western",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "highhouse-530184a7",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "67d82a1e253c75041d59d918",
+					"name": "One Raffles Place"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"One Raffles Place"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "HighHouse",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

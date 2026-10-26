@@ -1,0 +1,216 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/outdoor-life-c7c8f1a1",
+	"slug": "outdoor-life-c7c8f1a1",
+	"fetchedAt": "2026-10-26T17:25:18.765+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e5e0ebd6f306a0fcc5a93fb",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": false,
+			"name": "Outdoor Life Pte Ltd",
+			"brand": "Outdoor Life",
+			"code": "ODL",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "107 North Bridge Road, #02-20 Funan Mall",
+				"postalCode": "179105",
+				"streetName": "North Bridge Road"
+			},
+			"category": "RETAIL",
+			"regNumber": "200700158H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-c962a677-4a62-4f23-a8a0-57a449caafcb.jpg",
+			"websiteUrl": "https://www.outdoorlife.com.sg/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-e825263f-6ca5-46eb-a1fd-337095df6c12.jpg",
+			"createdAt": "2020-03-03T08:01:01.342Z",
+			"updatedAt": "2026-08-06T14:17:09.141Z",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Funan Mall",
+			"promotional": "Find out more at: www.outdoorlife.com.sg",
+			"categary": "Others",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"descriptionHtml": "<p>Outdoor Life was born from love for the outdoors and is the largest outdoor gear store in Singapore. They carry over 100 different brands, specializing in winter apparels, backpacks, rock climbing equipment, lifestyle products and travel essentials. The brand serves to help fellow enthusiasts acquire quality gear they need for all their adventures.<br> <br> ​​​​​​​Participating Outlet: Funan Mall</p>",
+			"countryCode": "SG",
+			"shortName": "OutdoorLife",
+			"searchableKeywords": [
+				"City",
+				"North Bridge Road",
+				"South Bridge Road",
+				"Funan Mall",
+				"Clarke Quay",
+				"Leisure",
+				"Retail",
+				"City Hall",
+				"Adventure",
+				"City",
+				"Central",
+				"Outdoor",
+				"Sun",
+				"Sea",
+				"Climbing",
+				"Carabiner",
+				"Ropes",
+				"Tent",
+				"Camping",
+				"Swimming",
+				"Rock Climbing",
+				"Water",
+				"Fitness",
+				"Winter Apparels",
+				"Backpacks",
+				"Lifestyle",
+				"Shoes",
+				"travel",
+				"jacket",
+				"skiing",
+				"trekking",
+				"sport",
+				"sports",
+				"down",
+				"climb",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management",
+				"Outdoor Life",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e39d00b0a527865c38"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-c962a677-4a62-4f23-a8a0-57a449caafcb.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-e825263f-6ca5-46eb-a1fd-337095df6c12.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-c962a677-4a62-4f23-a8a0-57a449caafcb_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-c962a677-4a62-4f23-a8a0-57a449caafcb_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-c962a677-4a62-4f23-a8a0-57a449caafcb_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-e825263f-6ca5-46eb-a1fd-337095df6c12_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-e825263f-6ca5-46eb-a1fd-337095df6c12_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-e825263f-6ca5-46eb-a1fd-337095df6c12_high.jpg"
+			},
+			"searchContent": "Outdoor Life was born from love for the outdoors and is the largest outdoor gear store in Singapore. They carry over 100 different brands, specializing in winter apparels, backpacks, rock climbing equipment, lifestyle products and travel essentials. The brand serves to help fellow enthusiasts acquire quality gear they need for all their adventures. ​​​​​​​Participating Outlet: Funan Mall City North Bridge Road South Bridge Road Funan Mall Clarke Quay Leisure Retail City Hall Adventure City Central Outdoor Sun Sea Climbing Carabiner Ropes Tent Camping Swimming Rock Climbing Water Fitness Winter Apparels Backpacks Lifestyle Shoes travel jacket skiing trekking sport sports down climb Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Outdoor Life Ruhens Grohe Hansgrohe Mayer Simmons Sealy Retail Home & Lifestyle",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:46:41.247Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "outdoor-life-c7c8f1a1",
+			"outlets": [
+				{
+					"_id": "5e66095eb4f4a04de8e80389",
+					"name": "Funan"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Outdoor Life",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

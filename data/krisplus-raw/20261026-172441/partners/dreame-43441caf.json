@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/dreame-43441caf",
+	"slug": "dreame-43441caf",
+	"fetchedAt": "2026-10-26T17:31:32.704+08:00",
+	"payload": {
+		"partner": {
+			"_id": "681d8de0e93d7835fa9e1d4e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.018,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0.9
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dyson",
+				"Xiaomi",
+				"Philips",
+				"Irobot",
+				"Robot Vacuums",
+				"Cordless Vacuums",
+				"Personal Care Devices",
+				"Smart Home Integration",
+				"Home Appliances",
+				"Robot Vacuum",
+				"Roborock",
+				"Ecovacs",
+				"Lifestyle",
+				"Robot Vacuum Cleaner"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "DM DASHER PTE LTD",
+			"brand": "Dreame",
+			"code": "DDP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "Dreame",
+			"address": {
+				"line1": "70 Bendemeer Road #01-01 Singapore 339940",
+				"postalCode": "339940",
+				"streetName": "70 Bendemeer Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://dreame.sg",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Founded in 2015, Dreame Technology began with pioneering     work in high-speed digital motors and has since grown into a leader in smart     home innovation. Combining advanced algorithms with thoughtful design, Dreame     develops intelligent products from robot and wet-dry vacuums to hair dryers     that make everyday life easier and more enjoyable. Backed by a strong patent     portfolio and a forward-looking vision, Dreame is expanding into new categories     such as air purifiers, smart kitchen solutions, and massagers, helping to shape     a new era of effortless, connected living.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>Funan</li><li>Luzerne</li><li>SingPost Centre</li><li>Westgate</li><li>Suntec City</li></ul>     ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4517246199689373-Dreame.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/45707069280376844-582917393689053-Dreame%20x%20Kris%2B_App%20Banners_750x540_Brand%20Image%20(002).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4517246199689373-Dreame.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/45707069280376844-582917393689053-Dreame%20x%20Kris%2B_App%20Banners_750x540_Brand%20Image%20(002).jpg",
+			"createdAt": "2025-05-09T05:08:48.461Z",
+			"updatedAt": "2026-09-29T00:47:27.157Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/45707069280376844-582917393689053-Dreame%20x%20Kris%2B_App%20Banners_750x540_Brand%20Image%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/45707069280376844-582917393689053-Dreame%20x%20Kris%2B_App%20Banners_750x540_Brand%20Image%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/45707069280376844-582917393689053-Dreame%20x%20Kris%2B_App%20Banners_750x540_Brand%20Image%20(002)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4517246199689373-Dreame_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4517246199689373-Dreame_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4517246199689373-Dreame_high.jpg"
+			},
+			"searchContent": "Founded in 2015, Dreame Technology began with pioneering work in high-speed digital motors and has since grown into a leader in smart home innovation. Combining advanced algorithms with thoughtful design, Dreame develops intelligent products from robot and wet-dry vacuums to hair dryers that make everyday life easier and more enjoyable. Backed by a strong patent portfolio and a forward-looking vision, Dreame is expanding into new categories such as air purifiers, smart kitchen solutions, and massagers, helping to shape a new era of effortless, connected living. Participating outlets: FunanLuzerneSingPost CentreWestgateSuntec City Dyson Xiaomi Philips Irobot Robot Vacuums Cordless Vacuums Personal Care Devices Smart Home Integration Home Appliances Robot Vacuum Roborock Ecovacs Lifestyle Robot Vacuum Cleaner Retail Electrical & Electronics Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-06T15:36:44.925Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "dreame-43441caf",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "681d8f80b0da431224fd967d",
+					"name": "Funan"
+				},
+				{
+					"_id": "681d90183c9b260400a72367",
+					"name": "Westgate"
+				},
+				{
+					"_id": "68253eb3cef16678173976b3",
+					"name": "70 Bendemeer Road"
+				},
+				{
+					"_id": "69fc3b856ec50b33b5be2017",
+					"name": "SingPost Centre "
+				},
+				{
+					"_id": "6a4c756bda99b1eb4a16b2f4",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan",
+			"Westgate",
+			"70 Bendemeer Road",
+			"SingPost Centre ",
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Dreame",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

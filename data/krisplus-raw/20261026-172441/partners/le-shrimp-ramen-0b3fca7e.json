@@ -1,0 +1,204 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/le-shrimp-ramen-0b3fca7e",
+	"slug": "le-shrimp-ramen-0b3fca7e",
+	"fetchedAt": "2026-10-26T17:28:02.504+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7b46bdede8b43dc1bbd98",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Shrimp",
+				"Prawn",
+				"Chinese",
+				"Ramen",
+				"Dining",
+				"Changi Airport T3",
+				"Paragon",
+				"Orchard",
+				"Plaza Singapura",
+				"Dhoby Ghaut",
+				"The Star Vista",
+				"Buona Vista",
+				"Vivocity",
+				"Harbourfront",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Le Shrimp Ramen",
+			"brand": "Le Shrimp Ramen",
+			"code": "LSR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "LeShrimpRamen",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201010333R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8068119230052326-2788132099201803-Brand%20Le%20Shrimp(750x540px).jpg",
+			"websiteUrl": "https://www.paradisegp.com/le-shrimp-ramen/",
+			"descriptionHtml": "<p>\nInspired by the flavours of Japanese ramen broth and silky threads of Chinese la mian, Le Shrimp Ramen is a perfect marriage of Chinese and Japanese culture. The shrimp broth features the flawless union of fresh sea prawns, pork bones and Chinese spices, giving the broth a delightful tangerine-orange hue. </p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t\n\t<li>Paragon</li>\n\t\n\t<li>Plaza Singapura</li>\n\t<li>Sengkang Grand Mall </li>\n\t<li>The Star Vista</li>\n\t<li>VivoCity</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "                   ",
+			"participatingOutlets": "•\tChangi Airport T3 \n•\tParagon \n•\tPlaza Singapura \n•\tThe Star Vista \n•\tVivoCity",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2470005522332337-Leshrimp.jpg",
+			"createdAt": "2022-08-13T14:25:47.033Z",
+			"updatedAt": "2026-08-27T09:28:26.064Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9705e6d0897746a1e5f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8068119230052326-2788132099201803-Brand%20Le%20Shrimp(750x540px).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2470005522332337-Leshrimp.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8068119230052326-2788132099201803-Brand%20Le%20Shrimp(750x540px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8068119230052326-2788132099201803-Brand%20Le%20Shrimp(750x540px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8068119230052326-2788132099201803-Brand%20Le%20Shrimp(750x540px)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2470005522332337-Leshrimp_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2470005522332337-Leshrimp_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2470005522332337-Leshrimp_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-17T02:42:35.846Z",
+			"searchContent": "Inspired by the flavours of Japanese ramen broth and silky threads of Chinese la mian, Le Shrimp Ramen is a perfect marriage of Chinese and Japanese culture. The shrimp broth features the flawless union of fresh sea prawns, pork bones and Chinese spices, giving the broth a delightful tangerine-orange hue. Participating Outlets: Paragon Plaza Singapura Sengkang Grand Mall The Star Vista VivoCity Shrimp Prawn Chinese Ramen Dining Changi Airport T3 Paragon Orchard Plaza Singapura Dhoby Ghaut The Star Vista Buona Vista Vivocity Harbourfront paradise FortuneFeast Dining Casual Dining Chinese",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "le-shrimp-ramen-0b3fca7e",
+			"outlets": [
+				{
+					"_id": "62f91e4a42de063c902ea22a",
+					"name": "Paragon"
+				},
+				{
+					"_id": "62f91e7542de063c902ea22e",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "62f91edf42de063c902ea230",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "62f91f242fd51d0548ce0062",
+					"name": "The Star Vista"
+				},
+				{
+					"_id": "64058401950e9d1b5458dc1b",
+					"name": "Sengkang Grand Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Paragon",
+			"VivoCity",
+			"Plaza Singapura",
+			"The Star Vista",
+			"Sengkang Grand Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Le Shrimp Ramen",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

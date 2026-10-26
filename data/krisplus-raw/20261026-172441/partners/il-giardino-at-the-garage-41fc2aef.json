@@ -1,0 +1,165 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/il-giardino-at-the-garage-41fc2aef",
+	"slug": "il-giardino-at-the-garage-41fc2aef",
+	"fetchedAt": "2026-10-26T17:31:56.653+08:00",
+	"payload": {
+		"partner": {
+			"_id": "687621a6a1ec9a12152bc1ec",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Talian",
+				"Pasta",
+				"Pizza",
+				"Casual",
+				"Alfresco",
+				"Wines",
+				"Cocktails"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "1-GARAGE PTE LTD (il Giardino at The Garage)",
+			"brand": "il Giardino at The Garage",
+			"code": "ILG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "il Giardino",
+			"address": {
+				"line1": "211 HENDERSON ROAD  #04-03",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON ROAD  #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ITA"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.ilgiardino.sg/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Nestled in the heart of the Singapore Botanic Gardens, il Giardino celebrates the harmonious marriage of traditional Italian recipes and nature-inspired surroundings, set in a casual and rustic dining experience. Offering a Cicchetti-style of dining with a diverse variety of small plates designed for sharing.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/37478126463739314-ilgiardino.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6429841346460032-6541288216107404-il%20Giardino%20Kris%2B%20Brand%20Image.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/37478126463739314-ilgiardino.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6429841346460032-6541288216107404-il%20Giardino%20Kris%2B%20Brand%20Image.png",
+			"createdAt": "2025-07-15T09:38:46.545Z",
+			"updatedAt": "2026-09-18T08:28:04.823Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/37478126463739314-ilgiardino_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/37478126463739314-ilgiardino_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/37478126463739314-ilgiardino_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-12-10T09:36:18.898Z",
+			"searchContent": "Nestled in the heart of the Singapore Botanic Gardens, il Giardino celebrates the harmonious marriage of traditional Italian recipes and nature-inspired surroundings, set in a casual and rustic dining experience. Offering a Cicchetti-style of dining with a diverse variety of small plates designed for sharing. Talian Pasta Pizza Casual Alfresco Wines Cocktails Dining Casual Dining Italian",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "il-giardino-at-the-garage-41fc2aef",
+			"outlets": [
+				{
+					"_id": "68770c4c54ec13040e031849",
+					"name": "Botanic Gardens"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Botanic Gardens"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "il Giardino at The Garage",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

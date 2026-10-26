@@ -1,0 +1,205 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/st-gregory-parkroyal-collection-pickering-61fdac2c",
+	"slug": "st-gregory-parkroyal-collection-pickering-61fdac2c",
+	"fetchedAt": "2026-10-26T17:26:07.946+08:00",
+	"payload": {
+		"partner": {
+			"_id": "607505aad61df339fc7da3a1",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "St. Gregory PARKROYAL COLLECTION Pickering, Singapore",
+			"brand": "St. Gregory (PARKROYAL COLLECTION Pickering)",
+			"code": "SG1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "St Gegory Pick",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "3 Upper Pickering Street, -",
+				"postalCode": "058289",
+				"streetName": "Upper Pickering Street"
+			},
+			"regNumber": "200720326N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9957579018951581-0019505886225872349-PARKROYAL%20COLLECTION%20%20Pickering_St.%20Gregory.jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pr-pickering/facilities/st-gregory.html",
+			"descriptionHtml": "<p>Retreat into the tranquil environment of award-winning St. Gregory spa for the ultimate relaxation. Choose from a range of traditional therapies, rejuvenating facials, and relaxing massages that will leave you feeling refreshed.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3474518523844641-16374516324992183-Brand%20Logo%20(1000%20x%201000px).jpg",
+			"createdAt": "2021-04-13T02:44:58.708Z",
+			"updatedAt": "2026-08-06T14:17:15.403Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.2
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.046,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "         ",
+			"promotional": "       ",
+			"searchableKeywords": [
+				"Chinatown",
+				"Beauty",
+				"Spa",
+				"Facial",
+				"Massage",
+				"Sanctuary",
+				"Rejuvenate",
+				"Treatment",
+				"Park Royal Collection",
+				"Healing",
+				"Wellness",
+				"Couples",
+				"Wellness",
+				"Services",
+				"Face",
+				"Body",
+				"Spa",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c53d10e34df66b4738"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9957579018951581-0019505886225872349-PARKROYAL%20COLLECTION%20%20Pickering_St.%20Gregory.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3474518523844641-16374516324992183-Brand%20Logo%20(1000%20x%201000px).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9957579018951581-0019505886225872349-PARKROYAL%20COLLECTION%20%20Pickering_St_low.%20Gregory",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9957579018951581-0019505886225872349-PARKROYAL%20COLLECTION%20%20Pickering_St_med.%20Gregory",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9957579018951581-0019505886225872349-PARKROYAL%20COLLECTION%20%20Pickering_St_high.%20Gregory"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3474518523844641-16374516324992183-Brand%20Logo%20(1000%20x%201000px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3474518523844641-16374516324992183-Brand%20Logo%20(1000%20x%201000px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3474518523844641-16374516324992183-Brand%20Logo%20(1000%20x%201000px)_high.jpg"
+			},
+			"searchContent": "Retreat into the tranquil environment of award-winning St. Gregory spa for the ultimate relaxation. Choose from a range of traditional therapies, rejuvenating facials, and relaxing massages that will leave you feeling refreshed. Chinatown Beauty Spa Facial Massage Sanctuary Rejuvenate Treatment Park Royal Collection Healing Wellness Couples Wellness Services Face Body Spa Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Treatment Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:27:11.276Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "st-gregory-parkroyal-collection-pickering-61fdac2c",
+			"outlets": [
+				{
+					"_id": "6098dfcf0d9c3e4a78aeef70",
+					"name": "PARKROYAL COLLECTION Pickering"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL COLLECTION Pickering"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "St. Gregory (PARKROYAL COLLECTION Pickering)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

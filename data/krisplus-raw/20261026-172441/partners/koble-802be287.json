@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/koble-802be287",
+	"slug": "koble-802be287",
+	"fetchedAt": "2026-10-26T17:35:09.216+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a62bc1d9c47c45103ea7d3e",
+			"name": "KOBLE SG PRIVATE LIMITED",
+			"shortName": "KOBLE",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "KOBLE",
+			"code": "KOB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9452820971140445-29049365221087653-logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3513553860251999-25375326976533885-brand%20image.png",
+			"websiteUrl": "https://koble.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "62 UBI ROAD 1 #10-04, SINGAPORE 408734",
+				"postalCode": "408734",
+				"streetName": "62 UBI ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Transform your home with Koble Smart Home, Singapore’s     leading automation specialist. They create customised, reliable, and seamless     smart ecosystems tailored to your lifestyle. Effortlessly control lighting,     climate, security, and curtains through their intuitive app or simple voice     commands, and enjoy superior comfort, enhanced security, and the ultimate     convenience of smart living.</p>",
+			"searchableKeywords": [
+				"Smart home",
+				"smart switch",
+				"appliance",
+				"light",
+				"aircon",
+				"wifi",
+				"network",
+				"curtain",
+				"blind",
+				"door lock",
+				"gate lock",
+				"window",
+				"cctv",
+				"camera",
+				"sensor",
+				"router",
+				"modem",
+				"renovation",
+				"design",
+				"control",
+				"smart window"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.032,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-28T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-24T01:13:01.647Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9452820971140445-29049365221087653-logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3513553860251999-25375326976533885-brand%20image.png",
+			"createdAt": "2026-07-24T01:13:01.657Z",
+			"updatedAt": "2026-08-06T14:18:33.830Z",
+			"searchContent": "Transform your home with Koble Smart Home, Singapore’s leading automation specialist. They create customised, reliable, and seamless smart ecosystems tailored to your lifestyle. Effortlessly control lighting, climate, security, and curtains through their intuitive app or simple voice commands, and enjoy superior comfort, enhanced security, and the ultimate convenience of smart living. Smart home smart switch appliance light aircon wifi network curtain blind door lock gate lock window cctv camera sensor router modem renovation design control smart window Retail Electrical & Electronics Home & Lifestyle",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3513553860251999-25375326976533885-brand%20image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3513553860251999-25375326976533885-brand%20image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3513553860251999-25375326976533885-brand%20image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9452820971140445-29049365221087653-logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9452820971140445-29049365221087653-logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9452820971140445-29049365221087653-logo_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "koble-802be287",
+			"outlets": [
+				{
+					"_id": "6a62bdcf4db2330ff8e26dea",
+					"name": "161 Lavender Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"161 Lavender Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "KOBLE",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

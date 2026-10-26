@@ -1,0 +1,179 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/hansgrohe-singapore-69600671",
+	"slug": "hansgrohe-singapore-69600671",
+	"fetchedAt": "2026-10-26T17:29:32.752+08:00",
+	"payload": {
+		"partner": {
+			"_id": "655ea30d304c4f0056225413",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.2
+				},
+				"saleOfMiles": 0.022,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 150000,
+				"minTokens": 30000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Hansgrohe",
+				"Axor",
+				"Bathroom",
+				"Kitchen",
+				"Fittings",
+				"Shower",
+				"Sink",
+				"Faucet",
+				"Toilet",
+				"Taps",
+				"Mixer",
+				"Rainshower",
+				"Home",
+				"Hansgrohe Singapore",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"655ea315c23b28e3c31478bb"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "HANSGROHE PTE. LTD.",
+			"brand": "Hansgrohe Singapore",
+			"code": "HPL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Hansgrohe Sing",
+			"address": {
+				"city": "Singapore",
+				"line1": "69 MOHAMED SULTAN ROAD SINGAPORE 239015",
+				"streetName": "69 MOHAMED SULTAN ROAD",
+				"postalCode": "239015",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"regNumber": "199508596E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/931548387469759-1729975586802155-Brand%20Image%20App.png",
+			"websiteUrl": "https://www.hansgrohe.com.sg/",
+			"descriptionHtml": "<p>hansgrohe, part of the Hansgrohe Group, is a renowned German brand known for its premium bathroom and kitchen fixtures. With a legacy of innovation, they offer cutting-edge designs and quality craftsmanship, epitomised by their luxury line, AXOR.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8912116478492447-31929573754712126-Brand%20LogoApp.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2023-11-23T00:55:41.111Z",
+			"updatedAt": "2026-08-06T14:17:55.783Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/931548387469759-1729975586802155-Brand%20Image%20App.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8912116478492447-31929573754712126-Brand%20LogoApp.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/931548387469759-1729975586802155-Brand%20Image%20App_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/931548387469759-1729975586802155-Brand%20Image%20App_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/931548387469759-1729975586802155-Brand%20Image%20App_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8912116478492447-31929573754712126-Brand%20LogoApp_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8912116478492447-31929573754712126-Brand%20LogoApp_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8912116478492447-31929573754712126-Brand%20LogoApp_high.png"
+			},
+			"searchContent": "hansgrohe, part of the Hansgrohe Group, is a renowned German brand known for its premium bathroom and kitchen fixtures. With a legacy of innovation, they offer cutting-edge designs and quality craftsmanship, epitomised by their luxury line, AXOR. Hansgrohe Axor Bathroom Kitchen Fittings Shower Sink Faucet Toilet Taps Mixer Rainshower Home Hansgrohe Singapore Ruhens Grohe Hansgrohe Mayer Simmons Sealy Homefurnishing Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.190Z",
+			"slugId": "hansgrohe-singapore-69600671",
+			"outlets": [
+				{
+					"_id": "655ef44030edb70056bfb352",
+					"name": "69 Mohamed Sultan Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"69 Mohamed Sultan Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Hansgrohe Singapore",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

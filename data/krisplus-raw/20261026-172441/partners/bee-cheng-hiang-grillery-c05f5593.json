@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bee-cheng-hiang-grillery-c05f5593",
+	"slug": "bee-cheng-hiang-grillery-c05f5593",
+	"fetchedAt": "2026-10-26T17:27:04.890+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61d792da1e06c32a287a1f62",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"BCH",
+				"bak kwa",
+				"bakkwa",
+				"serangoon",
+				"dining",
+				"Barbeque",
+				"Grill",
+				"BBQ"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Bee Cheng Hiang Grillery",
+			"brand": "Bee Cheng Hiang Grillery",
+			"code": "BCG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "BeeChengHiangG",
+			"address": {
+				"line1": "1359 Serangoon Road ",
+				"postalCode": "328241",
+				"streetName": "Serangoon Road ",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3130737460692361-9106947838438242-BCH_Grillery_750x540px.jpg.png",
+			"websiteUrl": "https://www.beechenghiang.com.sg/grillery.html",
+			"descriptionHtml": "<p> The Bee Cheng Hiang Grillery is the latest evolution of the flagship store in Singapore at 1359 Serangoon Road, where customers can shop, dine, and enjoy exclusive activities such as barbequing their own bakkwa.</p>  <p>Guests can choose from specially curated Bakkwa & wine dégustation menus, where Bee Cheng Hiang’s popular bakkwa is paired with exclusive labels imported directly from France.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6807376704513997-633185744254265-BCHLogoKrisPlus.png",
+			"createdAt": "2022-01-07T01:09:46.103Z",
+			"updatedAt": "2026-08-06T14:17:24.985Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 0.8,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"saleOfMiles": 0.027,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"participatingOutlets": "Bee Cheng Hiang Grillery (Bistro @ Serangoon Road)",
+			"promotional": "Bee Cheng Hiang",
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9935e6d0897746a1e6b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3130737460692361-9106947838438242-BCH_Grillery_750x540px.jpg.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6807376704513997-633185744254265-BCHLogoKrisPlus.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3130737460692361-9106947838438242-BCH_Grillery_750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3130737460692361-9106947838438242-BCH_Grillery_750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3130737460692361-9106947838438242-BCH_Grillery_750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6807376704513997-633185744254265-BCHLogoKrisPlus_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6807376704513997-633185744254265-BCHLogoKrisPlus_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6807376704513997-633185744254265-BCHLogoKrisPlus_high.png"
+			},
+			"searchContent": "The Bee Cheng Hiang Grillery is the latest evolution of the flagship store in Singapore at 1359 Serangoon Road, where customers can shop, dine, and enjoy exclusive activities such as barbequing their own bakkwa. Guests can choose from specially curated Bakkwa & wine dégustation menus, where Bee Cheng Hiang’s popular bakkwa is paired with exclusive labels imported directly from France. BCH bak kwa bakkwa serangoon dining Barbeque Grill BBQ Dining Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-19T01:57:54.782Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bee-cheng-hiang-grillery-c05f5593",
+			"outlets": [
+				{
+					"_id": "621d71f4c9343e15780972e6",
+					"name": "1359 Serangoon Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"1359 Serangoon Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bee Cheng Hiang Grillery",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,160 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/hydro-flask-f5798d2c",
+	"slug": "hydro-flask-f5798d2c",
+	"fetchedAt": "2026-10-26T17:31:51.807+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6865f740cbfb8e04024e7b86",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Water Bottle",
+				"Insulated Bottle",
+				"Bottles",
+				"Hydroflask",
+				"Coffee Flask"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "PRIMER UNIGLOBE SINGAPORE PTE LTD",
+			"brand": "Hydro Flask",
+			"code": "PUS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Hydro Flask",
+			"address": {
+				"city": "Singapore",
+				"line1": "221 Henderson Road #05-10 Henderson Building Singapore 159557",
+				"streetName": "221 Henderson Road",
+				"postalCode": "159557",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.hydroflask.sg/",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Hydro Flask is a leading brand known for its     high-performance insulated bottles, tumblers, and accessories. Designed to keep     beverages cold for up to 24 hours or hot for up to 12 hours, Hydro Flask     products are perfect for any adventure. With a focus on sustainability and     durability, Hydro Flask inspires an active, on-the-go lifestyle.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3963666145308391-hydroflask.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6451970737296342-3621631283204392-4(1).png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3963666145308391-hydroflask.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6451970737296342-3621631283204392-4(1).png",
+			"createdAt": "2025-07-03T03:21:36.571Z",
+			"updatedAt": "2026-08-06T14:18:16.219Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6451970737296342-3621631283204392-4(1)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6451970737296342-3621631283204392-4(1)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6451970737296342-3621631283204392-4(1)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3963666145308391-hydroflask_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3963666145308391-hydroflask_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3963666145308391-hydroflask_high.png"
+			},
+			"searchContent": "Hydro Flask is a leading brand known for its high-performance insulated bottles, tumblers, and accessories. Designed to keep beverages cold for up to 24 hours or hot for up to 12 hours, Hydro Flask products are perfect for any adventure. With a focus on sustainability and durability, Hydro Flask inspires an active, on-the-go lifestyle. Water Bottle Insulated Bottle Bottles Hydroflask Coffee Flask Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:56:19.328Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "hydro-flask-f5798d2c",
+			"outlets": [
+				{
+					"_id": "6865f961df77db0401ce9ecb",
+					"name": "Funan"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Hydro Flask",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

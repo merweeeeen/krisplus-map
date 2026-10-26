@@ -1,0 +1,209 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/herschel-supply-co-08330fbc",
+	"slug": "herschel-supply-co-08330fbc",
+	"fetchedAt": "2026-10-26T17:27:06.917+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61fb8e6a770ad49b948e74a7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Backpack",
+				"Laptop Sleeve",
+				"Wallet",
+				"Luggage",
+				"Funan",
+				"City Hall",
+				"Clarke Quay",
+				"Marina Square",
+				"Esplanade",
+				"Accessories",
+				"Retail",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Trousers",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Hats",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Primer Uniglobe Singapore Pte Ltd - Herschel",
+			"brand": "Herschel Supply Co",
+			"code": "HSC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Herschel",
+			"address": {
+				"city": "Singapore",
+				"line1": "221 Henderson Road, #05-10, Henderson Building",
+				"streetName": "Henderson Road",
+				"postalCode": "159557",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200609311N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/76768846560677-MicrosoftTeams-image%20(217).png",
+			"websiteUrl": "https://herschel.sg/",
+			"descriptionHtml": "<p>Driven to provide the everyday traveller with the perfect bags and accessories, Herschel Supply's Collection has been thoughtfully designed from the ground up to include details that aid in daily journeys.</p>  <p>Featuring timeless silhouettes inspired by the world around us, each piece evokes a bit of nostalgia yet offers modern functionality. With a fine regard for detail, Herschel’s quality backpacks are ever on-trend and will last for many years to come.</p>  <p>Participating Outlets: </p>  <ul> \t<li>313@Somerset</li> \t<li>Funan Mall</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "     ",
+			"participatingOutlets": "Funan Mall\nMarina Square",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9004386157683943-561856830930372-Herschel%20Logo%201000x1000.jpg",
+			"createdAt": "2022-02-03T08:12:26.987Z",
+			"updatedAt": "2026-09-28T02:18:35.116Z",
+			"partnershipGroup": "GR7",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef992034603c338929999"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/76768846560677-MicrosoftTeams-image%20(217).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9004386157683943-561856830930372-Herschel%20Logo%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/76768846560677-MicrosoftTeams-image%20(217)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/76768846560677-MicrosoftTeams-image%20(217)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/76768846560677-MicrosoftTeams-image%20(217)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9004386157683943-561856830930372-Herschel%20Logo%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9004386157683943-561856830930372-Herschel%20Logo%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9004386157683943-561856830930372-Herschel%20Logo%201000x1000_high.jpg"
+			},
+			"searchContent": "Driven to provide the everyday traveller with the perfect bags and accessories, Herschel Supply's Collection has been thoughtfully designed from the ground up to include details that aid in daily journeys. Featuring timeless silhouettes inspired by the world around us, each piece evokes a bit of nostalgia yet offers modern functionality. With a fine regard for detail, Herschel’s quality backpacks are ever on-trend and will last for many years to come. Participating Outlets: 313@Somerset Funan Mall Backpack Laptop Sleeve Wallet Luggage Funan City Hall Clarke Quay Marina Square Esplanade Accessories Retail Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shoes Shorts Leggings Trousers Suits Accessories Hats Caps Garments Scarves Jewellery Bags Hats Belts Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:55:37.237Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "herschel-supply-co-08330fbc",
+			"outlets": [
+				{
+					"_id": "6205cc22a81e8e3fb0a03992",
+					"name": "Funan"
+				},
+				{
+					"_id": "6388603977d79141502aba67",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "6a9a39de1b1c9c59b2688c34",
+					"name": "Bugis Junction"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan",
+			"313@Somerset",
+			"Bugis Junction"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Herschel Supply Co",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/adertek-baby-kids-e3ea27ef",
+	"slug": "adertek-baby-kids-e3ea27ef",
+	"fetchedAt": "2026-10-26T17:27:39.138+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62b43e0c51073941c8e3cacd",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Adertek",
+				"Lifesaver",
+				"Mylo",
+				"Rico",
+				"Ifam",
+				"Nursery",
+				"Wet Wipes",
+				"Baby",
+				"Kids",
+				"Infants",
+				"Mosquito",
+				"Nail",
+				"Play Mat",
+				"Breast Milk Bag",
+				"Sanitizing Wipe",
+				"Oral Wipes",
+				"Storage Organizers",
+				"Potty",
+				"Storage Box",
+				"Mapex",
+				"Children",
+				"Parents",
+				"Parenting",
+				"Marymount",
+				"Jalan Pemimpin",
+				"Retail"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Adertek Lifestyle Pte Ltd",
+			"brand": "Adertek Baby & Kids",
+			"code": "ADT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Adertek",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "26 Sin Ming Ln, #06-118 Midview City",
+				"postalCode": "573971",
+				"streetName": "Sin Ming Lane"
+			},
+			"regNumber": "201703264G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/23309660035061985-brand%20750x540.jpg",
+			"websiteUrl": "https://adertek.com/",
+			"descriptionHtml": "<p>Looking&nbsp;for parenting LIFESAVERs? Adertek triple-test all their products and guarantees you 100% satisfaction!</p>\n\n<p>Shop with Adertek to be guaranteed the Adertek Service Commitment!</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/37833261043664623-Adertek%20Logo%201000x1000.png",
+			"createdAt": "2022-06-23T10:18:52.952Z",
+			"updatedAt": "2026-08-06T14:17:32.272Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 3,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "MAPEX",
+			"promotional": "              ",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"BK"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef97f3d10e34df66b4713"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/23309660035061985-brand%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/37833261043664623-Adertek%20Logo%201000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/23309660035061985-brand%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/23309660035061985-brand%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/23309660035061985-brand%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/37833261043664623-Adertek%20Logo%201000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/37833261043664623-Adertek%20Logo%201000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/37833261043664623-Adertek%20Logo%201000x1000_high.png"
+			},
+			"searchContent": "Looking for parenting LIFESAVERs? Adertek triple-test all their products and guarantees you 100% satisfaction! Shop with Adertek to be guaranteed the Adertek Service Commitment! Adertek Lifesaver Mylo Rico Ifam Nursery Wet Wipes Baby Kids Infants Mosquito Nail Play Mat Breast Milk Bag Sanitizing Wipe Oral Wipes Storage Organizers Potty Storage Box Mapex Children Parents Parenting Marymount Jalan Pemimpin Retail Retail Baby & Kids",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "adertek-baby-kids-e3ea27ef",
+			"outlets": [
+				{
+					"_id": "686792f850cbbe0408a10e80",
+					"name": "Midview City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Midview City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Adertek Baby & Kids",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

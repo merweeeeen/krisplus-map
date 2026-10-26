@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/zorba-the-greek-taverna-03ac95d4",
+	"slug": "zorba-the-greek-taverna-03ac95d4",
+	"fetchedAt": "2026-10-26T17:30:50.633+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67761392b44479006dd0ac0b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Greek",
+				"Greek Café",
+				"Greek Taverna",
+				"Mediterranean",
+				"Greek Restaurant",
+				"Petfriendly",
+				"Greek Cuisine"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "HR MILLENNIUM PTE LTD (Zorba)",
+			"brand": "Zorba The Greek Taverna",
+			"code": "ZGT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Zorba",
+			"address": {
+				"line1": "211 HENDERSON ROAD",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"EUR"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.zorba.sg/",
+			"descriptionHtml": "<p>Zorba is perfect for those in need of good ol’ classic greek food and a respite from the hustle and bustle of the city.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3509294744449265-4380783568889386-Kris%2B%20zorba%20logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/49737120988049877-9259896640645213-Kris%2B%20zorba%20brand%20image.png",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2025-01-02T04:18:26.396Z",
+			"updatedAt": "2026-09-18T08:31:36.761Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/49737120988049877-9259896640645213-Kris%2B%20zorba%20brand%20image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/49737120988049877-9259896640645213-Kris%2B%20zorba%20brand%20image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/49737120988049877-9259896640645213-Kris%2B%20zorba%20brand%20image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3509294744449265-4380783568889386-Kris%2B%20zorba%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3509294744449265-4380783568889386-Kris%2B%20zorba%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3509294744449265-4380783568889386-Kris%2B%20zorba%20logo_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/49737120988049877-9259896640645213-Kris%2B%20zorba%20brand%20image.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3509294744449265-4380783568889386-Kris%2B%20zorba%20logo.png",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-10T09:42:44.467Z",
+			"searchContent": "Zorba is perfect for those in need of good ol’ classic greek food and a respite from the hustle and bustle of the city. Greek Greek Café Greek Taverna Mediterranean Greek Restaurant Petfriendly Greek Cuisine Dining Casual Dining Kid-Friendly Beverages & Desserts European",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "zorba-the-greek-taverna-03ac95d4",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "67761925beb7b2da35b734ce",
+					"name": "Clarke Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Zorba The Greek Taverna",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

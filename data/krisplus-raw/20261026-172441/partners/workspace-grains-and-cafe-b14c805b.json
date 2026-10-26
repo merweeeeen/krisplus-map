@@ -1,0 +1,224 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/workspace-grains-and-cafe-b14c805b",
+	"slug": "workspace-grains-and-cafe-b14c805b",
+	"fetchedAt": "2026-10-26T17:24:42.742+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5b28630338755b25085fff71",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Kaki Bukit Road 1, #02-41, Enterprise One",
+				"postalCode": "415934",
+				"streetName": "Kaki Bukit Road"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "Workspace Espresso Bar",
+			"brand": "Workspace Grains and Cafe",
+			"code": "WEB",
+			"countryIncorporation": "Singapore",
+			"description": "",
+			"categary": "Food and Beverage",
+			"regNumber": "199702636M",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7909883913103599-Workspace%20Logo%20(Kris).jpg",
+			"createdAt": "2018-06-19T01:57:23.272Z",
+			"updatedAt": "2026-09-30T16:00:06.681Z",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.027,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.2,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Find out more at:\nhttp://workspaceespresso.com/",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3179838915961728-750x540%20Workspace%20Banner.jpg",
+			"participatingOutlets": "•\tFrasers Tower\n•\tFunan Mall\n•\tMarina One\n•\tMarina Bay Financial Centre\n",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.workspacecafe.co/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>A hub for connection and creativity. Take a breather in this friendly haven, akin to catching up with office buddies or finding the perfect headspace for ideas to flourish. Welcome to a space where relaxation meets ideation.</p>\n\n<p>Participating Outlets:<br />\n•    Guoco Midtown </p>\n\n<p>•    Marina Bay Financial Centre</p>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Workspace Bar",
+			"searchableKeywords": [
+				"Marina Bay Financial Center",
+				"Marina Bay",
+				"Marina One",
+				"Bayfront",
+				"Bayfront Avenue",
+				"Dessert",
+				"City",
+				"Central",
+				"Coffee",
+				"Tea",
+				"Artisan",
+				"Pastry",
+				"Cake",
+				"Latte",
+				"Mocha",
+				"Frappes",
+				"Americano",
+				"Shots",
+				"Cappuccino",
+				"Frappuccino",
+				"Decaffeinated",
+				"Herbal",
+				"Flower Tea",
+				"Dining",
+				"Guoco Midtown",
+				"Beach Road",
+				"Cafe",
+				"Café",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Cakes",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f6a3718718842dd97c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3179838915961728-750x540%20Workspace%20Banner.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7909883913103599-Workspace%20Logo%20(Kris).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3179838915961728-750x540%20Workspace%20Banner_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3179838915961728-750x540%20Workspace%20Banner_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3179838915961728-750x540%20Workspace%20Banner_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7909883913103599-Workspace%20Logo%20(Kris)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7909883913103599-Workspace%20Logo%20(Kris)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7909883913103599-Workspace%20Logo%20(Kris)_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-17T02:01:43.089Z",
+			"searchContent": "A hub for connection and creativity. Take a breather in this friendly haven, akin to catching up with office buddies or finding the perfect headspace for ideas to flourish. Welcome to a space where relaxation meets ideation. Participating Outlets: • Guoco Midtown • Marina Bay Financial Centre Marina Bay Financial Center Marina Bay Marina One Bayfront Bayfront Avenue Dessert City Central Coffee Tea Artisan Pastry Cake Latte Mocha Frappes Americano Shots Cappuccino Frappuccino Decaffeinated Herbal Flower Tea Dining Guoco Midtown Beach Road Cafe Café Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Cakes Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Dining Cafe Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "workspace-grains-and-cafe-b14c805b",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5b286efc38755b25085fff7f",
+					"name": "Marina Bay Financial Centre"
+				},
+				{
+					"_id": "65486d58242cee00587d36fa",
+					"name": "Guoco Midtown - Network Hub"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Bay Financial Centre",
+			"Guoco Midtown - Network Hub"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Workspace Grains and Cafe",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

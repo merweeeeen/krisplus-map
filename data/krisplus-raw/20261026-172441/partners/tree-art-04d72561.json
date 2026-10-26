@@ -1,0 +1,267 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tree-art-04d72561",
+	"slug": "tree-art-04d72561",
+	"fetchedAt": "2026-10-26T17:26:55.699+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6184a1e8d60cf42ef4ddd741",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Art Class",
+				"Art Jamming",
+				"Creative Art",
+				"Dsa",
+				"Aesthetic Art",
+				"Education",
+				"Kids",
+				"Children",
+				"Family",
+				"Course",
+				"Creative",
+				"Design",
+				"School Holidays",
+				"Activities",
+				"Graphic",
+				"Creativity",
+				"Tampines",
+				"Jurong East",
+				"Paya Lebar",
+				"Orchard",
+				"Lorong Chuan",
+				"Farrer Park",
+				"Kovan",
+				"Sentosa",
+				"Punggol",
+				"Westgate",
+				"City Square Mall",
+				"Kinex",
+				"New Tech Park",
+				"Northshore Plaza",
+				"Our Tampines Hub",
+				"Paragon",
+				"Quayside Isle",
+				"Stars Of Kovan",
+				"Katong",
+				"I12 Katong",
+				"Classes",
+				"Enrichment",
+				"Class",
+				"Workshop",
+				"Activity",
+				"Music",
+				"Concert",
+				"Bonding",
+				"Virtual",
+				"Teams",
+				"Friends",
+				"Arts  Crafts",
+				"Immersive Experiences",
+				"Experiences"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "TREE ART INTERNATIONAL PTE.LTD.",
+			"brand": "Tree Art",
+			"code": "TRE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7832",
+			"shortName": "TREE ART",
+			"address": {
+				"line1": "3 Lorong 5 Toa Payoh #29-12, Gem Residences",
+				"postalCode": "319549",
+				"streetName": "Lorong 5 Toa Payoh",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201524796E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5353084810375515-836751928536722-Kris%20%2B_APP_Brand%20Image_750x540-01.jpg",
+			"websiteUrl": "https://treeart.co",
+			"descriptionHtml": "<p>Tree Art offers creative art classes, professional and DSA (Direct School Admission) art classes, and holiday programmes for children between 3 – 17 years old. Tree Art gives students the opportunity to show their artistic talents.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Bukit Panjang Plaza</li> \t<li>City Square Mall</li> \t<li>i12 Katong</li> \t<li>Kinex</li> \t<li>New Tech Park</li> \t<li>Northshore Plaza</li> \t<li>Our Tampines Hub</li> \t<li>Paragon</li> \t \t<li>Sengkang Grand Mall</li> \t<li>Stars of Kovan</li> \t<li>United Square Shopping Centre</li> \t<li>Westgate</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Amusement and Entertainment",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/813276990858-Tree%20Art%20logo%202023.jpg",
+			"createdAt": "2021-11-05T03:15:52.217Z",
+			"updatedAt": "2026-10-26T01:47:43.050Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     \n",
+			"promotional": "\n     \n",
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"LEA"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef99a5e6d0897746a1e6d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 12
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5353084810375515-836751928536722-Kris%20%2B_APP_Brand%20Image_750x540-01.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/813276990858-Tree%20Art%20logo%202023.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5353084810375515-836751928536722-Kris%20%2B_APP_Brand%20Image_750x540-01_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5353084810375515-836751928536722-Kris%20%2B_APP_Brand%20Image_750x540-01_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5353084810375515-836751928536722-Kris%20%2B_APP_Brand%20Image_750x540-01_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/813276990858-Tree%20Art%20logo%202023_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/813276990858-Tree%20Art%20logo%202023_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/813276990858-Tree%20Art%20logo%202023_high.jpg"
+			},
+			"searchContent": "Tree Art offers creative art classes, professional and DSA (Direct School Admission) art classes, and holiday programmes for children between 3 – 17 years old. Tree Art gives students the opportunity to show their artistic talents. Participating Outlets: Bukit Panjang Plaza City Square Mall i12 Katong Kinex New Tech Park Northshore Plaza Our Tampines Hub Paragon Sengkang Grand Mall Stars of Kovan United Square Shopping Centre Westgate Art Class Art Jamming Creative Art Dsa Aesthetic Art Education Kids Children Family Course Creative Design School Holidays Activities Graphic Creativity Tampines Jurong East Paya Lebar Orchard Lorong Chuan Farrer Park Kovan Sentosa Punggol Westgate City Square Mall Kinex New Tech Park Northshore Plaza Our Tampines Hub Paragon Quayside Isle Stars Of Kovan Katong I12 Katong Classes Enrichment Class Workshop Activity Music Concert Bonding Virtual Teams Friends Arts  Crafts Immersive Experiences Experiences Activities Learning",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:43:46.974Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tree-art-04d72561",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "61864897d60cf42ef4ddd88f",
+					"name": "Paragon"
+				},
+				{
+					"_id": "6186491dd60cf42ef4ddd891",
+					"name": "Stars of Kovan"
+				},
+				{
+					"_id": "618649f6d60cf42ef4ddd893",
+					"name": "New Tech Park"
+				},
+				{
+					"_id": "61864a30d60cf42ef4ddd895",
+					"name": "Westgate"
+				},
+				{
+					"_id": "61864a7d71a2560a543cee2b",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "61864ad371a2560a543cee2d",
+					"name": "Our Tampines Hub"
+				},
+				{
+					"_id": "61864b2071a2560a543cee2f",
+					"name": "KINEX"
+				},
+				{
+					"_id": "61864b9b71a2560a543cee31",
+					"name": "Northshore Plaza"
+				},
+				{
+					"_id": "61864c00d60cf42ef4ddd89d",
+					"name": "i12 Katong"
+				},
+				{
+					"_id": "628350cf084d9d25746034b6",
+					"name": "Bukit Panjang Plaza"
+				},
+				{
+					"_id": "6347ac9257804f358499c5d8",
+					"name": "United Square Mall"
+				},
+				{
+					"_id": "6414203e25dfae00528fbad5",
+					"name": "Sengkang Grand Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Paragon",
+			"Stars of Kovan",
+			"New Tech Park",
+			"Westgate",
+			"City Square Mall",
+			"Our Tampines Hub",
+			"KINEX",
+			"Northshore Plaza",
+			"i12 Katong",
+			"Bukit Panjang Plaza",
+			"United Square Mall",
+			"Sengkang Grand Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tree Art",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

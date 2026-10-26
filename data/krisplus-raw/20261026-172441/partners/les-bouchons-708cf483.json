@@ -1,0 +1,209 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/les-bouchons-708cf483",
+	"slug": "les-bouchons-708cf483",
+	"fetchedAt": "2026-10-26T17:25:28.823+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5ec4652fae03001e0c88f33d",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Les Bouchons Pte Ltd",
+			"brand": "Les Bouchons",
+			"code": "BOU",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "7 Ann Siang Road,   ",
+				"postalCode": "069689",
+				"streetName": "Ann Siang Road"
+			},
+			"category": "DINING",
+			"regNumber": "200600003M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-1cadbcb3-a0da-4d9d-a82a-9893d2a09a27.jpg",
+			"websiteUrl": "https://www.lesbouchons.sg/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-9ce925ff-b0b5-4a39-bd49-88c78a066b0b.jpg",
+			"createdAt": "2020-05-19T23:01:03.349Z",
+			"updatedAt": "2026-09-30T16:00:05.821Z",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 6,
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5.2
+				},
+				"saleOfMiles": 0.026,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "7 Ann Siang Road\n60 Robertson Quay",
+			"promotional": "     ",
+			"categories": [
+				"DINING"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"payByCard": true,
+			"shortName": "Les Bouchons",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Les%20Bouchons%20Steakhouse\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Les Bouchons' restaurants take guests on a gastronomic journey paying homage to the grand tradition of French Bistros. Showcasing a renewed but familiar look at French Cuisine, Les Bouchons is known for serving quality Steaks with robust flavors, textures that set high standards for marbling and tenderness.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Ann Siang<u>​​​​​​​</u></li> \t<li>Robertson Quay</li> \t<li>Rochester Commons</li> </ul>",
+			"searchableKeywords": [
+				"Robertson Quay",
+				"Clarke Quay",
+				"Chinatown",
+				"Ann Siang Road",
+				"French",
+				"Central",
+				"Fine Dining",
+				"Anti Pasti",
+				"Anti Pasto",
+				"Wine",
+				"Chateau",
+				"Bordeaux",
+				"Pizza",
+				"Spaghetti",
+				"Pasta",
+				"Tortellini",
+				"Escargot",
+				"Steak",
+				"Couples",
+				"First Dates",
+				"Dining",
+				"Romantic",
+				"Valentines Day",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9dd0108b03f047da5b8"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-1cadbcb3-a0da-4d9d-a82a-9893d2a09a27.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-9ce925ff-b0b5-4a39-bd49-88c78a066b0b.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-1cadbcb3-a0da-4d9d-a82a-9893d2a09a27_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-1cadbcb3-a0da-4d9d-a82a-9893d2a09a27_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-1cadbcb3-a0da-4d9d-a82a-9893d2a09a27_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-9ce925ff-b0b5-4a39-bd49-88c78a066b0b_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-9ce925ff-b0b5-4a39-bd49-88c78a066b0b_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-9ce925ff-b0b5-4a39-bd49-88c78a066b0b_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Les Bouchons' restaurants take guests on a gastronomic journey paying homage to the grand tradition of French Bistros. Showcasing a renewed but familiar look at French Cuisine, Les Bouchons is known for serving quality Steaks with robust flavors, textures that set high standards for marbling and tenderness. Participating Outlets: Ann Siang​​​​​​​ Robertson Quay Rochester Commons Robertson Quay Clarke Quay Chinatown Ann Siang Road French Central Fine Dining Anti Pasti Anti Pasto Wine Chateau Bordeaux Pizza Spaghetti Pasta Tortellini Escargot Steak Couples First Dates Dining Romantic Valentines Day Art Braci Origin Nobu 665 Solo Restaurant Dining Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-12T08:10:02.562Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "les-bouchons-708cf483",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5ec4670c449723205c5fa5da",
+					"name": "Ann Siang Road"
+				},
+				{
+					"_id": "5ec467469412f50a8892c150",
+					"name": "Robertson Quay"
+				},
+				{
+					"_id": "63589bdb7b9a631510bd0f86",
+					"name": "Rochester Commons"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Ann Siang Road",
+			"Robertson Quay",
+			"Rochester Commons"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Les Bouchons",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

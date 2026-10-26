@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-honey-colony-8761309a",
+	"slug": "the-honey-colony-8761309a",
+	"fetchedAt": "2026-10-26T17:29:27.636+08:00",
+	"payload": {
+		"partner": {
+			"_id": "654df17e566ff4004f276f80",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"saleOfMiles": 0.025,
+				"base": 4,
+				"calculatedMilesEarnRate": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Honey",
+				"Spreads",
+				"Drinks",
+				"Supplements",
+				"Gifts",
+				"Souvenirs",
+				"Health",
+				"Soaps",
+				"Candy",
+				"Honeycombs",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"654df1870f7640c91f88834b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Swissqonnect Pte Ltd",
+			"brand": "THE HONEY COLONY",
+			"code": "SWI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "THE HONEY COLO",
+			"address": {
+				"city": "Singapore",
+				"line1": "124 Cairnhill Road, Singapore 229706",
+				"streetName": "124 Cairnhill Road",
+				"postalCode": "229706",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"GS",
+								"FS"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"regNumber": "201228166N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/212489778170055-1398899024375484-Brand%20Image%20C.jpg",
+			"websiteUrl": "https://thehoneycolony.com/",
+			"descriptionHtml": "<p>A boutique honey company specialising in mono-floral honeys from Australia, New Zealand and Scotland. Many of the honeys have some of the highest anti-bacterial ratings in the world, up to 3 times higher than most Manukas!</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/13133471787314832-7379568956443758-Brand%20Logo%20A.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2023-11-10T09:01:50.038Z",
+			"updatedAt": "2026-08-06T14:17:54.810Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/212489778170055-1398899024375484-Brand%20Image%20C.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13133471787314832-7379568956443758-Brand%20Logo%20A.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/212489778170055-1398899024375484-Brand%20Image%20C_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/212489778170055-1398899024375484-Brand%20Image%20C_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/212489778170055-1398899024375484-Brand%20Image%20C_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13133471787314832-7379568956443758-Brand%20Logo%20A_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13133471787314832-7379568956443758-Brand%20Logo%20A_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13133471787314832-7379568956443758-Brand%20Logo%20A_high.png"
+			},
+			"searchContent": "A boutique honey company specialising in mono-floral honeys from Australia, New Zealand and Scotland. Many of the honeys have some of the highest anti-bacterial ratings in the world, up to 3 times higher than most Manukas! Honey Spreads Drinks Supplements Gifts Souvenirs Health Soaps Candy Honeycombs Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Retail Gifts & Souvenirs Food Specialities",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-honey-colony-8761309a",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "THE HONEY COLONY",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

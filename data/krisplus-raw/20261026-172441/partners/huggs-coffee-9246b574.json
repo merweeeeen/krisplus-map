@@ -1,0 +1,278 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/huggs-coffee-9246b574",
+	"slug": "huggs-coffee-9246b574",
+	"fetchedAt": "2026-10-26T17:27:02.991+08:00",
+	"payload": {
+		"partner": {
+			"_id": "619dc99314fbae4bbcefa30f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Coffee",
+				"Café",
+				"Tea",
+				"Kopi",
+				"Teh",
+				"Espresso",
+				"Sumatra",
+				"Indonesian",
+				"Pastries",
+				"Snacks",
+				"18 Tai Seng",
+				"Changi City Point",
+				"Singapore Expo",
+				"Changi Business Park",
+				"Gb Building",
+				"Millenia Walk",
+				"Paya Lebar Quarter",
+				"Tan Tock Seng Hospital",
+				"The Clift",
+				"30 Maxwell Road",
+				"Aibi Maxwell",
+				"I12 Katong",
+				"Thomson Plaza",
+				"Food",
+				"Dining",
+				"Plq",
+				"Lazada One",
+				"One Kent Ridge",
+				"Jurong East",
+				"Bouna Vista",
+				"One North",
+				"Cecil Street",
+				"Tanjong Pagar",
+				"Amoy",
+				"Joo Chiat",
+				"Bras Basah",
+				"Bencoolen",
+				"Cafe",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Cakes",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "HUGGS COFFEE PTE. LTD.",
+			"brand": "Huggs Coffee",
+			"code": "HUG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Huggs Coffee",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "21 Tai Seng Street, #01-01, Charles and Keith Building",
+				"postalCode": "534166",
+				"streetName": "21 Tai Seng Street"
+			},
+			"regNumber": "200706388N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4750348315889723-HGS-KP(Banner).jpg",
+			"websiteUrl": "https://www.huggscoffee.com/",
+			"descriptionHtml": "<p>Established in 2008, Huggs Coffee has become Singapore’s largest homegrown specialty coffee brand - offering an immersive experience by blending the artisanal world of espresso coffees with traditional coffee beverages.</p>  <p>Here, every cup is more than just a beverage — it's an embrace, a moment of respite, and an opportunity to savour life's simple pleasures.</p>  <p>Participating Outlets:</p>  <ul> \t \t<li>Changi City Point </li><li>Clarke Quay Central</li> \t \t<li>Galaxis </li> \t<li>GB Building</li><li>Harbourfront</li><li>International Plaza</li><li>M<span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">illenia Walk</span></li> \t \t<li>Ng Teng Fong Hospital</li> \t \t<li>One@KentRidge </li> \t<li>PLQ 1  </li><li>Tai Seng</li> \t<li>The Clift  </li> \t </ul>    <p>Non-participating outlets: Apple@AMK3, <span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Mount Elizabeth Hospital (Orchard)</span>, Mspace @ Maybank (Orchard), National Cancer Centre, Punggol Coast Mall, Starhub Green, Tan Tock Seng Hospital, Timbre+ Hillview, Timbre+ One North.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/11379407517158047-HUGGS_LOGO_FA%202-01.png",
+			"createdAt": "2021-11-24T05:11:47.451Z",
+			"updatedAt": "2026-09-30T08:18:25.057Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 4,
+				"saleOfMiles": 0.032,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"participatingOutlets": "                          ",
+			"promotional": "               ",
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"BD",
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94545578ca5d7f0b381"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 12
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4750348315889723-HGS-KP(Banner).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11379407517158047-HUGGS_LOGO_FA%202-01.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4750348315889723-HGS-KP(Banner)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4750348315889723-HGS-KP(Banner)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4750348315889723-HGS-KP(Banner)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11379407517158047-HUGGS_LOGO_FA%202-01_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11379407517158047-HUGGS_LOGO_FA%202-01_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11379407517158047-HUGGS_LOGO_FA%202-01_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "$31",
+			"refundPeriodUpdatedAt": "2025-12-22T03:25:25.469Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "huggs-coffee-9246b574",
+			"outlets": [
+				{
+					"_id": "61a45dab2b08a259345a13c0",
+					"name": "GB Building"
+				},
+				{
+					"_id": "61a4606b8b4827582cdfc933",
+					"name": "The Clift"
+				},
+				{
+					"_id": "61a464b38b4827582cdfc93b",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "61a465078b4827582cdfc93f",
+					"name": "18 Tai Seng"
+				},
+				{
+					"_id": "66050b3ea490e5006ff1dd75",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "6605138c00e8270052cae72a",
+					"name": "Galaxis"
+				},
+				{
+					"_id": "6610b70dcf2151006831a110",
+					"name": "One @ KentRidge"
+				},
+				{
+					"_id": "663497d227417d006ed81b5e",
+					"name": "Millenia Walk"
+				},
+				{
+					"_id": "681b10a882be9e0406743ca4",
+					"name": "Ng Teng Fong General Hospital"
+				},
+				{
+					"_id": "69c64a929379d59dc4b2ecbc",
+					"name": "Clarke Quay"
+				},
+				{
+					"_id": "6a55a0d345aafea3df3caf61",
+					"name": "Harbourfront"
+				},
+				{
+					"_id": "6a9a99b8f9d61e45dbc742b3",
+					"name": "International Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"GB Building",
+			"The Clift",
+			"PLQ Mall",
+			"18 Tai Seng",
+			"Changi City Point",
+			"Galaxis",
+			"One @ KentRidge",
+			"Millenia Walk",
+			"Ng Teng Fong General Hospital",
+			"Clarke Quay",
+			"Harbourfront",
+			"International Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Huggs Coffee",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

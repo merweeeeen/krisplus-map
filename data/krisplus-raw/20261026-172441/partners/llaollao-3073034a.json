@@ -1,0 +1,291 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/llaollao-3073034a",
+	"slug": "llaollao-3073034a",
+	"fetchedAt": "2026-10-26T17:24:59.502+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5d64efd6786a2e7c341258a8",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "llaollao",
+			"brand": "llaollao",
+			"code": "LLL",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "119 Genting Lane, #02-01, HB 119 Genting",
+				"postalCode": "349570",
+				"streetName": "Genting Lane"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "201220834E",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-29e36daa-a1a1-4dd6-8a13-dbd07db7f6b7.png",
+			"createdAt": "2019-08-27T08:54:46.961Z",
+			"updatedAt": "2026-10-14T08:01:25.471Z",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "Terms and Conditions: \n•\tllao llao reserves all rights to amend, withdraw all or any terms / promotional offers without prior notice\n\nFind out more: https://www.llaollaoweb.com/en/\n",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-02da8bfa-017d-4b21-9e02-b1c84d47112c.jpg",
+			"participatingOutlets": "•\tBugis Junction \n•\tChangi Airport T2\n•\tChangi Airport T3 \n•\tCompass One\n•\tIMM \n•\tResorts World Sentosa\n•\tSuntec City \n•\tTampines 1\n•\tWisma Atria ",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.manna360.com.sg/our-brands/llaollao/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "llao llao",
+			"descriptionHtml": "<p>llaollao is a brand of natural frozen yogurt from Alicante, Spain. As the yogurt is natural, it has high nutritional value and is one of the healthiest. llaollao’s yogurt is also served with prime quality toppings, making it extra delicious and healthy.</p>  <p>Participating Outlets:</p>  <ul> \t \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Changi Airport T3 (Public)</span></span></li> \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Changi City Point</span></span></li> \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Compass One</span></span></li> \t \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Great World City</span></span></li> \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Hillion Mall</span></span></li> \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">IMM</span></span></li><li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Jewel Changi Airport</span></span></li> \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Northpoint City</span></span></li> \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">​​​​​​​Plaza Singapura</span></span></li> \t \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Suntec City</span></span></li><li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Tampines 1</span></span></li><li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">VivoCity</span></span></li> \t<li style=\"text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:\">Wisma Atria</span></span></li> </ul>",
+			"searchableKeywords": [
+				"Promenade",
+				"Esplanade",
+				"Raffles Boulevard",
+				"Orchard",
+				"Orchard Road",
+				"Jurong East Street 21",
+				"Sengkang Square",
+				"Zion Road",
+				"Kim Seng Road",
+				"Havelock",
+				"Tiong Bahru",
+				"Harbourfront",
+				"Sentosa Gateway",
+				"Airport Boulevard",
+				"Changi Airport",
+				"Tampines",
+				"Tampines Central 1",
+				"Dessert",
+				"Spain",
+				"Yogurt",
+				"Blend",
+				"Mixes",
+				"Toppings",
+				"Natural",
+				"Frozen",
+				"Al Dente",
+				"Great World City",
+				"Resorts World Sentosa",
+				"Rws",
+				"Wisma Atria",
+				"Suntec City",
+				"Terminal 3",
+				"Imm",
+				"Dining",
+				"T3",
+				"Northpoint",
+				"Hillion Mall",
+				"Changi City Point",
+				"Amk Hub",
+				"Ang Mo Kio",
+				"Yishun",
+				"Bites",
+				"Snacks",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9ef45578ca5d7f0b3d1"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 10
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-02da8bfa-017d-4b21-9e02-b1c84d47112c.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-29e36daa-a1a1-4dd6-8a13-dbd07db7f6b7.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-02da8bfa-017d-4b21-9e02-b1c84d47112c_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-02da8bfa-017d-4b21-9e02-b1c84d47112c_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-02da8bfa-017d-4b21-9e02-b1c84d47112c_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-29e36daa-a1a1-4dd6-8a13-dbd07db7f6b7_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-29e36daa-a1a1-4dd6-8a13-dbd07db7f6b7_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-29e36daa-a1a1-4dd6-8a13-dbd07db7f6b7_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "$31",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-05-19T07:51:09.735Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "llaollao-3073034a",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "5d673f756fdd09389c423abf",
+					"name": "IMM"
+				},
+				{
+					"_id": "5d676c9a54c0c70c48d54b7e",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "5d89cd140c7303327013ffa9",
+					"name": "Changi Airport T3 (Public)"
+				},
+				{
+					"_id": "5d89cd676698400e5c6f2f2f",
+					"name": "Compass One"
+				},
+				{
+					"_id": "5fd7307d96b7bd07a0470e7d",
+					"name": "Great World"
+				},
+				{
+					"_id": "6284bf7db53dd615348ba6bb",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "6426afad1c3d3e005cd59b9e",
+					"name": "Wisma Atria"
+				},
+				{
+					"_id": "650977994966e200556df15e",
+					"name": "Hillion Mall"
+				},
+				{
+					"_id": "65097ad7bf721c00564959ce",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "65c195e715331b0053f4b45e",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "6807548bb26c0a04192f2318",
+					"name": "Vivo City"
+				},
+				{
+					"_id": "683ff13f7752fc08865c9528",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "686ca4a067302b040078eb5e",
+					"name": "Jewel Changi Airport"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"IMM",
+			"Suntec City",
+			"Changi Airport T3 (Public)",
+			"Compass One",
+			"Great World",
+			"Northpoint City",
+			"Wisma Atria",
+			"Hillion Mall",
+			"Changi City Point",
+			"Plaza Singapura",
+			"Vivo City",
+			"Tampines 1",
+			"Jewel Changi Airport"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "llaollao",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

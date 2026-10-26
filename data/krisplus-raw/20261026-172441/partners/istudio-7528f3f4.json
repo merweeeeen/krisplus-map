@@ -1,0 +1,360 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/istudio-7528f3f4",
+	"slug": "istudio-7528f3f4",
+	"fetchedAt": "2026-10-26T17:27:30.188+08:00",
+	"payload": {
+		"partner": {
+			"_id": "626745c5ed611a35c8b32724",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Apple",
+				"Accessories",
+				"Phone Accessories",
+				"Belkin",
+				"Stm",
+				"Hyper",
+				"Urban Armor Gear",
+				"Zagg",
+				"Mophie",
+				"Invisibleshield",
+				"Gear4",
+				"Braven",
+				"Ifrogz",
+				"Phone Cover",
+				"Macbook",
+				"Ipad",
+				"Audio",
+				"Headphones",
+				"Earphones",
+				"Airpods",
+				"Beats",
+				"Apple Tv",
+				"Apple Watch",
+				"Airtag",
+				"Imac",
+				"Bedok Mall",
+				"Bugis Junction",
+				"Causeway Point",
+				"Changi Airport T1",
+				"Changi Airport T2",
+				"Changi Airport T3",
+				"Changi Airport T4",
+				"City Square Mall",
+				"Funan Mall",
+				"Great World City",
+				"Jem",
+				"Junction 8",
+				"Jurong Point",
+				"Nex",
+				"Paragon",
+				"Parkway Parade",
+				"Plaza Singapura",
+				"Plq Mall",
+				"Raffles City",
+				"Tampines Mall",
+				"Vivocity",
+				"Pps",
+				"Iphone",
+				"T1",
+				"T2",
+				"T3",
+				"T4",
+				"Retail",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electrical Components",
+				"Electronical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Hairdryer",
+				"Airconditioner",
+				"Washing Machine",
+				"Kettle",
+				"Hair Straightener",
+				"Lifestyle Appliances",
+				"Fans",
+				"Samsung",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Elush (T3) Pte Ltd",
+			"brand": "iStudio",
+			"code": "IST",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "iStudio",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "400 Orchard Road, Orchard Tower #08-01 S238875",
+				"postalCode": "238875",
+				"streetName": "400 Orchard Road"
+			},
+			"regNumber": "200722074E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9629322023367857-Apple_Family_Nov2024.png",
+			"websiteUrl": "https://www.istudiosg.com",
+			"descriptionHtml": "<p>iStudio Singapore is the largest Apple Premium Reseller in Singapore and they strive to bring the Apple products you love closer to you. </p>\n\n<p>Since opening its inaugural boutique at Singapore Changi Airport Terminal 3 in 2007, they have expanded across Singapore's shopping districts and heartlands to bring Apple closer to your doorstep.</p>\n\n<p>Participating Outlets:</p>\n\n<p>•    Bedok Mall <br />\n•    Bugis Junction<br />\n•    Causeway Point<br />\n•    Changi Airport T1 Transit<br />\n•    Changi Airport T2 Transit<br />\n•    Changi Airport T3 Transit<br />\n•    Changi Airport T4 Transit<br />\n•    City Square Mall<br />\n•    Compass One<br />\n•    Funan Mall<br />\n•    Great World City<br />\n•    JEM<br />\n•    Junction 8<br />\n•    Jurong Point<br />\n•    NEX<br />\n•    Paragon<br />\n•    Parkway Parade<br />\n•    Plaza Singapura<br />\n•    PLQ Mall<br />\n•    Raffles City<br />\n•    Tampines Mall</p>",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6573704299428782-3686350598362187-istudio_logo.jpg",
+			"createdAt": "2022-04-26T01:07:17.957Z",
+			"updatedAt": "2026-08-06T14:17:29.739Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.032,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 0,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"participatingOutlets": "•\tBedok Mall\n•\tBugis Junction\n•\tCauseway Point\n•\tChangi Airport T1 (Temporarily Closed)\n•\tChangi Airport T2 (Temporarily Closed)\n•\tChangi Airport T3\n•\tChangi Airport T4 (Temporarily Closed)\n•\tCity Square Mall\n•\tCompass One\n•\tFunan Mall\n•\tGreat World City\n•\tJEM\n•\tJunction 8\n•\tJurong Point\n•\tNEX\n•\tParagon\n•\tParkway Parade\n•\tPlaza Singapura\n•\tPLQ Mall\n•\tRaffles City\n•\tTampines Mall\n•\tTiong Bahru Plaza\n•\tVivocity",
+			"promotional": "          ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"partnershipGroup": "GR3",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef985fd404ac7a5ba302b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 24
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9629322023367857-Apple_Family_Nov2024_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9629322023367857-Apple_Family_Nov2024_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9629322023367857-Apple_Family_Nov2024_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9629322023367857-Apple_Family_Nov2024.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6573704299428782-3686350598362187-istudio_logo.jpg",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6573704299428782-3686350598362187-istudio_logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6573704299428782-3686350598362187-istudio_logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6573704299428782-3686350598362187-istudio_logo_high.jpg"
+			},
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-30T05:39:57.719Z",
+			"searchContent": "iStudio Singapore is the largest Apple Premium Reseller in Singapore and they strive to bring the Apple products you love closer to you. Since opening its inaugural boutique at Singapore Changi Airport Terminal 3 in 2007, they have expanded across Singapore's shopping districts and heartlands to bring Apple closer to your doorstep. Participating Outlets: • Bedok Mall • Bugis Junction • Causeway Point • Changi Airport T1 Transit • Changi Airport T2 Transit • Changi Airport T3 Transit • Changi Airport T4 Transit • City Square Mall • Compass One • Funan Mall • Great World City • JEM • Junction 8 • Jurong Point • NEX • Paragon • Parkway Parade • Plaza Singapura • PLQ Mall • Raffles City • Tampines Mall Apple Accessories Phone Accessories Belkin Stm Hyper Urban Armor Gear Zagg Mophie Invisibleshield Gear4 Braven Ifrogz Phone Cover Macbook Ipad Audio Headphones Earphones Airpods Beats Apple Tv Apple Watch Airtag Imac Bedok Mall Bugis Junction Causeway Point Changi Airport T1 Changi Airport T2 Changi Airport T3 Changi Airport T4 City Square Mall Funan Mall Great World City Jem Junction 8 Jurong Point Nex Paragon Parkway Parade Plaza Singapura Plq Mall Raffles City Tampines Mall Vivocity Pps Iphone T1 T2 T3 T4 Retail Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electrical Components Electronical Components Audio Television Headphones Cables Plug Travel Accessories Hairdryer Airconditioner Washing Machine Kettle Hair Straightener Lifestyle Appliances Fans Samsung Homefurnishing Retail Electrical & Electronics",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "istudio-7528f3f4",
+			"outlets": [
+				{
+					"_id": "62690a290b19764e08dc8eba",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "62690a72b0b927290c71c8eb",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "62690accb0b927290c71c8ed",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "62690b500b19764e08dc8ebc",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "62690bc2b0b927290c71c8ef",
+					"name": "Compass One"
+				},
+				{
+					"_id": "62690c3e0b19764e08dc8ec0",
+					"name": "Funan"
+				},
+				{
+					"_id": "62690c990b19764e08dc8ec3",
+					"name": "Great World"
+				},
+				{
+					"_id": "62690d8ab0b927290c71c8f3",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "62690e08b0b927290c71c8f5",
+					"name": "JEM"
+				},
+				{
+					"_id": "62690e8db0b927290c71c8f8",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "62690ecdb0b927290c71c8fb",
+					"name": "NEX"
+				},
+				{
+					"_id": "62690f1f0b19764e08dc8ec7",
+					"name": "Paragon"
+				},
+				{
+					"_id": "62690f670b19764e08dc8ec9",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "626910150b19764e08dc8ecd",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "62691076b0b927290c71c8fe",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "626910a6b0b927290c71c900",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "626ba1bbda366c55741f8c05",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "627899bb2b614a48f01d6cf9",
+					"name": "Changi Airport T3 (Transit)"
+				},
+				{
+					"_id": "62874e4175880d38cc192f7e",
+					"name": "Changi Airport T1 (Transit)"
+				},
+				{
+					"_id": "62874ea81b71533ae8cb713f",
+					"name": "Changi Airport T2 (Transit)"
+				},
+				{
+					"_id": "62874ee875880d38cc192f80",
+					"name": "Changi Airport T4 (Transit)"
+				},
+				{
+					"_id": "658e2647a3a3fb004eba07c2",
+					"name": "One Holland Village"
+				},
+				{
+					"_id": "6890282aa42ba1044c7d2985",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "6a336be7af3d8228ad1c90ad",
+					"name": "Hougang Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bedok Mall",
+			"Bugis Junction",
+			"Causeway Point",
+			"City Square Mall",
+			"Compass One",
+			"Funan",
+			"Great World",
+			"Junction 8",
+			"JEM",
+			"Jurong Point",
+			"NEX",
+			"Paragon",
+			"Plaza Singapura",
+			"PLQ Mall",
+			"Raffles City Shopping Centre",
+			"Tampines Mall",
+			"Parkway Parade",
+			"Changi Airport T3 (Transit)",
+			"Changi Airport T1 (Transit)",
+			"Changi Airport T2 (Transit)",
+			"Changi Airport T4 (Transit)",
+			"One Holland Village",
+			"Northpoint City",
+			"Hougang Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "iStudio",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

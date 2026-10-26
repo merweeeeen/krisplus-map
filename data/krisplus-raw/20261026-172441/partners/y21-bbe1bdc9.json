@@ -1,0 +1,231 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/y21-bbe1bdc9",
+	"slug": "y21-bbe1bdc9",
+	"fetchedAt": "2026-10-26T17:25:21.805+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e699f26696cb426d0936d1e",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Jarenis Holdings Pte Ltd",
+			"brand": "Y21",
+			"code": "YAC",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1001 Jalan Bukit Merah, #05-08",
+				"postalCode": "159455",
+				"streetName": "Jalan Bukit Merah"
+			},
+			"category": "RETAIL",
+			"regNumber": "201100145G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5192138826706436-Kris%20Pay%20-%20Y21%20Brand%20Image.png",
+			"websiteUrl": "https://www.yacht21.co/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5645671269228731-Kris%20Pay%20-%20Y21%20logo.png",
+			"createdAt": "2020-03-12T02:32:06.141Z",
+			"updatedAt": "2026-09-30T16:00:06.814Z",
+			"description": "",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"saleOfMiles": 0.025,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "• Bugis Junction\n• Jewel Changi Airport\n• Suntec City\n• Wheelock Place",
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 10% off regular priced items at YACHT 21. The label integrates lightweight and breathable materials to fulfill all metropolitan ladies’ actual day to day needs.  \n\nTerms and Conditions:\n• Promotion is valid on YACHT 21 regular priced items only.\n• Promotion is not valid in conjunction with other existing store promotion, member discount or voucher.\n\nFind out more at:\nhttps://www.yacht21.co ",
+			"categary": "Fashion",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Y21 is a women-led Singaporean resort wear brand that captures the essence of being polished during a vacation while embracing a sense of ease in the city.  <br> <br> Participating Outlets: </p>  <ul> \t<li>Bugis Junction </li> \t<li>Suntec City</li> \t<li>Wheelock Place</li> </ul>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "YACHT21",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Paterson Road",
+				"Raffles",
+				"Promenade",
+				"Esplanade",
+				"Boulevard",
+				"Retail",
+				"Fashion",
+				"Central",
+				"City",
+				"Central",
+				"Clothes",
+				"Fashion",
+				"Style",
+				"Trending",
+				"Dress",
+				"Blouse",
+				"Top",
+				"Tshirt",
+				"Merchandise",
+				"Style",
+				"Ootd",
+				"Semi Casual",
+				"Glam",
+				"Stylediary",
+				"Stylegram",
+				"Fashionaddict",
+				"Fashiondesigner",
+				"Retail",
+				"Wheelock Place",
+				"Suntec City",
+				"Bugis Junction",
+				"Apparel",
+				"Female",
+				"Ladies",
+				"Newclothes",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Trousers",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Hats",
+				"Belts"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e2b35256c5b2c9bf1f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5192138826706436-Kris%20Pay%20-%20Y21%20Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5192138826706436-Kris%20Pay%20-%20Y21%20Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5192138826706436-Kris%20Pay%20-%20Y21%20Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5645671269228731-Kris%20Pay%20-%20Y21%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5645671269228731-Kris%20Pay%20-%20Y21%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5645671269228731-Kris%20Pay%20-%20Y21%20logo_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5192138826706436-Kris%20Pay%20-%20Y21%20Brand%20Image.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5645671269228731-Kris%20Pay%20-%20Y21%20logo.png",
+			"searchContent": "Y21 is a women-led Singaporean resort wear brand that captures the essence of being polished during a vacation while embracing a sense of ease in the city. Participating Outlets: Bugis Junction Suntec City Wheelock Place Orchard Road Paterson Road Raffles Promenade Esplanade Boulevard Retail Fashion Central City Central Clothes Fashion Style Trending Dress Blouse Top Tshirt Merchandise Style Ootd Semi Casual Glam Stylediary Stylegram Fashionaddict Fashiondesigner Retail Wheelock Place Suntec City Bugis Junction Apparel Female Ladies Newclothes Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shoes Shorts Leggings Trousers Suits Accessories Hats Caps Garments Scarves Jewellery Bags Hats Belts Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T09:02:42.736Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "y21-bbe1bdc9",
+			"outlets": [
+				{
+					"_id": "5e734e480b1f77582c0d953c",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "5e734e9e114ef145f4cf4b38",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "5e734ed40b1f77582c0d953e",
+					"name": "Wheelock Place"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis Junction",
+			"Suntec City",
+			"Wheelock Place"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Y21",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

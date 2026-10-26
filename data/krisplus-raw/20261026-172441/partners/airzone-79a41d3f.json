@@ -1,0 +1,204 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/airzone-79a41d3f",
+	"slug": "airzone-79a41d3f",
+	"fetchedAt": "2026-10-26T17:25:06.336+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5de4d1bfb5bb7b1410425d5c",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Ultimate Airzone Pte Ltd",
+			"brand": "AIRZONE",
+			"code": "ARZ",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "180 Kitchener Road, , #02-K4/K10 City Square Mall Singapore",
+				"postalCode": "208539",
+				"streetName": "Kitchener Road"
+			},
+			"categary": "Others",
+			"regNumber": "201600904Z",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-4439040e-b0a9-474d-b2a2-3217e604416b.png",
+			"createdAt": "2019-12-02T08:56:31.428Z",
+			"updatedAt": "2026-09-29T04:08:59.820Z",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "KrisPay Exclusive Promotion:\n10% off  standard ticket when you flash the KrisPay app at the point of payment\n\nTerms and Conditions: \n•\tPromotion valid from now till 30 Nov 2022\n•\tChildren below 5 years old must be accompanied by a parent or guardian \n•\tChildren between 5 to 6 years old must be supervised by an adult in the immediate vicinity.\n•\tAll guests must be able to walk and climb on the nets unassisted.\n•\tClose-toe shoes must be worn.\n•\tOther Terms & Conditions of entry apply. More details are available on: https://airzone.sg/rules\n\nFind out more at: www.airzone.sg",
+			"category": "ACTIVITIES",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-41e44dae-ae9e-4c43-a711-9e1e64cca823.jpg",
+			"participatingOutlets": "City Square Mall",
+			"physicalShop": true,
+			"privilege": true,
+			"websiteUrl": "https://airzone.sg/",
+			"hideFromCustomer": false,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"mccCode": "7991",
+			"mccDescription": "Tourist Attractions and Exhibits",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"countryCode": "SG",
+			"descriptionHtml": "<p>AIRZONE is the world’s first suspended nets playground that premiered in Singapore! The playground sits in the atrium space of the shopping mall in between the floor levels. Each zone has a distinct theme containing unique games. It is a truly unique experience for all.</p>  <p>Participating Outlet: <br> •    City Square Mall</p>",
+			"shortName": "AIRZONE",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"searchableKeywords": [
+				"Farrer Park",
+				"Indoor",
+				"Kid Friendly",
+				"Family",
+				"School Holidays",
+				"Adventure",
+				"Playground",
+				"Party",
+				"Team Bonding",
+				"Fun",
+				"Exciting",
+				"Team Building",
+				"City Square Mall",
+				"Kitchener Road",
+				"Kids",
+				"Children",
+				"Activities",
+				"Bounce",
+				"Net",
+				"Tourists",
+				"Class",
+				"Workshop",
+				"Activity",
+				"Music",
+				"Concert",
+				"Bonding",
+				"Virtual",
+				"Teams",
+				"Friends",
+				"Arts  Crafts",
+				"Immersive Experiences",
+				"Experiences"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"ENT"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9eb9d00b0a527865c40"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-41e44dae-ae9e-4c43-a711-9e1e64cca823.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-4439040e-b0a9-474d-b2a2-3217e604416b.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-41e44dae-ae9e-4c43-a711-9e1e64cca823_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-41e44dae-ae9e-4c43-a711-9e1e64cca823_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-41e44dae-ae9e-4c43-a711-9e1e64cca823_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-4439040e-b0a9-474d-b2a2-3217e604416b_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-4439040e-b0a9-474d-b2a2-3217e604416b_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-4439040e-b0a9-474d-b2a2-3217e604416b_high.png"
+			},
+			"searchContent": "AIRZONE is the world’s first suspended nets playground that premiered in Singapore! The playground sits in the atrium space of the shopping mall in between the floor levels. Each zone has a distinct theme containing unique games. It is a truly unique experience for all. Participating Outlet: • City Square Mall Farrer Park Indoor Kid Friendly Family School Holidays Adventure Playground Party Team Bonding Fun Exciting Team Building City Square Mall Kitchener Road Kids Children Activities Bounce Net Tourists Class Workshop Activity Music Concert Bonding Virtual Teams Friends Arts  Crafts Immersive Experiences Experiences Activities Entertainment",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:38:50.725Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "airzone-79a41d3f",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5de61451e3357834785865b0",
+					"name": "City Square Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"City Square Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "AIRZONE",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

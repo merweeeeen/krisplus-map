@@ -1,0 +1,198 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sf-farm-mart-33662e37",
+	"slug": "sf-farm-mart-33662e37",
+	"fetchedAt": "2026-10-26T17:33:31.099+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6954a502f74971abc35abcd4",
+			"name": "SF (313) PTE LTD",
+			"shortName": "SF Farm Mart",
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"brand": "SF Farm Mart",
+			"code": "5FF",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2398658864578369-SFfarm.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16165586115799613-9121047422840862-Brand%20Image%207.png",
+			"websiteUrl": "https://sfsingapore.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "63 HILLVIEW AVENUE  #01-09",
+				"postalCode": "669569",
+				"streetName": "LAM SOON INDUSTRIAL BUILDI",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\">SF Farm Mart offers fresh fruits\n        and cut fruits. Committed to providing fresh quality fruits to all, SF's fruits\n        are carefully sourced from trusted farms and\n        growers around the world and delivered by land, sea & air periodically.\n        Freshness is their guarantee!<br><br>Outlets:</p><style>body{font-family:Arial,sans-serif;font-size:10pt;}</style><style>.cf0{font-family:Segoe UI;font-size:10.5pt;}.cf1{font-family:Segoe UI;font-size:10.5pt;}</style><style>.pf0{text-indent:-15pt;margin-left:15pt;}</style><!--StartFragment --><ul><li class=\"pf0\"><span class=\"cf0\">F</span><span class=\"cf0\">ullerton Waterboat House </span></li><li class=\"pf0\"><span class=\"cf0\">KK Women's & Children Hospital </span></li><li class=\"pf0\"><span class=\"cf0\">Mount Alvernia Hospital </span></li><li class=\"pf0\"><span class=\"cf0\">NUH - One@KentRidge </span></li><li class=\"pf0\"><span class=\"cf0\">Raffles Place MRT</span></li><li class=\"pf0\"><span class=\"cf0\">Suntec City Mall </span></li></ul><!--EndFragment -->",
+			"searchableKeywords": [
+				"Fruit",
+				"Healthy",
+				"Drinks",
+				"Juice",
+				"Fruit Juice",
+				"Smoothie",
+				"Yoghurt"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS",
+								"BD",
+								"HEAL",
+								"KID"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-31T04:22:26.883Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2398658864578369-SFfarm.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16165586115799613-9121047422840862-Brand%20Image%207.png",
+			"createdAt": "2025-12-31T04:22:26.891Z",
+			"updatedAt": "2026-08-06T14:18:27.387Z",
+			"searchContent": "SF Farm Mart offers fresh fruits and cut fruits. Committed to providing fresh quality fruits to all, SF's fruits are carefully sourced from trusted farms and growers around the world and delivered by land, sea & air periodically. Freshness is their guarantee! Outlets: body{font-family:Arial,sans-serif;font-size:10pt;}.cf0{font-family:Segoe UI;font-size:10.5pt;}.cf1{font-family:Segoe UI;font-size:10.5pt;}.pf0{text-indent:-15pt;margin-left:15pt;}Fullerton Waterboat House KK Women's & Children Hospital Mount Alvernia Hospital NUH - One@KentRidge Raffles Place MRTSuntec City Mall Fruit Healthy Drinks Juice Fruit Juice Smoothie Yoghurt Dining Vegetarian-Friendly Quick Bites & Snacks Beverages & Desserts Healthy Kid-Friendly",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16165586115799613-9121047422840862-Brand%20Image%207_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16165586115799613-9121047422840862-Brand%20Image%207_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16165586115799613-9121047422840862-Brand%20Image%207_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2398658864578369-SFfarm_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2398658864578369-SFfarm_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2398658864578369-SFfarm_high.png"
+			},
+			"newMerchantEndDate": "2026-04-12T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sf-farm-mart-33662e37",
+			"outlets": [
+				{
+					"_id": "6954a60902cb685ed8ece043",
+					"name": "Fullerton Waterboat House"
+				},
+				{
+					"_id": "6954a65457c5843bc08aa582",
+					"name": "Raffles Place Mrt"
+				},
+				{
+					"_id": "6954a6944a5096e087fc9ac6",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "6954a799489430ea2b31c92b",
+					"name": "KK Hospital"
+				},
+				{
+					"_id": "6954aa6ef74971abc35ac7ed",
+					"name": "Mt Alvernia Hospital"
+				},
+				{
+					"_id": "6954ab338043ba2187370e78",
+					"name": "1 Kent Ridge"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fullerton Waterboat House",
+			"Raffles Place Mrt",
+			"Suntec City",
+			"KK Hospital",
+			"Mt Alvernia Hospital",
+			"1 Kent Ridge"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SF Farm Mart",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

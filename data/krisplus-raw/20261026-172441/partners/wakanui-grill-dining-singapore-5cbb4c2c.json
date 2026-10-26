@@ -1,0 +1,223 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/wakanui-grill-dining-singapore-5cbb4c2c",
+	"slug": "wakanui-grill-dining-singapore-5cbb4c2c",
+	"fetchedAt": "2026-10-26T17:25:37.669+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f4f3e0e2048068ea01e9b4d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "WAKANUI Grill Dining Singapore",
+			"brand": "WAKANUI Grill Dining Singapore",
+			"code": "WGD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "WAKANUI",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "120 Lower Delta Road #16-01 , Cendex Centre ",
+				"postalCode": "169208",
+				"streetName": "Lower Delta Road"
+			},
+			"regNumber": "201711728W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6738653619999009-10%25%20off%20WGD_Group%20Shot_11zon.jpg",
+			"websiteUrl": "https://wakanui.sg/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-141112f0-d038-463a-9e09-438daf0a6f43.jpg",
+			"createdAt": "2020-09-02T06:39:10.964Z",
+			"updatedAt": "2026-08-06T14:17:11.054Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"participatingOutlets": "Marina One West Tower",
+			"promotional": "Marina One West Tower",
+			"descriptionHtml": "<p>WAKANUI Grill Dining is a premium steakhouse in Singapore specialising in Binchō-tan charcoal grilling. Each cut is carefully selected to showcase its natural flavour and texture, reflecting our commitment to quality, authenticity, and precise technique. </p><p>Located within Marina One’s iconic cantilevered glass capsule, WAKANUI blends traditional grilling methods with modern precision to serve exceptional steaks in a striking, architecturally unique setting.</p>",
+			"searchableKeywords": [
+				"Marina Bay",
+				"Bayfront Avenue",
+				"Downtown",
+				"Marina Way",
+				"Marina One",
+				"Foodie",
+				"Trending",
+				"Sushi",
+				"Sake",
+				"Wine",
+				"Couples",
+				"First Dates",
+				"Birthday",
+				"New Zealand",
+				"Western",
+				"Steak",
+				"Seafood",
+				"Dining",
+				"Dates",
+				"Valentines Day",
+				"Business",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"WES",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9da595add249244647d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6738653619999009-10%25%20off%20WGD_Group%20Shot_11zon.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-141112f0-d038-463a-9e09-438daf0a6f43.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6738653619999009-10%25%20off%20WGD_Group%20Shot_11zon_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6738653619999009-10%25%20off%20WGD_Group%20Shot_11zon_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6738653619999009-10%25%20off%20WGD_Group%20Shot_11zon_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-141112f0-d038-463a-9e09-438daf0a6f43_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-141112f0-d038-463a-9e09-438daf0a6f43_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-141112f0-d038-463a-9e09-438daf0a6f43_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-03T08:25:35.976Z",
+			"searchContent": "WAKANUI Grill Dining is a premium steakhouse in Singapore specialising in Binchō-tan charcoal grilling. Each cut is carefully selected to showcase its natural flavour and texture, reflecting our commitment to quality, authenticity, and precise technique. Located within Marina One’s iconic cantilevered glass capsule, WAKANUI blends traditional grilling methods with modern precision to serve exceptional steaks in a striking, architecturally unique setting. Marina Bay Bayfront Avenue Downtown Marina Way Marina One Foodie Trending Sushi Sake Wine Couples First Dates Birthday New Zealand Western Steak Seafood Dining Dates Valentines Day Business Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Western Fine Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "wakanui-grill-dining-singapore-5cbb4c2c",
+			"outlets": [
+				{
+					"_id": "5f56121a90c882116c9e154a",
+					"name": "Marina One West Tower"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina One West Tower"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "WAKANUI Grill Dining Singapore",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

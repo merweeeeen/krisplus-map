@@ -1,0 +1,202 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/enjoy-eating-house-and-bar-71c18d15",
+	"slug": "enjoy-eating-house-and-bar-71c18d15",
+	"fetchedAt": "2026-10-26T17:26:27.840+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60ac860e86e9eb16bce5eb02",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Enjoy Eating House and Bar",
+			"brand": "Enjoy Eating House and Bar",
+			"code": "EEH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "EnjoyEatingHse",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "383 Jalan Besar, Singapore",
+				"postalCode": "209001",
+				"streetName": "Jalan Besar"
+			},
+			"regNumber": "201222298k",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5767845020076698-31343228748826313-Brand%20Image_App.png",
+			"websiteUrl": "https://enjoyeating.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Enjoy%20Eating%20House%20and%20Bar\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Started in 2018, Enjoy Eating House and Bar serves Singaporeans’ favourite local food, as well as a range of local craft beers and liquors produced by passionate local small businesses. Enjoy Eating House and Bar hopes to make the most out of the precious moments you have by enjoying some of the greatest pleasure life can bring – great food and great company.</p>  <ul> \t <br></ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"promotional": " \n",
+			"participatingOutlets": "•\tKam Leng Hotel\n•\tMercure on Stevens",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4773897588099909-11708760145122943-Brand%20Logo_App%20(002).png",
+			"createdAt": "2021-05-25T05:07:26.376Z",
+			"updatedAt": "2026-10-15T12:22:10.074Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"searchableKeywords": [
+				"Jalan Besar",
+				"Lavender",
+				"Steven Road",
+				"Orchard",
+				"Chinese",
+				"East",
+				"Central",
+				"Local Food",
+				"Foodie",
+				"Singaporean",
+				"Western",
+				"Malay",
+				"Indian",
+				"Cuisine",
+				"10 Off",
+				"Cooked To Order",
+				"Beef",
+				"Chicken",
+				"Seafood",
+				"Lamb",
+				"Dining",
+				"Drinks",
+				"Beer",
+				"Local",
+				"Kam Leng Hotel",
+				"Mercure On Stevens"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9bc2f71c855d5496e4d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5767845020076698-31343228748826313-Brand%20Image_App.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4773897588099909-11708760145122943-Brand%20Logo_App%20(002).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5767845020076698-31343228748826313-Brand%20Image_App_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5767845020076698-31343228748826313-Brand%20Image_App_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5767845020076698-31343228748826313-Brand%20Image_App_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4773897588099909-11708760145122943-Brand%20Logo_App%20(002)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4773897588099909-11708760145122943-Brand%20Logo_App%20(002)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4773897588099909-11708760145122943-Brand%20Logo_App%20(002)_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-01T01:47:54.498Z",
+			"searchContent": "*Click here to Reserve A Table. Started in 2018, Enjoy Eating House and Bar serves Singaporeans’ favourite local food, as well as a range of local craft beers and liquors produced by passionate local small businesses. Enjoy Eating House and Bar hopes to make the most out of the precious moments you have by enjoying some of the greatest pleasure life can bring – great food and great company. Jalan Besar Lavender Steven Road Orchard Chinese East Central Local Food Foodie Singaporean Western Malay Indian Cuisine 10 Off Cooked To Order Beef Chicken Seafood Lamb Dining Drinks Beer Local Kam Leng Hotel Mercure On Stevens Dining Casual Dining",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "enjoy-eating-house-and-bar-71c18d15",
+			"outlets": [
+				{
+					"_id": "60afb00fe8afc63dcc36d064",
+					"name": "Stevens Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Stevens Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Enjoy Eating House and Bar",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

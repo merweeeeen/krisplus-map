@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-stamford-brasserie-d11df37c",
+	"slug": "the-stamford-brasserie-d11df37c",
+	"fetchedAt": "2026-10-26T17:29:10.618+08:00",
+	"payload": {
+		"partner": {
+			"_id": "648fcf76a4e4c000558421b3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Café Bistro Beer Bar",
+				"City Hallraffles City",
+				"Bar",
+				"Parisian",
+				"French"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "RC Hotels (Pte) Ltd (The Stamford Brasserie)",
+			"brand": "The Stamford Brasserie",
+			"code": "TBR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "The Stamford",
+			"address": {
+				"city": "Singapore",
+				"line1": "2 STAMFORD ROAD SINGAPORE 178882",
+				"streetName": "2 STAMFORD ROAD SINGAPORE ",
+				"postalCode": "178882",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"FRE",
+								"EUR"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "198904859N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7559424523583615-TSB.png",
+			"websiteUrl": "https://www.swissotel-singapore-stamford.com/restaurants-bars/the-stamford-brasserie/",
+			"descriptionHtml": "<p>The Stamford Brasserie, a multi-concept restaurant and bar with a charming Parisian bistro ambience welcomes guests back to indulge in classic familiar favourites as well as exciting new additions from a hearty menu selection.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8993346329647209-5222312283050021-TSB_square.png",
+			"createdAt": "2023-06-19T03:45:58.532Z",
+			"updatedAt": "2026-08-06T14:17:45.943Z",
+			"translations": [
+				"64eef9f73d10e34df66b474e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7559424523583615-TSB_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7559424523583615-TSB_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7559424523583615-TSB_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7559424523583615-TSB.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8993346329647209-5222312283050021-TSB_square.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8993346329647209-5222312283050021-TSB_square_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8993346329647209-5222312283050021-TSB_square_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8993346329647209-5222312283050021-TSB_square_high.png"
+			},
+			"searchContent": "The Stamford Brasserie, a multi-concept restaurant and bar with a charming Parisian bistro ambience welcomes guests back to indulge in classic familiar favourites as well as exciting new additions from a hearty menu selection. Café Bistro Beer Bar City Hallraffles City Bar Parisian French Dining Casual Dining French European",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:49:03.580Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-stamford-brasserie-d11df37c",
+			"outlets": [
+				{
+					"_id": "648fd062492aa50055af7678",
+					"name": "Swissotel The Stamford"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Swissotel The Stamford"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Stamford Brasserie",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

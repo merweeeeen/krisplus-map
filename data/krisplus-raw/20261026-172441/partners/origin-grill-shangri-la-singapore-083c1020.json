@@ -1,0 +1,217 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/origin-grill-shangri-la-singapore-083c1020",
+	"slug": "origin-grill-shangri-la-singapore-083c1020",
+	"fetchedAt": "2026-10-26T17:27:01.743+08:00",
+	"payload": {
+		"partner": {
+			"_id": "619317c9847a3c277c452747",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Hotel",
+				"Restaurant",
+				"Steak",
+				"Seafood",
+				"Grill",
+				"Wine",
+				"European",
+				"Contemporary",
+				"International",
+				"Shangri La",
+				"Beef",
+				"Wagyu",
+				"Cocktail",
+				"Drinks",
+				"Bar",
+				"Angus",
+				"Dining",
+				"Valentines Day",
+				"Dates",
+				"Artisanal",
+				"Dinner",
+				"Shangri La",
+				"Orange Grove Road",
+				"Orchard",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Origin Grill (Shangri-La Hotel Limited)",
+			"brand": "Origin Grill (Shangri-La Singapore) ",
+			"code": "ORI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Origin Grill ",
+			"address": {
+				"city": "Singapore",
+				"line1": "22 Orange Grove Road, Shangri-La Hotel",
+				"streetName": "Orange Grove Road",
+				"postalCode": "258350",
+				"cityCode": "SIN"
+			},
+			"regNumber": "196200040E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/827903443620903-6790826238016918-Brand%20Image%20(750%20x%20540px).png",
+			"websiteUrl": "https://www.shangri-la.com/singapore/shangrila/dining/restaurants/origin-grill/",
+			"descriptionHtml": "<p>At Origin Grill, diners can look forward to a culinary showcase of fresh, high-quality ingredients sourced from artisanal farms around the world, paired with a wine selection featuring over 45 grape varietals handpicked from the best wine-producing regions.</p>\n\n<p>Note: Payments made via Kris+ will not be eligible for Shangri-La Circle points.</p>\n\n<p>​​​​​​​</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/36656737460317657-8354738836334592-Brand%20Logo%20(1000%20x%201000px).png",
+			"createdAt": "2021-11-16T02:30:33.096Z",
+			"updatedAt": "2026-08-06T14:17:23.283Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "       ",
+			"promotional": "     ",
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef994a65eaf5ea768287e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/827903443620903-6790826238016918-Brand%20Image%20(750%20x%20540px).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/36656737460317657-8354738836334592-Brand%20Logo%20(1000%20x%201000px).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/827903443620903-6790826238016918-Brand%20Image%20(750%20x%20540px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/827903443620903-6790826238016918-Brand%20Image%20(750%20x%20540px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/827903443620903-6790826238016918-Brand%20Image%20(750%20x%20540px)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/36656737460317657-8354738836334592-Brand%20Logo%20(1000%20x%201000px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/36656737460317657-8354738836334592-Brand%20Logo%20(1000%20x%201000px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/36656737460317657-8354738836334592-Brand%20Logo%20(1000%20x%201000px)_high.png"
+			},
+			"searchContent": "At Origin Grill, diners can look forward to a culinary showcase of fresh, high-quality ingredients sourced from artisanal farms around the world, paired with a wine selection featuring over 45 grape varietals handpicked from the best wine-producing regions. Note: Payments made via Kris+ will not be eligible for Shangri-La Circle points. ​​​​​​​ Hotel Restaurant Steak Seafood Grill Wine European Contemporary International Shangri La Beef Wagyu Cocktail Drinks Bar Angus Dining Valentines Day Dates Artisanal Dinner Shangri La Orange Grove Road Orchard Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Fine Dining Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:47:07.234Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "origin-grill-shangri-la-singapore-083c1020",
+			"outlets": [
+				{
+					"_id": "619c385118902949802f9214",
+					"name": "Shangri-La Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Shangri-La Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Origin Grill (Shangri-La Singapore)",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,236 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/eaters-market-13309bad",
+	"slug": "eaters-market-13309bad",
+	"fetchedAt": "2026-10-26T17:31:24.780+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67f721a16aa3ed6c3234912b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 6,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"butcher",
+				"meat",
+				"grassfed beef",
+				"grainfed beef",
+				"premium meat cuts",
+				"gourmet sausages",
+				"speciality meats",
+				"dryaged beef",
+				"charcuterie",
+				"local butcher",
+				"local butcher near me",
+				"wine tasting",
+				"dry aged",
+				"dry aging",
+				"butcher Singapore",
+				"bbq food",
+				"beef tallow",
+				"bbq near me",
+				"private tasting event",
+				"dry aging services",
+				"sous vide services",
+				"restaurant quality meats",
+				"ready to eat",
+				"marinated meats",
+				"Japanese wagyu",
+				"premium meat",
+				"secondary cut meat",
+				"Shabu Shabu",
+				"Yakiniku",
+				"steaks",
+				"whole roast",
+				"fresh meat delivery",
+				"gourmet meat boxes",
+				"organic chicken",
+				"freerange pork",
+				"lamb rack",
+				"Wagyu beef steaks",
+				"Angus beef",
+				"hot pot meat",
+				"shabu shabu beef slices",
+				"yakiniku beef slices",
+				"sous vide meats",
+				"premium beef",
+				"dryaged beef steaks",
+				"BBQ meat bundles",
+				"steaks near me",
+				"beef ribs online",
+				"A4 Japanese Wagyu",
+				"tenderloin steaks",
+				"bonein ribeye",
+				"nitrate free sausages",
+				"butchergrade beef",
+				"speciality pork cuts",
+				"Iberico pork",
+				"lamb",
+				"marinated meat",
+				"wine and dine deals",
+				"exclusive wine pairings",
+				"premium red wines",
+				"white wine for seafoods",
+				"sparkling wine for occasions",
+				"affordable fine wines",
+				"boutique wine selection",
+				"wines online",
+				"wine delivery",
+				"wine for BBQ pairings",
+				"artisan cheese",
+				"cold cuts",
+				"party food bundies",
+				"high quality steaks",
+				"holiday feats packages",
+				"meat and wine pairings",
+				"special occasion dining",
+				"fine dining at home",
+				"local gourmet shops",
+				"gourmet butcher near me",
+				"restaurant quality meat delivery",
+				"exclusive meat hampers",
+				"BBQ essentials online",
+				"frozen meat delivery",
+				"meat deals",
+				"meat promotion",
+				"value meats",
+				"premium meats"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "EATERS MARKET PTE LTD",
+			"brand": "Eater's Market",
+			"code": "TIA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Eater Market",
+			"address": {
+				"line1": "94H Jalan Senang #02-00 Singapore 418475",
+				"postalCode": "418475",
+				"streetName": "94H Jalan Senang",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC",
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.eatersmarket.sg",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: AppleSystemUIFont; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Eater's Market offers restaurant-quality meats, curated produce, and unique alcohol at unbeatable value. From specialty cuts and custom services to ready-to-cook meals and exclusive pairing events, it’s a one-stop destination for premium quality and unique culinary experiences. Discover excellence with every visit.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7361956300904151-EatersMarket.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6207058734785182-9773773499655496-Brand%20Image-app-750-540.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7361956300904151-EatersMarket.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6207058734785182-9773773499655496-Brand%20Image-app-750-540.png",
+			"createdAt": "2025-04-10T01:40:49.145Z",
+			"updatedAt": "2026-09-30T16:00:04.838Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7361956300904151-EatersMarket_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7361956300904151-EatersMarket_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7361956300904151-EatersMarket_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Eater's Market offers restaurant-quality meats, curated produce, and unique alcohol at unbeatable value. From specialty cuts and custom services to ready-to-cook meals and exclusive pairing events, it’s a one-stop destination for premium quality and unique culinary experiences. Discover excellence with every visit. butcher meat grassfed beef grainfed beef premium meat cuts gourmet sausages speciality meats dryaged beef charcuterie local butcher local butcher near me wine tasting dry aged dry aging butcher Singapore bbq food beef tallow bbq near me private tasting event dry aging services sous vide services restaurant quality meats ready to eat marinated meats Japanese wagyu premium meat secondary cut meat Shabu Shabu Yakiniku steaks whole roast fresh meat delivery gourmet meat boxes organic chicken freerange pork lamb rack Wagyu beef steaks Angus beef hot pot meat shabu shabu beef slices yakiniku beef slices sous vide meats premium beef dryaged beef steaks BBQ meat bundles steaks near me beef ribs online A4 Japanese Wagyu tenderloin steaks bonein ribeye nitrate free sausages butchergrade beef speciality pork cuts Iberico pork lamb marinated meat wine and dine deals exclusive wine pairings premium red wines white wine for seafoods sparkling wine for occasions affordable fine wines boutique wine selection wines online wine delivery wine for BBQ pairings artisan cheese cold cuts party food bundies high quality steaks holiday feats packages meat and wine pairings special occasion dining fine dining at home local gourmet shops gourmet butcher near me restaurant quality meat delivery exclusive meat hampers BBQ essentials online frozen meat delivery meat deals meat promotion value meats premium meats Retail Groceries Food Specialities",
+			"refundPeriodUpdatedAt": "2026-03-04T01:39:21.746Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "eaters-market-13309bad",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "67f72787f64fe86251e12add",
+					"name": "695D East Coast Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"695D East Coast Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Eater's Market",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

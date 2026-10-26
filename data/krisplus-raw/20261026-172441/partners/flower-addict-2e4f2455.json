@@ -1,0 +1,158 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/flower-addict-2e4f2455",
+	"slug": "flower-addict-2e4f2455",
+	"fetchedAt": "2026-10-26T17:30:17.903+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66d91e992b8824006b039d8e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Same Day Flower Delivery",
+				"Flower Delivery Singapore",
+				"Flower Bouquets",
+				"Fresh Flower Singapore",
+				"Gift Delivery Singapore",
+				"Gifts For Him",
+				"Gifts For Her",
+				"Birthday Flowers",
+				"Get Well Soon Flowers",
+				"Sympathy Flowers",
+				"Anniversary Flowers",
+				"Graduation Flowers",
+				"New Baby Flowers",
+				"Thank You Flowers",
+				"Congratulation Flowers"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "FLOWER ADDICT PTE LTD",
+			"brand": "Flower Addict",
+			"code": "FAP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Flower Addict",
+			"address": {
+				"city": "Singapore",
+				"line1": "203B Henderson Road, #09-08, Singapore, 159546",
+				"streetName": "203B Henderson Road",
+				"postalCode": "159546",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://floweraddict.com",
+			"descriptionHtml": "<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Flower Addict is an award-winning online florist in Singapore that offers stylish flower arrangements and gifts with a simple aim to 'Make Life Beautiful'. They prioritise indulgent, contemporary designs, high-quality blooms, excellent customer service, and luxurious packaging. They deliver all across Singapore within as little as 3 hours!</span></span></p>  <p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. </span></span>​​​​​​​</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1474269729780524-23275019666017105-(A)%20App%20Brand%20Logo%201000x1000.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/0003412354399419115-4206668113364238-(C)-Flower-Addict-App-Brand-Image1.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [],
+			"createdAt": "2024-09-05T02:59:37.882Z",
+			"updatedAt": "2026-08-06T14:18:06.922Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0003412354399419115-4206668113364238-(C)-Flower-Addict-App-Brand-Image1.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1474269729780524-23275019666017105-(A)%20App%20Brand%20Logo%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0003412354399419115-4206668113364238-(C)-Flower-Addict-App-Brand-Image1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0003412354399419115-4206668113364238-(C)-Flower-Addict-App-Brand-Image1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0003412354399419115-4206668113364238-(C)-Flower-Addict-App-Brand-Image1_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1474269729780524-23275019666017105-(A)%20App%20Brand%20Logo%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1474269729780524-23275019666017105-(A)%20App%20Brand%20Logo%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1474269729780524-23275019666017105-(A)%20App%20Brand%20Logo%201000x1000_high.jpg"
+			},
+			"searchContent": "Flower Addict is an award-winning online florist in Singapore that offers stylish flower arrangements and gifts with a simple aim to 'Make Life Beautiful'. They prioritise indulgent, contemporary designs, high-quality blooms, excellent customer service, and luxurious packaging. They deliver all across Singapore within as little as 3 hours! Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. ​​​​​​​ Same Day Flower Delivery Flower Delivery Singapore Flower Bouquets Fresh Flower Singapore Gift Delivery Singapore Gifts For Him Gifts For Her Birthday Flowers Get Well Soon Flowers Sympathy Flowers Anniversary Flowers Graduation Flowers New Baby Flowers Thank You Flowers Congratulation Flowers Retail Home & Lifestyle Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:50:08.776Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "flower-addict-2e4f2455",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Flower Addict",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

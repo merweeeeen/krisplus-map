@@ -1,0 +1,160 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-fullerton-spa-the-fullerton-hotel-singapore-29bdb5a2",
+	"slug": "the-fullerton-spa-the-fullerton-hotel-singapore-29bdb5a2",
+	"fetchedAt": "2026-10-26T17:33:45.322+08:00",
+	"payload": {
+		"partner": {
+			"_id": "697b137ba430e4421aac1e5a",
+			"name": "The Fullerton Spa",
+			"shortName": "Fullerton Spa",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "The Fullerton Spa (The Fullerton Hotel Singapore)",
+			"code": "FUS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/30863379437146765-WeddingsFullertonHotel.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8120994141837803-26305524706089334-750x540.jpg",
+			"websiteUrl": "https://www.fullertonhotels.com/fullerton-hotel-singapore/spa",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 Fullerton Square",
+				"postalCode": "049178",
+				"streetName": "1 Fullerton Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Nestled within The Fullerton Hotel Singapore, an iconic National Monument, the award-winning Fullerton Spa offers a serene, elegant escape. </p><p>Committed to luxury, quality, and top-notch service, The Fullerton Spa presents an array of exceptional treatments and products co-curated with premium brand ESPA ensuring all offerings meet the highest standards. </p><p>By blending traditional holistic therapies with modern techniques and using only the purest natural ingredients, their treatments deliver visible results and a renewed sense of inner calm. Experience a world where wellness meets refined indulgence.</p>",
+			"searchableKeywords": [
+				"Massage",
+				"Facial",
+				"Spa",
+				"Fullerton"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.044,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-29T07:59:55.672Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/30863379437146765-WeddingsFullertonHotel.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8120994141837803-26305524706089334-750x540.jpg",
+			"createdAt": "2026-01-29T07:59:55.686Z",
+			"updatedAt": "2026-09-09T01:20:52.513Z",
+			"searchContent": "Nestled within The Fullerton Hotel Singapore, an iconic National Monument, the award-winning Fullerton Spa offers a serene, elegant escape. Committed to luxury, quality, and top-notch service, The Fullerton Spa presents an array of exceptional treatments and products co-curated with premium brand ESPA ensuring all offerings meet the highest standards. By blending traditional holistic therapies with modern techniques and using only the purest natural ingredients, their treatments deliver visible results and a renewed sense of inner calm. Experience a world where wellness meets refined indulgence. Massage Facial Spa Fullerton Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8120994141837803-26305524706089334-750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8120994141837803-26305524706089334-750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8120994141837803-26305524706089334-750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/30863379437146765-WeddingsFullertonHotel_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/30863379437146765-WeddingsFullertonHotel_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/30863379437146765-WeddingsFullertonHotel_high.png"
+			},
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-fullerton-spa-the-fullerton-hotel-singapore-29bdb5a2",
+			"outlets": [
+				{
+					"_id": "697b154e17fc9128b1d25ea1",
+					"name": "The Fullerton Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Fullerton Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Fullerton Spa (The Fullerton Hotel Singapore)",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

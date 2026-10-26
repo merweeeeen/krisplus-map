@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/one-ninety-bar-four-seasons-hotel-singapore-478382e3",
+	"slug": "one-ninety-bar-four-seasons-hotel-singapore-478382e3",
+	"fetchedAt": "2026-10-26T17:27:09.882+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6209bc0f818f940338c47123",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Four Seasons",
+				"Orchard",
+				"Hotel",
+				"Bar",
+				"Cocktails",
+				"Al Fresco",
+				"Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "One-Ninety Bar",
+			"brand": "One-Ninety Bar - Four Seasons Hotel Singapore",
+			"code": "ONB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "OneNinetyBar",
+			"address": {
+				"line1": "Orchard Boulevard ",
+				"postalCode": "248646",
+				"streetName": "190 Orchard Boulevard",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "47940800M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/48699831250376824-One-Ninety%20Bar.jpg",
+			"websiteUrl": "https://www.fourseasons.com/singapore/dining/bar/one-ninety_bar/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=One-Ninety%20Bar\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Dynamic and passionate about all things botanical, One-Ninety Bar indulges the senses with sophisticated craftsmanship in every shake and stir. Subtly playful, much like the play of light and dark through the space, One-Ninety Bar has a “secret garden” – a breezy outdoor terrazza perfect for balmy, al fresco imbibing.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Indulging senses with sophisticated craftmanship in every shake and stir",
+			"participatingOutlets": "Four Seasons Hotel Singapore",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3469368711990335-One-Ninety%20Bar%20%26%20Garden%40One-Ninety%20-%20App%20brand%20logo.jpg",
+			"createdAt": "2022-02-14T02:18:55.025Z",
+			"updatedAt": "2026-08-06T14:17:26.209Z",
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef98fb51c9781d82fd53a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/48699831250376824-One-Ninety%20Bar.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3469368711990335-One-Ninety%20Bar%20%26%20Garden%40One-Ninety%20-%20App%20brand%20logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/48699831250376824-One-Ninety%20Bar_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/48699831250376824-One-Ninety%20Bar_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/48699831250376824-One-Ninety%20Bar_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3469368711990335-One-Ninety%20Bar%20%26%20Garden%40One-Ninety%20-%20App%20brand%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3469368711990335-One-Ninety%20Bar%20%26%20Garden%40One-Ninety%20-%20App%20brand%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3469368711990335-One-Ninety%20Bar%20%26%20Garden%40One-Ninety%20-%20App%20brand%20logo_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Dynamic and passionate about all things botanical, One-Ninety Bar indulges the senses with sophisticated craftsmanship in every shake and stir. Subtly playful, much like the play of light and dark through the space, One-Ninety Bar has a “secret garden” – a breezy outdoor terrazza perfect for balmy, al fresco imbibing. Four Seasons Orchard Hotel Bar Cocktails Al Fresco Dining Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:46:51.880Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "one-ninety-bar-four-seasons-hotel-singapore-478382e3",
+			"outlets": [
+				{
+					"_id": "620e331ba0fb2244a48dae90",
+					"name": "Four Seasons Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Four Seasons Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "One-Ninety Bar - Four Seasons Hotel Singapore",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

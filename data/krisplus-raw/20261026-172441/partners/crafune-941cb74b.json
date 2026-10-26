@@ -1,0 +1,160 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/crafune-941cb74b",
+	"slug": "crafune-941cb74b",
+	"fetchedAt": "2026-10-26T17:30:33.587+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6729c7ddf0242d006c23c6f3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Leather Goods",
+				"Customized",
+				"Workshop"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Crafune Pte. Ltd.",
+			"brand": "Crafune",
+			"code": "CRA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Crafune",
+			"address": {
+				"city": "Singapore",
+				"line1": "38 Haji Lane #02-01 Singapore 189231",
+				"streetName": "38 Haji Lane",
+				"postalCode": "189231",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"FAS"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"websiteUrl": "https://www.crafune.com",
+			"descriptionHtml": "<p>Born and bred in Singapore, Crafune started as a leather crafting atelier in the corner of Haji Lane. Crafune offers unique leather crafting experiences and leather products that effortlessly fit your style. Each design is meticulously crafted to be practical, elegant and uniquely yours.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8063255886741445-6717095943532172-Crafune%20Untitled.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/198566091428517-5008168663010701-2IMG_9282%20750x540%20-%20brand.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"createdAt": "2024-11-05T07:23:09.285Z",
+			"updatedAt": "2026-08-06T14:18:08.826Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/198566091428517-5008168663010701-2IMG_9282%20750x540%20-%20brand_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/198566091428517-5008168663010701-2IMG_9282%20750x540%20-%20brand_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/198566091428517-5008168663010701-2IMG_9282%20750x540%20-%20brand_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8063255886741445-6717095943532172-Crafune%20Untitled_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8063255886741445-6717095943532172-Crafune%20Untitled_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8063255886741445-6717095943532172-Crafune%20Untitled_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/198566091428517-5008168663010701-2IMG_9282%20750x540%20-%20brand.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8063255886741445-6717095943532172-Crafune%20Untitled.png",
+			"searchContent": "Born and bred in Singapore, Crafune started as a leather crafting atelier in the corner of Haji Lane. Crafune offers unique leather crafting experiences and leather products that effortlessly fit your style. Each design is meticulously crafted to be practical, elegant and uniquely yours. Leather Goods Customized Workshop Retail Fashion",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "crafune-941cb74b",
+			"outlets": [
+				{
+					"_id": "6729c9413cd2f30066f4f433",
+					"name": "38 Haji Lane"
+				},
+				{
+					"_id": "6729c99e70d1ee0074704cae",
+					"name": "New Bahru"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"38 Haji Lane",
+			"New Bahru"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Crafune",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

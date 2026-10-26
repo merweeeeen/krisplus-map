@@ -1,0 +1,193 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/columbia-8a6bcb0c",
+	"slug": "columbia-8a6bcb0c",
+	"fetchedAt": "2026-10-26T17:29:13.623+08:00",
+	"payload": {
+		"partner": {
+			"_id": "64a771e55577fb00531085c9",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.015,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Outdoors",
+				"Hiking",
+				"Trail",
+				"Running",
+				"Nature",
+				"Sportswear",
+				"Training",
+				"Outdoor",
+				"Activewear",
+				"Fitness",
+				"Sneaker",
+				"Footwear",
+				"Gym",
+				"Workout",
+				"Yoga",
+				"Jogging",
+				"Swimming",
+				"Mens Apparels",
+				"Childrens Apparels",
+				"Sports Equipment",
+				"Gear",
+				"Sports Jerseys",
+				"Womens Apparels",
+				"Running Shoes"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "GMG Sports SEA Pte Ltd (Columbia)",
+			"brand": "Columbia",
+			"code": "BIA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5621",
+			"shortName": "Columbia",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "16 Raffles Quay, #16-02, Hong Leong Building,",
+				"postalCode": "048581",
+				"streetName": "16 Raffles Quay"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS",
+								"GS",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "199409417M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2671466225290797-columbia_brand.jpg",
+			"websiteUrl": "https://www.instagram.com/columbiasportswear_sg/",
+			"descriptionHtml": "<p>Founded in 1938, Columbia Sportswear Company is a global leader in designing, sourcing, marketing, and distributing outdoor and active lifestyle apparel, footwear, accessories, and equipment.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8568442062229975-996357846253549-APP%20LOGO%20BLUE-01.png",
+			"createdAt": "2023-07-07T02:01:09.610Z",
+			"updatedAt": "2026-08-06T14:17:46.400Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"translations": [
+				"64eef9f8595add2492446491"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"privilege": false,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2671466225290797-columbia_brand.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8568442062229975-996357846253549-APP%20LOGO%20BLUE-01.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2671466225290797-columbia_brand_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2671466225290797-columbia_brand_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2671466225290797-columbia_brand_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8568442062229975-996357846253549-APP%20LOGO%20BLUE-01_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8568442062229975-996357846253549-APP%20LOGO%20BLUE-01_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8568442062229975-996357846253549-APP%20LOGO%20BLUE-01_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Founded in 1938, Columbia Sportswear Company is a global leader in designing, sourcing, marketing, and distributing outdoor and active lifestyle apparel, footwear, accessories, and equipment. Outdoors Hiking Trail Running Nature Sportswear Training Outdoor Activewear Fitness Sneaker Footwear Gym Workout Yoga Jogging Swimming Mens Apparels Childrens Apparels Sports Equipment Gear Sports Jerseys Womens Apparels Running Shoes Retail Fashion Gifts & Souvenirs Home & Lifestyle",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-07-14T06:39:30.656Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "columbia-8a6bcb0c",
+			"outlets": [
+				{
+					"_id": "64a776849789e000553ac706",
+					"name": "Jewel Changi Airport"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jewel Changi Airport"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Columbia",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

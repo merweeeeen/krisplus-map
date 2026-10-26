@@ -1,0 +1,215 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-spot-09db30e3",
+	"slug": "the-spot-09db30e3",
+	"fetchedAt": "2026-10-26T17:25:38.808+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f4f446b2048068ea01e9b4f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "The Spot",
+			"brand": "The Spot",
+			"code": "TSP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "The Spot",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "120 Lower Delta Road, #16-01, Cendex Centre",
+				"postalCode": "169208",
+				"streetName": "Lower Delta Road"
+			},
+			"regNumber": "201711728W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6405977726089174-20%25%20off%20-%20TS%20Group%20shot_11zon.jpg",
+			"websiteUrl": "https://thespot.sg/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-1509f782-47fa-4664-a9e2-ae1b032cca3f.jpg",
+			"createdAt": "2020-09-02T07:06:19.292Z",
+			"updatedAt": "2026-08-06T14:17:11.082Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"participatingOutlets": "Marina One East Tower",
+			"promotional": "Marina One East Tower",
+			"descriptionHtml": "<p>The Spot is a multi-concept venue comprising a restaurant, bar and cigar lounge. The various spaces are functionally interwoven so diners can enjoy each activity on its own or in combination with others, creating a seamless wine-and-dine experience.</p>\n\n<p>&nbsp;</p>",
+			"searchableKeywords": [
+				"Marina Bay",
+				"Bayfront",
+				"Bayfront Avenue",
+				"Downtown",
+				"Marina Way",
+				"European",
+				"Western",
+				"Marina One",
+				"Marina Bay",
+				"Restaurant",
+				"Trending",
+				"Cappucinos",
+				"Latte",
+				"Food",
+				"Foodie",
+				"Desserts",
+				"Wine Bar",
+				"Alcohol",
+				"Salads",
+				"Wine",
+				"Beer",
+				"Kombucha",
+				"Tea",
+				"Coffee",
+				"Fine Dining",
+				"Couples",
+				"First Dates",
+				"Birthday",
+				"Drinks",
+				"Dining",
+				"Cigar Lounge",
+				"Business",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"CD"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d90108b03f047da5b4"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6405977726089174-20%25%20off%20-%20TS%20Group%20shot_11zon.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-1509f782-47fa-4664-a9e2-ae1b032cca3f.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6405977726089174-20%25%20off%20-%20TS%20Group%20shot_11zon_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6405977726089174-20%25%20off%20-%20TS%20Group%20shot_11zon_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6405977726089174-20%25%20off%20-%20TS%20Group%20shot_11zon_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-1509f782-47fa-4664-a9e2-ae1b032cca3f_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-1509f782-47fa-4664-a9e2-ae1b032cca3f_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-1509f782-47fa-4664-a9e2-ae1b032cca3f_high.jpg"
+			},
+			"searchContent": "The Spot is a multi-concept venue comprising a restaurant, bar and cigar lounge. The various spaces are functionally interwoven so diners can enjoy each activity on its own or in combination with others, creating a seamless wine-and-dine experience. Marina Bay Bayfront Bayfront Avenue Downtown Marina Way European Western Marina One Marina Bay Restaurant Trending Cappucinos Latte Food Foodie Desserts Wine Bar Alcohol Salads Wine Beer Kombucha Tea Coffee Fine Dining Couples First Dates Birthday Drinks Dining Cigar Lounge Business Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Casual Dining",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-19T07:51:11.660Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-spot-09db30e3",
+			"outlets": [
+				{
+					"_id": "5f5612abdff5e209a010628a",
+					"name": "Marina One East Tower"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina One East Tower"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Spot",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

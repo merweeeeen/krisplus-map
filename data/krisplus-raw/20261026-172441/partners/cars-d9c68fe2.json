@@ -1,0 +1,298 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cars-d9c68fe2",
+	"slug": "cars-d9c68fe2",
+	"fetchedAt": "2026-10-26T17:24:52.649+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5c984776b9f5673f40974873",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "29 Ubi Crescent, Singapore",
+				"postalCode": "408582",
+				"streetName": "Ubi Crescent"
+			},
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Complete Auto Restoration Services Pte Ltd",
+			"brand": "CARs",
+			"code": "CAR",
+			"countryIncorporation": "Singapore",
+			"categary": "Services",
+			"regNumber": "198802283D",
+			"description": "",
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 15% discount off all services when you flash the KrisPay app at the point of payment.\n\nTerms & Conditions:\n•\tValid from Tuesday to Thursday (excluding Public Holidays).\n\nFind out more at: https://carsbeauty.com.sg/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2532336995287807-CARS%20-%20App%20Banner%20-%20Brand%20Logo.jpg",
+			"createdAt": "2019-03-25T03:13:58.258Z",
+			"updatedAt": "2026-09-01T02:02:14.283Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"category": "SERVICES",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8855477393502262-CARS%20-%20App%20Banner%20-%20Brand%20Image.jpg",
+			"participatingOutlets": "•\tBishan Bus Interchange\n•\tBukit Panjang Plaza\n•\tCity Square Mall\n•\tCompass One\n•\tJurong Point\n•\tMarina Square\n•\tNgee Ann City \n•\tParkway Parade\n•\tRaffles City Shopping Centre\n•\tSuntec City\n•\tTampines Mall           \n•\tWestgate",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://carsbeauty.com.sg/",
+			"categories": [
+				"SERVICES"
+			],
+			"mccCode": "7538",
+			"mccDescription": "Automotive Service Shops (Non-dealer)",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>CARs International offers a full spectrum of services for automotive beautification and restoration of vehicles. The brand is also known for the ability to deliver good value ECO car wash and their signature full car grooming services which includes a 3-layer polishing treatment, tyre shine, cushion conditioning, interior detailing and more. The brand currently has more than 100 outlets in both Singapore and Malaysia and has honourably received numerous awards in both regions.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Bishan Bus Interchange</li> \t<li>Bukit Panjang Plaza</li> \t<li>City Square Mall</li> \t \t<li>Compass One</li> \t<li>JEWEL (B3)</li> \t<li>Jurong Point (B2)</li><li>Lot One Shoppers' Mall</li> \t<li>Marina Square</li> \t<li>Ngee Ann City (B3)</li><li>One Holland Village</li> \t<li>Paragon</li> \t<li>Parkway Parade</li> \t<li>Raffles City</li> \t<li>Suntec City (Orange Zone)</li><li>Suntec City (Red Zone)</li> \t \t<li>Tampines Mall</li><li>Waterway Point</li> \t<li>Westgate</li> </ul>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "CARs",
+			"searchableKeywords": [
+				"Tampines Road",
+				"Promenade",
+				"Raffles Boulevard",
+				"Raffles City",
+				"City Hall",
+				"North Bridge Road",
+				"South Bridge Road",
+				"Orchard Road",
+				"Esplanade",
+				"Boon Lay",
+				"Jurong",
+				"City Square",
+				"Farrer Park",
+				"Bukit Panjang",
+				"Bishan",
+				"Bishan Street 13",
+				"Sengkang Square",
+				"Services",
+				"Bp",
+				"Waxing",
+				"Cleaning",
+				"Vacuuming",
+				"Cars",
+				"Bikes",
+				"Maintenance",
+				"Upholstering",
+				"Automotive",
+				"Beautify",
+				"Restoration",
+				"Wash",
+				"Shine",
+				"Tyre",
+				"Detailing",
+				"Treatment",
+				"Conditioning",
+				"Cushioning",
+				"Long Term Care",
+				"Tampines Mall",
+				"Suntec City",
+				"Polish",
+				"Parkway Parade",
+				"Ngee Ann City",
+				"Marina Square",
+				"Jurong Point",
+				"City Square Mall",
+				"Bukit Panjang Plaza",
+				"Tangs",
+				"Paragon"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f10108b03f047da5c2"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 14
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8855477393502262-CARS%20-%20App%20Banner%20-%20Brand%20Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2532336995287807-CARS%20-%20App%20Banner%20-%20Brand%20Logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8855477393502262-CARS%20-%20App%20Banner%20-%20Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8855477393502262-CARS%20-%20App%20Banner%20-%20Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8855477393502262-CARS%20-%20App%20Banner%20-%20Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2532336995287807-CARS%20-%20App%20Banner%20-%20Brand%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2532336995287807-CARS%20-%20App%20Banner%20-%20Brand%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2532336995287807-CARS%20-%20App%20Banner%20-%20Brand%20Logo_high.jpg"
+			},
+			"searchContent": "CARs International offers a full spectrum of services for automotive beautification and restoration of vehicles. The brand is also known for the ability to deliver good value ECO car wash and their signature full car grooming services which includes a 3-layer polishing treatment, tyre shine, cushion conditioning, interior detailing and more. The brand currently has more than 100 outlets in both Singapore and Malaysia and has honourably received numerous awards in both regions. Participating Outlets: Bishan Bus Interchange Bukit Panjang Plaza City Square Mall Compass One JEWEL (B3) Jurong Point (B2)Lot One Shoppers' Mall Marina Square Ngee Ann City (B3)One Holland Village Paragon Parkway Parade Raffles City Suntec City (Orange Zone)Suntec City (Red Zone) Tampines MallWaterway Point Westgate Tampines Road Promenade Raffles Boulevard Raffles City City Hall North Bridge Road South Bridge Road Orchard Road Esplanade Boon Lay Jurong City Square Farrer Park Bukit Panjang Bishan Bishan Street 13 Sengkang Square Services Bp Waxing Cleaning Vacuuming Cars Bikes Maintenance Upholstering Automotive Beautify Restoration Wash Shine Tyre Detailing Treatment Conditioning Cushioning Long Term Care Tampines Mall Suntec City Polish Parkway Parade Ngee Ann City Marina Square Jurong Point City Square Mall Bukit Panjang Plaza Tangs Paragon Services Automotive",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-04T01:45:25.809Z",
+			"newMerchantEndDate": null,
+			"slugId": "cars-d9c68fe2",
+			"outlets": [
+				{
+					"_id": "5c9c9a83deaa70148cf181b5",
+					"name": "Compass One"
+				},
+				{
+					"_id": "5c9c9b08787f1d14902024ef",
+					"name": "Bishan Street 13"
+				},
+				{
+					"_id": "5c9c9b57872a3a324c9febdf",
+					"name": "Bukit Panjang Plaza"
+				},
+				{
+					"_id": "5ca18bc8441cc4029c043bba",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "5ca18cb12cf4dd1684f3d391",
+					"name": "Jurong Point (B2)"
+				},
+				{
+					"_id": "5ca18e42441cc4029c043bbc",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "5ca18e95e7e91603e8803d41",
+					"name": "Ngee Ann City (B3)"
+				},
+				{
+					"_id": "5ca18f458fdcb40df0f263a1",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "5ca18f7ea1ec7d0fc8e849db",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "5ca18fce2cf4dd1684f3d393",
+					"name": "Suntec City (Orange Zone)"
+				},
+				{
+					"_id": "5ca1902de7e91603e8803d43",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "60af557ae8afc63dcc36d04c",
+					"name": "Suntec City (Red Zone)"
+				},
+				{
+					"_id": "613091d0e8773d6b148f8b57",
+					"name": "Westgate"
+				},
+				{
+					"_id": "61ad8955292b070a203511c0",
+					"name": "Paragon"
+				},
+				{
+					"_id": "634c9df0a946eb3e10a682f0",
+					"name": "Jewel Changi Airport (B3)"
+				},
+				{
+					"_id": "6507fb5cfacaea0056592111",
+					"name": "Lot One Shoppers' Mall"
+				},
+				{
+					"_id": "6806e9494f83750418e4b62b",
+					"name": "Waterway Point"
+				},
+				{
+					"_id": "6a4b0e7da9ba06dc7c4d902a",
+					"name": "One Holland Village"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Compass One",
+			"Bishan Street 13",
+			"Bukit Panjang Plaza",
+			"City Square Mall",
+			"Jurong Point (B2)",
+			"Marina Square",
+			"Ngee Ann City (B3)",
+			"Parkway Parade",
+			"Raffles City Shopping Centre",
+			"Suntec City (Orange Zone)",
+			"Tampines Mall",
+			"Suntec City (Red Zone)",
+			"Westgate",
+			"Paragon",
+			"Jewel Changi Airport (B3)",
+			"Lot One Shoppers' Mall",
+			"Waterway Point",
+			"One Holland Village"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "CARs",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,426 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/polar-puffs-cakes-30180552",
+	"slug": "polar-puffs-cakes-30180552",
+	"fetchedAt": "2026-10-26T17:24:53.785+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5ca711d0427a0f129c44e645",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "71 Woodlands Industrial Park E9 #05-04 Wave 9 , Singapore ",
+				"postalCode": "757048",
+				"streetName": "Woodlands Ind. Park E Wave"
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0.8,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 4,
+				"saleOfMiles": 0.03,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Polar Puffs & Cakes",
+			"brand": "Polar Puffs & Cakes",
+			"code": "PPC",
+			"countryIncorporation": "Singapore",
+			"categary": "Food and Beverage",
+			"regNumber": "199500028N",
+			"description": "",
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 10% off purchase on regular priced products with a min. spend of $10.\n\nTerms and Conditions:\n•\tValid at all Polar retail outlets excluding those within convenience stores, petrol stations and supermarkets.\n•\tPromotion cannot be used in conjunction with other promotions, discounts and vouchers.\n•\tPolar Puffs & Cakes reserves the right to change the terms and conditions without prior notice.\n\nFind out more at:\nhttps://polarpuffs-cakes.com/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3246fa20-d21d-4ba2-b1ae-cf71572c315d.jpg",
+			"createdAt": "2019-04-05T08:29:04.747Z",
+			"updatedAt": "2026-08-06T14:17:06.768Z",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-d1805480-2aa8-4b19-a31e-e800c3d8a311.png",
+			"participatingOutlets": "•\tAll 31 outlets island-wide. For the full list of outlets, visit: https://polarpuffs-cakes.com/store",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://polarpuffs-cakes.com/",
+			"hideFromCustomer": false,
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"countryCode": "SG",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Polar ",
+			"descriptionHtml": "<p>Baking since 1926, Polar Puffs & Cakes is a familiar and well-loved presence in food-appreciating Singapore, committed to the simplicity of baking quality pastries and cakes. Visit any one of their stores located island-wide to grab a satisfying snack!</p>",
+			"searchableKeywords": [
+				"Jurong West Central 2",
+				"Boon Lay",
+				"Jurong Gateway",
+				"Jurong East",
+				"Commonwealth Avenue",
+				"Clementi",
+				"Bukit Batok Central Link",
+				"Choa Chu Kang Avenue 4",
+				"Choa Chu Kang",
+				"Woodlands Square",
+				"Woodlands Avenue 9",
+				"Sembawang Road",
+				"Yishun Avenue 2",
+				"Harbourfront",
+				"Telok Blangah Road",
+				"Tiong Bahru Road",
+				"Outram Road",
+				"Outram Park",
+				"Tanjong Pagar",
+				"Maxwell Road",
+				"Raffles Place",
+				"Bugis",
+				"Victoria Street",
+				"Bukit Timah Road",
+				"Little India",
+				"Sinaran Drive",
+				"Novena",
+				"Jalan Tan Tock Seng",
+				"Serangoon Central",
+				"Serangoon",
+				"Hougang Avenue 10",
+				"Hougang",
+				"Seletar West Avenue",
+				"Layar",
+				"Sengkang Square",
+				"Sengkang East Way",
+				"Punggol Central",
+				"Tampines Central 5",
+				"Pasir Ris Central Street 3",
+				"New Upper Changi",
+				"Bedok",
+				"Dessert",
+				"East",
+				"Curry Puffs",
+				"Cakes",
+				"Swiss Rolls",
+				"Tarts",
+				"Dining",
+				"Amk Hub",
+				"Ang Mo Kio Hub",
+				"Bites",
+				"Snacks",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits",
+				"Mooncake"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR4",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f1b35256c5b2c9bf2d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 14
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-d1805480-2aa8-4b19-a31e-e800c3d8a311.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-3246fa20-d21d-4ba2-b1ae-cf71572c315d.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-d1805480-2aa8-4b19-a31e-e800c3d8a311_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-d1805480-2aa8-4b19-a31e-e800c3d8a311_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-d1805480-2aa8-4b19-a31e-e800c3d8a311_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3246fa20-d21d-4ba2-b1ae-cf71572c315d_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3246fa20-d21d-4ba2-b1ae-cf71572c315d_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-3246fa20-d21d-4ba2-b1ae-cf71572c315d_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-26T02:45:26.647Z",
+			"searchContent": "Baking since 1926, Polar Puffs & Cakes is a familiar and well-loved presence in food-appreciating Singapore, committed to the simplicity of baking quality pastries and cakes. Visit any one of their stores located island-wide to grab a satisfying snack! Jurong West Central 2 Boon Lay Jurong Gateway Jurong East Commonwealth Avenue Clementi Bukit Batok Central Link Choa Chu Kang Avenue 4 Choa Chu Kang Woodlands Square Woodlands Avenue 9 Sembawang Road Yishun Avenue 2 Harbourfront Telok Blangah Road Tiong Bahru Road Outram Road Outram Park Tanjong Pagar Maxwell Road Raffles Place Bugis Victoria Street Bukit Timah Road Little India Sinaran Drive Novena Jalan Tan Tock Seng Serangoon Central Serangoon Hougang Avenue 10 Hougang Seletar West Avenue Layar Sengkang Square Sengkang East Way Punggol Central Tampines Central 5 Pasir Ris Central Street 3 New Upper Changi Bedok Dessert East Curry Puffs Cakes Swiss Rolls Tarts Dining Amk Hub Ang Mo Kio Hub Bites Snacks Koi Dunkin Donuts Boost The Muffinry Delifrance Twelve Cupcakes Four Leaves Prima Deli Starbucks Old Chang Kee Finger Food Nibbles Light Bites Fast Food Refreshments Tidbits Mooncake Dining Halal Quick Bites & Snacks",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "polar-puffs-cakes-30180552",
+			"outlets": [
+				{
+					"_id": "5cc287a6a7104c0e1833cfdf",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "5cc2baa1e9af282b207b9a46",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "5cc2bbe92362870d8c764216",
+					"name": "The Clementi Mall"
+				},
+				{
+					"_id": "5cc2bc150b651727703eb28e",
+					"name": "Compass One"
+				},
+				{
+					"_id": "5cc2bcab058bcd20bcc7daa3",
+					"name": "Hougang Mall"
+				},
+				{
+					"_id": "5cc2bd2de9af282b207b9a4b",
+					"name": "JEM"
+				},
+				{
+					"_id": "5cc2bd6733bf7634087239f8",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "5cc2c2432362870d8c76421d",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "5cc2c29281eb771220e19323",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "5cc2c31ba7104c0e1833d02d",
+					"name": "KK Hospital"
+				},
+				{
+					"_id": "5cc2c3d7058bcd20bcc7daaa",
+					"name": "Lot One Shoppers' Mall"
+				},
+				{
+					"_id": "5cc2c4133c79da226cc3c7bd",
+					"name": "Mount Alvernia Medical"
+				},
+				{
+					"_id": "5cc2c44654b33a1e30d9be17",
+					"name": "NEX"
+				},
+				{
+					"_id": "5cc2c4869e3283300c5d503f",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "5cc2c57d3c79da226cc3c7c3",
+					"name": "One Raffles Place"
+				},
+				{
+					"_id": "5cc2c5a854b33a1e30d9be1b",
+					"name": "The Seletar Mall"
+				},
+				{
+					"_id": "5cc2c69ca7104c0e1833d032",
+					"name": "Square 2@Novena"
+				},
+				{
+					"_id": "5cc2c6e9e9af282b207b9a5d",
+					"name": "Sembawang Shopping Centre"
+				},
+				{
+					"_id": "5cc2c71833bf763408723a08",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "5cc2c761b0c1cf13183c9ced",
+					"name": "Tiong Bahru Plaza"
+				},
+				{
+					"_id": "5cc2c7cc54b33a1e30d9be1e",
+					"name": "Tan Tock Seng"
+				},
+				{
+					"_id": "5cc2c7f3b0c1cf13183c9cf1",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "5cc2c840cacead2e14c216f6",
+					"name": "West Mall"
+				},
+				{
+					"_id": "5cc2c86cc6eff4373cc224dd",
+					"name": "White Sands"
+				},
+				{
+					"_id": "5cc2c8a2b30e5d2e94d24ff5",
+					"name": "Waterway Point"
+				},
+				{
+					"_id": "5cc2cddf54b33a1e30d9be25",
+					"name": "Sengkang General Hospital"
+				},
+				{
+					"_id": "5cf8cd43337fa524e877b379",
+					"name": "Singapore General Hospital"
+				},
+				{
+					"_id": "634f859af2688d4a34fdbcb2",
+					"name": "Oasis Terraces"
+				},
+				{
+					"_id": "64d43fe02ef5ed004ff8e25c",
+					"name": "National University Hospital"
+				},
+				{
+					"_id": "6604e28c2138dc006a28cbfa",
+					"name": "Bukit Gombak"
+				},
+				{
+					"_id": "66b42ee213a7ba006bad8a0c",
+					"name": "Chinatown Point"
+				},
+				{
+					"_id": "66e3afc1d23cc7006b4c17da",
+					"name": "Woodlands Health Campus"
+				},
+				{
+					"_id": "6867bbc3f3e488040912127c",
+					"name": "Woodleigh Mall"
+				},
+				{
+					"_id": "68b14ac1a1c5df04663ac4e0",
+					"name": "Pioneer MRT"
+				},
+				{
+					"_id": "68cbddc1e6094d046cba7f90",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "6915ac43248873c07eb904e2",
+					"name": "Lavender MRT"
+				},
+				{
+					"_id": "69f9695aac3c43a9e6babd3f",
+					"name": "Star Vista"
+				},
+				{
+					"_id": "6a54a7a266e3ff2de076fca4",
+					"name": "IMM"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"AMK Hub",
+			"Bedok Mall",
+			"The Clementi Mall",
+			"Compass One",
+			"Hougang Mall",
+			"JEM",
+			"Junction 8",
+			"Jurong Point",
+			"Causeway Point",
+			"KK Hospital",
+			"Lot One Shoppers' Mall",
+			"Mount Alvernia Medical",
+			"NEX",
+			"Northpoint City",
+			"One Raffles Place",
+			"The Seletar Mall",
+			"Square 2@Novena",
+			"Sembawang Shopping Centre",
+			"Tampines Mall",
+			"Tiong Bahru Plaza",
+			"Tan Tock Seng",
+			"VivoCity",
+			"West Mall",
+			"White Sands",
+			"Waterway Point",
+			"Sengkang General Hospital",
+			"Singapore General Hospital",
+			"Oasis Terraces",
+			"National University Hospital",
+			"Bukit Gombak",
+			"Chinatown Point",
+			"Woodlands Health Campus",
+			"Woodleigh Mall",
+			"Pioneer MRT",
+			"PLQ Mall",
+			"Lavender MRT",
+			"Star Vista",
+			"IMM"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Polar Puffs & Cakes",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

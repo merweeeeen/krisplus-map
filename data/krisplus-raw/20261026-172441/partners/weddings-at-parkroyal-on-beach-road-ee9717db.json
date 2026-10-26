@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/weddings-at-parkroyal-on-beach-road-ee9717db",
+	"slug": "weddings-at-parkroyal-on-beach-road-ee9717db",
+	"fetchedAt": "2026-10-26T17:34:09.243+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69d4feed3296f19229bea2c4",
+			"name": "PAN PACIFIC HOTELS GROUP LIMITED (trading as PARKROYAL on Beach Road)",
+			"shortName": "Weddings PR BR",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Weddings at PARKROYAL on Beach Road",
+			"code": "WPB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/32261018190951973-7840660800445862-PRSIN%20Logo%20260x260.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/25555529671721233-5230644827372235-Brand%20Image%20750x540.jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pr-beach-road/celebrate.html",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "101 Thomson Road, #33-00",
+				"postalCode": "307591",
+				"streetName": "United Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>At PARKROYAL on Beach Road, weddings are thoughtfully curated to reflect each couple’s story. Known for its pillarless ballrooms, immersive LED walls and personalised service, the hotel blends modern elegance with heartfelt hospitality to create celebrations that are Simply Yours.</p><p> Note: Valid exclusively for new wedding sign-ups under the Simply Yours Wedding Package only. Total payment(s) via Kris+ is limited to S$20,000 nett per package and is strictly limited to F&B spend. Terms and conditions apply.</p>",
+			"searchableKeywords": [
+				"wedding venue Singapore",
+				"hotel wedding Singapore",
+				"ballroom wedding Singapore",
+				"luxury wedding venue",
+				"wedding banquet Singapore",
+				"solemnisation venue Singapore",
+				"indoor wedding venue",
+				"ROM venue Singapore",
+				"wedding reception venue",
+				"hotel ballroom wedding",
+				"pillarless ballroom Singapore",
+				"LED wall wedding",
+				"wedding package Singapore",
+				"Chinese wedding banquet",
+				"Malay wedding venue",
+				"intimate wedding Singapore",
+				"wedding hotel Bugis"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HOT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-10T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-04-07T12:56:13.520Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/32261018190951973-7840660800445862-PRSIN%20Logo%20260x260.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/25555529671721233-5230644827372235-Brand%20Image%20750x540.jpg",
+			"createdAt": "2026-04-07T12:56:13.530Z",
+			"updatedAt": "2026-08-06T14:18:30.583Z",
+			"searchContent": "At PARKROYAL on Beach Road, weddings are thoughtfully curated to reflect each couple’s story. Known for its pillarless ballrooms, immersive LED walls and personalised service, the hotel blends modern elegance with heartfelt hospitality to create celebrations that are Simply Yours. Note: Valid exclusively for new wedding sign-ups under the Simply Yours Wedding Package only. Total payment(s) via Kris+ is limited to S$20,000 nett per package and is strictly limited to F&B spend. Terms and conditions apply. wedding venue Singapore hotel wedding Singapore ballroom wedding Singapore luxury wedding venue wedding banquet Singapore solemnisation venue Singapore indoor wedding venue ROM venue Singapore wedding reception venue hotel ballroom wedding pillarless ballroom Singapore LED wall wedding wedding package Singapore Chinese wedding banquet Malay wedding venue intimate wedding Singapore wedding hotel Bugis Services Hotels",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/25555529671721233-5230644827372235-Brand%20Image%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/25555529671721233-5230644827372235-Brand%20Image%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/25555529671721233-5230644827372235-Brand%20Image%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/32261018190951973-7840660800445862-PRSIN%20Logo%20260x260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/32261018190951973-7840660800445862-PRSIN%20Logo%20260x260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/32261018190951973-7840660800445862-PRSIN%20Logo%20260x260_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "weddings-at-parkroyal-on-beach-road-ee9717db",
+			"outlets": [
+				{
+					"_id": "69d50163860800a3a56b9f26",
+					"name": "PARKROYAL on Beach Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL on Beach Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Weddings at PARKROYAL on Beach Road",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

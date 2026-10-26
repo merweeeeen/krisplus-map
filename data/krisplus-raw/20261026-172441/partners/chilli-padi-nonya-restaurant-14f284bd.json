@@ -1,0 +1,167 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/chilli-padi-nonya-restaurant-14f284bd",
+	"slug": "chilli-padi-nonya-restaurant-14f284bd",
+	"fetchedAt": "2026-10-26T17:34:20.952+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69f458fc8585df4774e07c0b",
+			"name": "Chilli Padi Nonya Restaurant Pte Ltd",
+			"shortName": "Chilli Padi NR",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Chilli Padi Nonya Restaurant",
+			"code": "CPN",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/41745191245640645-9030831789546081-20260130_CPNR_Kris_Logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/890222204879779-20404769328374828-20260130_CPNR_Kris_Brand%20Image.jpg",
+			"websiteUrl": "https://chillipadi.com.sg/restaurants/chilli-padi-nonya-restaurant",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "11 Joo Chiat Place  #01-03",
+				"postalCode": "427744",
+				"streetName": "11 Joo Chiat Place  #01-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Chilli%20Padi%20Nonya%20Restaurant\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Chilli Padi Nonya Restaurant is a well-established Singapore dining institution known for authentic Peranakan cuisine. Founded in 1997, it has grown with time-honored Nonya recipes, bold flavours and warm hospitality, offering diners a genuine taste of heritage in a welcoming setting.</span></p>",
+			"searchableKeywords": [
+				"Chilli Padi Nonya Restaurant",
+				"Nonya Food",
+				"Peranakan Food",
+				"Joo Chiat",
+				"Ayam Buah Keluak",
+				"Babi Pongteh"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.02,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-01T07:40:44.053Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/41745191245640645-9030831789546081-20260130_CPNR_Kris_Logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/890222204879779-20404769328374828-20260130_CPNR_Kris_Brand%20Image.jpg",
+			"createdAt": "2026-05-01T07:40:44.058Z",
+			"updatedAt": "2026-08-06T14:18:31.315Z",
+			"searchContent": "*Click here to Reserve A Table. Chilli Padi Nonya Restaurant is a well-established Singapore dining institution known for authentic Peranakan cuisine. Founded in 1997, it has grown with time-honored Nonya recipes, bold flavours and warm hospitality, offering diners a genuine taste of heritage in a welcoming setting. Chilli Padi Nonya Restaurant Nonya Food Peranakan Food Joo Chiat Ayam Buah Keluak Babi Pongteh Dining Casual Dining",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/890222204879779-20404769328374828-20260130_CPNR_Kris_Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/890222204879779-20404769328374828-20260130_CPNR_Kris_Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/890222204879779-20404769328374828-20260130_CPNR_Kris_Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/41745191245640645-9030831789546081-20260130_CPNR_Kris_Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/41745191245640645-9030831789546081-20260130_CPNR_Kris_Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/41745191245640645-9030831789546081-20260130_CPNR_Kris_Logo_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "chilli-padi-nonya-restaurant-14f284bd",
+			"outlets": [
+				{
+					"_id": "69f45af6ae7574a9f9233219",
+					"name": "Joo Chiat"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Joo Chiat"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Chilli Padi Nonya Restaurant",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

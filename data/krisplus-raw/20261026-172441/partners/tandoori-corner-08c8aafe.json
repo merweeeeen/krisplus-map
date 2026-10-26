@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tandoori-corner-08c8aafe",
+	"slug": "tandoori-corner-08c8aafe",
+	"fetchedAt": "2026-10-26T17:32:12.854+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68994a525c8a6104665e70ab",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Vegetarian",
+				"Indian",
+				"Casual",
+				"North Indian",
+				"Biryani"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "SSA FOODS PTE LTD",
+			"brand": "Tandoori Corner",
+			"code": "TDC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Tandoori Corne",
+			"address": {
+				"line1": "400 BALESTIER ROAD #01-12 BALESTIER PLAZA",
+				"postalCode": "329802",
+				"streetName": "400 BALESTIER ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"IND"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.tandooricorner.com.sg/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Established in 2008, Tandoori Corner has earned a stellar reputation for its commitment to serving mouth-watering North Indian cuisine to discerning food enthusiasts. It's a casual and comfortable outdoor destination for foodies who appreciate great flavours in a charming setting.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7318259279234778-Tandoori%20Corner.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8401337674868041-750x540%20(7).png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7318259279234778-Tandoori%20Corner.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8401337674868041-750x540%20(7).png",
+			"createdAt": "2025-08-11T01:41:38.832Z",
+			"updatedAt": "2026-08-06T14:18:18.689Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7318259279234778-Tandoori%20Corner_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7318259279234778-Tandoori%20Corner_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7318259279234778-Tandoori%20Corner_high.png"
+			},
+			"searchContent": "Established in 2008, Tandoori Corner has earned a stellar reputation for its commitment to serving mouth-watering North Indian cuisine to discerning food enthusiasts. It's a casual and comfortable outdoor destination for foodies who appreciate great flavours in a charming setting. Vegetarian Indian Casual North Indian Biryani Dining Vegetarian-Friendly Casual Dining Kid-Friendly Beverages & Desserts Indian",
+			"refundPeriodUpdatedAt": "2025-12-29T09:21:11.200Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8401337674868041-750x540%20(7)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8401337674868041-750x540%20(7)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8401337674868041-750x540%20(7)_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "tandoori-corner-08c8aafe",
+			"outlets": [
+				{
+					"_id": "689bf23b56c708047492aca4",
+					"name": "Balestier Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Balestier Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tandoori Corner",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,223 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ginlee-665a32b5",
+	"slug": "ginlee-665a32b5",
+	"fetchedAt": "2026-10-26T17:29:23.663+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65372d811d84680059da44d4",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Fashion",
+				"Women",
+				"Dresses",
+				"Gifts",
+				"Cityhall",
+				"Apparel",
+				"Womenswear",
+				"Tourist",
+				"Bags",
+				"Accessories",
+				"Raffles City",
+				"Great World City",
+				"Newclothes",
+				"Zara",
+				"Uniqlo",
+				"Charles",
+				"Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Belts",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath",
+				"Body Works",
+				"Yankee Candle",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"653959042570c0da5e8e3902"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "GINLEE STUDIO PTE LTD",
+			"brand": "GINLEE",
+			"code": "GI1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5621",
+			"shortName": "GINLEE",
+			"address": {
+				"city": "Singapore",
+				"line1": "111 Middle Road #03-05, National Design Centre, Singapore 188969",
+				"streetName": "111 Middle Road",
+				"postalCode": "188969",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS",
+								"AJW",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "201809480Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8149054935153124-16580865386809363-app%20brand%20image%20750x540.jpg",
+			"websiteUrl": "https://www.ginleestudio.com/",
+			"descriptionHtml": "<p>GINLEE Studio was founded in 2011 by designers Gin Lee & Tamir Niv.</p>  <p>Coming together as designers from two different disciplines, design stays at the core of what they do. In a world where garments are churned out rapidly, their laborious process is deemed as luxury in today’s pace of fast fashion.</p>  <p>Equipped with Fashion and Industrial design backgrounds, their passion extends towards 3D elements that not only flatter the female form but make wearable pieces of art that are mainstays in one’s wardrobe. Striving to achieve the perfect marriage between aesthetically pleasing and functional design, GINLEE Studio is all about Making Fashion That Matters.</p>  <p>Participating outlets:</p>  <ul> \t<li>Raffles City</li> \t<li>​​​​​​​Great World City</li> \t<li>New Bahru</li><li><span style=\"font-size: 15px; font-family: Helvetica, sans-serif; color: black;\">Takashimaya Shopping Centre </span></li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2469004131122836-3134051250979948-app%20logo%201000x1000.jpg",
+			"createdAt": "2023-10-24T02:35:45.203Z",
+			"updatedAt": "2026-08-06T14:17:50.088Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8149054935153124-16580865386809363-app%20brand%20image%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2469004131122836-3134051250979948-app%20logo%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8149054935153124-16580865386809363-app%20brand%20image%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8149054935153124-16580865386809363-app%20brand%20image%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8149054935153124-16580865386809363-app%20brand%20image%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2469004131122836-3134051250979948-app%20logo%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2469004131122836-3134051250979948-app%20logo%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2469004131122836-3134051250979948-app%20logo%201000x1000_high.jpg"
+			},
+			"searchContent": "GINLEE Studio was founded in 2011 by designers Gin Lee & Tamir Niv. Coming together as designers from two different disciplines, design stays at the core of what they do. In a world where garments are churned out rapidly, their laborious process is deemed as luxury in today’s pace of fast fashion. Equipped with Fashion and Industrial design backgrounds, their passion extends towards 3D elements that not only flatter the female form but make wearable pieces of art that are mainstays in one’s wardrobe. Striving to achieve the perfect marriage between aesthetically pleasing and functional design, GINLEE Studio is all about Making Fashion That Matters. Participating outlets: Raffles City ​​​​​​​Great World City New BahruTakashimaya Shopping Centre Fashion Women Dresses Gifts Cityhall Apparel Womenswear Tourist Bags Accessories Raffles City Great World City Newclothes Zara Uniqlo Charles Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shorts Leggings Suits Hats Caps Garments Scarves Jewellery Belts Gift Souvenirs Lush The Body Shop Kiehl’S Bath Body Works Yankee Candle Birthdays Holidays Anniversary Special Occasions Retail Fashion Accessories, Jewellery & Watches Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:52:14.828Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ginlee-665a32b5",
+			"outlets": [
+				{
+					"_id": "653730382943f200598d198a",
+					"name": "Great World"
+				},
+				{
+					"_id": "653730ac30faf40053763d0c",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "6698fdf376d35700693a78b5",
+					"name": "New Bahru"
+				},
+				{
+					"_id": "682d37150186562b8c91d139",
+					"name": "Takashimaya Shopping Centre "
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Great World",
+			"Raffles City Shopping Centre",
+			"New Bahru",
+			"Takashimaya Shopping Centre "
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "GINLEE",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,199 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/st-gregory-parkroyal-collection-marina-bay-b6056a95",
+	"slug": "st-gregory-parkroyal-collection-marina-bay-b6056a95",
+	"fetchedAt": "2026-10-26T17:27:24.091+08:00",
+	"payload": {
+		"partner": {
+			"_id": "623934e07b3e5b56dcd6a4f4",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"spa",
+				"massage",
+				"wellness",
+				"parkroyal marina bay",
+				"spa",
+				"beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"facial",
+				"cleanser",
+				"massage",
+				"guasha",
+				"foot massage",
+				"body massage",
+				"treatment",
+				"Beauty",
+				"Sephora",
+				"MAC Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"radiance",
+				"cosmetics",
+				"skincare products",
+				"personal care",
+				"beauty aids",
+				"beauty essentials",
+				"make up",
+				"grooming products",
+				"serum",
+				"cleansers",
+				"mosturisers",
+				"lip stick",
+				"lotion",
+				"perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "AQUAMARINA HOTEL PRIVATE LIMITED (St Gregory Spa)",
+			"brand": "St Gregory (PARKROYAL COLLECTION Marina Bay)",
+			"code": "STG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "StGregoryPRCMB",
+			"address": {
+				"city": "Singapore",
+				"line1": "6 Raffles Boulevard, Marina Square, Singapore",
+				"streetName": "Raffles Boulevard ",
+				"postalCode": "039594",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198105200M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5741930961451838-1916664503873493-st-gregory%20750x540.png",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pr-collection-marina-bay/facilities/st-gregory.html",
+			"descriptionHtml": "<p>Retreat into the tranquil environment of the award-winning St.Gregory spa for the ultimate relaxation. Choose from a range of traditional therapies, rejuvenating facials, and relaxing massages that will leave you feeling refreshed.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5135013099572945-17167299064300678-7477016867448063-Brand%20Logo%20(1000%20x%201000px).jpg",
+			"createdAt": "2022-03-22T02:30:56.137Z",
+			"updatedAt": "2026-08-06T14:17:28.671Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "PARKROYAL Collection Marina Bay",
+			"partnershipGroup": "GR1",
+			"promotional": "     ",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9899d00b0a527865c18"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5741930961451838-1916664503873493-st-gregory%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5135013099572945-17167299064300678-7477016867448063-Brand%20Logo%20(1000%20x%201000px).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5741930961451838-1916664503873493-st-gregory%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5741930961451838-1916664503873493-st-gregory%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5741930961451838-1916664503873493-st-gregory%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5135013099572945-17167299064300678-7477016867448063-Brand%20Logo%20(1000%20x%201000px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5135013099572945-17167299064300678-7477016867448063-Brand%20Logo%20(1000%20x%201000px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5135013099572945-17167299064300678-7477016867448063-Brand%20Logo%20(1000%20x%201000px)_high.jpg"
+			},
+			"searchContent": "Retreat into the tranquil environment of the award-winning St.Gregory spa for the ultimate relaxation. Choose from a range of traditional therapies, rejuvenating facials, and relaxing massages that will leave you feeling refreshed. spa massage wellness parkroyal marina bay spa beauty Dermalogica Elemis Spa Natureland Clarins Aesop facial cleanser massage guasha foot massage body massage treatment Beauty Sephora MAC Cosmetics Innisfree Laneige Clinique radiance cosmetics skincare products personal care beauty aids beauty essentials make up grooming products serum cleansers mosturisers lip stick lotion perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:26:12.633Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "st-gregory-parkroyal-collection-marina-bay-b6056a95",
+			"outlets": [
+				{
+					"_id": "6274bfa93c59c949981cd8dc",
+					"name": "PARKROYAL Marina Bay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL Marina Bay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "St Gregory (PARKROYAL COLLECTION Marina Bay)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

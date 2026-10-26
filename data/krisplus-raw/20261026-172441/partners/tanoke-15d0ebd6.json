@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tanoke-15d0ebd6",
+	"slug": "tanoke-15d0ebd6",
+	"fetchedAt": "2026-10-26T17:28:39.569+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63d254f2b6c7691a909262b6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Japanese",
+				"Bar",
+				"Lunch",
+				"Brunch",
+				"Dinner",
+				"Birthday",
+				"Anniversary",
+				"Business",
+				"Izakaya",
+				"Telok Ayer",
+				"Tanjong Pagar",
+				"Raffles",
+				"Cbd",
+				"Wagyu",
+				"Don",
+				"Gyudon",
+				"Maki",
+				"Sake",
+				"Cocktail",
+				"Beer",
+				"Dining",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Seven Grains Pte Ltd (TANOKE)",
+			"brand": "TANOKE",
+			"code": "TNK",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "TANOKE",
+			"address": {
+				"line1": "200A Telok Ayer Street, Singapore 068638",
+				"postalCode": "068638",
+				"streetName": "200A Telok Ayer Street",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201701209M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/43313045064408984-750%20x%20540.png",
+			"websiteUrl": "https://www.tanoke.sg/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=TANOKE\"><u>Reserve A Table</u>.</a></em><br>\n<br>\n​​​​​​​TANOKE is born from the love of complementing great food with fine sake. They believe that a good pairing truly elevates the dining experience and inspires moments of enjoyment and pleasure. Immerse yourself in the congenial atmosphere of TANOKE in discovering the gastronomic pleasures of food and sake pairing. </p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"promotional": "          ",
+			"participatingOutlets": "7 Purvis Street, Level 2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9756215486238089-8924106065662856-Tanoke%20Logo%20App.png",
+			"createdAt": "2023-01-26T10:24:50.262Z",
+			"updatedAt": "2026-08-06T14:17:40.493Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95a034603c338929981"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/43313045064408984-750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9756215486238089-8924106065662856-Tanoke%20Logo%20App.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/43313045064408984-750%20x%20540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/43313045064408984-750%20x%20540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/43313045064408984-750%20x%20540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9756215486238089-8924106065662856-Tanoke%20Logo%20App_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9756215486238089-8924106065662856-Tanoke%20Logo%20App_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9756215486238089-8924106065662856-Tanoke%20Logo%20App_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​TANOKE is born from the love of complementing great food with fine sake. They believe that a good pairing truly elevates the dining experience and inspires moments of enjoyment and pleasure. Immerse yourself in the congenial atmosphere of TANOKE in discovering the gastronomic pleasures of food and sake pairing. Japanese Bar Lunch Brunch Dinner Birthday Anniversary Business Izakaya Telok Ayer Tanjong Pagar Raffles Cbd Wagyu Don Gyudon Maki Sake Cocktail Beer Dining Corporate Dining Working Lunch Networking Dining Japanese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T09:52:35.797Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tanoke-15d0ebd6",
+			"outlets": [
+				{
+					"_id": "63d256aad5f4f417143eb2a7",
+					"name": "7 Purvis St"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"7 Purvis St"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TANOKE",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,194 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/one-ninety-restaurant-four-seasons-hotel-singapore-afd43297",
+	"slug": "one-ninety-restaurant-four-seasons-hotel-singapore-afd43297",
+	"fetchedAt": "2026-10-26T17:27:12.026+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6209c16f0b65183e84eba651",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Four Seasons",
+				"Orchard",
+				"Hotel",
+				"Seafood",
+				"Steak",
+				"Dining",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "One-Ninety Restaurant",
+			"brand": "One-Ninety Restaurant - Four Seasons Hotel Singapore",
+			"code": "ONR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "OneNinetyRest",
+			"address": {
+				"line1": "Orchard Boulevard ",
+				"postalCode": "248646",
+				"streetName": "190 Orchard Boulevard",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "47940800M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/19498625794275704-One%20Ninety_App%20privilege%20image%20750x540.jpg",
+			"websiteUrl": "https://www.fourseasons.com/singapore/dining/restaurants/one_ninety/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=One-Ninety%20Restaurant\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Relish the exciting interplay of wholesome Provencal cuisine with an Asian twist enlivened by fresh, natural flavours. Watch their chefs showcase their culinary magic with ocean-fresh seafood and prime cuts of meat over Applewood-fired grills in this lush botanical-inspired modern Asian Brasserie.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Ocean-fresh seafood at an Asian Brasserie",
+			"participatingOutlets": "Four Seasons Hotel Singapore",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8807263085663681-One-Ninety%20-%20App%20brand%20logo.jpg",
+			"createdAt": "2022-02-14T02:41:51.564Z",
+			"updatedAt": "2026-08-06T14:17:26.273Z",
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef98e08272955cb5b8b91"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/19498625794275704-One%20Ninety_App%20privilege%20image%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8807263085663681-One-Ninety%20-%20App%20brand%20logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/19498625794275704-One%20Ninety_App%20privilege%20image%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/19498625794275704-One%20Ninety_App%20privilege%20image%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/19498625794275704-One%20Ninety_App%20privilege%20image%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8807263085663681-One-Ninety%20-%20App%20brand%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8807263085663681-One-Ninety%20-%20App%20brand%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8807263085663681-One-Ninety%20-%20App%20brand%20logo_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Relish the exciting interplay of wholesome Provencal cuisine with an Asian twist enlivened by fresh, natural flavours. Watch their chefs showcase their culinary magic with ocean-fresh seafood and prime cuts of meat over Applewood-fired grills in this lush botanical-inspired modern Asian Brasserie. Four Seasons Orchard Hotel Seafood Steak Dining Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Dining Casual Dining Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:46:37.935Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "one-ninety-restaurant-four-seasons-hotel-singapore-afd43297",
+			"outlets": [
+				{
+					"_id": "620e13911445f42f8c2bb699",
+					"name": "Four Seasons Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Four Seasons Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "One-Ninety Restaurant - Four Seasons Hotel Singapore",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

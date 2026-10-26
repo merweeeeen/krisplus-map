@@ -1,0 +1,228 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/audio-house-55c7f4da",
+	"slug": "audio-house-55c7f4da",
+	"fetchedAt": "2026-10-26T17:27:34.080+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62870daada610d19206d50ff",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Consumer Electronics",
+				"Tv",
+				"Washer",
+				"Fridge",
+				"Dryer",
+				"Dishwasher",
+				"Audio",
+				"Hifi",
+				"Aircon",
+				"Rice Cooker",
+				"Air Fryer",
+				"Small Appliances",
+				"Kitchen Appliances",
+				"Oled",
+				"Qled",
+				"Samsung",
+				"Lg",
+				"Panasonic",
+				"Hitachi",
+				"Philips",
+				"Dyson",
+				"King Koil",
+				"Interior Design",
+				"Home Entertainment",
+				"It",
+				"Laptop",
+				"Liquor",
+				"Home And Furnishing",
+				"Ubi",
+				"Freezer",
+				"Washer",
+				"Dryer",
+				"Home Owner",
+				"Retail",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electrical Components",
+				"Electronical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Hairdryer",
+				"Airconditioner",
+				"Washing Machine",
+				"Kettle",
+				"Hair Straightener",
+				"Lifestyle Appliances",
+				"Fans",
+				"Audio House",
+				"The Expert Sound",
+				"Technology",
+				"Tech Gadgets",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Audio House Marketing Pte Ltd",
+			"brand": "Audio House",
+			"code": "AUH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "Audio House",
+			"address": {
+				"city": "Singapore",
+				"line1": "23 Ubi Road 4, Audio House Building, #07-07, Singapore 408620",
+				"streetName": "23 Ubi Road 4",
+				"postalCode": "408620",
+				"cityCode": "SIN"
+			},
+			"regNumber": "199801285N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/44441574599837685-6299939705469038-Brand%20Image%20App.jpg",
+			"websiteUrl": "https://audiohouse.com.sg",
+			"descriptionHtml": "<p>Audio House has been the low-price champion in the home electronics industry for over 30 years in Singapore, selling over 3,000 home appliances such as TVs, washers, refridgerators, air-conditioners, small appliances and more. You can also enjoy a one-stop shopping experience for your home, including bedding, furnitures, and even interior design services!</p>",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/14310200210866886-5105143178348615-Brand%20Logo%20App.jpg",
+			"createdAt": "2022-05-20T03:40:26.383Z",
+			"updatedAt": "2026-08-06T14:17:30.543Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 300000,
+				"minTokens": 60000,
+				"cardMerchantFees": {
+					"refundable": 0.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Audio House Showroom",
+			"promotional": "              ",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9813d10e34df66b4715"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/44441574599837685-6299939705469038-Brand%20Image%20App.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14310200210866886-5105143178348615-Brand%20Logo%20App.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/44441574599837685-6299939705469038-Brand%20Image%20App_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/44441574599837685-6299939705469038-Brand%20Image%20App_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/44441574599837685-6299939705469038-Brand%20Image%20App_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14310200210866886-5105143178348615-Brand%20Logo%20App_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14310200210866886-5105143178348615-Brand%20Logo%20App_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14310200210866886-5105143178348615-Brand%20Logo%20App_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-11-17T07:13:17.464Z",
+			"refundPeriodInDays": 180,
+			"searchContent": "Audio House has been the low-price champion in the home electronics industry for over 30 years in Singapore, selling over 3,000 home appliances such as TVs, washers, refridgerators, air-conditioners, small appliances and more. You can also enjoy a one-stop shopping experience for your home, including bedding, furnitures, and even interior design services! Consumer Electronics Tv Washer Fridge Dryer Dishwasher Audio Hifi Aircon Rice Cooker Air Fryer Small Appliances Kitchen Appliances Oled Qled Samsung Lg Panasonic Hitachi Philips Dyson King Koil Interior Design Home Entertainment It Laptop Liquor Home And Furnishing Ubi Freezer Washer Dryer Home Owner Retail Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electrical Components Electronical Components Audio Television Headphones Cables Plug Travel Accessories Hairdryer Airconditioner Washing Machine Kettle Hair Straightener Lifestyle Appliances Fans Audio House The Expert Sound Technology Tech Gadgets Ruhens Grohe Hansgrohe Mayer Simmons Sealy Homefurnishing Retail Electrical & Electronics Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "audio-house-55c7f4da",
+			"outlets": [
+				{
+					"_id": "629d70150ca03b1eb470348c",
+					"name": "Audio House Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Audio House Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Audio House",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

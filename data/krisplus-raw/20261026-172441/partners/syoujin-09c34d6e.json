@@ -1,0 +1,284 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/syoujin-09c34d6e",
+	"slug": "syoujin-09c34d6e",
+	"fetchedAt": "2026-10-26T17:27:27.970+08:00",
+	"payload": {
+		"partner": {
+			"_id": "624e3bb5aa654017c8e88a2e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Syoujin",
+				"Spa",
+				"Wellness",
+				"Traditional Chinese Medicine",
+				"Japanese",
+				"Massage",
+				"Herbal Bath",
+				"Detox",
+				"Cupping",
+				"Deep Hydrating Facial",
+				"Chinatown Point",
+				"Funan Mall",
+				"Jurong Point",
+				"Northpoint",
+				"Parkway Parade",
+				"Plaza Singapura",
+				"Singpost Centre",
+				"Suntec City",
+				"Tampines One",
+				"The Clementi Mall",
+				"Westgate",
+				"White Sands",
+				"Cityhall",
+				"Raffles City",
+				"Spa",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "SYOUJIN",
+			"brand": "SYOUJIN",
+			"code": "SYO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "SYOUJIN",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "3 Ang Mo Kio Street 62, Link AMK #08-02/03",
+				"postalCode": "569139",
+				"streetName": "Ang Mo Kio Street 62"
+			},
+			"regNumber": "201930521Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/14627896697983744-05275436921477383-Kris%2B_Syoujin_BrandImage_750x540.png",
+			"websiteUrl": "https://syoujin.sg/",
+			"descriptionHtml": "<p>Syoujin offers both Japanese service excellence and the wisdom of Traditional Chinese Medicine (TCM). Their skilled therapists will relax, revive, and rejuvenate your body, soul, and mind.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Chinatown Point</li>\n\t<li>Funan Mall</li>\n\t<li>Jurong Point</li>\n\t<li>Northpoint City</li>\n\t<li>Parkway Parade</li>\n\t<li>Plaza Singapura</li>\n\t<li>Raffles City</li>\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Sengkang Grand Mall</span></span></li>\n\t<li>SingPost Centre</li>\n\t<li>Suntec City</li>\n\t<li>Tampines One</li>\n\t<li>The Clementi Mall</li>\n\t<li>Westgate</li>\n\t<li>White Sands</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"participatingOutlets": "      ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7522190897631817-7222361945445239-Kris%2B_Syoujin_Logo_1000x1000.png",
+			"createdAt": "2022-04-07T01:17:41.196Z",
+			"updatedAt": "2026-08-06T14:17:29.307Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "         ",
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef986a65eaf5ea768287b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 14
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14627896697983744-05275436921477383-Kris%2B_Syoujin_BrandImage_750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7522190897631817-7222361945445239-Kris%2B_Syoujin_Logo_1000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14627896697983744-05275436921477383-Kris%2B_Syoujin_BrandImage_750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14627896697983744-05275436921477383-Kris%2B_Syoujin_BrandImage_750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14627896697983744-05275436921477383-Kris%2B_Syoujin_BrandImage_750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7522190897631817-7222361945445239-Kris%2B_Syoujin_Logo_1000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7522190897631817-7222361945445239-Kris%2B_Syoujin_Logo_1000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7522190897631817-7222361945445239-Kris%2B_Syoujin_Logo_1000x1000_high.png"
+			},
+			"searchContent": "Syoujin offers both Japanese service excellence and the wisdom of Traditional Chinese Medicine (TCM). Their skilled therapists will relax, revive, and rejuvenate your body, soul, and mind. Participating Outlets: Chinatown Point Funan Mall Jurong Point Northpoint City Parkway Parade Plaza Singapura Raffles City Sengkang Grand Mall SingPost Centre Suntec City Tampines One The Clementi Mall Westgate White Sands Syoujin Spa Wellness Traditional Chinese Medicine Japanese Massage Herbal Bath Detox Cupping Deep Hydrating Facial Chinatown Point Funan Mall Jurong Point Northpoint Parkway Parade Plaza Singapura Singpost Centre Suntec City Tampines One The Clementi Mall Westgate White Sands Cityhall Raffles City Spa Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Treatment Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:13:05.094Z",
+			"isDisplayOnKrisWeb": true,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "syoujin-09c34d6e",
+			"outlets": [
+				{
+					"_id": "625789005e4c871b00372eeb",
+					"name": "Funan"
+				},
+				{
+					"_id": "62578a5994cca62390e2e1e8",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "62578aab94cca62390e2e1ea",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "62578b4594cca62390e2e1ed",
+					"name": "SingPost Centre"
+				},
+				{
+					"_id": "62578b845e4c871b00372eed",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "62578bbc94cca62390e2e1ef",
+					"name": "White Sands"
+				},
+				{
+					"_id": "62578c2394cca62390e2e1f1",
+					"name": "Chinatown Point"
+				},
+				{
+					"_id": "62578d0294cca62390e2e1f3",
+					"name": "The Clementi Mall"
+				},
+				{
+					"_id": "62578db494cca62390e2e1f5",
+					"name": "Jurong Point "
+				},
+				{
+					"_id": "62578de55e4c871b00372ef0",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "62578e1d94cca62390e2e1f7",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "62578e5b5e4c871b00372ef2",
+					"name": "Westgate"
+				},
+				{
+					"_id": "62e200e735a03217982d0774",
+					"name": "Raffles City "
+				},
+				{
+					"_id": "664c4eb2341265006a566325",
+					"name": "Sengkang Grand Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan",
+			"Northpoint City",
+			"Parkway Parade",
+			"SingPost Centre",
+			"Tampines 1",
+			"White Sands",
+			"Chinatown Point",
+			"The Clementi Mall",
+			"Jurong Point ",
+			"Plaza Singapura",
+			"Suntec City",
+			"Westgate",
+			"Raffles City ",
+			"Sengkang Grand Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SYOUJIN",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

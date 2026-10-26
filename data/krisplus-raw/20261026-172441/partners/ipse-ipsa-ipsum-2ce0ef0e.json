@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ipse-ipsa-ipsum-2ce0ef0e",
+	"slug": "ipse-ipsa-ipsum-2ce0ef0e",
+	"fetchedAt": "2026-10-26T17:26:23.796+08:00",
+	"payload": {
+		"partner": {
+			"_id": "609898bd0315d62cc4c94c7b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "SAM & SARA HOLDINGS PTE. LTD.",
+			"brand": "ipse ipsa ipsum",
+			"code": "IPS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "ipseipsaipsum",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "315 OUTRAM ROAD , #11-02 TAN BOON LIAT BUILDING",
+				"postalCode": "169074",
+				"streetName": "OUTRAM ROAD"
+			},
+			"regNumber": "201635264K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9786645115958073-9078271857384266-App%20Brand%20Image%20750pixels(w)%20x%20540%20pixels(h).jpg",
+			"websiteUrl": "https://www.ipseipsaipsum.com",
+			"descriptionHtml": "<p>ipse ipsa ipsum places emphasis on craftsmanship and using unique materials. The name &lsquo;ipse ipsa ipsum&rsquo; reflects a tapestry of individuals, artisans and designers who collaborate to create furniture that transforms ordinary living spaces into extraordinary places.</p>\n\n<p>Participating Outlet:</p>\n\n<ul>\n\t<li>Tan Boon Liat Building</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8153993890108036-24789589681379076-App%20Brand%20Logo%201000%20pixels(w)%20x%201000%20pixels(h).jpg",
+			"createdAt": "2021-05-10T02:21:49.916Z",
+			"updatedAt": "2026-08-06T14:17:17.194Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 60000,
+				"minTokens": 10000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "     ",
+			"searchableKeywords": [
+				"Havelock Road",
+				"Tiong Bahru",
+				"Havelock",
+				"Home",
+				"Retail",
+				"Tiong Bahru",
+				"Furniture",
+				"Artefacts",
+				"Zen",
+				"Living",
+				"Home Improvements",
+				"Designer",
+				"Design",
+				"Craftsmanship",
+				"Tan Boon Liat Building",
+				"Artisanal",
+				"Upcycling",
+				"Sia",
+				"Home",
+				"Styling",
+				"Ipse Ipsa Ipsum",
+				"Harvey Norman",
+				"Sealy",
+				"Simmons",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9bda3718718842dd965"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9786645115958073-9078271857384266-App%20Brand%20Image%20750pixels(w)%20x%20540%20pixels(h).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8153993890108036-24789589681379076-App%20Brand%20Logo%201000%20pixels(w)%20x%201000%20pixels(h).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9786645115958073-9078271857384266-App%20Brand%20Image%20750pixels(w)%20x%20540%20pixels(h)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9786645115958073-9078271857384266-App%20Brand%20Image%20750pixels(w)%20x%20540%20pixels(h)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9786645115958073-9078271857384266-App%20Brand%20Image%20750pixels(w)%20x%20540%20pixels(h)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8153993890108036-24789589681379076-App%20Brand%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8153993890108036-24789589681379076-App%20Brand%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8153993890108036-24789589681379076-App%20Brand%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_high.jpg"
+			},
+			"searchContent": "ipse ipsa ipsum places emphasis on craftsmanship and using unique materials. The name ‘ipse ipsa ipsum’ reflects a tapestry of individuals, artisans and designers who collaborate to create furniture that transforms ordinary living spaces into extraordinary places. Participating Outlet: Tan Boon Liat Building Havelock Road Tiong Bahru Havelock Home Retail Tiong Bahru Furniture Artefacts Zen Living Home Improvements Designer Design Craftsmanship Tan Boon Liat Building Artisanal Upcycling Sia Home Styling Ipse Ipsa Ipsum Harvey Norman Sealy Simmons Ruhens Grohe Hansgrohe Mayer Simmons Sealy Homefurnishing Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ipse-ipsa-ipsum-2ce0ef0e",
+			"outlets": [
+				{
+					"_id": "6098c8dc9cc99f81ec22e033",
+					"name": "Tan Boon Liat"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tan Boon Liat"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ipse ipsa ipsum",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

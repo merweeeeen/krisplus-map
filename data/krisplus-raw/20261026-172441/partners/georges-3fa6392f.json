@@ -1,0 +1,228 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/georges-3fa6392f",
+	"slug": "georges-3fa6392f",
+	"fetchedAt": "2026-10-26T17:25:13.810+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e54ea55022a1f3e486bbb45",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": false,
+			"name": "Extremers Adventure Pte Ltd ",
+			"brand": "Georges",
+			"code": "GEO",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "687 East Coast Road, Level 2, Singapore",
+				"postalCode": "459055",
+				"streetName": "East Coast Road Level"
+			},
+			"category": "DINING",
+			"regNumber": "200003426R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-ccc37085-6b40-4719-bbdf-f760dcdc03f6.png",
+			"websiteUrl": "https://www.georges.com.sg/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-c13bc1c7-0084-4b65-81ff-4a2e8f1bb326.png",
+			"createdAt": "2020-02-25T09:35:17.131Z",
+			"updatedAt": "2026-08-06T14:17:08.777Z",
+			"description": "At Georges, you can find good food, great music and mad people. All Georges outlets provide a cozy, friendly and laidback vibe that is perfect for a night out with friends. Choose from a wide selection of beers, whiskies, cocktails, and Guinness Draft and western menu options with sumptuous pub grub at reasonable prices. \n\nParticipating Outlets: \n•\tGeorges Beach Club (East Coast Parkway)\n•\tGeorges By The Bay (The Punggol Settlement)\n•\tGeorges Hideout @ Seletar (JTC Aviation 2)\n•\tGeorges MADBar & Grill (Frankel Estate)\n•\tGeorges @ Changi Cargo (Airline Road) \n•\tGeorges @ The Cove (Pasir Ris Road)",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tGeorges Beach Club (East Coast Parkway)\n•\tGeorges By The Bay (The Punggol Settlement)\n•\tGeorges Hideout @ Seletar (JTC Aviation 2)\n•\tGeorges MADBar & Grill (Frankel Estate)\n•\tGeorges @ Changi Cargo (Airline Road) \n•\tGeorges @ The Cove (Pasir Ris Road)",
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 10% off the total bill when you flash the KrisPay app at the point of payment.\n\nTerms and Conditions:\n•\tNot valid on Friday, Saturday, Eve of Public Holiday, Public Holiday & special days.\n•\tNot valid in conjunction with other promotions, Georges Kakis privileges, discount cards and promotional vouchers, whichever is applicable.\n•\tValid strictly for dine-in only, unless otherwise stated.\n•\tGeorges reserves the right to amend / append / withdraw terms and conditions without prior notice.\n\nFind out more at: \nhttps://www.georges.com.sg/",
+			"categary": "Food and Beverage",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u>.</a></em><br> <br> At Georges, you can find good food, great music and mad people. All Georges outlets provide a cozy, friendly and laidback vibe that is perfect for a night out with friends. Choose from a wide selection of beers, whiskies, cocktails, and Guinness Draft and western menu options with sumptuous pub grub at reasonable prices. </p>  <p>Participating Outlets: </p>  <ul> \t \t<li>Georges Hideout @ Seletar (JTC Aviation 2)</li> \t<li>Georges MADBar & Grill (Frankel Estate)</li> \t<li>Georges @ Changi (Changi Sailing Club)</li> \t<li>Georges @ The Cove (Pasir Ris Road)</li> \t<li>Georges @ Waterfront (Bedok)</li> \t<li>Georges <span style=\"font-size:12.0pt\"><span style=\"font-family:\">@ Oasis</span></span></li> \t<li><span style=\"font-size:12.0pt\"><span style=\"font-family:\">​​​​​​​Georges @ Tai Seng</span></span></li> </ul>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Georges",
+			"searchableKeywords": [
+				"Pasir Ris Road",
+				"East Coast Road",
+				"Eunos",
+				"Seletar West Camp Road",
+				"New Punggol Road",
+				"Samudera",
+				"Western",
+				"East",
+				"Restaurant",
+				"Cafe",
+				"Latte",
+				"Food",
+				"Salads",
+				"Wine",
+				"Beer",
+				"Tea",
+				"Coffee",
+				"Bar",
+				"Dining",
+				"The Cove",
+				"The Punggol Settlement",
+				"Jtc Aviation 2",
+				"Hideoutseletar",
+				"Madbar",
+				"Grill",
+				"Frankel Estate"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB",
+								"CD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e49d00b0a527865c3a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-ccc37085-6b40-4719-bbdf-f760dcdc03f6.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-c13bc1c7-0084-4b65-81ff-4a2e8f1bb326.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-ccc37085-6b40-4719-bbdf-f760dcdc03f6_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-ccc37085-6b40-4719-bbdf-f760dcdc03f6_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-ccc37085-6b40-4719-bbdf-f760dcdc03f6_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-c13bc1c7-0084-4b65-81ff-4a2e8f1bb326_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-c13bc1c7-0084-4b65-81ff-4a2e8f1bb326_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-c13bc1c7-0084-4b65-81ff-4a2e8f1bb326_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:21:42.612Z",
+			"searchContent": "*Click here to Reserve A Table. At Georges, you can find good food, great music and mad people. All Georges outlets provide a cozy, friendly and laidback vibe that is perfect for a night out with friends. Choose from a wide selection of beers, whiskies, cocktails, and Guinness Draft and western menu options with sumptuous pub grub at reasonable prices. Participating Outlets: Georges Hideout @ Seletar (JTC Aviation 2) Georges MADBar & Grill (Frankel Estate) Georges @ Changi (Changi Sailing Club) Georges @ The Cove (Pasir Ris Road) Georges @ Waterfront (Bedok) Georges @ Oasis ​​​​​​​Georges @ Tai Seng Pasir Ris Road East Coast Road Eunos Seletar West Camp Road New Punggol Road Samudera Western East Restaurant Cafe Latte Food Salads Wine Beer Tea Coffee Bar Dining The Cove The Punggol Settlement Jtc Aviation 2 Hideoutseletar Madbar Grill Frankel Estate Dining Pubs & Bars Casual Dining Western",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "georges-3fa6392f",
+			"outlets": [
+				{
+					"_id": "5e56164a328ea418acf500ef",
+					"name": "Frankel Estate "
+				},
+				{
+					"_id": "5e561677328ea418acf500f1",
+					"name": "JTC Aviation 2"
+				},
+				{
+					"_id": "5e5616b1328ea418acf500f3",
+					"name": " Pasir Ris Road"
+				},
+				{
+					"_id": "64745e7093d951004fae2a76",
+					"name": "HomeTeamNS Bedok Reservoir"
+				},
+				{
+					"_id": "64745f276eacd800562d6bfc",
+					"name": "Changi Sailing Club"
+				},
+				{
+					"_id": "66d7c52c4223dc006e7881f8",
+					"name": "Komo Shoppes"
+				},
+				{
+					"_id": "66d7c5903766ac006c5783bb",
+					"name": "BreadTalk IHQ"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Frankel Estate ",
+			"JTC Aviation 2",
+			" Pasir Ris Road",
+			"HomeTeamNS Bedok Reservoir",
+			"Changi Sailing Club",
+			"Komo Shoppes",
+			"BreadTalk IHQ"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Georges",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

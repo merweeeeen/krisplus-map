@@ -1,0 +1,210 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tung-lok-signatures-86e8de70",
+	"slug": "tung-lok-signatures-86e8de70",
+	"fetchedAt": "2026-10-26T17:27:51.142+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e8c1479806fb2ea0dda7d7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese Food",
+				"Chinese Cuisine",
+				"Cantonese Cuisine",
+				"Shanghainese Cuisine",
+				"Sichuan Cuisine",
+				"Tunglok Seafood",
+				"Local Seafood",
+				"Michelin",
+				"Dim Sum",
+				"Dining",
+				"Orchard Rendezvous Hotel",
+				"Clarke Quay Central",
+				"Reunion",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"Mooncake",
+				"tung lok",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "TUNG LOK SIGNATURES",
+			"brand": "TUNG LOK SIGNATURES",
+			"code": "TSG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "TL SIGNATURES",
+			"address": {
+				"line1": "26 Tai Seng St, #02-01, Singapore 534057 ",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng St",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200006691H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/621833138947733-Tunglok%20Signatures.png",
+			"websiteUrl": "https://www.tungloksignatures.com/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u>.</a></em><br />\n<br />\n​​​​​​​TungLok Signatures offers a tantalising range of traditional Chinese cuisine, such as Cantonese, Shanghainese and Sichuan dishes with a dash of Modern creations – authentic in tastes but with TungLok’s distinctive touch. Be swept away by a myriad of flavours from our premium ingredients.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Clarke Quay Central #02-88</li>\n\t<li>Orchard Rendezvous Hotel #02-18</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"promotional": "                                ",
+			"participatingOutlets": "                ",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5632438957087134-26660987454074014-Brand%20Logo15.jpg",
+			"createdAt": "2022-08-02T06:16:39.371Z",
+			"updatedAt": "2026-08-06T14:17:33.979Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97408272955cb5b8b8b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/621833138947733-Tunglok%20Signatures.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5632438957087134-26660987454074014-Brand%20Logo15.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/621833138947733-Tunglok%20Signatures_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/621833138947733-Tunglok%20Signatures_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/621833138947733-Tunglok%20Signatures_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5632438957087134-26660987454074014-Brand%20Logo15_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5632438957087134-26660987454074014-Brand%20Logo15_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5632438957087134-26660987454074014-Brand%20Logo15_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:00:41.366Z",
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​TungLok Signatures offers a tantalising range of traditional Chinese cuisine, such as Cantonese, Shanghainese and Sichuan dishes with a dash of Modern creations – authentic in tastes but with TungLok’s distinctive touch. Be swept away by a myriad of flavours from our premium ingredients. Participating Outlets: Clarke Quay Central #02-88 Orchard Rendezvous Hotel #02-18 Chinese Food Chinese Cuisine Cantonese Cuisine Shanghainese Cuisine Sichuan Cuisine Tunglok Seafood Local Seafood Michelin Dim Sum Dining Orchard Rendezvous Hotel Clarke Quay Central Reunion Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery Mooncake tung lok Dining Casual Dining Chinese Asian",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tung-lok-signatures-86e8de70",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "62e8dd90f4a16311d064bd0e",
+					"name": "Clarke Quay Central"
+				},
+				{
+					"_id": "62e8e952e82b3a02c48df55c",
+					"name": "Orchard Rendezvous Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay Central",
+			"Orchard Rendezvous Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TUNG LOK SIGNATURES",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

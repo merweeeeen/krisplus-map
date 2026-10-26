@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bonbon-blowout-bar-5ae2cfaa",
+	"slug": "bonbon-blowout-bar-5ae2cfaa",
+	"fetchedAt": "2026-10-26T17:34:40.264+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a20e1485dcf9732077c3cf5",
+			"name": "BB STYLE PTE. LTD.",
+			"shortName": "Bonbon Blowout",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "Bonbon Blowout Bar+",
+			"code": "BBP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2670190809707378-(A).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7279236650418826-9371108518779183-Untitled.png",
+			"websiteUrl": "https://www.bonbon.com.sg",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "6 Raffles Boulevard, Marina Square #03-120 Singapore 039594",
+				"postalCode": "039594",
+				"streetName": "6 Raffles Boulevard",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Bonbon Blowout Bar is a vibrant, full-service salon where     great hair and good vibes come together. Designed to be both family-friendly     and Instagram-worthy, it offers expert hair services in a warm, welcoming space     that feels like a treat. Every visit is made to be effortless, enjoyable, and     totally shareable – so you leave looking and feeling your best, on and off     camera.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlet:</p>  <ul style=\"list-style-type: circle;\"><li>Downtown East</li><li>Marina Square</li></ul>",
+			"searchableKeywords": [
+				"hair salon",
+				"hairdresser",
+				"blowout",
+				"blow dry",
+				"wash and blow",
+				"haircut",
+				"hair colouring",
+				"hair styling",
+				"hair treatment",
+				"anti frizz treatment",
+				"frizz control",
+				"shampoo",
+				"conditional",
+				"hair loss",
+				"hair fall",
+				"oily scalp",
+				"damaged hair",
+				"hair repair",
+				"event styling",
+				"family friendly salon",
+				"kids haircut",
+				"Instagramworthy salon",
+				"aesthetic salon",
+				"balayage",
+				"highlights",
+				"scalp treatment"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-07T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-04T02:22:00.499Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2670190809707378-(A).jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7279236650418826-9371108518779183-Untitled.png",
+			"createdAt": "2026-06-04T02:22:00.504Z",
+			"updatedAt": "2026-08-06T14:18:32.361Z",
+			"searchContent": "Bonbon Blowout Bar is a vibrant, full-service salon where great hair and good vibes come together. Designed to be both family-friendly and Instagram-worthy, it offers expert hair services in a warm, welcoming space that feels like a treat. Every visit is made to be effortless, enjoyable, and totally shareable – so you leave looking and feeling your best, on and off camera. Participating outlet: Downtown EastMarina Square hair salon hairdresser blowout blow dry wash and blow haircut hair colouring hair styling hair treatment anti frizz treatment frizz control shampoo conditional hair loss hair fall oily scalp damaged hair hair repair event styling family friendly salon kids haircut Instagramworthy salon aesthetic salon balayage highlights scalp treatment Services Personal Care",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7279236650418826-9371108518779183-Untitled_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7279236650418826-9371108518779183-Untitled_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7279236650418826-9371108518779183-Untitled_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2670190809707378-(A)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2670190809707378-(A)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2670190809707378-(A)_high.jpg"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bonbon-blowout-bar-5ae2cfaa",
+			"outlets": [
+				{
+					"_id": "6a2a244a8ec149f4cd51cef9",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "6a2a24d2048be6637d5595cc",
+					"name": "Downtown East"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Square",
+			"Downtown East"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bonbon Blowout Bar+",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

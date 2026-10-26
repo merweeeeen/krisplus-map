@@ -1,0 +1,192 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/srisun-express-0a42b891",
+	"slug": "srisun-express-0a42b891",
+	"fetchedAt": "2026-10-26T17:25:33.710+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f17d6d63210f40e40cb0f0a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Srisun Express Pte Ltd",
+			"brand": "Srisun Express",
+			"code": "SSE",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "23A Lichfield Road",
+				"postalCode": "556843",
+				"streetName": "Lichfield Road"
+			},
+			"category": "DINING",
+			"regNumber": "201600980W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/33368193389987866-brandImagePath-65a90e29-bf71-42a5-8461-578b38ea18e0.jpg",
+			"websiteUrl": "https://www.srisunexpress.com.sg/",
+			"description": "Srisun Express has an extensive menu with all your North & South Indian, Malaysian, Western and local favourites. Choose from over 50 types of savoury and dessert pratas, as well as a wide range of drinks from the usual Teh Tarik to Butterscotch Milkshakes. They are open 24/7 and provide 24/7 islandwide delivery. \n\nParticipating Outlets:\n•    Ang Mo Kio \n•    Bukit Batok West Avenue 6\n•    Serangoon Garden Way\n•    Tampines",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8281299663750319-logoImage-b8a94e51-ad2d-4a6d-b95b-ec5e360e3f1b.jpg",
+			"createdAt": "2020-07-22T06:04:06.850Z",
+			"updatedAt": "2026-08-06T14:17:10.684Z",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Srisun Express has an extensive menu with all your North & South Indian, Malaysian, Western and local favourites. Choose from over 50 types of savoury and dessert pratas, as well as a wide range of drinks from the usual Teh Tarik to Butterscotch Milkshakes. They are open 24/7 and provide 24/7 islandwide delivery. </p>  <p>Participating Outlet:<br> •    Serangoon Garden Way</p>",
+			"payByCard": true,
+			"shortName": "SrisunExpress",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "           ",
+			"promotional": "       ",
+			"searchableKeywords": [
+				"Serangoon Garden Way",
+				"Serangoon",
+				"Indian",
+				"Halal",
+				"BB",
+				"Bukit Batok",
+				"Food",
+				"Foodie",
+				"Yummy",
+				"Delicious",
+				"Briyani",
+				"Prata",
+				"Papadum",
+				"Dal",
+				"Dhal",
+				"Yogurt",
+				"Curry",
+				"Fish",
+				"Mutton",
+				"Lamb",
+				"Shank",
+				"Mutton Soup",
+				"Kambing",
+				"Tulang",
+				"Dining",
+				"Roti John"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"IND"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9dba3718718842dd973"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/33368193389987866-brandImagePath-65a90e29-bf71-42a5-8461-578b38ea18e0.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8281299663750319-logoImage-b8a94e51-ad2d-4a6d-b95b-ec5e360e3f1b.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/33368193389987866-brandImagePath-65a90e29-bf71-42a5-8461-578b38ea18e0_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/33368193389987866-brandImagePath-65a90e29-bf71-42a5-8461-578b38ea18e0_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/33368193389987866-brandImagePath-65a90e29-bf71-42a5-8461-578b38ea18e0_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8281299663750319-logoImage-b8a94e51-ad2d-4a6d-b95b-ec5e360e3f1b_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8281299663750319-logoImage-b8a94e51-ad2d-4a6d-b95b-ec5e360e3f1b_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8281299663750319-logoImage-b8a94e51-ad2d-4a6d-b95b-ec5e360e3f1b_high.jpg"
+			},
+			"searchContent": "Srisun Express has an extensive menu with all your North & South Indian, Malaysian, Western and local favourites. Choose from over 50 types of savoury and dessert pratas, as well as a wide range of drinks from the usual Teh Tarik to Butterscotch Milkshakes. They are open 24/7 and provide 24/7 islandwide delivery. Participating Outlet: • Serangoon Garden Way Serangoon Garden Way Serangoon Indian Halal BB Bukit Batok Food Foodie Yummy Delicious Briyani Prata Papadum Dal Dhal Yogurt Curry Fish Mutton Lamb Shank Mutton Soup Kambing Tulang Dining Roti John Dining Halal Casual Dining Indian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-16T02:02:14.737Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "srisun-express-0a42b891",
+			"outlets": [
+				{
+					"_id": "5f6044d190c882116c9e16fc",
+					"name": "Serangoon Gardens"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Serangoon Gardens"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Srisun Express",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,164 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/babynatureco-59da9ef6",
+	"slug": "babynatureco-59da9ef6",
+	"fetchedAt": "2026-10-26T17:28:19.591+08:00",
+	"payload": {
+		"partner": {
+			"_id": "633e4147c84e1c16742c89af",
+			"privilegeConfig": {
+				"scanToRedeem": false
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 2,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": false,
+			"searchableKeywords": [
+				"Baby",
+				"mother",
+				"kids",
+				"maternity",
+				"mothercare",
+				"infant",
+				"babycare",
+				"organic",
+				"children",
+				"nursing",
+				"parenting",
+				"pregnancy",
+				"new born",
+				"newborn",
+				"UV sterilizer",
+				"babies",
+				"parents",
+				"Retail"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": false,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "JER ENTERPRISE PTE LTD",
+			"brand": "Babynatureco.",
+			"code": "BNC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Babynatureco",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "160 Woodlands Industrial Park E5",
+				"postalCode": "757867",
+				"streetName": "Woodlands Industrial Park"
+			},
+			"regNumber": "201225725K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5332011064208653-7385348162304908-Kris%2B%20Brand%20Image%20(App)%20-%20750%20x%20540px%20-%20BNC.png",
+			"websiteUrl": "https://babynatureco.com/",
+			"descriptionHtml": "<p>Babynatureco. carefully curates pregnancy, nursing, baby and parenting products you will absolutely love. Browse premium quality bumper beds, play yard and play mat sets, UV sterilisers, maternity/nursing pillows and more!</p>\n\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:\"Calibri\",sans-serif\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. </span></span></span></span>​​​​​​​</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/36212796573516504-9214304561534237-Kris%2B%20Brand%20Logo%20(App)%20-%201000%20x%201000px%20-%20BNC%202.png",
+			"promotional": "                     ",
+			"participatingOutlets": "                     ",
+			"createdAt": "2022-10-06T02:45:27.715Z",
+			"updatedAt": "2026-08-06T14:17:37.457Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"ONLINE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"BK"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9695e6d0897746a1e5c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5332011064208653-7385348162304908-Kris%2B%20Brand%20Image%20(App)%20-%20750%20x%20540px%20-%20BNC.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/36212796573516504-9214304561534237-Kris%2B%20Brand%20Logo%20(App)%20-%201000%20x%201000px%20-%20BNC%202.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5332011064208653-7385348162304908-Kris%2B%20Brand%20Image%20(App)%20-%20750%20x%20540px%20-%20BNC_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5332011064208653-7385348162304908-Kris%2B%20Brand%20Image%20(App)%20-%20750%20x%20540px%20-%20BNC_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5332011064208653-7385348162304908-Kris%2B%20Brand%20Image%20(App)%20-%20750%20x%20540px%20-%20BNC_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/36212796573516504-9214304561534237-Kris%2B%20Brand%20Logo%20(App)%20-%201000%20x%201000px%20-%20BNC%202_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/36212796573516504-9214304561534237-Kris%2B%20Brand%20Logo%20(App)%20-%201000%20x%201000px%20-%20BNC%202_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/36212796573516504-9214304561534237-Kris%2B%20Brand%20Logo%20(App)%20-%201000%20x%201000px%20-%20BNC%202_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Babynatureco. carefully curates pregnancy, nursing, baby and parenting products you will absolutely love. Browse premium quality bumper beds, play yard and play mat sets, UV sterilisers, maternity/nursing pillows and more! Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. ​​​​​​​ Baby mother kids maternity mothercare infant babycare organic children nursing parenting pregnancy new born newborn UV sterilizer babies parents Retail Retail Baby & Kids",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "babynatureco-59da9ef6",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Babynatureco.",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

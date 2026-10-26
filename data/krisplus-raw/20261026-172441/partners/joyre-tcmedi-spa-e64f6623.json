@@ -1,0 +1,302 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/joyre-tcmedi-spa-e64f6623",
+	"slug": "joyre-tcmedi-spa-e64f6623",
+	"fetchedAt": "2026-10-26T17:25:32.829+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f1537d172bcc3227405c221",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "JOYRE TCMEDI SPA PTE LTD",
+			"brand": "Joyre TCMedi SPA",
+			"code": "JOY",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "Blk 178 Toa Payoh Central , #01-204",
+				"postalCode": "310178",
+				"streetName": "Blk  Toa Payoh Central"
+			},
+			"category": "WELLNESS",
+			"regNumber": "201606828M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-76278958-de6a-4df2-a8ed-1241c45d8d15.png",
+			"websiteUrl": "https://www.joyretcmedispa.com",
+			"description": "",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-79fab13e-ed66-4aaa-bed5-236ba6c8ceac.jpg",
+			"createdAt": "2020-07-20T06:21:05.272Z",
+			"updatedAt": "2026-08-06T14:17:10.628Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "                   ",
+			"promotional": "             ",
+			"mccCode": "7298",
+			"mccDescription": "undefined",
+			"countryCode": "SG",
+			"payByCard": true,
+			"shortName": "Joyre TCMedi",
+			"descriptionHtml": "<p>Joyre TCMedi Spa is a pioneer in integrating Traditional Chinese Medicine with modern spa treatments and beauty aesthetics services. They deliver personalised treatments to match each individual’s body, and lifestyle to bring a sense of balance and total wellness.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Bishan</li>\n\t<li>Causeway Point</li>\n\t<li>Compass One</li>\n\t<li>Jurong Point (Skin Care)</li>\n\t<li>Kovan</li>\n\t<li>Nex</li>\n\t<li>Nex (Skin Care)</li>\n\t<li>Novena</li>\n\t<li>Toa Payoh</li>\n\t<li>The Seletar Mall</li>\n\t<li>VivoCity</li>\n\t<li>West Mall</li>\n</ul>",
+			"searchableKeywords": [
+				"Bishan",
+				"Chinatown",
+				"Eu Tong Sen Street",
+				"South Bridge Road",
+				"Sengkang West Avenue",
+				"Layar",
+				"Sengkang Square",
+				"Bukit Batok Central",
+				"Raffles Boulevard",
+				"City Hall",
+				"Toa Payoh Central",
+				"Serangoon",
+				"Serangoon Central",
+				"Pasir Ris",
+				"Pasir Ris Central Street 3",
+				"Hougang Street 21",
+				"Kovan",
+				"Square 2Novena",
+				"Thomson Road",
+				"Wellness",
+				"Retail",
+				"Bukit Batok",
+				"Medical",
+				"Rehabilitation",
+				"Chinese Medicine",
+				"Beauty",
+				"Lifestyle",
+				"Sensual",
+				"Body",
+				"Touch",
+				"Treatments",
+				"Spa",
+				"Tcm",
+				"Tuina",
+				"Massage",
+				"Tension",
+				"Stress Release",
+				"Immunity",
+				"Circulatory",
+				"Pain Management",
+				"Facial",
+				"Adjustment",
+				"Nose Jobs",
+				"Water Retention",
+				"Bone Adjustment",
+				"V Shape Face Lifting",
+				"Acupressure",
+				"Therapy",
+				"Couples",
+				"Raffles City",
+				"Seletar Mall",
+				"Compass One",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Cleanser",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9dc0108b03f047da5b7"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 10
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-76278958-de6a-4df2-a8ed-1241c45d8d15.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-79fab13e-ed66-4aaa-bed5-236ba6c8ceac.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-76278958-de6a-4df2-a8ed-1241c45d8d15_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-76278958-de6a-4df2-a8ed-1241c45d8d15_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-76278958-de6a-4df2-a8ed-1241c45d8d15_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-79fab13e-ed66-4aaa-bed5-236ba6c8ceac_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-79fab13e-ed66-4aaa-bed5-236ba6c8ceac_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-79fab13e-ed66-4aaa-bed5-236ba6c8ceac_high.jpg"
+			},
+			"searchContent": "Joyre TCMedi Spa is a pioneer in integrating Traditional Chinese Medicine with modern spa treatments and beauty aesthetics services. They deliver personalised treatments to match each individual’s body, and lifestyle to bring a sense of balance and total wellness. Participating Outlets: Bishan Causeway Point Compass One Jurong Point (Skin Care) Kovan Nex Nex (Skin Care) Novena Toa Payoh The Seletar Mall VivoCity West Mall Bishan Chinatown Eu Tong Sen Street South Bridge Road Sengkang West Avenue Layar Sengkang Square Bukit Batok Central Raffles Boulevard City Hall Toa Payoh Central Serangoon Serangoon Central Pasir Ris Pasir Ris Central Street 3 Hougang Street 21 Kovan Square 2Novena Thomson Road Wellness Retail Bukit Batok Medical Rehabilitation Chinese Medicine Beauty Lifestyle Sensual Body Touch Treatments Spa Tcm Tuina Massage Tension Stress Release Immunity Circulatory Pain Management Facial Adjustment Nose Jobs Water Retention Bone Adjustment V Shape Face Lifting Acupressure Therapy Couples Raffles City Seletar Mall Compass One Dermalogica Elemis Spa Natureland Clarins Aesop Cleanser Guasha Foot Massage Body Massage Treatment Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:12:51.507Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "joyre-tcmedi-spa-e64f6623",
+			"outlets": [
+				{
+					"_id": "5f1e98e3079fee3958fa7100",
+					"name": "Square 2@Novena"
+				},
+				{
+					"_id": "5f1e99f8079fee3958fa7104",
+					"name": "Kovan"
+				},
+				{
+					"_id": "5f1e9ab4b6656a53bc169c2e",
+					"name": "The Seletar Mall"
+				},
+				{
+					"_id": "5f1e9b5c079fee3958fa7108",
+					"name": "NEX"
+				},
+				{
+					"_id": "5f1e9bce079fee3958fa710a",
+					"name": "Toa Payoh Central"
+				},
+				{
+					"_id": "5f1e9d24b6656a53bc169c3a",
+					"name": "West Mall"
+				},
+				{
+					"_id": "5f1e9d79b6656a53bc169c3c",
+					"name": "Bishan Street 22"
+				},
+				{
+					"_id": "5f1ea1ad079fee3958fa7124",
+					"name": "Compass One"
+				},
+				{
+					"_id": "629716f1f6338032c42e872c",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "62a967fbdd945c14c016bffc",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "664c4d06830e25006b49fb68",
+					"name": "Causeway Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Square 2@Novena",
+			"Kovan",
+			"The Seletar Mall",
+			"NEX",
+			"Toa Payoh Central",
+			"West Mall",
+			"Bishan Street 22",
+			"Compass One",
+			"VivoCity",
+			"Jurong Point",
+			"Causeway Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Joyre TCMedi SPA",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

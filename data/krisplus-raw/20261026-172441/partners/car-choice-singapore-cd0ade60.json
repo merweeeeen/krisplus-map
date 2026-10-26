@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/car-choice-singapore-cd0ade60",
+	"slug": "car-choice-singapore-cd0ade60",
+	"fetchedAt": "2026-10-26T17:33:24.098+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6948ed533b2ac16b0ef10a7f",
+			"name": "SG CAR CHOICE PTE LTD",
+			"shortName": "Car Choice SG",
+			"mccCode": "5511",
+			"mccDescription": "Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing",
+			"brand": "CAR CHOICE SINGAPORE",
+			"code": "CSG",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7366764558875682-CarChoice.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/22006722347889873-9830085556037305-BRAND%20IMAGE%20750%20X%20540.jpg",
+			"websiteUrl": "https://carchoice.com.sg",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "#01-13",
+				"postalCode": "569139",
+				"streetName": "3 Ang Mo Kio Street 62",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Car Choice Singapore redefines the car buying experience, whether purchasing brand-new or pre-owned. They are the fastest growing and most recognised Parallel Importer in Singapore, Car Choice will complement your requirements with their bespoke services. </p><p> <br>Kris+ payment will be capped at $10,000 per transaction. Not applicable in conjunction with other promotions or discounts.</p><ul><li>Link @ AMK</li><li>WCEGA Plaza</li><li>Polaris @ Woodlands</li><li>Automobile MegaMart</li><li>OneKA @ Macpherson</li></ul>",
+			"searchableKeywords": [
+				"car",
+				"automotive",
+				"car choice",
+				"choice"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-22T07:03:47.898Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7366764558875682-CarChoice.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/22006722347889873-9830085556037305-BRAND%20IMAGE%20750%20X%20540.jpg",
+			"createdAt": "2025-12-22T07:03:47.909Z",
+			"updatedAt": "2026-10-01T07:06:11.724Z",
+			"searchContent": "Car Choice Singapore redefines the car buying experience, whether purchasing brand-new or pre-owned. They are the fastest growing and most recognised Parallel Importer in Singapore, Car Choice will complement your requirements with their bespoke services. Kris+ payment will be capped at $10,000 per transaction. Not applicable in conjunction with other promotions or discounts. Link @ AMKWCEGA PlazaPolaris @ WoodlandsAutomobile MegaMartOneKA @ Macpherson car automotive car choice choice Services Automotive",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/22006722347889873-9830085556037305-BRAND%20IMAGE%20750%20X%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/22006722347889873-9830085556037305-BRAND%20IMAGE%20750%20X%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/22006722347889873-9830085556037305-BRAND%20IMAGE%20750%20X%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7366764558875682-CarChoice_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7366764558875682-CarChoice_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7366764558875682-CarChoice_high.png"
+			},
+			"newMerchantEndDate": "2026-03-21T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "car-choice-singapore-cd0ade60",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6948f02a8ab4642818c23979",
+					"name": "Polaris @ Woodlands"
+				},
+				{
+					"_id": "6948f0ee18773d49212b0e3b",
+					"name": "Automobile MegaMart"
+				},
+				{
+					"_id": "6948f1742a99e46e7887c358",
+					"name": "OneKA @ Macpherson"
+				},
+				{
+					"_id": "6948f22ba105810d29c7bfef",
+					"name": "Link @ AMK"
+				},
+				{
+					"_id": "6948f2754df03640f9ead200",
+					"name": "WCEGA Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Polaris @ Woodlands",
+			"Automobile MegaMart",
+			"OneKA @ Macpherson",
+			"Link @ AMK",
+			"WCEGA Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "CAR CHOICE SINGAPORE",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

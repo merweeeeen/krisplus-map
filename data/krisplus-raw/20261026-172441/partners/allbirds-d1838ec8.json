@@ -1,0 +1,160 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/allbirds-d1838ec8",
+	"slug": "allbirds-d1838ec8",
+	"fetchedAt": "2026-10-26T17:32:54.954+08:00",
+	"payload": {
+		"partner": {
+			"_id": "690dab7d355881876d915103",
+			"name": "PRIMER-UNIGLOBE (SINGAPORE) PTE LTD",
+			"shortName": "Allbirds",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Allbirds",
+			"code": "ABD",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9680969682306229-Allbirds.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8608681920667369-6276864265597994-Kris%2B%20allbirds.png",
+			"websiteUrl": "https://www.allbirds.com.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "221 HENDERSON ROAD #05-10",
+				"postalCode": "159557",
+				"streetName": "HENDERSON BUILDING",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Celebrated by TIME magazine as creators of \"The World's Most Comfortable Shoe,\" Allbirds has revolutionized footwear comfort through nature-inspired innovation. Their signature designs incorporate eco-friendly materials including premium merino wool, renewable eucalyptus tree fiber, and sustainable sugarcane. The result is a collection of remarkably comfortable everyday shoes that combine exceptional wearability with environmental responsibility.</p>",
+			"searchableKeywords": [
+				"shoes",
+				"ecofriendly shoes",
+				"fashion",
+				"footwear",
+				"sneakers"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 5,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-07T08:19:09.873Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9680969682306229-Allbirds.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8608681920667369-6276864265597994-Kris%2B%20allbirds.png",
+			"createdAt": "2025-11-07T08:19:09.944Z",
+			"updatedAt": "2026-09-30T16:00:00.933Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8608681920667369-6276864265597994-Kris%2B%20allbirds_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8608681920667369-6276864265597994-Kris%2B%20allbirds_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8608681920667369-6276864265597994-Kris%2B%20allbirds_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9680969682306229-Allbirds_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9680969682306229-Allbirds_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9680969682306229-Allbirds_high.png"
+			},
+			"searchContent": "Celebrated by TIME magazine as creators of \"The World's Most Comfortable Shoe,\" Allbirds has revolutionized footwear comfort through nature-inspired innovation. Their signature designs incorporate eco-friendly materials including premium merino wool, renewable eucalyptus tree fiber, and sustainable sugarcane. The result is a collection of remarkably comfortable everyday shoes that combine exceptional wearability with environmental responsibility. shoes ecofriendly shoes fashion footwear sneakers Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "allbirds-d1838ec8",
+			"outlets": [
+				{
+					"_id": "690db6532b5387a1fecdc982",
+					"name": "Funan"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Allbirds",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

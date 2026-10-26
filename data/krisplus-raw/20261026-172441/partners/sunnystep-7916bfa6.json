@@ -1,0 +1,294 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sunnystep-7916bfa6",
+	"slug": "sunnystep-7916bfa6",
+	"fetchedAt": "2026-10-26T17:26:36.865+08:00",
+	"payload": {
+		"partner": {
+			"_id": "611f30f91f1dd4302859fd93",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Zion Road",
+				"Kim Seng Road",
+				"Sinaran Drive",
+				"Havelock",
+				"Square 2",
+				"Novena",
+				"Thomson Road",
+				"Novena",
+				"Harbourfront",
+				"Vivocity",
+				"Telok Blangah Road",
+				"Shoes",
+				"Flip Flops",
+				"Slippers",
+				"Insoles",
+				"Work Shoes",
+				"Casual Wear",
+				"Travel",
+				"Slippers",
+				"Footwear",
+				"Retail",
+				"Comfort",
+				"Insoles",
+				"Bugis Junction",
+				"Great World City",
+				"Nex",
+				"Square 2",
+				"Vivocity",
+				"Fitness",
+				"Exercise",
+				"Sports",
+				"Health",
+				"Wellness",
+				"Tampines",
+				"Causeway Point",
+				"Woodlands",
+				"Jurong Point",
+				"Ion Orchard",
+				"Westgate",
+				"Suntec City",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Trousers",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Hats",
+				"Belts",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Sunnystep Pte Ltd",
+			"brand": "Sunnystep",
+			"code": "SS1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Sunnystep",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "111 North Bridge Road, #15-06 Peninsula Plaza",
+				"postalCode": "179098",
+				"streetName": "111 North Bridge Road"
+			},
+			"regNumber": "201630012N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/816656920379421-2.%20Brand%20Image%20750%20x%20540.png",
+			"websiteUrl": "https://www.mysunnystep.com/",
+			"descriptionHtml": "<p>Sunnystep is a modern footwear brand founded in Singapore with the mission of helping people move freely and happily. Their founder started this mission after she suffered from a spine injury and needed the most comfortable walking shoes. With their proprietary insoles and sleek designs, Sunnystep shoes are perfect for work, casual and travel.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Bugis Junction</li> \t<li>Causeway Point</li> \t<li>Changi Airport Terminal 4 (Transit)</li> \t<li>Chinatown Point</li> \t<li>ION Orchard</li> \t<li>Jurong Point</li> \t<li>NEX</li> \t<li>NUH</li> \t<li>Pasir Ris Mall</li> \t<li>Square 2 </li> \t<li>Suntec City</li> \t<li>Tampines Mall</li> \t<li>Westgate</li> \t<li>VivoCity</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8941744630577904-1.%20Logo%201000x1000.png",
+			"createdAt": "2021-08-20T04:35:05.337Z",
+			"updatedAt": "2026-10-12T03:22:33.071Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "Square 2\nVivoCity\nGreat World ",
+			"promotional": "     \n",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR7",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9b0595add2492446466"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 13
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/816656920379421-2.%20Brand%20Image%20750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8941744630577904-1.%20Logo%201000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/816656920379421-2_low.%20Brand%20Image%20750%20x%20540",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/816656920379421-2_med.%20Brand%20Image%20750%20x%20540",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/816656920379421-2_high.%20Brand%20Image%20750%20x%20540"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8941744630577904-1_low.%20Logo%201000x1000",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8941744630577904-1_med.%20Logo%201000x1000",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8941744630577904-1_high.%20Logo%201000x1000"
+			},
+			"searchContent": "Sunnystep is a modern footwear brand founded in Singapore with the mission of helping people move freely and happily. Their founder started this mission after she suffered from a spine injury and needed the most comfortable walking shoes. With their proprietary insoles and sleek designs, Sunnystep shoes are perfect for work, casual and travel. Participating Outlets: Bugis Junction Causeway Point Changi Airport Terminal 4 (Transit) Chinatown Point ION Orchard Jurong Point NEX NUH Pasir Ris Mall Square 2 Suntec City Tampines Mall Westgate VivoCity Zion Road Kim Seng Road Sinaran Drive Havelock Square 2 Novena Thomson Road Novena Harbourfront Vivocity Telok Blangah Road Shoes Flip Flops Slippers Insoles Work Shoes Casual Wear Travel Slippers Footwear Retail Comfort Insoles Bugis Junction Great World City Nex Square 2 Vivocity Fitness Exercise Sports Health Wellness Tampines Causeway Point Woodlands Jurong Point Ion Orchard Westgate Suntec City Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shoes Shorts Leggings Trousers Suits Accessories Hats Caps Garments Scarves Jewellery Bags Hats Belts Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:55:27.808Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sunnystep-7916bfa6",
+			"outlets": [
+				{
+					"_id": "612ddf1ccaab836b08b674c2",
+					"name": "Square 2@Novena"
+				},
+				{
+					"_id": "612de114caab836b08b674c4",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "616184b1a2d5467960695daa",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "61618648a2d5467960695dac",
+					"name": "NEX"
+				},
+				{
+					"_id": "620e33f21445f42f8c2bb6b6",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "629ee0e45cd65416800b1dcd",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "629ee25c5cd65416800b1dd1",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "650866289be46500568a9315",
+					"name": "Westgate"
+				},
+				{
+					"_id": "65a4d52c6c9583004fb13f03",
+					"name": "Chinatown Point"
+				},
+				{
+					"_id": "68d2102ec2a03804663cac3b",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "6acc527233b7873fb17cc790",
+					"name": "Compass One"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Square 2@Novena",
+			"VivoCity",
+			"Bugis Junction",
+			"NEX",
+			"Tampines Mall",
+			"ION Orchard",
+			"Jurong Point",
+			"Westgate",
+			"Chinatown Point",
+			"Causeway Point",
+			"Compass One"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sunnystep",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

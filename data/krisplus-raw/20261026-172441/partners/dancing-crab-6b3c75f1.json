@@ -1,0 +1,186 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/dancing-crab-6b3c75f1",
+	"slug": "dancing-crab-6b3c75f1",
+	"fetchedAt": "2026-10-26T17:27:44.270+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e8927d9806fb2ea0dda74e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Local Seafood",
+				"Best Seafood",
+				"Chili Crab",
+				"Dancingcrab",
+				"Orchard Central",
+				"North Shore Plaza Ii",
+				"Vivocity",
+				"Punggol",
+				"Harbourfront",
+				"Dining",
+				"Tunglok",
+				"Tourists",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Dancing Crab",
+			"brand": "Dancing Crab",
+			"code": "DCB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Dancing Crab",
+			"address": {
+				"line1": "26 Tai Seng St, #02-01, Singapore 534057 ",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng St",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200006691H ",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/003765577614363247-Dancing%20Crab.png",
+			"websiteUrl": "https://www.dancingcrab.com.sg/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Dancing%20Crab\"><u>Reserve A Table</u></a>.</em><br> ​​​​​​​<br> An original concept by TungLok Group, Singapore, DANCING CRAB is an American-style eatery that offers a casual, lively, and vibrant atmosphere. Largely inspired by the crawfish boil, the concept sees diners tuck in to an array of shellfish, decked out on the table sans plates and cutlery.</p>  <p>The restaurant dishes up a menu that revolves around classic seafood delicacies from Boston lobster to Dungeness crab, and even Singapore’s well-loved Chilli and Black Pepper crabs. To complement the dining experience, the restaurant creates a vibrant ambience with its upbeat music, and also offers a premium selection of creative cocktails and imported beers.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Orchard Central (Last day of operations on 10Nov)</li> \t<li>VivoCity</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "               ",
+			"participatingOutlets": "•\tOrchard Central\n•\tNorthshore Plaza II\n•\tVivoCity",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8103038725028431-022726314916120982-Brand%20Logo7.jpg",
+			"createdAt": "2022-08-02T02:57:01.492Z",
+			"updatedAt": "2026-10-06T08:42:55.154Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef977b35256c5b2c9bee0"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/003765577614363247-Dancing%20Crab.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8103038725028431-022726314916120982-Brand%20Logo7.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/003765577614363247-Dancing%20Crab_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/003765577614363247-Dancing%20Crab_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/003765577614363247-Dancing%20Crab_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8103038725028431-022726314916120982-Brand%20Logo7_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8103038725028431-022726314916120982-Brand%20Logo7_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8103038725028431-022726314916120982-Brand%20Logo7_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​ An original concept by TungLok Group, Singapore, DANCING CRAB is an American-style eatery that offers a casual, lively, and vibrant atmosphere. Largely inspired by the crawfish boil, the concept sees diners tuck in to an array of shellfish, decked out on the table sans plates and cutlery. The restaurant dishes up a menu that revolves around classic seafood delicacies from Boston lobster to Dungeness crab, and even Singapore’s well-loved Chilli and Black Pepper crabs. To complement the dining experience, the restaurant creates a vibrant ambience with its upbeat music, and also offers a premium selection of creative cocktails and imported beers. Participating Outlets: Orchard Central (Last day of operations on 10Nov) VivoCity Local Seafood Best Seafood Chili Crab Dancingcrab Orchard Central North Shore Plaza Ii Vivocity Punggol Harbourfront Dining Tunglok Tourists FortuneFeast Dining Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T09:48:37.367Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "dancing-crab-6b3c75f1",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "62e8b8a0e82b3a02c48df50b",
+					"name": "Orchard Central"
+				},
+				{
+					"_id": "62e8b92cf4a16311d064bcde",
+					"name": "VivoCity"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Orchard Central",
+			"VivoCity"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Dancing Crab",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

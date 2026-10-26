@@ -1,0 +1,286 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/swensens-0a37dd42",
+	"slug": "swensens-0a37dd42",
+	"fetchedAt": "2026-10-26T17:34:29.517+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69faa36b7663192c4265a84a",
+			"name": "ABR Holdings Limited (Swensen's)",
+			"shortName": "Swensens",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Swensen's",
+			"code": "SWS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/95239092200747-8948918228173963-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SW.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/0835628349772286-17503586886192601-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SW.jpg",
+			"websiteUrl": "https://swensens.com.sg",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "41 Tampines Street 92",
+				"postalCode": "528881",
+				"streetName": "ABR Building",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Swensen’s is Singapore’s Family Restaurant of Choice, championing bonding over food & ice cream cake, serving families since 1979. Visit any of the outlets located island wide to enjoy sweet celebrations with loved ones for all occasions.<br><br>Participating outlets:<br>- Airport T3 (Public Area)<br><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- AMK Hub<br>- Bedok Mall<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Bugis Junction</span><br><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Bukit Panjang Plaza</span><br>- Causeway Point<br><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Compass One (under renovation)<br>- Downtown East<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- IMM<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Junction 8<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Jurong Point<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- NEX Mall<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- North Point<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Parkway Parade</span><br><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Plantation Plaza<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Plaza Singapura<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- SAFRA Toa Payoh</span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\"><br>- SingPost Centre<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Sun Plaza</span><br><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Tampines Mall<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Thomson Plaza<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Waterway Point<br></span><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- West Mall</span></p>                                           ",
+			"searchableKeywords": [
+				"Waffles",
+				"Casual Dining",
+				"Western",
+				"Ice Cream",
+				"Dessert",
+				"Asian Delights"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.02,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 180,
+			"newMerchantEndDate": "2026-08-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 23
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-16T03:07:15.440Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/95239092200747-8948918228173963-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SW.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0835628349772286-17503586886192601-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SW.jpg",
+			"createdAt": "2026-05-06T02:11:55.995Z",
+			"updatedAt": "2026-09-04T01:34:00.701Z",
+			"searchContent": "Swensen’s is Singapore’s Family Restaurant of Choice, championing bonding over food & ice cream cake, serving families since 1979. Visit any of the outlets located island wide to enjoy sweet celebrations with loved ones for all occasions. Participating outlets: - Airport T3 (Public Area) - AMK Hub - Bedok Mall - Bugis Junction - Bukit Panjang Plaza - Causeway Point - Compass One (under renovation) - Downtown East - IMM - Junction 8 - Jurong Point - NEX Mall - North Point - Parkway Parade - Plantation Plaza - Plaza Singapura - SAFRA Toa Payoh - SingPost Centre - Sun Plaza - Tampines Mall - Thomson Plaza - Waterway Point - West Mall Waffles Casual Dining Western Ice Cream Dessert Asian Delights Dining Halal Vegetarian-Friendly Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Asian Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0835628349772286-17503586886192601-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SW_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0835628349772286-17503586886192601-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SW_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0835628349772286-17503586886192601-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SW_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/95239092200747-8948918228173963-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SW_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/95239092200747-8948918228173963-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SW_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/95239092200747-8948918228173963-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SW_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "swensens-0a37dd42",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "69faa73294664ac039305e12",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "69faa7cf383b7c98dc5c2f5d",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "69faa824a4e5b9293d3be05f",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "69faa89a6e783129adbf03e8",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "69faa8ae70aa8dc95a52cda4",
+					"name": "Airport T3 Public Area"
+				},
+				{
+					"_id": "69faaa5e7663192c4265b16a",
+					"name": "Compass One"
+				},
+				{
+					"_id": "69faaade5afce03323133e1f",
+					"name": "Downtown East"
+				},
+				{
+					"_id": "69faab30e8f469a2afebde41",
+					"name": "IMM"
+				},
+				{
+					"_id": "69faab9d94664ac0393062ab",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "69faac2c8953959a7d7b09d5",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "69faac728001d85fabf60293",
+					"name": "NEX Mall"
+				},
+				{
+					"_id": "69faacd268bf0b3fb556c0fd",
+					"name": "North Point"
+				},
+				{
+					"_id": "69faad1b6e783129adbf0903",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "69faad7494664ac03930655d",
+					"name": "Plantation Plaza"
+				},
+				{
+					"_id": "69faadbce5c9f7db58be41c2",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "69faaeafc9c020803ffccd16",
+					"name": "SAFRA Toa Payoh"
+				},
+				{
+					"_id": "69faaf048001d85fabf60637",
+					"name": "SingPost Centre"
+				},
+				{
+					"_id": "69faaf7a0a4420082f4520b6",
+					"name": "Sun Plaza"
+				},
+				{
+					"_id": "69faafc55afce03323134658",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "69fab00ee5c9f7db58be4445",
+					"name": "Thomson Plaza"
+				},
+				{
+					"_id": "69fab08c8b0747100f235b4e",
+					"name": "Waterway Point"
+				},
+				{
+					"_id": "69fab0e51e101e4dfeba74bf",
+					"name": "West Mall"
+				},
+				{
+					"_id": "6a029c87d3c408cb85944757",
+					"name": "Bukit Panjang Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"AMK Hub",
+			"Bedok Mall",
+			"Bugis Junction",
+			"Causeway Point",
+			"Airport T3 Public Area",
+			"Compass One",
+			"Downtown East",
+			"IMM",
+			"Junction 8",
+			"Jurong Point",
+			"NEX Mall",
+			"North Point",
+			"Parkway Parade",
+			"Plantation Plaza",
+			"Plaza Singapura",
+			"SAFRA Toa Payoh",
+			"SingPost Centre",
+			"Sun Plaza",
+			"Tampines Mall",
+			"Thomson Plaza",
+			"Waterway Point",
+			"West Mall",
+			"Bukit Panjang Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Swensen's",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

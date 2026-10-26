@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-cliff-5b18ff1b",
+	"slug": "the-cliff-5b18ff1b",
+	"fetchedAt": "2026-10-26T17:30:03.687+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66669c53281e6f005372f1c1",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Italian",
+				"Setlunch",
+				"Setdinner",
+				"Wines"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "THE SINGAPORE RESORT & Spa",
+			"brand": "The Cliff",
+			"code": "CSS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "The Cliff",
+			"address": {
+				"line1": "2 Bukit Manis Road Sentosa Singapore 099891",
+				"postalCode": "099891",
+				"streetName": "2 Bukit Manis Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"BD",
+								"ITA"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.sofitel-singapore-sentosa.com/gastronomy/the-cliff/",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=The%20Cliff\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a><br><br></em>Helmed by Chef Paolo Benedet, The Cliff features Southern Italian cuisine with signature favourites such as Burrata Caprese, Pan-Seared Barramundi and The Cliff Tiramisu, and a wide selection of wines. Guests can also enjoy a view of the South China Sea when dining at The Cliff's alfresco area.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/520392367564843-c1.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3745250955084831-c2.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-06-10T06:25:23.980Z",
+			"updatedAt": "2026-08-06T14:18:03.789Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3745250955084831-c2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/520392367564843-c1.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3745250955084831-c2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3745250955084831-c2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3745250955084831-c2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/520392367564843-c1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/520392367564843-c1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/520392367564843-c1_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Helmed by Chef Paolo Benedet, The Cliff features Southern Italian cuisine with signature favourites such as Burrata Caprese, Pan-Seared Barramundi and The Cliff Tiramisu, and a wide selection of wines. Guests can also enjoy a view of the South China Sea when dining at The Cliff's alfresco area. Italian Setlunch Setdinner Wines Dining Vegan-Friendly Vegetarian-Friendly Fine Dining Beverages & Desserts Italian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:20:25.407Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-cliff-5b18ff1b",
+			"outlets": [
+				{
+					"_id": "6666a15874e1e200688c9b8a",
+					"name": "Sofitel Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sofitel Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Cliff",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

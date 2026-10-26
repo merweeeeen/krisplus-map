@@ -1,0 +1,186 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/travel-zone-c7db7010",
+	"slug": "travel-zone-c7db7010",
+	"fetchedAt": "2026-10-26T17:29:07.443+08:00",
+	"payload": {
+		"partner": {
+			"_id": "647461546eacd800562d6f16",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.027,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Luggage",
+				"Suitcase",
+				"Backpack",
+				"Handbag",
+				"Travel",
+				"Holiday",
+				"Vacation",
+				"Travel Pillow",
+				"Tour",
+				"Tour Packages",
+				"Tourist",
+				"Travellers",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management",
+				"Travel Zone"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Travelite Pte Ltd (Travel Zone)",
+			"brand": "Travel Zone",
+			"code": "DEM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Travel Zone",
+			"address": {
+				"city": "Singapore",
+				"line1": "TRAVELITE BUILDING, 53 UBI AVENUE 3, Postal 408863",
+				"streetName": "53 UBI AVENUE 3",
+				"postalCode": "408863",
+				"cityCode": "SIN"
+			},
+			"regNumber": "199408126N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/35823850452465233-9075982895226213-Travel%20Zone%20-%20C%20750x540.jpg",
+			"websiteUrl": "https://www.etravelite.com/travelzone",
+			"descriptionHtml": "<p>Travel Zone is your one-stop shop for all your travel and holiday needs, where you can shop for travel luggage, backpacks, gadgets and accessories at affordable prices.</p>  <p>With a variety of internationally renowned brands like Delsey, Traveler’s Choice, Pierre Cardin, Hedgren and more, you’ll be spoilt for choice while preparing for your next vacation!</p>  <p>Participating outlets:</p>  <ul> \t<li>Novena Square 2</li> \t<li>Pasir Ris Mall</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/26881027052100137-6581173547787396-Travel%20Zone%20-%20A%201000x1000.jpg",
+			"createdAt": "2023-05-29T08:24:52.903Z",
+			"updatedAt": "2026-08-06T14:17:45.388Z",
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9480108b03f047da563"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/35823850452465233-9075982895226213-Travel%20Zone%20-%20C%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/26881027052100137-6581173547787396-Travel%20Zone%20-%20A%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/35823850452465233-9075982895226213-Travel%20Zone%20-%20C%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/35823850452465233-9075982895226213-Travel%20Zone%20-%20C%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/35823850452465233-9075982895226213-Travel%20Zone%20-%20C%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/26881027052100137-6581173547787396-Travel%20Zone%20-%20A%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/26881027052100137-6581173547787396-Travel%20Zone%20-%20A%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/26881027052100137-6581173547787396-Travel%20Zone%20-%20A%201000x1000_high.jpg"
+			},
+			"searchContent": "Travel Zone is your one-stop shop for all your travel and holiday needs, where you can shop for travel luggage, backpacks, gadgets and accessories at affordable prices. With a variety of internationally renowned brands like Delsey, Traveler’s Choice, Pierre Cardin, Hedgren and more, you’ll be spoilt for choice while preparing for your next vacation! Participating outlets: Novena Square 2 Pasir Ris Mall Luggage Suitcase Backpack Handbag Travel Holiday Vacation Travel Pillow Tour Tour Packages Tourist Travellers Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Travel Zone Retail Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-31T16:14:58.439Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "travel-zone-c7db7010",
+			"outlets": [
+				{
+					"_id": "64755b43339b1800553cba2d",
+					"name": "Square 2"
+				},
+				{
+					"_id": "66727cd55f9a98005cee6528",
+					"name": "Pasir Ris mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Square 2",
+			"Pasir Ris mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Travel Zone",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

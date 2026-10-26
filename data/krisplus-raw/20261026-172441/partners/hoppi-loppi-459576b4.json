@@ -1,0 +1,146 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/hoppi-loppi-459576b4",
+	"slug": "hoppi-loppi-459576b4",
+	"fetchedAt": "2026-10-26T17:30:42.643+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6768c186603386006c04db5f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Kids Toys",
+				"Kids Gifts",
+				"Play",
+				"Fun",
+				"Pretend Play",
+				"Imaginative Play",
+				"Toys"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "HOPPI LOPPI LLP",
+			"brand": "Hoppi Loppi",
+			"code": "HOP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Hoppi Loppi",
+			"address": {
+				"city": "Singapore",
+				"line1": "202 Kim Seng Road, The Cosmopolitan #30-07, Singapore 239496",
+				"streetName": "202 Kim Seng Road",
+				"postalCode": "239496",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"BK"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"websiteUrl": "https://hoppiloppi.co",
+			"descriptionHtml": "<p>Simple and elegantly designed, the toys that Hoppi Loppi curates are safe for kids and have a timeless, sustainable quality that can be passed on to the next generation. Meticulously sourced from Europe and especially Scandinavia, their collections cover sleep, eat and play from newborns to early teens.&nbsp;</p>\n\n<p>Note: Direct payment via Kris+ on partner&rsquo;s website is not available. Earn or redeem miles via purchase of promo codes only.&nbsp;</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5405865895501989-hoppiloppi%20logo%20(1).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/08809498450491438-2622550307479783-Untitled.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [],
+			"createdAt": "2024-12-23T01:48:54.211Z",
+			"updatedAt": "2026-08-06T14:18:10.468Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/08809498450491438-2622550307479783-Untitled_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/08809498450491438-2622550307479783-Untitled_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/08809498450491438-2622550307479783-Untitled_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5405865895501989-hoppiloppi%20logo%20(1)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5405865895501989-hoppiloppi%20logo%20(1)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5405865895501989-hoppiloppi%20logo%20(1)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/08809498450491438-2622550307479783-Untitled.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5405865895501989-hoppiloppi%20logo%20(1).png",
+			"searchContent": "Simple and elegantly designed, the toys that Hoppi Loppi curates are safe for kids and have a timeless, sustainable quality that can be passed on to the next generation. Meticulously sourced from Europe and especially Scandinavia, their collections cover sleep, eat and play from newborns to early teens. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. Kids Toys Kids Gifts Play Fun Pretend Play Imaginative Play Toys Retail Baby & Kids",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "hoppi-loppi-459576b4",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Hoppi Loppi",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

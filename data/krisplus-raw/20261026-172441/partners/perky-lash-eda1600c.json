@@ -1,0 +1,221 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/perky-lash-eda1600c",
+	"slug": "perky-lash-eda1600c",
+	"fetchedAt": "2026-10-26T17:26:30.951+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60ecef9a625c3643b03411e3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Serangoon",
+				"Beauty",
+				"Treatments",
+				"Eyelash",
+				"Extensions",
+				"Collagen",
+				"Curls",
+				"Lift",
+				"Eyebrow",
+				"Embroidery",
+				"Long Lasting",
+				"Tint",
+				"Tampines",
+				"Services",
+				"Nex",
+				"Tampines One",
+				"Lashes",
+				"Raffles Place",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Perky Lash Pte Ltd",
+			"brand": "Perky Lash",
+			"code": "PK1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Perky Lash",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "19 Tai Keng Place",
+				"postalCode": "534336",
+				"streetName": "Tai Keng Place"
+			},
+			"regNumber": "201840627N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8377424471514481-750x540%20brand%20image.jpg",
+			"websiteUrl": "https://www.perkylash.com/",
+			"descriptionHtml": "<p>Using the world's first laser processed lashes, Perky Lash delivers featherlite eyelash extensions that have anti-allergy protection. Lashes are 25% longer lasting and does zero damage to your natural lashes. <span style=\"font-size:11.0pt\"><span style=\"font-family:\" calibri\",sans-serif\"=\"\">Full pre-payment is required by Perky Lash to secure a booking confirmation. Kindly note that payments via Kris+ is only applicable for in-store booking of appointments and walk-ins (subjected to availability).</span></span></p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>NEX</li>\n\t\n\t<li>One Raffles Place</li>\n\t<li>Tampines One</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7410050952202447-1000x1000%20logo.jpg",
+			"createdAt": "2021-07-13T01:42:50.685Z",
+			"updatedAt": "2026-08-06T14:17:18.806Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "•\tNEX\n•\t8 Liang Seah Street",
+			"promotional": "            ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9b90108b03f047da59d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8377424471514481-750x540%20brand%20image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7410050952202447-1000x1000%20logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8377424471514481-750x540%20brand%20image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8377424471514481-750x540%20brand%20image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8377424471514481-750x540%20brand%20image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7410050952202447-1000x1000%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7410050952202447-1000x1000%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7410050952202447-1000x1000%20logo_high.jpg"
+			},
+			"searchContent": "Using the world's first laser processed lashes, Perky Lash delivers featherlite eyelash extensions that have anti-allergy protection. Lashes are 25% longer lasting and does zero damage to your natural lashes. Full pre-payment is required by Perky Lash to secure a booking confirmation. Kindly note that payments via Kris+ is only applicable for in-store booking of appointments and walk-ins (subjected to availability). Participating Outlets: NEX One Raffles Place Tampines One Serangoon Beauty Treatments Eyelash Extensions Collagen Curls Lift Eyebrow Embroidery Long Lasting Tint Tampines Services Nex Tampines One Lashes Raffles Place Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Services Personal Care",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:16:19.198Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "perky-lash-eda1600c",
+			"outlets": [
+				{
+					"_id": "60ed366acc823f2c08fcd59a",
+					"name": "NEX"
+				},
+				{
+					"_id": "60ed373dcc823f2c08fcd59c",
+					"name": "1 Raffles Place"
+				},
+				{
+					"_id": "6120b41f9384b81c0ca0b95f",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "69fb01b6d198e78f8edaea31",
+					"name": "18 Tai Seng Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"NEX",
+			"1 Raffles Place",
+			"Tampines 1",
+			"18 Tai Seng Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Perky Lash",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,199 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mitsu-sushi-bar-2be439ac",
+	"slug": "mitsu-sushi-bar-2be439ac",
+	"fetchedAt": "2026-10-26T17:26:34.711+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60fe394228a0c43bf0836a1b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Tanjong Pagar",
+				"Outram Park",
+				"Japanese",
+				"Sushi",
+				"Restaurant",
+				"Omakase",
+				"Lunch",
+				"Dinner",
+				"Chirashi",
+				"Tonkatsu",
+				"Katsu",
+				"Soba",
+				"Wagyu",
+				"Ikura",
+				"Uni",
+				"Sashimi",
+				"Don",
+				"Couples",
+				"First Dates",
+				"Dining",
+				"Valentines Day",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Mitsu Dining Concepts Pte Ltd",
+			"brand": "Mitsu Sushi Bar",
+			"code": "MIT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Mitsu Sushi Ba",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "994 Bendemeer Road , #02-06 B Central ",
+				"postalCode": "339943",
+				"streetName": "Bendemeer Road"
+			},
+			"regNumber": "201024222C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/12222898142313121-6359939111580293-Mitsui%20750%20x%20540.png",
+			"websiteUrl": "https://www.instagram.com/mitsu.sushibar",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Mitsu%20Sushi%20Bar\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a></em><br><br>Passionate in delivering high quality Japanese cuisine, Mitsu Sushi Bar specializes in a variety of Japanese food and beverages, with ingredients sourced from famous markets in Japan. Choose to dine from their omakase menu or pick from their a la carte dishes.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 2.5,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false,
+				"amountBlock": 1,
+				"base": 6,
+				"cardSettlement": 0.975,
+				"saleOfMiles": 0.032,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"calculatedMilesEarnRate": 6
+			},
+			"promotional": " \n",
+			"participatingOutlets": "21 Duxton Road ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8806251302888275-MitsuSushiBar.png",
+			"createdAt": "2021-07-26T04:25:38.378Z",
+			"updatedAt": "2026-08-06T14:17:19.273Z",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9b545578ca5d7f0b3b6"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12222898142313121-6359939111580293-Mitsui%20750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8806251302888275-MitsuSushiBar.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12222898142313121-6359939111580293-Mitsui%20750%20x%20540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12222898142313121-6359939111580293-Mitsui%20750%20x%20540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12222898142313121-6359939111580293-Mitsui%20750%20x%20540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8806251302888275-MitsuSushiBar_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8806251302888275-MitsuSushiBar_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8806251302888275-MitsuSushiBar_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "*Click here to Reserve A Table. Passionate in delivering high quality Japanese cuisine, Mitsu Sushi Bar specializes in a variety of Japanese food and beverages, with ingredients sourced from famous markets in Japan. Choose to dine from their omakase menu or pick from their a la carte dishes. Tanjong Pagar Outram Park Japanese Sushi Restaurant Omakase Lunch Dinner Chirashi Tonkatsu Katsu Soba Wagyu Ikura Uni Sashimi Don Couples First Dates Dining Valentines Day Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Japanese",
+			"refundPeriodUpdatedAt": "2026-01-31T10:11:25.375Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mitsu-sushi-bar-2be439ac",
+			"outlets": [
+				{
+					"_id": "61021903b9f1f97500ecae9c",
+					"name": "Duxton Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Duxton Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mitsu Sushi Bar",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

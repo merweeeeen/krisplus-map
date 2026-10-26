@@ -1,0 +1,283 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kazo-singapore-8d080e93",
+	"slug": "kazo-singapore-8d080e93",
+	"fetchedAt": "2026-10-26T17:27:26.153+08:00",
+	"payload": {
+		"partner": {
+			"_id": "624272a985f14b235448cca2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING",
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Dessert",
+				"Cakes",
+				"Tarts",
+				"Savoury",
+				"Taiwan",
+				"Polo Bun",
+				"Mao Shan Wang Durian Cream Puff",
+				"Kazu Kazu",
+				"Tanjong Katong",
+				"Bugis Junction",
+				"Funan Mall",
+				"Plaza Singapura",
+				"Suntec City",
+				"Ang Mo Kio",
+				"Vivocity",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Bites",
+				"Snacks",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "BUTTER BAKERY PTE LTD",
+			"brand": "Kazo Singapore",
+			"code": "KAZ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Kazo Singapore",
+			"address": {
+				"line1": "65 SIMS AVENUE, #02-06, YI XIU FACTORY BUILDING, Singapore",
+				"postalCode": "387418",
+				"streetName": "SIMS AVENUE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201708697W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6309619181396875-569273978538096-brand%20image%20app.png%20750%20x%20540.png",
+			"websiteUrl": "https://www.kazo.sg/",
+			"descriptionHtml": "<p>KAZO<sup>®️</sup> (卡滋屋) serves a decadent range of Taiwanese pastries and desserts freshly baked with the finest ingredients specially flown from Taiwan to uphold its authentic Taiwanese taste. Revered for their crisp and crunchy crust, they have popular desserts including the Mao Shan Wang Crispy Durian Cream Puff, Taiwanese Polo Bun, Crispy Cream Puff, Kazu Kazu and their Original Cheese Tart.</p>  <p>Participating Outlets: </p>  <ul> \t \t<li>AMK Hub</li> \t<li>Century Square</li> \t<li>Funan Mall</li> \t<li>Hillion Mall</li><li>JEM</li> \t<li>Kinex Mall (Kazo Caf<span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">é</span>) </li> \t<li>Lazada One </li><li>Northpoint City</li> \t<li>Pasir Ris Mall (Kazo Café)</li> \t<li>Sengkang Grand Mall</li> \t<li>Suntec City</li> \t<li>VivoCity</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8837273182273122-8471552338355095-logo%20app-1.png%201000%20x%201000(1).png",
+			"createdAt": "2022-03-29T02:44:57.610Z",
+			"updatedAt": "2026-09-08T03:44:52.050Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"participatingOutlets": "•\t283 Tanjong Katong (Kazo Café)\n•\tBugis Junction \n•\tFunan Mall\n•\tJcube\n•\tJewel Changi Airport\n•\tPlaza Singapura \n•\tSuntec City ",
+			"promotional": "     ",
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS"
+							]
+						}
+					]
+				},
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef988b35256c5b2c9bee8"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 12
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6309619181396875-569273978538096-brand%20image%20app.png%20750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8837273182273122-8471552338355095-logo%20app-1.png%201000%20x%201000(1).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6309619181396875-569273978538096-brand%20image%20app_low.png%20750%20x%20540",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6309619181396875-569273978538096-brand%20image%20app_med.png%20750%20x%20540",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6309619181396875-569273978538096-brand%20image%20app_high.png%20750%20x%20540"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8837273182273122-8471552338355095-logo%20app-1_low.png%201000%20x%201000(1)",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8837273182273122-8471552338355095-logo%20app-1_med.png%201000%20x%201000(1)",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8837273182273122-8471552338355095-logo%20app-1_high.png%201000%20x%201000(1)"
+			},
+			"searchContent": "$31",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-22T09:19:24.427Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kazo-singapore-8d080e93",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "62452c8299afbd3adc51edcd",
+					"name": "Suntec City "
+				},
+				{
+					"_id": "62452fba99afbd3adc51edd4",
+					"name": "Funan"
+				},
+				{
+					"_id": "624530f52451b7151ce2f675",
+					"name": "Kazo Cafe - Kinex Mall"
+				},
+				{
+					"_id": "62ec6bc65d9ed62058621188",
+					"name": "Hillion Mall"
+				},
+				{
+					"_id": "63806c178194c9301c336df2",
+					"name": "Vivocity"
+				},
+				{
+					"_id": "638ee76f9c828935608b0c35",
+					"name": "Lazada One"
+				},
+				{
+					"_id": "63aa6ca6672dfc130ceab824",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "6405b11e869a812208779801",
+					"name": "Sengkang Grand Mall"
+				},
+				{
+					"_id": "66504d26b8dfb10068eb77ea",
+					"name": "Kazo Cafe - Pasir Ris Mall"
+				},
+				{
+					"_id": "6705ddedcc5226b9f363d2c3",
+					"name": "Century Square"
+				},
+				{
+					"_id": "67a302bb76701d007284705a",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "687da9b0729dab3eb77cc22e",
+					"name": "JEM"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City ",
+			"Funan",
+			"Kazo Cafe - Kinex Mall",
+			"Hillion Mall",
+			"Vivocity",
+			"Lazada One",
+			"AMK Hub",
+			"Sengkang Grand Mall",
+			"Kazo Cafe - Pasir Ris Mall",
+			"Century Square",
+			"Northpoint City",
+			"JEM"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kazo Singapore",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

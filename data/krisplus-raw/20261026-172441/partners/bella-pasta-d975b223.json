@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bella-pasta-d975b223",
+	"slug": "bella-pasta-d975b223",
+	"fetchedAt": "2026-10-26T17:30:23.788+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66f13458e49c3b99b995990a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Pasta",
+				"Italian",
+				"Alfresco",
+				"Pizza",
+				"Outdoor",
+				"Casual",
+				"Vegetarian",
+				"Family Friendly"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Bella Pasta Pte Ltd",
+			"brand": "Bella Pasta",
+			"code": "BPP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Bella Pasta",
+			"address": {
+				"line1": "30 Robertson Quay #01-09 Singapore 238251",
+				"postalCode": "238251",
+				"streetName": "30 Robertson Quay",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"QBS",
+								"ITA"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.bellapasta.com.sg/",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Bella%20Pasta\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a><br><br></em>Bella Pasta has been serving authentic Italian fare at Robertson Quay over the last 15 years! Nestled by the riverside, the restaurant offers an alfresco dining experience that is ideal for romantic evenings, lively gatherings, or a relaxing lunch with views of the Singapore river.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/023634179468706495-058828916641938234-A.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2898253897638132-8051235952579894-C.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-09-23T09:26:48.850Z",
+			"updatedAt": "2026-08-06T14:18:07.638Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2898253897638132-8051235952579894-C_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2898253897638132-8051235952579894-C_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2898253897638132-8051235952579894-C_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/023634179468706495-058828916641938234-A_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/023634179468706495-058828916641938234-A_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/023634179468706495-058828916641938234-A_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2898253897638132-8051235952579894-C.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/023634179468706495-058828916641938234-A.jpg",
+			"searchContent": "*Click here to Reserve A Table. Bella Pasta has been serving authentic Italian fare at Robertson Quay over the last 15 years! Nestled by the riverside, the restaurant offers an alfresco dining experience that is ideal for romantic evenings, lively gatherings, or a relaxing lunch with views of the Singapore river. Pasta Italian Alfresco Pizza Outdoor Casual Vegetarian Family Friendly Dining Vegetarian-Friendly Casual Dining Kid-Friendly Quick Bites & Snacks Italian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:01:02.639Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bella-pasta-d975b223",
+			"outlets": [
+				{
+					"_id": "66f13719bbed21006d004fe1",
+					"name": "30 Robertson Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"30 Robertson Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bella Pasta",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

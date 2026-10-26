@@ -1,0 +1,242 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/haidilao-hot-pot-c69eb076",
+	"slug": "haidilao-hot-pot-c69eb076",
+	"fetchedAt": "2026-10-26T17:32:49.959+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69082986725be51952156041",
+			"name": "SINGAPORE HAI DI LAO DINING PTE LTD",
+			"shortName": "Haidilao",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Haidilao Hot Pot",
+			"code": "HDL",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/39661731338638395-HaiDiLao.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/857339750795834-9656700597316641-B%26F.png",
+			"websiteUrl": "https://www.haidilao-inc.com/sg",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "9 Raffles Place  #26-01",
+				"postalCode": "048619",
+				"streetName": "Republic Plaza",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Haidilao Hot Pot is the largest direct-operated hot pot brand in China and a globally renowned Chinese restaurant chain, with a total of over 1 billion customer visits. Through continuous product and service innovations, Haidilao spreads Chinese hot pot culture to food enthusiasts around the world, earning customer adoration globally.</p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\"><br>Participating Outlets:</span></p><ul style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\"><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">313@Somerset</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">IMM</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Vivocity</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Royal Square@Novena</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Plaza Singapura</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">the Seletar Mall</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Sun Plaza</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Paya Lebar Quarter</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Century Square</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Marina Square</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Marina Bay Sands</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Wisma Atria</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Bugis+</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Jurong Point</span></li><li style=\"box-sizing: border-box; font-weight: 300;\"><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\">Northpoint City</span></li></ul>",
+			"searchableKeywords": [
+				"Hot pot",
+				"hai di lao",
+				"huo guo",
+				"soup",
+				"mala",
+				"family gathering",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 15
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-03T04:03:18.274Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/39661731338638395-HaiDiLao.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/857339750795834-9656700597316641-B%26F.png",
+			"createdAt": "2025-11-03T04:03:18.289Z",
+			"updatedAt": "2026-10-01T01:19:13.340Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/857339750795834-9656700597316641-B%26F_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/857339750795834-9656700597316641-B%26F_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/857339750795834-9656700597316641-B%26F_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/39661731338638395-HaiDiLao_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/39661731338638395-HaiDiLao_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/39661731338638395-HaiDiLao_high.png"
+			},
+			"searchContent": "Haidilao Hot Pot is the largest direct-operated hot pot brand in China and a globally renowned Chinese restaurant chain, with a total of over 1 billion customer visits. Through continuous product and service innovations, Haidilao spreads Chinese hot pot culture to food enthusiasts around the world, earning customer adoration globally. Participating Outlets: 313@SomersetIMMVivocityRoyal Square@NovenaPlaza Singapurathe Seletar MallSun PlazaPaya Lebar QuarterCentury SquareMarina SquareMarina Bay SandsWisma AtriaBugis+Jurong PointNorthpoint City Hot pot hai di lao huo guo soup mala family gathering FortuneFeast Dining Casual Dining Kid-Friendly Chinese Asian",
+			"newMerchantEndDate": "2026-05-10T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "haidilao-hot-pot-c69eb076",
+			"isDisplayOnKrisWeb": true,
+			"outlets": [
+				{
+					"_id": "690c653b243f2bfcd8679c72",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "690c65d53d6bd15f71dc8e09",
+					"name": "IMM"
+				},
+				{
+					"_id": "690c662d1c01241fc256bda7",
+					"name": "Vivocity"
+				},
+				{
+					"_id": "690c6683d822eb70ad0808bf",
+					"name": "Royal Square@Novena"
+				},
+				{
+					"_id": "690c66c7eb7415bc7b6a9d7b",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "690c6722bd3abfabdd09985a",
+					"name": "Seletar Mall"
+				},
+				{
+					"_id": "690c6764ba0cc90242c5e601",
+					"name": "Sun Plaza"
+				},
+				{
+					"_id": "690c67b59e8c1deb919a2cfe",
+					"name": "Paya Lebar Quarter"
+				},
+				{
+					"_id": "690c6823d822eb70ad080a9d",
+					"name": "Century Square"
+				},
+				{
+					"_id": "690c6874d660e46249370594",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "690c68c41c01241fc256bfb5",
+					"name": "Marina Bay Sands "
+				},
+				{
+					"_id": "690c6940bd3abfabdd099ab4",
+					"name": "Wisma Atria "
+				},
+				{
+					"_id": "690c699e311d359c63e1b54f",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "690c6a02eb7415bc7b6aa0b1",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "690c6a7d311d359c63e1b65f",
+					"name": "Bugis+"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset",
+			"IMM",
+			"Vivocity",
+			"Royal Square@Novena",
+			"Plaza Singapura",
+			"Seletar Mall",
+			"Sun Plaza",
+			"Paya Lebar Quarter",
+			"Century Square",
+			"Marina Square",
+			"Marina Bay Sands ",
+			"Wisma Atria ",
+			"Jurong Point",
+			"Northpoint City",
+			"Bugis+"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Haidilao Hot Pot",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

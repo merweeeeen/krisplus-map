@@ -1,0 +1,293 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/capitol-optical-84989321",
+	"slug": "capitol-optical-84989321",
+	"fetchedAt": "2026-10-26T17:25:39.791+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f6ad77bd5694b099caa92c0",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Capitol Optical Co Pte Ltd",
+			"brand": "Capitol Optical",
+			"code": "CAP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Capitol",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "211 Henderson Road #03-02",
+				"postalCode": "159552",
+				"streetName": "Henderson Road"
+			},
+			"regNumber": "197702279G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-b4ddea52-7677-4ccd-b57a-c1778dd91b68.png",
+			"websiteUrl": "https://capitol.com.sg/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-f269c2be-9fa0-4f6f-b71a-e028b7bb1979.png",
+			"createdAt": "2020-09-23T05:04:59.634Z",
+			"updatedAt": "2026-09-28T03:07:01.246Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.03,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tChangi City Point\n•\tCity Square Mall\n•\tCompass One\n•\tForum The Shopping Mall\n•\tGreat World\n•\tJEM\n•\tJunction 8\n•\tLOT 1\n•\tLucky Plaza Level 1\n•\tLucky Plaza Level 2\n•\tNorthpoint City\n•\tRaffles City\n•\tRivervale Mall\n•\tSuntec City\n•\tTampines Mall\n•\tTanglin Mall\n•\tWhitesands Shopping Centre",
+			"promotional": "                  ",
+			"descriptionHtml": "<p>Equipped with the latest optical equipment, Capitol Optical provides a range of eye health services and solutions for various vision needs. Stay in style with latest designer eyewear while keeping your vision sharp and clear.<br> <br> Participating outlets:<br> • Changi City Point<br> • City Square Mall<br> • Compass One<br> • Forum The Shopping Mall<br> • Great World City<br> • JEM<br> • Junction 8<br> • LOT 1<br> • Lucky Plaza (Level 2)<br> • Northpoint City<br> • One Holland Village<br> • Pasir Ris Mall<br> • Raffles City Shopping Centre<br> • Rivervale Mall<br> • Sengkang Grand Mall<br> • Suntec City<br> • Tampines Mall<br> • Tanglin Mall<br> • White Sands Mall</p>",
+			"searchableKeywords": [
+				"Zion Road",
+				"Yishun",
+				"Promenade",
+				"Esplanade",
+				"Raffles Boulevard",
+				"Jurong East",
+				"Tanah Merah",
+				"Pasir Ris",
+				"Tanglin Road",
+				"Tampines",
+				"City Hall",
+				"Orchard",
+				"Bukit Batok",
+				"Bishan",
+				"Farrer Park",
+				"Fashion",
+				"Retail",
+				"Changi",
+				"East",
+				"Optics",
+				"Spectacles",
+				"Contact Lens",
+				"Contact Lens Solution",
+				"Saline",
+				"Shades",
+				"Sunglasses",
+				"Lens",
+				"Frames",
+				"Eyewear",
+				"Accessories",
+				"Health",
+				"Wellness",
+				"Optical",
+				"Changi City Point",
+				"City Square Mall",
+				"Forum The Shopping Mall",
+				"Great World City",
+				"Jem",
+				"Junction 8",
+				"Lot 1",
+				"Lucky Plaza",
+				"Northpoint City",
+				"Raffles City Shopping Centre",
+				"Rivervale Mall",
+				"Suntec City",
+				"Tampines Mall",
+				"Tanglin Mall",
+				"White Sands Mall",
+				"Screening",
+				"J8",
+				"Sengkang Grand Mall",
+				"One Holland Village"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR3",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d9a3718718842dd971"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-b4ddea52-7677-4ccd-b57a-c1778dd91b68.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-f269c2be-9fa0-4f6f-b71a-e028b7bb1979.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-b4ddea52-7677-4ccd-b57a-c1778dd91b68_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-b4ddea52-7677-4ccd-b57a-c1778dd91b68_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-b4ddea52-7677-4ccd-b57a-c1778dd91b68_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-f269c2be-9fa0-4f6f-b71a-e028b7bb1979_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-f269c2be-9fa0-4f6f-b71a-e028b7bb1979_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-f269c2be-9fa0-4f6f-b71a-e028b7bb1979_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-25T07:52:08.959Z",
+			"searchContent": "Equipped with the latest optical equipment, Capitol Optical provides a range of eye health services and solutions for various vision needs. Stay in style with latest designer eyewear while keeping your vision sharp and clear. Participating outlets: • Changi City Point • City Square Mall • Compass One • Forum The Shopping Mall • Great World City • JEM • Junction 8 • LOT 1 • Lucky Plaza (Level 2) • Northpoint City • One Holland Village • Pasir Ris Mall • Raffles City Shopping Centre • Rivervale Mall • Sengkang Grand Mall • Suntec City • Tampines Mall • Tanglin Mall • White Sands Mall Zion Road Yishun Promenade Esplanade Raffles Boulevard Jurong East Tanah Merah Pasir Ris Tanglin Road Tampines City Hall Orchard Bukit Batok Bishan Farrer Park Fashion Retail Changi East Optics Spectacles Contact Lens Contact Lens Solution Saline Shades Sunglasses Lens Frames Eyewear Accessories Health Wellness Optical Changi City Point City Square Mall Forum The Shopping Mall Great World City Jem Junction 8 Lot 1 Lucky Plaza Northpoint City Raffles City Shopping Centre Rivervale Mall Suntec City Tampines Mall Tanglin Mall White Sands Mall Screening J8 Sengkang Grand Mall One Holland Village Retail Accessories, Jewellery & Watches",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "capitol-optical-84989321",
+			"outlets": [
+				{
+					"_id": "5f7c1410a902b039045fabc4",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "5f7c1a0fa902b039045fabc8",
+					"name": "Forum The Shopping Mall"
+				},
+				{
+					"_id": "5f7c1aa2a6f1df54c43c0c23",
+					"name": "JEM"
+				},
+				{
+					"_id": "5f7c1af6a902b039045fabca",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "5f7c1ba4a902b039045fabcd",
+					"name": "Lot One Shoppers' Mall"
+				},
+				{
+					"_id": "5f7c1c36a6f1df54c43c0c27",
+					"name": "Lucky Plaza Level 2"
+				},
+				{
+					"_id": "5f7c1cdca6f1df54c43c0c29",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "5f7c1d37a902b039045fabcf",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "5f7c1dc0a6f1df54c43c0c2b",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "5f7c1df7a6f1df54c43c0c2d",
+					"name": "Tanglin Mall"
+				},
+				{
+					"_id": "5f7c1e3aa902b039045fabd3",
+					"name": "White Sands"
+				},
+				{
+					"_id": "5f7c1e8aa6f1df54c43c0c2f",
+					"name": "Compass One"
+				},
+				{
+					"_id": "5f7c277da902b039045fabd5",
+					"name": "Great World"
+				},
+				{
+					"_id": "5f7c2e29a6f1df54c43c0c34",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "5f7c2e72a902b039045fabd9",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "65485e81f5c43300599eea07",
+					"name": "One Holland Village"
+				},
+				{
+					"_id": "66456e8eaf2aed007107225b",
+					"name": "Pasir Ris Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"City Square Mall",
+			"Forum The Shopping Mall",
+			"JEM",
+			"Junction 8",
+			"Lot One Shoppers' Mall",
+			"Lucky Plaza Level 2",
+			"Raffles City Shopping Centre",
+			"Suntec City",
+			"Tampines Mall",
+			"Tanglin Mall",
+			"White Sands",
+			"Compass One",
+			"Great World",
+			"Northpoint City",
+			"Changi City Point",
+			"One Holland Village",
+			"Pasir Ris Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Capitol Optical",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

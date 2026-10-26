@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/en-yeohs-bak-kut-teh-8db11f27",
+	"slug": "en-yeohs-bak-kut-teh-8db11f27",
+	"fetchedAt": "2026-10-26T17:35:15.117+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a7a83c66a9ba42b15fca6e6",
+			"name": "EN DINING BAR HOLDINGS PTE LTD (En Yeoh's BKT)",
+			"shortName": "En Yeohs BKT",
+			"mccCode": "5812",
+			"mccDescription": "undefined",
+			"brand": "En Yeoh's Bak Kut Teh",
+			"code": "ENY",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9823677214201634-036117315717508314-en%20y%20260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8942619250107466-18976851965066466-Brand%20image%20(750w%20x%20540h).jpg",
+			"websiteUrl": "https://enyeohsbkt.com.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "160 ROBINSON ROAD #22-04/05/06",
+				"postalCode": "068914",
+				"streetName": "SBF CENTER",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Singapore’s first Bak Kut Teh tea house by day and bar by night, unites the rich heritage of Klang’s renowned Bak Kut Teh with a contemporary twist.</p><p>Participating outlets:<br>- Changi City Point<br>- Chinatown Point<br>- Suntec City</p>",
+			"searchableKeywords": [
+				"Bak Kut Teh",
+				"Local",
+				"Tea house"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR4",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ASI",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 0,
+			"newMerchantEndDate": "2026-11-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-08-11T02:07:02.572Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9823677214201634-036117315717508314-en%20y%20260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8942619250107466-18976851965066466-Brand%20image%20(750w%20x%20540h).jpg",
+			"createdAt": "2026-08-11T02:07:02.578Z",
+			"updatedAt": "2026-09-01T01:24:22.507Z",
+			"searchContent": "Singapore’s first Bak Kut Teh tea house by day and bar by night, unites the rich heritage of Klang’s renowned Bak Kut Teh with a contemporary twist. Participating outlets: - Changi City Point - Chinatown Point - Suntec City Bak Kut Teh Local Tea house Dining Casual Dining Asian Chinese",
+			"slugId": "en-yeohs-bak-kut-teh-8db11f27",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8942619250107466-18976851965066466-Brand%20image%20(750w%20x%20540h)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8942619250107466-18976851965066466-Brand%20image%20(750w%20x%20540h)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8942619250107466-18976851965066466-Brand%20image%20(750w%20x%20540h)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9823677214201634-036117315717508314-en%20y%20260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9823677214201634-036117315717508314-en%20y%20260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9823677214201634-036117315717508314-en%20y%20260_high.png"
+			},
+			"outlets": [
+				{
+					"_id": "6a7abf4096719f129773c370",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "6a7ac0686a9ba42b15fd579c",
+					"name": "Chinatown Point"
+				},
+				{
+					"_id": "6a7ac1d8a134c6cd3cf3b9bb",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi City Point",
+			"Chinatown Point",
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "En Yeoh's Bak Kut Teh",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

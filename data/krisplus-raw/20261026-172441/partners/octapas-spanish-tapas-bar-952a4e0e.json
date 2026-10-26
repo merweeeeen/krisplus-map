@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/octapas-spanish-tapas-bar-952a4e0e",
+	"slug": "octapas-spanish-tapas-bar-952a4e0e",
+	"fetchedAt": "2026-10-26T17:29:02.574+08:00",
+	"payload": {
+		"partner": {
+			"_id": "645848a445c717005c4a976c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Tapas Paella Sangria",
+				"dining",
+				"Clarke Quay",
+				"spanish",
+				"sangria",
+				"paella",
+				"live music",
+				"live band"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Octapas Private Limited",
+			"brand": "Octapas Spanish Tapas Bar",
+			"code": "OCT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Octapas",
+			"address": {
+				"city": "Singapore",
+				"line1": "Blk 3E Clarke Quay, #01-07. River Valley Road. Singapore 179023",
+				"streetName": "Blk 3E Clarke Quay, #01-07",
+				"postalCode": "179023",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200403500N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9955728392905858-5935381082005502-Paella%20750x540.jpg",
+			"websiteUrl": "https://www.octapasasia.com",
+			"descriptionHtml": "<p>Experience all things Spanish including a myriad of hot and cold tapas, traditional chilled Sangrias and Paellas. This authentic experience is topped off with live music every night!</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4860554671109609-34740288436160105-OCT%20logo%201000.jpg",
+			"createdAt": "2023-05-08T00:56:04.206Z",
+			"updatedAt": "2026-08-06T14:17:44.613Z",
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94a08272955cb5b8b86"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"privilege": false,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9955728392905858-5935381082005502-Paella%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4860554671109609-34740288436160105-OCT%20logo%201000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9955728392905858-5935381082005502-Paella%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9955728392905858-5935381082005502-Paella%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9955728392905858-5935381082005502-Paella%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4860554671109609-34740288436160105-OCT%20logo%201000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4860554671109609-34740288436160105-OCT%20logo%201000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4860554671109609-34740288436160105-OCT%20logo%201000_high.jpg"
+			},
+			"searchContent": "Experience all things Spanish including a myriad of hot and cold tapas, traditional chilled Sangrias and Paellas. This authentic experience is topped off with live music every night! Tapas Paella Sangria dining Clarke Quay spanish sangria paella live music live band Dining Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:29:57.946Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "octapas-spanish-tapas-bar-952a4e0e",
+			"outlets": [
+				{
+					"_id": "645849a9969b2b005caf6785",
+					"name": "Clarke Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Octapas Spanish Tapas Bar",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

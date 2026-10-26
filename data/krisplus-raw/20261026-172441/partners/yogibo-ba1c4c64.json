@@ -1,0 +1,161 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/yogibo-ba1c4c64",
+	"slug": "yogibo-ba1c4c64",
+	"fetchedAt": "2026-10-26T17:34:03.150+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69aa4a8835efce5e3ac4a483",
+			"name": "CTIA SG PTE.LTD.",
+			"shortName": "Yogibo",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Yogibo",
+			"code": "CTI",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/26611038903983086-2107451779055114-Brand%20Logo-A-100%20(002).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/694459191123123-6752034112019385-Brand%20Image-B-100%20(002).jpg",
+			"websiteUrl": "https://yogibo.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "9 RAFFLES PLACE #58-02 REPUBLIC PLAZA SINGAPORE 048619",
+				"postalCode": "048619",
+				"streetName": "9 RAFFLES PLACE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Discover Yogibo, the lifestyle brand renowned for its     innovative, patented stretchy covers and supportive bead-filled furniture that     molds perfectly to your body for unrivaled comfort. Loved by families, gamers,     and homeowners alike, its versatile and durable designs offer the perfect blend     of modern comfort, style, and relaxation.</p>",
+			"searchableKeywords": [
+				"Beans bag",
+				"Furniture",
+				"soft sofa",
+				"comfy chair",
+				"soft chair"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-06T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-03-06T03:31:20.130Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/26611038903983086-2107451779055114-Brand%20Logo-A-100%20(002).jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/694459191123123-6752034112019385-Brand%20Image-B-100%20(002).jpg",
+			"createdAt": "2026-03-06T03:31:20.240Z",
+			"updatedAt": "2026-08-06T14:18:30.084Z",
+			"searchContent": "Discover Yogibo, the lifestyle brand renowned for its innovative, patented stretchy covers and supportive bead-filled furniture that molds perfectly to your body for unrivaled comfort. Loved by families, gamers, and homeowners alike, its versatile and durable designs offer the perfect blend of modern comfort, style, and relaxation. Beans bag Furniture soft sofa comfy chair soft chair Retail Home & Lifestyle",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/694459191123123-6752034112019385-Brand%20Image-B-100%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/694459191123123-6752034112019385-Brand%20Image-B-100%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/694459191123123-6752034112019385-Brand%20Image-B-100%20(002)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/26611038903983086-2107451779055114-Brand%20Logo-A-100%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/26611038903983086-2107451779055114-Brand%20Logo-A-100%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/26611038903983086-2107451779055114-Brand%20Logo-A-100%20(002)_high.jpg"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "yogibo-ba1c4c64",
+			"outlets": [
+				{
+					"_id": "69aa4bac461315e7f589c6ad",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Yogibo",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

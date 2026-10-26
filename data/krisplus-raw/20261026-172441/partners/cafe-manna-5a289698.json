@@ -1,0 +1,163 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cafe-manna-5a289698",
+	"slug": "cafe-manna-5a289698",
+	"fetchedAt": "2026-10-26T17:31:49.812+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6864f4109344b40409e15704",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.015,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dessert",
+				"Waffles",
+				"Ice Cream",
+				"Matcha",
+				"Rosti",
+				"Whole Day Breakfast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "THE WHITE TIFFIN PTE LTD",
+			"brand": "Cafe Manna",
+			"code": "CMA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Cafe Manna",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1550 Bedok North Avenue 4",
+				"postalCode": "489950",
+				"streetName": "JTC Bedok Food City #04-16"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.instagram.com/cafemannasg",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Cafe%20Manna\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Cafe Manna is a popular spot in the Dhoby Ghaut area. Whether you're looking for a light bite or the full foodie experience, explore the dishes at Cafe Manna and experience authentic Western food in Singapore<span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3804367151934356-CafeManna.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7515331539882595-9393348529286465-Kris%2B%20x%20Cafe%20Manna%20-%202025%20-%20750x540px%20(1).png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3804367151934356-CafeManna.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7515331539882595-9393348529286465-Kris%2B%20x%20Cafe%20Manna%20-%202025%20-%20750x540px%20(1).png",
+			"createdAt": "2025-07-02T08:55:44.948Z",
+			"updatedAt": "2026-08-06T14:18:16.138Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3804367151934356-CafeManna_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3804367151934356-CafeManna_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3804367151934356-CafeManna_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T02:13:40.548Z",
+			"searchContent": "*Click here to Reserve A Table. Cafe Manna is a popular spot in the Dhoby Ghaut area. Whether you're looking for a light bite or the full foodie experience, explore the dishes at Cafe Manna and experience authentic Western food in Singapore. Dessert Waffles Ice Cream Matcha Rosti Whole Day Breakfast Dining Cafe Western",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cafe-manna-5a289698",
+			"outlets": [
+				{
+					"_id": "68b6696b0806cf046dbdfc66",
+					"name": "Sophia Hills"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sophia Hills"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cafe Manna",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

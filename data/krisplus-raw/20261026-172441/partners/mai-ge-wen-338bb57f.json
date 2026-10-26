@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mai-ge-wen-338bb57f",
+	"slug": "mai-ge-wen-338bb57f",
+	"fetchedAt": "2026-10-26T17:33:09.891+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69290c79b40e4f6c2182f072",
+			"name": "BUTTER & BREW PTE LTD",
+			"shortName": "Mai Ge Wen",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Mai Ge Wen",
+			"code": "MAI",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/892579363967019-MaiGeWen.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9070187562753853-10696682247650457-MGW%20Food%20750x540.jpg",
+			"websiteUrl": "https://www.instagram.com/mai_ge_wen/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "NORTHSTAR AT AMK 7030",
+				"postalCode": "569880",
+				"streetName": "ANG MO KIO AVENUE 5 #09-08",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Mai Ge Wen is a café concept that combines classic Taiwanese breakfast staples with well-loved Singaporean favourites, thoughtfully reinterpreted with a modern and creative touch. They offer comfort food that evokes nostalgia while presenting a fresh, contemporary dining experience.</p>",
+			"searchableKeywords": [
+				"Breakfast",
+				"Taiwanese",
+				"Local",
+				"Café",
+				"Kids Friendly",
+				"Brunch",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR4",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"QBS",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-28T02:44:09.248Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/892579363967019-MaiGeWen.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9070187562753853-10696682247650457-MGW%20Food%20750x540.jpg",
+			"createdAt": "2025-11-28T02:44:09.256Z",
+			"updatedAt": "2026-08-06T14:18:25.552Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9070187562753853-10696682247650457-MGW%20Food%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9070187562753853-10696682247650457-MGW%20Food%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9070187562753853-10696682247650457-MGW%20Food%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/892579363967019-MaiGeWen_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/892579363967019-MaiGeWen_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/892579363967019-MaiGeWen_high.jpg"
+			},
+			"searchContent": "Mai Ge Wen is a café concept that combines classic Taiwanese breakfast staples with well-loved Singaporean favourites, thoughtfully reinterpreted with a modern and creative touch. They offer comfort food that evokes nostalgia while presenting a fresh, contemporary dining experience. Breakfast Taiwanese Local Café Kids Friendly Brunch Dining Casual Dining Quick Bites & Snacks Chinese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mai-ge-wen-338bb57f",
+			"outlets": [
+				{
+					"_id": "69290e168600068d488eeebb",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mai Ge Wen",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

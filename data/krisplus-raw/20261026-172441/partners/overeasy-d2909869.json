@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/overeasy-d2909869",
+	"slug": "overeasy-d2909869",
+	"fetchedAt": "2026-10-26T17:28:35.445+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6399708afc5b843e8cc5f3b0",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0,
+					"saleOfMilesPct": 4.2,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.021,
+				"base": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 4
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Burger",
+				"American",
+				"Drinks",
+				"Cocktails",
+				"Wings",
+				"Mac  Cheese",
+				"Milkshakes",
+				"Dining",
+				"Marina Bay",
+				"Esplanade",
+				"Fullerton"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Over Easy Pte Ltd",
+			"brand": "OverEasy",
+			"code": "OVR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "OverEasy",
+			"address": {
+				"city": "Singapore",
+				"line1": "267 Beach Road, Singapore 199545",
+				"streetName": "267 Beach Road",
+				"postalCode": "199545",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200819342H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7433172443567639-Overeasy.png",
+			"websiteUrl": "https://www.overeasy.com.sg/",
+			"descriptionHtml": "<p>OverEasy is the ultimate American diner concept, offering a quintessential stateside experience in the heart of Singapore. The menu features iconic dishes and nostalgic crowd favourites across America, alongside decadent milkshakes and American-inspired cocktails. OverEasy draws inspiration from the edgy, vibrant spirit of the retro ‘60s and ‘70s and boasts sweeping views of the Marina Bay skyline.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"promotional": "                    ",
+			"participatingOutlets": "1 Fullerton Road 01-06",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9409804736888647-Overeasy.png",
+			"createdAt": "2022-12-14T06:43:22.710Z",
+			"updatedAt": "2026-08-06T14:17:39.084Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"CD"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95d45578ca5d7f0b38b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7433172443567639-Overeasy.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9409804736888647-Overeasy.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7433172443567639-Overeasy_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7433172443567639-Overeasy_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7433172443567639-Overeasy_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9409804736888647-Overeasy_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9409804736888647-Overeasy_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9409804736888647-Overeasy_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "OverEasy is the ultimate American diner concept, offering a quintessential stateside experience in the heart of Singapore. The menu features iconic dishes and nostalgic crowd favourites across America, alongside decadent milkshakes and American-inspired cocktails. OverEasy draws inspiration from the edgy, vibrant spirit of the retro ‘60s and ‘70s and boasts sweeping views of the Marina Bay skyline. Burger American Drinks Cocktails Wings Mac  Cheese Milkshakes Dining Marina Bay Esplanade Fullerton Dining Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "overeasy-d2909869",
+			"outlets": [
+				{
+					"_id": "639ae15be3c45304c099f62b",
+					"name": "One Fullerton"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"One Fullerton"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "OverEasy",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

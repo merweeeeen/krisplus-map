@@ -1,0 +1,198 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/entro-cycles-63f1c51b",
+	"slug": "entro-cycles-63f1c51b",
+	"fetchedAt": "2026-10-26T17:31:31.768+08:00",
+	"payload": {
+		"partner": {
+			"_id": "681d7b158888a931839126df",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bicycle",
+				"Accessories",
+				"Maintenance",
+				"Bike",
+				"Bicycle Shop",
+				"Singapore Bike Shop",
+				"Entro",
+				"Entro Cycles",
+				"East Side",
+				"Gravel",
+				"Gravel Bicycle",
+				"Gravel Singapore",
+				"Road Bike",
+				"Road Bike Shop",
+				"Road Bike Singapore",
+				"Road Bike Brands",
+				"Road Bicycle",
+				"Road Bicycle Shop",
+				"3T",
+				"Airace",
+				"Ale",
+				"Arundel",
+				"Btp",
+				"Eddymerckx",
+				"Evoc",
+				"Fanttik",
+				"Fizik",
+				"Hirzl",
+				"Hjc",
+				"Hutchinson",
+				"Infini",
+				"Kedge",
+				"Kogel",
+				"Koo",
+				"Lizardskins",
+				"Morganblue",
+				"Oury",
+				"Pedaled",
+				"Psb",
+				"Reynolds",
+				"Ridley",
+				"Tons",
+				"Ultrahuman"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "CYCLE PROJECT PTE LTD",
+			"brand": "Entro Cycles",
+			"code": "TRO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Entro Cycles",
+			"address": {
+				"city": "Singapore",
+				"line1": "1 Kaki Bukit Road 1 #01-11 Enterprise One Singapore 415934",
+				"streetName": "1 Kaki Bukit Road",
+				"postalCode": "415934",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.entro.com.sg",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Entro Cycles was established in 2002 to provide quality parts and services to competitive cyclists. Today, it is the authorized dealer for more than 16 leading international bicycle-related brands. The large selection not only provides competitive riders with the latest bicycle technology to hone their performance but also attracts casual cyclists looking to break into the sport.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/44378090352871813-entro.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/41751345366719383-43573878039562586-Untitled%201.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/44378090352871813-entro.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/41751345366719383-43573878039562586-Untitled%201.png",
+			"createdAt": "2025-05-09T03:48:37.606Z",
+			"updatedAt": "2026-09-15T03:18:31.247Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/41751345366719383-43573878039562586-Untitled%201_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/41751345366719383-43573878039562586-Untitled%201_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/41751345366719383-43573878039562586-Untitled%201_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/44378090352871813-entro_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/44378090352871813-entro_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/44378090352871813-entro_high.png"
+			},
+			"searchContent": "Entro Cycles was established in 2002 to provide quality parts and services to competitive cyclists. Today, it is the authorized dealer for more than 16 leading international bicycle-related brands. The large selection not only provides competitive riders with the latest bicycle technology to hone their performance but also attracts casual cyclists looking to break into the sport. Bicycle Accessories Maintenance Bike Bicycle Shop Singapore Bike Shop Entro Entro Cycles East Side Gravel Gravel Bicycle Gravel Singapore Road Bike Road Bike Shop Road Bike Singapore Road Bike Brands Road Bicycle Road Bicycle Shop 3T Airace Ale Arundel Btp Eddymerckx Evoc Fanttik Fizik Hirzl Hjc Hutchinson Infini Kedge Kogel Koo Lizardskins Morganblue Oury Pedaled Psb Reynolds Ridley Tons Ultrahuman Retail Home & Lifestyle",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:43:13.256Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "entro-cycles-63f1c51b",
+			"outlets": [
+				{
+					"_id": "681d7db54fd94d43d941a694",
+					"name": "Enterprise One"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Enterprise One"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Entro Cycles",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

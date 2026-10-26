@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/four-points-eatery-98fac186",
+	"slug": "four-points-eatery-98fac186",
+	"fetchedAt": "2026-10-26T17:35:05.163+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a5ee6d40cc6b6ab4a6adee3",
+			"name": "Four Points by Sheraton Singapore (Four Points Eatery)",
+			"shortName": "Four Points Ea",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Four Points Eatery",
+			"code": "4PE",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2549017181027462-9857683615845227-Kris%2B%20-%20App%20Brand%20Logo%20(Four%20Points%20Eatery).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/11531383813589957-3882055556307096-Kris%2B%20-%20Brand%20Image%20(Four%20Points%20Eatery).png",
+			"websiteUrl": "https://www.marriott.com/en-us/hotels/sinfp-four-points-by-sheraton-singapore-riverview/dining/four-points-eatery/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "382 Havelock Road  Singapore 169629",
+				"postalCode": "169629",
+				"streetName": "382 Havelock Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Four Points Eatery offers a relaxed all-day dining experience featuring local, Southeast Asian, and international favourites in a vibrant riverside setting overlooking the scenic Singapore River. Perfect for casual meals, family gatherings and social celebrations in the heart of Singapore.</span></p>",
+			"searchableKeywords": [
+				"Four Points Eatery Singapore",
+				"Four Points Riverview restaurant",
+				"hotel buffet Singapore",
+				"affordable buffet Singapore",
+				"buffet promotion Singapore",
+				"buffet Robertson Quay",
+				"Singapore River restaurant",
+				"Havelock Road food",
+				"family buffet Singapore",
+				"group dining Singapore",
+				"local buffet Singapore"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 6,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-10-04T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-21T03:26:12.507Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2549017181027462-9857683615845227-Kris%2B%20-%20App%20Brand%20Logo%20(Four%20Points%20Eatery).png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11531383813589957-3882055556307096-Kris%2B%20-%20Brand%20Image%20(Four%20Points%20Eatery).png",
+			"createdAt": "2026-07-21T03:26:12.521Z",
+			"updatedAt": "2026-09-30T16:00:05.227Z",
+			"searchContent": "Four Points Eatery offers a relaxed all-day dining experience featuring local, Southeast Asian, and international favourites in a vibrant riverside setting overlooking the scenic Singapore River. Perfect for casual meals, family gatherings and social celebrations in the heart of Singapore. Four Points Eatery Singapore Four Points Riverview restaurant hotel buffet Singapore affordable buffet Singapore buffet promotion Singapore buffet Robertson Quay Singapore River restaurant Havelock Road food family buffet Singapore group dining Singapore local buffet Singapore Dining Casual Dining Asian Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11531383813589957-3882055556307096-Kris%2B%20-%20Brand%20Image%20(Four%20Points%20Eatery)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11531383813589957-3882055556307096-Kris%2B%20-%20Brand%20Image%20(Four%20Points%20Eatery)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11531383813589957-3882055556307096-Kris%2B%20-%20Brand%20Image%20(Four%20Points%20Eatery)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2549017181027462-9857683615845227-Kris%2B%20-%20App%20Brand%20Logo%20(Four%20Points%20Eatery)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2549017181027462-9857683615845227-Kris%2B%20-%20App%20Brand%20Logo%20(Four%20Points%20Eatery)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2549017181027462-9857683615845227-Kris%2B%20-%20App%20Brand%20Logo%20(Four%20Points%20Eatery)_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "four-points-eatery-98fac186",
+			"outlets": [
+				{
+					"_id": "6a5f05347eee1bf9b4ac8bb0",
+					"name": "Four Points Sheraton Riverview"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Four Points Sheraton Riverview"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Four Points Eatery",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

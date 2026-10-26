@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/emir-brasserie-3828f783",
+	"slug": "emir-brasserie-3828f783",
+	"fetchedAt": "2026-10-26T17:33:51.973+08:00",
+	"payload": {
+		"partner": {
+			"_id": "698455931474f6aed95b9c41",
+			"name": "SAVORA EMIR PTE LTD",
+			"shortName": "Emir Brasserie",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Emir Brasserie",
+			"code": "EBS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9052257150052516-EmirBrasserie.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6750871724594494-6199236079549986-Emir%20Brasserie%20Brand%20Image%20PNG.png",
+			"websiteUrl": "https://www.instagram.com/emirbrasserie.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "93 OWEN ROAD",
+				"postalCode": "218905",
+				"streetName": "93 OWEN ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Emir Brasserie draws from the charm of old-world European brasseries - traditional preparations, classic flavours, and a deep respect for craft. Their dishes follow time-honoured techniques and are guided by seasonal ingredients, including produce brought in from Europe at their peak. Emir reflects the spirit of a true brasserie kitchen - rooted in tradition, shaped by discipline, and crafted to bring the feeling of being in Europe through its authenticity.</span></p><p><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">Emir Brasserie<span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105);\"> </span></span><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">is a Muslim owned establishment.</span></p>",
+			"searchableKeywords": [
+				"Halal",
+				"malay",
+				"european"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"BD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-05T08:32:19.204Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9052257150052516-EmirBrasserie.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6750871724594494-6199236079549986-Emir%20Brasserie%20Brand%20Image%20PNG.png",
+			"createdAt": "2026-02-05T08:32:19.216Z",
+			"updatedAt": "2026-09-04T05:35:40.412Z",
+			"searchContent": "Emir Brasserie draws from the charm of old-world European brasseries - traditional preparations, classic flavours, and a deep respect for craft. Their dishes follow time-honoured techniques and are guided by seasonal ingredients, including produce brought in from Europe at their peak. Emir reflects the spirit of a true brasserie kitchen - rooted in tradition, shaped by discipline, and crafted to bring the feeling of being in Europe through its authenticity. Emir Brasserie is a Muslim owned establishment. Halal malay european Dining Halal Fine Dining Beverages & Desserts Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6750871724594494-6199236079549986-Emir%20Brasserie%20Brand%20Image%20PNG_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6750871724594494-6199236079549986-Emir%20Brasserie%20Brand%20Image%20PNG_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6750871724594494-6199236079549986-Emir%20Brasserie%20Brand%20Image%20PNG_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9052257150052516-EmirBrasserie_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9052257150052516-EmirBrasserie_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9052257150052516-EmirBrasserie_high.png"
+			},
+			"newMerchantEndDate": "2026-05-03T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "emir-brasserie-3828f783",
+			"outlets": [
+				{
+					"_id": "6984573a80dc0e23c628a000",
+					"name": "North Bridge"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"North Bridge"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Emir Brasserie",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

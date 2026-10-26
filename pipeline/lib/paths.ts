@@ -9,6 +9,7 @@ export const STATE_PATHS = {
 	geocodeCache: join(DATA_DIR, "cache", "geocode.json"),
 	geocodeOverrides: join(DATA_DIR, "overrides", "geocode.json"),
 	outDir: join(DATA_DIR, "out"),
+	publicDataDir: join(DATA_DIR, "..", "public", "data"),
 };
 
 export function runPaths(runId: string) {
@@ -26,6 +27,7 @@ export function runPaths(runId: string) {
 		normalizedOutlets: join(workDir, "outlets.normalized.json"),
 		identityReview: join(workDir, "identity-review.json"),
 		geocodedOutlets: join(workDir, "outlets.geocoded.json"),
+		validatedOutlets: join(workDir, "outlets.validated.json"),
 	};
 }
 

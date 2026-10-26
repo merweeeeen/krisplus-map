@@ -1,0 +1,220 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/overscoop-52a6f9bc",
+	"slug": "overscoop-52a6f9bc",
+	"fetchedAt": "2026-10-26T17:28:21.382+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6347dc3433763730d8e22f4d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Overscoop",
+				"Desserts",
+				"Waffle",
+				"Coffee",
+				"Cafe",
+				"Tea",
+				"Croffle",
+				"Gelato",
+				"Ice Cream",
+				"Chocolate",
+				"Dining",
+				"Yishun",
+				"Junction Nine",
+				"Orchard Central",
+				"Hougang Rivercourt",
+				"Dates",
+				"Valentines Day",
+				"Sweet Treats",
+				"Café",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Cakes",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic",
+				"Clarke Quay"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Overscoop Pte Ltd",
+			"brand": "Overscoop",
+			"code": "OSP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Overscoop",
+			"address": {
+				"line1": "477A Upper Serangoon View, #02-548 Singapore 531477",
+				"postalCode": "531477",
+				"streetName": "477A Upper Serangoon View",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "202108746C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/06507290917269648-717752099884055-284881703_580396116723711_1421931928193895352_n.jpg",
+			"websiteUrl": "https://www.overscoop.com.sg",
+			"descriptionHtml": "<p>Overscoop is a dessert cafe specialising in waffles, croffles, and gelato. They take pride in their ability to discover nostalgic yet unique flavours. Their waffles come in different flavours and are freshly baked upon order to ensure a crispy exterior and fluffy interior. Be sure to try their oldie but goodie Pandan Coconut and Dark Cocoa flavour!</p>  <ul> \t \t<li>Orchard Central</li> \t \t<li>Tanjong Pagar</li> \t<li>Clarke Quay<br> \t​​​​​</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"promotional": "                             ",
+			"participatingOutlets": "•\tHougang Rivercourt\n•\tOrchard Central\n•\tYishun Junction Nine",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/49864319073679275-27725144474997054-Overscoop%20Logo.jpg",
+			"createdAt": "2022-10-13T09:36:52.118Z",
+			"updatedAt": "2026-08-06T14:17:37.619Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef966034603c338929986"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/06507290917269648-717752099884055-284881703_580396116723711_1421931928193895352_n.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/49864319073679275-27725144474997054-Overscoop%20Logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/06507290917269648-717752099884055-284881703_580396116723711_1421931928193895352_n_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/06507290917269648-717752099884055-284881703_580396116723711_1421931928193895352_n_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/06507290917269648-717752099884055-284881703_580396116723711_1421931928193895352_n_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/49864319073679275-27725144474997054-Overscoop%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/49864319073679275-27725144474997054-Overscoop%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/49864319073679275-27725144474997054-Overscoop%20Logo_high.jpg"
+			},
+			"searchContent": "Overscoop is a dessert cafe specialising in waffles, croffles, and gelato. They take pride in their ability to discover nostalgic yet unique flavours. Their waffles come in different flavours and are freshly baked upon order to ensure a crispy exterior and fluffy interior. Be sure to try their oldie but goodie Pandan Coconut and Dark Cocoa flavour! Orchard Central Tanjong Pagar Clarke Quay ​​​​​ Overscoop Desserts Waffle Coffee Cafe Tea Croffle Gelato Ice Cream Chocolate Dining Yishun Junction Nine Orchard Central Hougang Rivercourt Dates Valentines Day Sweet Treats Café Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Cakes Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Art Braci Origin Nobu 665 Solo Restaurant Romantic Clarke Quay Dining Beverages & Desserts",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-28T09:48:16.943Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "overscoop-52a6f9bc",
+			"outlets": [
+				{
+					"_id": "635415262623e11940ec8cc0",
+					"name": "Orchard Central"
+				},
+				{
+					"_id": "66e3d956a8e5f9006cd72a35",
+					"name": "Tanjong Pagar"
+				},
+				{
+					"_id": "67289241778b3e006add4943",
+					"name": "Clarke Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Orchard Central",
+			"Tanjong Pagar",
+			"Clarke Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Overscoop",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,209 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/angra-wine-spirit-323abc9a",
+	"slug": "angra-wine-spirit-323abc9a",
+	"fetchedAt": "2026-10-26T17:25:26.852+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5eba4f6efeb84d3398b491b2",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "ANGRA WINE & SPIRIT IMPORTERS PTE LTD",
+			"brand": "Angra Wine & Spirit",
+			"code": "ANG",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "39 KEPPEL ROAD ",
+				"postalCode": "089065",
+				"streetName": "KEPPEL ROAD"
+			},
+			"category": "RETAIL",
+			"regNumber": "200513271M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-29ceceef-a08b-45e4-8e9f-fa2cef76dacc.jpg",
+			"websiteUrl": "https://www.angra.com.sg",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-3e0052e4-966f-4a86-bfcd-d2365584daed.png",
+			"createdAt": "2020-05-12T07:25:34.705Z",
+			"updatedAt": "2026-09-01T01:54:08.782Z",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"base": 3,
+				"cardSettlement": 0.975,
+				"saleOfMiles": 0.032,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 2.5,
+					"saleOfMilesPct": 0
+				},
+				"calculatedMilesEarnRate": 3,
+				"autoDeductSaleOfMilesPct": false
+			},
+			"hideFromCustomer": false,
+			"participatingOutlets": "39 Keppel Road, #03-03",
+			"promotional": "     ",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5921",
+			"mccDescription": "Package Stores - Beer, Wine, and Liquor",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Angra offers the finest wines from the most important wine regions. Each wine has been specifically selected for its quality, innovation and respect for tradition. Angra carries more than 60 internationally known wineries and is committed to bring authentic and outstanding products to wine enthusiasts.</p>  <p>For online orders, select payment method: \"KrisPay miles\".</p>",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Angra",
+			"searchableKeywords": [
+				"Tanjong Pagar Distripark",
+				"Keppel Road",
+				"Retail",
+				"Wine",
+				"Beer",
+				"Living",
+				"Distributor",
+				"Rioja",
+				"Chateau",
+				"Bordeaux",
+				"Riesling",
+				"Warehouse",
+				"Wine Seller",
+				"Wein",
+				"Vino",
+				"Wijn",
+				"New World Wine",
+				"Old World Wine",
+				"Australia",
+				"France",
+				"Spain",
+				"German",
+				"New Zealand",
+				"Cellar",
+				"Organic Wine",
+				"White Wine",
+				"Red Wine",
+				"Rose Wine",
+				"Champagne",
+				"Cava",
+				"Prosecco",
+				"Alcohol",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9ddb35256c5b2c9bf1b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-29ceceef-a08b-45e4-8e9f-fa2cef76dacc.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-3e0052e4-966f-4a86-bfcd-d2365584daed.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-29ceceef-a08b-45e4-8e9f-fa2cef76dacc_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-29ceceef-a08b-45e4-8e9f-fa2cef76dacc_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-29ceceef-a08b-45e4-8e9f-fa2cef76dacc_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-3e0052e4-966f-4a86-bfcd-d2365584daed_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-3e0052e4-966f-4a86-bfcd-d2365584daed_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-3e0052e4-966f-4a86-bfcd-d2365584daed_high.png"
+			},
+			"searchContent": "Angra offers the finest wines from the most important wine regions. Each wine has been specifically selected for its quality, innovation and respect for tradition. Angra carries more than 60 internationally known wineries and is committed to bring authentic and outstanding products to wine enthusiasts. For online orders, select payment method: \"KrisPay miles\". Tanjong Pagar Distripark Keppel Road Retail Wine Beer Living Distributor Rioja Chateau Bordeaux Riesling Warehouse Wine Seller Wein Vino Wijn New World Wine Old World Wine Australia France Spain German New Zealand Cellar Organic Wine White Wine Red Wine Rose Wine Champagne Cava Prosecco Alcohol Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Retail Gifts & Souvenirs",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.135Z",
+			"slugId": "angra-wine-spirit-323abc9a",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "5ee9878740deb14d0891bc20",
+					"name": "Tanjong Pagar Distripark"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tanjong Pagar Distripark"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Angra Wine & Spirit",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/geometry-cafaf204",
+	"slug": "geometry-cafaf204",
+	"fetchedAt": "2026-10-26T17:26:47.031+08:00",
+	"payload": {
+		"partner": {
+			"_id": "615d0f7652c72d98d40f467c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Jalan Bukit Merah",
+				"Redhill",
+				"Ice Cream",
+				"Artisan",
+				"Cold",
+				"Freeze",
+				"Dessert",
+				"Tarts",
+				"Brownies",
+				"Waffles",
+				"Cafe",
+				"Natural Ingredients",
+				"Fusion",
+				"Tea",
+				"Coffee",
+				"Chocolates",
+				"Vanilla",
+				"Strawberry",
+				"Gelato",
+				"Handcrafted",
+				"Deserts",
+				"Dining",
+				"Pastries",
+				"Cakes",
+				"Dates",
+				"Gelato"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Geometry Gelato Pte. Ltd.",
+			"brand": "Geometry",
+			"code": "GEG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Geometry",
+			"address": {
+				"city": "Singapore",
+				"line1": "651 Punggol Central #15-306 ",
+				"streetName": "Punggol Central ",
+				"postalCode": "820651",
+				"cityCode": "SIN"
+			},
+			"regNumber": "202012267C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/45530636258983126-no%20logo.png",
+			"websiteUrl": "https://www.geometry.sg/",
+			"descriptionHtml": "<p>Geometry is a modern dessert caf&eacute; serving a wide variety of gelatos. Pair the gelatos with their signature tarts, brownies and waffles. All in-house desserts are made from scratch with the finest natural ingredients sourced from different parts of the world.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6167798265038247-Webp.net-resizeimage%20(4).png",
+			"createdAt": "2021-10-06T02:52:38.951Z",
+			"updatedAt": "2026-08-06T14:17:21.945Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"base": 3,
+				"cardSettlement": 0.975,
+				"saleOfMiles": 0.032,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 2.5,
+					"saleOfMilesPct": 0
+				},
+				"calculatedMilesEarnRate": 3,
+				"autoDeductSaleOfMilesPct": false
+			},
+			"participatingOutlets": "GEOMETRY GELATO PTE. LTD.\n",
+			"promotional": "GEOMETRY GELATO PTE. LTD.\n",
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9a33d10e34df66b4725"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/45530636258983126-no%20logo.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6167798265038247-Webp.net-resizeimage%20(4).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/45530636258983126-no%20logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/45530636258983126-no%20logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/45530636258983126-no%20logo_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6167798265038247-Webp_low.net-resizeimage%20(4)",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6167798265038247-Webp_med.net-resizeimage%20(4)",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6167798265038247-Webp_high.net-resizeimage%20(4)"
+			},
+			"searchContent": "Geometry is a modern dessert caf&eacute; serving a wide variety of gelatos. Pair the gelatos with their signature tarts, brownies and waffles. All in-house desserts are made from scratch with the finest natural ingredients sourced from different parts of the world. Jalan Bukit Merah Redhill Ice Cream Artisan Cold Freeze Dessert Tarts Brownies Waffles Cafe Natural Ingredients Fusion Tea Coffee Chocolates Vanilla Strawberry Gelato Handcrafted Deserts Dining Pastries Cakes Dates Gelato Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "geometry-cafaf204",
+			"outlets": [
+				{
+					"_id": "615d4aa169e734872075b72f",
+					"name": "Jalan Bukit Merah"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jalan Bukit Merah"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Geometry",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,153 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/pelago-6b9b1f0d",
+	"slug": "pelago-6b9b1f0d",
+	"fetchedAt": "2026-10-26T17:30:18.497+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66de87d58428bd0073d1a80d",
+			"privilegeConfig": {
+				"scanToRedeem": false
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 11,
+				"saleOfMiles": 0.012,
+				"amountBlock": 1,
+				"base": 11,
+				"baseFundedByKrisPlus": 8,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 300000,
+				"minTokens": 60000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Activities",
+				"Travel",
+				"Things To Do",
+				"Universal Studios Singapore",
+				"Zoo",
+				"Attractions",
+				"Tours",
+				"Experiences"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "ENCOUNTERS PTE. LTD.",
+			"brand": "Pelago",
+			"code": "PEL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "Pelago",
+			"address": {
+				"line1": "Airline House, 25 Airline Road, Singapore 819829",
+				"postalCode": "819829",
+				"streetName": "Airline Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://ca.krisplus.com/redirect?screen=pelago_intermediary",
+			"descriptionHtml": "<p>Pelago is a travel experiences platform by Singapore Airlines. Book attractions, tours, transport, airport transfers worldwide while earning KrisFlyer miles!<br style=\"font-weight: 300; box-sizing: border-box;\"></p><p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">Discover top attractions and experiences in destinations like Singapore, Japan, Switzerland, Australia and more including:</p><ul style=\"font-weight: 300; box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\"><li style=\"font-weight: 300; box-sizing: border-box;\">Singapore Oceanarium</li><li style=\"font-weight: 300; box-sizing: border-box;\">Universal Studios</li><li style=\"font-weight: 300; box-sizing: border-box;\">Gardens by the Bay</li><li style=\"font-weight: 300; box-sizing: border-box;\">Disneyland</li><li style=\"font-weight: 300; box-sizing: border-box;\">Disney Adventure by Disney Cruise Line</li><li style=\"font-weight: 300; box-sizing: border-box;\">Bintan Resort Ferries</li><li style=\"font-weight: 300; box-sizing: border-box;\">Singapore Zoo</li><li style=\"font-weight: 300; box-sizing: border-box;\">Formula 1 Singapore Airlines Singapore Grand Prix</li><li style=\"font-weight: 300; box-sizing: border-box;\">Swiss Travel Pass</li><li style=\"font-weight: 300; box-sizing: border-box;\">Airport Transfers worldwide</li></ul><br style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\"><p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">Easily access Pelago on Kris+: </p><ul><li>Tap on the link under 'Location & Contact' below; or </li><li>Go back to the Homepage and tap on the \"Pelago\" icon on the top bar.</li></ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9610720746792092-00038539971762396874-pelago%20logo%20260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/34357909251103935-26245126229978166-Brand%20Image%20App%20(750%20%E2%94%9C%C3%B9%20540px).png",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-09-09T05:29:57.918Z",
+			"updatedAt": "2026-10-01T02:00:00.540Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/34357909251103935-26245126229978166-Brand%20Image%20App%20(750%20%E2%94%9C%C3%B9%20540px).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9610720746792092-00038539971762396874-pelago%20logo%20260x260.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/34357909251103935-26245126229978166-Brand%20Image%20App%20(750%20%E2%94%9C%C3%B9%20540px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/34357909251103935-26245126229978166-Brand%20Image%20App%20(750%20%E2%94%9C%C3%B9%20540px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/34357909251103935-26245126229978166-Brand%20Image%20App%20(750%20%E2%94%9C%C3%B9%20540px)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9610720746792092-00038539971762396874-pelago%20logo%20260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9610720746792092-00038539971762396874-pelago%20logo%20260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9610720746792092-00038539971762396874-pelago%20logo%20260x260_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-11-24T02:54:08.563Z",
+			"refundPeriodInDays": 180,
+			"searchContent": "Pelago is a travel experiences platform by Singapore Airlines. Book attractions, tours, transport, airport transfers worldwide while earning KrisFlyer miles! Discover top attractions and experiences in destinations like Singapore, Japan, Switzerland, Australia and more including: Singapore OceanariumUniversal StudiosGardens by the BayDisneylandDisney Adventure by Disney Cruise LineBintan Resort FerriesSingapore ZooFormula 1 Singapore Airlines Singapore Grand PrixSwiss Travel PassAirport Transfers worldwide Easily access Pelago on Kris+: Tap on the link under 'Location & Contact' below; or Go back to the Homepage and tap on the \"Pelago\" icon on the top bar. Activities Travel Things To Do Universal Studios Singapore Zoo Attractions Tours Experiences Activities",
+			"isDisplayOnKrisWeb": true,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "pelago-6b9b1f0d",
+			"newMerchantEndDate": null,
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 11,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Pelago",
+		"earnBadge": "Earn 11 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

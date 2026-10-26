@@ -1,0 +1,196 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/taste-paradise-37eb7a00",
+	"slug": "taste-paradise-37eb7a00",
+	"fetchedAt": "2026-10-26T17:28:09.422+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7c3d39737c23198263dfb",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese Cuisine Local",
+				"Dining",
+				"Ion",
+				"Orchard",
+				"Tasteparadise",
+				"Gathering",
+				"Business Dinners",
+				"Reunion",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations",
+				"Mooncake",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Taste Paradise",
+			"brand": "Taste Paradise",
+			"code": "TAS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Taste Paradise",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201010333R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/04000245008959746-31861198439734073-Taste%20Kris%2B%20750x540.jpg",
+			"websiteUrl": "https://www.paradisegp.com/brand-taste-paradise",
+			"descriptionHtml": "<p>Set in the opulence of ancient elegance, Taste Paradise is set to impress guests from the very moment they step into the restaurant. With gilded slates weaving across the large expanse of the restaurant's ceiling space, the decor is reminiscent of a dragon - the mystical animal revered by the Chinese through the ages.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "             ",
+			"participatingOutlets": "Ion Orchard",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2902701498136053-343476312241366-Taste%20Kris%2B%201000x1000.jpg",
+			"createdAt": "2022-08-13T15:31:31.518Z",
+			"updatedAt": "2026-08-06T14:17:34.761Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96ea3718718842dd946"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/04000245008959746-31861198439734073-Taste%20Kris%2B%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2902701498136053-343476312241366-Taste%20Kris%2B%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/04000245008959746-31861198439734073-Taste%20Kris%2B%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/04000245008959746-31861198439734073-Taste%20Kris%2B%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/04000245008959746-31861198439734073-Taste%20Kris%2B%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2902701498136053-343476312241366-Taste%20Kris%2B%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2902701498136053-343476312241366-Taste%20Kris%2B%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2902701498136053-343476312241366-Taste%20Kris%2B%201000x1000_high.jpg"
+			},
+			"searchContent": "Set in the opulence of ancient elegance, Taste Paradise is set to impress guests from the very moment they step into the restaurant. With gilded slates weaving across the large expanse of the restaurant's ceiling space, the decor is reminiscent of a dragon - the mystical animal revered by the Chinese through the ages. Chinese Cuisine Local Dining Ion Orchard Tasteparadise Gathering Business Dinners Reunion Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Mooncake paradise Dining Chinese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-15T06:21:33.955Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "taste-paradise-37eb7a00",
+			"outlets": [
+				{
+					"_id": "62f924942fd51d0548ce007a",
+					"name": "ION Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Taste Paradise",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

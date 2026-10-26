@@ -1,0 +1,214 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bio-organicare-1451f244",
+	"slug": "bio-organicare-1451f244",
+	"fetchedAt": "2026-10-26T17:32:37.987+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68db29e7b985b1046edd1493",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.027,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL",
+				"SERVICES",
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bio Organicare",
+				"scalp treatment",
+				"hair loss treatment",
+				"hair growth Singapore",
+				"organic haircare",
+				"natural scalp care",
+				"anti hair fall",
+				"dandruff treatment",
+				"oily scalp treatment",
+				"anti hair thinning treatment",
+				"organic scalp treatment Singapore",
+				"hair regrowth",
+				"scalp detox"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "BIO ORGANICARE SCALP PTE LTD",
+			"brand": "BIO ORGANICARE",
+			"code": "ORG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "BIO ORGANICARE",
+			"address": {
+				"line1": "200 JALAN SULTAN #04-20 TEXTILE CENTRE SINGAPORE 199018",
+				"postalCode": "199018",
+				"streetName": "200 JALAN SULTAN",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BEA"
+							]
+						}
+					]
+				},
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				},
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://bio-organicare.com.sg",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 15px;\">Bio Organicare offers scalp and hair treatments using proprietary natural and organic formulas, delivering fast results in both hair growth and hair loss management. Their advanced detox treatment clears oily scalps, minimizes hair fall, and protects against environmental and oxidative damage for a healthier scalp.</span></p><p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\"><span lang=\"EN-US\">Participating         outlets:</span></p>  <ul style=\"list-style-type: circle;\"><li><span lang=\"EN-US\">Century         Square</span></li><li><span lang=\"EN-US\">One@Kent         Ridge</span></li><li><span lang=\"EN-US\">Plaza Singapura</span></li><li><span lang=\"EN-US\">Sengkang Grand Mall<br></span><br></li></ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4628251194936217-BioOrganicare.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/940904075526235-9700633506152492-BOC-B.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4628251194936217-BioOrganicare.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/940904075526235-9700633506152492-BOC-B.jpg",
+			"createdAt": "2025-09-30T00:52:55.520Z",
+			"updatedAt": "2026-08-11T06:18:23.016Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/940904075526235-9700633506152492-BOC-B_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/940904075526235-9700633506152492-BOC-B_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/940904075526235-9700633506152492-BOC-B_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4628251194936217-BioOrganicare_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4628251194936217-BioOrganicare_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4628251194936217-BioOrganicare_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-12-01T01:34:14.005Z",
+			"searchContent": "Bio Organicare offers scalp and hair treatments using proprietary natural and organic formulas, delivering fast results in both hair growth and hair loss management. Their advanced detox treatment clears oily scalps, minimizes hair fall, and protects against environmental and oxidative damage for a healthier scalp. Participating outlets: Century SquareOne@Kent RidgePlaza SingapuraSengkang Grand Mall Bio Organicare scalp treatment hair loss treatment hair growth Singapore organic haircare natural scalp care anti hair fall dandruff treatment oily scalp treatment anti hair thinning treatment organic scalp treatment Singapore hair regrowth scalp detox Retail Beauty Services Personal Care Wellness Beauty Treatment & Spa",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bio-organicare-1451f244",
+			"outlets": [
+				{
+					"_id": "68db3c7fc9447e046d2f79bd",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "6a43225e8b2dbe52c36e231d",
+					"name": "One@Kent Ridge"
+				},
+				{
+					"_id": "6a4324588b2dbe52c36e28a9",
+					"name": "Century Square"
+				},
+				{
+					"_id": "6a4325b33c1b1bc93c57826c",
+					"name": "Sengkang Grand Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Plaza Singapura",
+			"One@Kent Ridge",
+			"Century Square",
+			"Sengkang Grand Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "BIO ORGANICARE",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

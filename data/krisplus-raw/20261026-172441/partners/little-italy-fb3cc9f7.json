@@ -1,0 +1,208 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/little-italy-fb3cc9f7",
+	"slug": "little-italy-fb3cc9f7",
+	"fetchedAt": "2026-10-26T17:26:37.674+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61271c09cd12ed4a38757a66",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Hexacube",
+				"Changi Road",
+				"Eunos",
+				"Spaghetti",
+				"Parma Ham",
+				"Wine",
+				"Vino",
+				"Prosecco",
+				"Calamari",
+				"Bruschetta",
+				"Tagliere",
+				"Pasta",
+				"Risotto",
+				"Chianti",
+				"Amarone",
+				"Moscato",
+				"Docg",
+				"Doc",
+				"Tiramisu",
+				"Gelato",
+				"Pannacotta",
+				"Pizza",
+				"Parmigiana",
+				"Couples",
+				"First Dates",
+				"Valentines Day",
+				"Italian",
+				"Dining",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "GIOTTO PTE LTD",
+			"brand": "Little Italy",
+			"code": "LI1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "LittleItaly",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "160 CHANGI ROAD #01-06",
+				"postalCode": "419728",
+				"streetName": "CHANGI ROAD"
+			},
+			"regNumber": "202103056K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/371000579820411-1336573534374641-Brand%20Image%20750x540.png",
+			"websiteUrl": "https://littleitaly.com.sg/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u>.</a></em><br />\n<br />\nLittle Italy intends to recreate an Italian family environment offering authentic Italian food with traditional recipes and genuine ingredients.</p>\n\n<p>Participating Outlet:</p>\n\n<ul>\n\t<li>Little Italy Salumeria - Hexacube</li>\n\t<li>Little Italy - Woodleigh</li>\n</ul>\n\n<p> </p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "       ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2986485150621183-7030785958532852-logo%20little%20italy%20square%201000x1000.png",
+			"createdAt": "2021-08-26T04:43:53.975Z",
+			"updatedAt": "2026-08-06T14:17:20.197Z",
+			"promotional": "          ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ITA",
+								"EUR"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9b02f71c855d5496e48"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/371000579820411-1336573534374641-Brand%20Image%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2986485150621183-7030785958532852-logo%20little%20italy%20square%201000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/371000579820411-1336573534374641-Brand%20Image%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/371000579820411-1336573534374641-Brand%20Image%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/371000579820411-1336573534374641-Brand%20Image%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2986485150621183-7030785958532852-logo%20little%20italy%20square%201000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2986485150621183-7030785958532852-logo%20little%20italy%20square%201000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2986485150621183-7030785958532852-logo%20little%20italy%20square%201000x1000_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:28:49.265Z",
+			"searchContent": "*Click here to Reserve A Table. Little Italy intends to recreate an Italian family environment offering authentic Italian food with traditional recipes and genuine ingredients. Participating Outlet: Little Italy Salumeria - Hexacube Little Italy - Woodleigh Hexacube Changi Road Eunos Spaghetti Parma Ham Wine Vino Prosecco Calamari Bruschetta Tagliere Pasta Risotto Chianti Amarone Moscato Docg Doc Tiramisu Gelato Pannacotta Pizza Parmigiana Couples First Dates Valentines Day Italian Dining Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Casual Dining Italian European",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "little-italy-fb3cc9f7",
+			"outlets": [
+				{
+					"_id": "612df4e3de09e2697c76ee18",
+					"name": "HexaCube"
+				},
+				{
+					"_id": "67a582e71029fe006be1515a",
+					"name": "Woodleigh Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"HexaCube",
+			"Woodleigh Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Little Italy",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lao-beijing-eaf8b05f",
+	"slug": "lao-beijing-eaf8b05f",
+	"fetchedAt": "2026-10-26T17:27:47.202+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e8b8b19806fb2ea0dda7ae",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese Food",
+				"Chinese Cuisine",
+				"Beijing Cuisine",
+				"Tunglok",
+				"Xiao Long Bao",
+				"Peking Duck",
+				"Dining",
+				"Sinaran Drive",
+				"Tung Lok",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Mooncake",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Lao Beijing",
+			"brand": "Lao Beijing",
+			"code": "LBJ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Lao Beijing",
+			"address": {
+				"line1": "26 Tai Seng St, #02-01, Singapore 534057 ",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng St",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200006691H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7441411103998332-Lao%20beijing.png",
+			"websiteUrl": "https://www.laobeijing.com.sg/",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Lao%20Beijing\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a><br><br></em>Still hooked on classics, Lao Beijing’s cuisine philosophy aims to unite the old and the new. Their chefs’ creativity is always on the go, giving new interpretation to classics that have popularised Chinese cuisine from all over the world.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "              ",
+			"participatingOutlets": "10 Sinaran Dr",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7196986249118282-616828189827789-Brand%20Logo3.jpg",
+			"createdAt": "2022-08-02T05:40:01.342Z",
+			"updatedAt": "2026-08-06T14:17:33.856Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97645578ca5d7f0b398"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7441411103998332-Lao%20beijing.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7196986249118282-616828189827789-Brand%20Logo3.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7441411103998332-Lao%20beijing_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7441411103998332-Lao%20beijing_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7441411103998332-Lao%20beijing_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7196986249118282-616828189827789-Brand%20Logo3_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7196986249118282-616828189827789-Brand%20Logo3_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7196986249118282-616828189827789-Brand%20Logo3_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Still hooked on classics, Lao Beijing’s cuisine philosophy aims to unite the old and the new. Their chefs’ creativity is always on the go, giving new interpretation to classics that have popularised Chinese cuisine from all over the world. Chinese Food Chinese Cuisine Beijing Cuisine Tunglok Xiao Long Bao Peking Duck Dining Sinaran Drive Tung Lok Reunion Business Corporate Dining Working Lunch Networking Mooncake FortuneFeast Dining Chinese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:08:04.660Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lao-beijing-eaf8b05f",
+			"outlets": [
+				{
+					"_id": "62e8bc5de82b3a02c48df520",
+					"name": "Square2 @Novena"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Square2 @Novena"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Lao Beijing",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

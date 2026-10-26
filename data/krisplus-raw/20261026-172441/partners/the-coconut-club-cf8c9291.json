@@ -1,0 +1,186 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-coconut-club-cf8c9291",
+	"slug": "the-coconut-club-cf8c9291",
+	"fetchedAt": "2026-10-26T17:28:34.563+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63996a5cdbab781c6cebecd9",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.019,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Singapore",
+				"Nasi Lemak",
+				"Chendol",
+				"Kueh",
+				"Dining",
+				"Beach Road",
+				"Siglap",
+				"Frankel Avenue"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "The Coconut Club Pte Ltd",
+			"brand": "The Coconut Club",
+			"code": "CLB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "TheCoconutClub",
+			"address": {
+				"city": "Singapore",
+				"line1": "267 Beach Road, Singapore 199545",
+				"streetName": "267 Beach Road",
+				"postalCode": "199545",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201505946K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7290374507902051-6790232697476046-TCC-BRAND%20IMAGE%20(C).jpg",
+			"websiteUrl": "https://www.thecoconutclub.sg/",
+			"descriptionHtml": "<p>The Coconut Club is an iconic gathering place to experience Singaporean food through the lens of the humble coconut. Armed with the belief that coconut milk is the lifeblood of Southeast Asian cuisine, The Coconut Club continues to relentlessly pursue authenticity and quality in reimagining heritage dishes to produce an utterly delicious plate that is truly reflective of Singaporean culture.</p>  <p>Note: Payment via Kris+ is only available for dine-in. </p>  <p>Participating Outlets:</p>  <ul> \t<li>Beach Road</li> \t<li>Siglap</li> \t<li>River Valley</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"promotional": "              ",
+			"participatingOutlets": "The Coconut Club (Beach Road)",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6133794774944099-4027254747930429-TCC-BRAND%20LOGO%20(A).png",
+			"createdAt": "2022-12-14T06:17:00.469Z",
+			"updatedAt": "2026-08-20T02:42:54.769Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95e0108b03f047da571"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7290374507902051-6790232697476046-TCC-BRAND%20IMAGE%20(C).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6133794774944099-4027254747930429-TCC-BRAND%20LOGO%20(A).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7290374507902051-6790232697476046-TCC-BRAND%20IMAGE%20(C)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7290374507902051-6790232697476046-TCC-BRAND%20IMAGE%20(C)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7290374507902051-6790232697476046-TCC-BRAND%20IMAGE%20(C)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6133794774944099-4027254747930429-TCC-BRAND%20LOGO%20(A)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6133794774944099-4027254747930429-TCC-BRAND%20LOGO%20(A)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6133794774944099-4027254747930429-TCC-BRAND%20LOGO%20(A)_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:03:06.444Z",
+			"searchContent": "The Coconut Club is an iconic gathering place to experience Singaporean food through the lens of the humble coconut. Armed with the belief that coconut milk is the lifeblood of Southeast Asian cuisine, The Coconut Club continues to relentlessly pursue authenticity and quality in reimagining heritage dishes to produce an utterly delicious plate that is truly reflective of Singaporean culture. Note: Payment via Kris+ is only available for dine-in. Participating Outlets: Beach Road Siglap River Valley Singapore Nasi Lemak Chendol Kueh Dining Beach Road Siglap Frankel Avenue Dining Casual Dining Asian",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-coconut-club-cf8c9291",
+			"outlets": [
+				{
+					"_id": "639adaeaf69a131a90b37e6f",
+					"name": "Beach Road"
+				},
+				{
+					"_id": "64edfdd8601e430055d3e3bd",
+					"name": "Siglap"
+				},
+				{
+					"_id": "6657dae64b0e69006828b2cd",
+					"name": "River Valley"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Beach Road",
+			"Siglap",
+			"River Valley"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Coconut Club",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ms-durian-d39665fa",
+	"slug": "ms-durian-d39665fa",
+	"fetchedAt": "2026-10-26T17:33:46.242+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69816da739226e80358f3587",
+			"name": "MS. DURIAN PTE LTD",
+			"shortName": "Ms Durian",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Ms Durian",
+			"code": "MSD",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/0855227135424339-7854163144345467-logo%20260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/659355040871026-37441056922214266-Brand%20750.png",
+			"websiteUrl": "https://www.msdurian.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "11 Kelantan Road",
+				"postalCode": "208604",
+				"streetName": "11 Kelantan Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Ms%20Durian\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Singapore’s first durian dessert café where luxury meets local! Ms Durian turns the King of Fruits into royal treats - from rich Mao Shan Wang pastries to creamy durian desserts and even fresh durian feasts. Whether you’re there to chill, celebrate, or chase that durian high, Ms Durian is your sweet, spiky paradise!</span></p>",
+			"searchableKeywords": [
+				"Dessert",
+				"Durian",
+				"Puff",
+				"Cake",
+				"Nasi Lemak",
+				"Ice Cream",
+				"Singaporean",
+				"Mao Shan Wang",
+				"MSW",
+				"Coffee",
+				"Craquelin",
+				"Jalan Besar",
+				"Brunch",
+				"High Tea",
+				"Durian Puff",
+				"Local delight"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-03T03:38:15.506Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0855227135424339-7854163144345467-logo%20260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/659355040871026-37441056922214266-Brand%20750.png",
+			"createdAt": "2026-02-03T03:38:15.522Z",
+			"updatedAt": "2026-08-06T14:18:28.548Z",
+			"searchContent": "*Click here to Reserve A Table. Singapore’s first durian dessert café where luxury meets local! Ms Durian turns the King of Fruits into royal treats - from rich Mao Shan Wang pastries to creamy durian desserts and even fresh durian feasts. Whether you’re there to chill, celebrate, or chase that durian high, Ms Durian is your sweet, spiky paradise! Dessert Durian Puff Cake Nasi Lemak Ice Cream Singaporean Mao Shan Wang MSW Coffee Craquelin Jalan Besar Brunch High Tea Durian Puff Local delight Dining Vegan-Friendly Cafe Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/659355040871026-37441056922214266-Brand%20750_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/659355040871026-37441056922214266-Brand%20750_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/659355040871026-37441056922214266-Brand%20750_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0855227135424339-7854163144345467-logo%20260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0855227135424339-7854163144345467-logo%20260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0855227135424339-7854163144345467-logo%20260_high.png"
+			},
+			"newMerchantEndDate": "2026-05-10T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ms-durian-d39665fa",
+			"outlets": [
+				{
+					"_id": "698170344503a82188a3a51d",
+					"name": "Jalan Besar"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jalan Besar"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Ms Durian",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

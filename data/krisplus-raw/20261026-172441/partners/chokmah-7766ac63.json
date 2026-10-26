@@ -1,0 +1,193 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/chokmah-7766ac63",
+	"slug": "chokmah-7766ac63",
+	"fetchedAt": "2026-10-26T17:27:40.182+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62ce7c9c626c8926786d6ddc",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Jesmonite",
+				"Workshop",
+				"Terrazzo",
+				"Marble",
+				"Jewellery Tray",
+				"Coasters",
+				"Funan",
+				"Gifts",
+				"Sustainable",
+				"Homeware",
+				"House",
+				"Cutlery",
+				"Coasters",
+				"Ecofriendly",
+				"Environmental",
+				"Trays",
+				"Workshop",
+				"Activities",
+				"Retail",
+				"Class",
+				"Workshop",
+				"Activity",
+				"Music",
+				"Concert",
+				"Bonding",
+				"School Holidays",
+				"Virtual",
+				"Teams",
+				"Family",
+				"Friends",
+				"Arts  Crafts",
+				"Immersive Experiences",
+				"Experiences"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Elm & Maple Pte Ltd",
+			"brand": "Chokmah",
+			"code": "CKM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Chokmah",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "3 Coleman Street #03-24",
+				"postalCode": "179804",
+				"streetName": "Peninsula Shopping Complex"
+			},
+			"regNumber": "53400764C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/01671056163337825-5924533236005474-DSC05234.png",
+			"websiteUrl": "https://chokmah.sg/",
+			"descriptionHtml": "<p>Chokmah is a brand of sustainable, lifestyle homeware – proudly designed and handcrafted in Singapore. All products are made from eco-friendly Jesmonite with an emphasis in minimising waste to the environment through their ‘No-Waste Production’ method and minimal machinery usage.<br> <br> Chokmah also runs the very popular Terrazzo Pill Tray-making workshop which is regarded as Singapore’s trendiest workshop and have been featured in Tatler, Zula, Timeout, Sethlui, Straits Times, Mediacorp’s Suria, Vulcanpost, and many more.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR6",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/055254850461935456-new-chokmahapplogo.png",
+			"createdAt": "2022-07-13T08:04:44.535Z",
+			"updatedAt": "2026-08-06T14:17:33.129Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "Funan",
+			"promotional": "            ",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"ENT"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97b0108b03f047da582"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/01671056163337825-5924533236005474-DSC05234.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/055254850461935456-new-chokmahapplogo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/01671056163337825-5924533236005474-DSC05234_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/01671056163337825-5924533236005474-DSC05234_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/01671056163337825-5924533236005474-DSC05234_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/055254850461935456-new-chokmahapplogo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/055254850461935456-new-chokmahapplogo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/055254850461935456-new-chokmahapplogo_high.png"
+			},
+			"searchContent": "Chokmah is a brand of sustainable, lifestyle homeware – proudly designed and handcrafted in Singapore. All products are made from eco-friendly Jesmonite with an emphasis in minimising waste to the environment through their ‘No-Waste Production’ method and minimal machinery usage. Chokmah also runs the very popular Terrazzo Pill Tray-making workshop which is regarded as Singapore’s trendiest workshop and have been featured in Tatler, Zula, Timeout, Sethlui, Straits Times, Mediacorp’s Suria, Vulcanpost, and many more. Jesmonite Workshop Terrazzo Marble Jewellery Tray Coasters Funan Gifts Sustainable Homeware House Cutlery Coasters Ecofriendly Environmental Trays Workshop Activities Retail Class Workshop Activity Music Concert Bonding School Holidays Virtual Teams Family Friends Arts  Crafts Immersive Experiences Experiences Activities Entertainment",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-19T09:25:10.557Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "chokmah-7766ac63",
+			"outlets": [
+				{
+					"_id": "62cf67dd500ebe3640124209",
+					"name": "Stamford Arts Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Stamford Arts Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Chokmah",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

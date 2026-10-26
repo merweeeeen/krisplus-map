@@ -1,0 +1,162 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/gaia-80b5bf8c",
+	"slug": "gaia-80b5bf8c",
+	"fetchedAt": "2026-10-26T17:28:20.543+08:00",
+	"payload": {
+		"partner": {
+			"_id": "633e4578a733f520a80fc796",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 2,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": false,
+			"searchableKeywords": [
+				"Baby",
+				"mother",
+				"kids",
+				"maternity",
+				"mothercare",
+				"infant",
+				"babycare",
+				"organic",
+				"skincare",
+				"skin",
+				"sensitive",
+				"children",
+				"babies",
+				"motherhood",
+				"parenting",
+				"Retail"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": false,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Mamas' Little Angels Pte Ltd",
+			"brand": "GAIA",
+			"code": "GAI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "GAIA",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "160 Woodlands Industrial Park E5",
+				"postalCode": "757867",
+				"streetName": "Woodlands Industrial Park"
+			},
+			"regNumber": "200601855k",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7971049839989723-0612052804445371-Kris%2B%20App_Brand%20Image_750x540.jpg",
+			"websiteUrl": "https://gaia.com.sg/",
+			"descriptionHtml": "<p>Leading the way in organic baby & kids skincare, GAIA is the multi award-winning brand that parents worldwide rave about. Formulated with Certified Organic ingredients that are particularly soothing for sensitive skin.</p>\n\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:\"Calibri\",sans-serif\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. </span></span></span></span>​​​​​​​</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8627089922063922-39228553664735033-GAIA%20logo_Kris%2B%20App_1000x1000.jpg",
+			"createdAt": "2022-10-06T03:03:20.663Z",
+			"updatedAt": "2026-08-06T14:17:37.483Z",
+			"participatingOutlets": "                     ",
+			"promotional": "                     ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"ONLINE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"BK"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef968b51c9781d82fd52d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7971049839989723-0612052804445371-Kris%2B%20App_Brand%20Image_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8627089922063922-39228553664735033-GAIA%20logo_Kris%2B%20App_1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7971049839989723-0612052804445371-Kris%2B%20App_Brand%20Image_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7971049839989723-0612052804445371-Kris%2B%20App_Brand%20Image_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7971049839989723-0612052804445371-Kris%2B%20App_Brand%20Image_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8627089922063922-39228553664735033-GAIA%20logo_Kris%2B%20App_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8627089922063922-39228553664735033-GAIA%20logo_Kris%2B%20App_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8627089922063922-39228553664735033-GAIA%20logo_Kris%2B%20App_1000x1000_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Leading the way in organic baby & kids skincare, GAIA is the multi award-winning brand that parents worldwide rave about. Formulated with Certified Organic ingredients that are particularly soothing for sensitive skin. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. ​​​​​​​ Baby mother kids maternity mothercare infant babycare organic skincare skin sensitive children babies motherhood parenting Retail Retail Baby & Kids",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "gaia-80b5bf8c",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "GAIA",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

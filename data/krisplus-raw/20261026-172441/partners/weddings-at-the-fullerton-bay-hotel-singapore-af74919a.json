@@ -1,0 +1,162 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/weddings-at-the-fullerton-bay-hotel-singapore-af74919a",
+	"slug": "weddings-at-the-fullerton-bay-hotel-singapore-af74919a",
+	"fetchedAt": "2026-10-26T17:33:42.111+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6979c353c29934cdb563c446",
+			"name": "Precious Quay Pte Ltd",
+			"shortName": "Weddings FBH",
+			"mccCode": "5812",
+			"mccDescription": "undefined",
+			"brand": "Weddings at The Fullerton Bay Hotel Singapore",
+			"code": "FBH",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/014976932788994812-WeddingsFullertonBay.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9538886605050045-750%20x%20540.jpg",
+			"websiteUrl": "https://www.fullertonhotels.com/fullerton-bay-hotel-singapore/weddings",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 Fullerton Square Fullerton Hotel",
+				"postalCode": "049178",
+				"streetName": "1 Fullerton Square Fullert",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Beautiful beginnings await at The Fullerton Bay Hotel Singapore, nestled along the mesmerizing Marina Bay waterfront. </p><p>Featuring the iconic Clifford Pier, this five-star venue blends timeless architecture, impeccable service, and breathtaking views to create an unforgettable celebration.</p><p><em>Weddings at The Fullerton Bay Hotel Singapore payments will be capped at SGD 20,000 per transaction. Applicable to bookings at Clifford Pier. </em></p>",
+			"searchableKeywords": [
+				"Weddings",
+				"Fullerton Bay Hotel",
+				"Banquet",
+				"Fullerton Bay Clifford Pier",
+				"Fullerton",
+				"Celebrations"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.044,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HOT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-28T08:05:39.541Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/014976932788994812-WeddingsFullertonBay.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9538886605050045-750%20x%20540.jpg",
+			"createdAt": "2026-01-28T08:05:39.545Z",
+			"updatedAt": "2026-10-26T07:30:15.594Z",
+			"searchContent": "Beautiful beginnings await at The Fullerton Bay Hotel Singapore, nestled along the mesmerizing Marina Bay waterfront. Featuring the iconic Clifford Pier, this five-star venue blends timeless architecture, impeccable service, and breathtaking views to create an unforgettable celebration. Weddings at The Fullerton Bay Hotel Singapore payments will be capped at SGD 20,000 per transaction. Applicable to bookings at Clifford Pier. Weddings Fullerton Bay Hotel Banquet Fullerton Bay Clifford Pier Fullerton Celebrations Services Hotels",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9538886605050045-750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9538886605050045-750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9538886605050045-750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/014976932788994812-WeddingsFullertonBay_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/014976932788994812-WeddingsFullertonBay_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/014976932788994812-WeddingsFullertonBay_high.png"
+			},
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "weddings-at-the-fullerton-bay-hotel-singapore-af74919a",
+			"outlets": [
+				{
+					"_id": "6979c8266993a2fbf08082c9",
+					"name": "The Fullerton Bay Hotel "
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Fullerton Bay Hotel "
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Weddings at The Fullerton Bay Hotel Singapore",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

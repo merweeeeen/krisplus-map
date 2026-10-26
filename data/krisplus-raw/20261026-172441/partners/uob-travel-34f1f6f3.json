@@ -1,0 +1,194 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/uob-travel-34f1f6f3",
+	"slug": "uob-travel-34f1f6f3",
+	"fetchedAt": "2026-10-26T17:28:24.591+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63646a836d37fe2ab4700176",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Travel",
+				"Tour",
+				"Package",
+				"Hotel",
+				"Land Tour",
+				"Experience",
+				"Ticket",
+				"Excursion",
+				"Cruises",
+				"River Cruise",
+				"Expedition Cruise",
+				"Flight",
+				"Air Tickets",
+				"Luxury",
+				"Exclusive",
+				"Promotion",
+				"Miles",
+				"Experiences",
+				"Toa Payoh",
+				"Hdb Hub",
+				"Services",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "UOB TRAVEL PLANNERS PTE LTD",
+			"brand": "UOB Travel",
+			"code": "UOT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "UOBTravel",
+			"address": {
+				"city": "Singapore",
+				"line1": "80 Raffles Place, UOB Plaza Singapore 048624",
+				"streetName": "80 Raffles Place",
+				"postalCode": "048624",
+				"cityCode": "SIN"
+			},
+			"regNumber": "197400040W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6522053666898446-6258007089104658-app-750.jpg",
+			"websiteUrl": "https://www.uobtravel.com/packages.html",
+			"descriptionHtml": "<p>As one of Singapore’s leading travel agencies, UOB Travel offers an array of land tours, cruises and all-inclusive packages to create unique and exclusive travel experiences.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6620979255981627-7698694537100041-app-1000.jpg",
+			"createdAt": "2022-11-04T01:27:31.742Z",
+			"updatedAt": "2026-09-01T02:08:17.811Z",
+			"participatingOutlets": "                           ",
+			"promotional": "                           ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef964a65eaf5ea7682876"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6522053666898446-6258007089104658-app-750.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6620979255981627-7698694537100041-app-1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6522053666898446-6258007089104658-app-750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6522053666898446-6258007089104658-app-750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6522053666898446-6258007089104658-app-750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6620979255981627-7698694537100041-app-1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6620979255981627-7698694537100041-app-1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6620979255981627-7698694537100041-app-1000_high.jpg"
+			},
+			"searchContent": "As one of Singapore’s leading travel agencies, UOB Travel offers an array of land tours, cruises and all-inclusive packages to create unique and exclusive travel experiences. Travel Tour Package Hotel Land Tour Experience Ticket Excursion Cruises River Cruise Expedition Cruise Flight Air Tickets Luxury Exclusive Promotion Miles Experiences Toa Payoh Hdb Hub Services Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Services",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-27T02:36:52.145Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "uob-travel-34f1f6f3",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "636474baa91ab238289ce8ee",
+					"name": "HDB Hub"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"HDB Hub"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "UOB Travel",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

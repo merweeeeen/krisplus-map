@@ -1,0 +1,167 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bw-automobiles-43d656d3",
+	"slug": "bw-automobiles-43d656d3",
+	"fetchedAt": "2026-10-26T17:35:16.152+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a7bf9298c793963bfe37310",
+			"name": "BW AUTOMOBILES PTE. LTD.",
+			"shortName": "BW Automobiles",
+			"mccCode": "5511",
+			"mccDescription": "Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing",
+			"brand": "BW Automobiles",
+			"code": "BWA",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8968043892567463-5412815521762706-Kris%2B%20BW%20logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3355186714139773-7797120362993548-Kris%2B%20BW%20brand%20image.jpg",
+			"websiteUrl": "https://bw.com.sg/",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "33 UBI AVENUE 3, #01-47/48, VERTEX, SINGAPORE 408868",
+				"postalCode": "408868",
+				"streetName": "33 UBI AVENUE 3",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">BW Automobiles is a trusted Singapore luxury car dealership,     specialising in quality pre-owned and near-new vehicles since 2002. They are     known for transparent service, competitive pricing, and dedicated after-sales     support.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Kris+ payments are capped at SGD 20,000 per transaction.</p>",
+			"searchableKeywords": [
+				"Car sale",
+				"preown",
+				"Automotivevehicle",
+				"TOYOTA",
+				"HONDA",
+				"BMW",
+				"MERCEDES",
+				"NISSAN",
+				"Rental",
+				"BW",
+				"VERTEX",
+				"UBI",
+				"TAISENG"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": "2026-10-20T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-08-12T04:40:09.268Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8968043892567463-5412815521762706-Kris%2B%20BW%20logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3355186714139773-7797120362993548-Kris%2B%20BW%20brand%20image.jpg",
+			"createdAt": "2026-08-12T04:40:09.278Z",
+			"updatedAt": "2026-10-01T07:03:35.844Z",
+			"searchContent": "BW Automobiles is a trusted Singapore luxury car dealership, specialising in quality pre-owned and near-new vehicles since 2002. They are known for transparent service, competitive pricing, and dedicated after-sales support. Kris+ payments are capped at SGD 20,000 per transaction. Car sale preown Automotivevehicle TOYOTA HONDA BMW MERCEDES NISSAN Rental BW VERTEX UBI TAISENG Services Automotive",
+			"slugId": "bw-automobiles-43d656d3",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3355186714139773-7797120362993548-Kris%2B%20BW%20brand%20image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3355186714139773-7797120362993548-Kris%2B%20BW%20brand%20image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3355186714139773-7797120362993548-Kris%2B%20BW%20brand%20image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8968043892567463-5412815521762706-Kris%2B%20BW%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8968043892567463-5412815521762706-Kris%2B%20BW%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8968043892567463-5412815521762706-Kris%2B%20BW%20logo_high.jpg"
+			},
+			"outlets": [
+				{
+					"_id": "6a8527c996719f12978dba58",
+					"name": "Vertex Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Vertex Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "BW Automobiles",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

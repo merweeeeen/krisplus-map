@@ -1,0 +1,267 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/honeyworld-23cfb460",
+	"slug": "honeyworld-23cfb460",
+	"fetchedAt": "2026-10-26T17:26:03.803+08:00",
+	"payload": {
+		"partner": {
+			"_id": "606be29aa13fab16780c512b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Comvita Singapore Pte. Ltd.",
+			"brand": "HoneyWorld",
+			"code": "HWD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "HoneyWorld",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "20 Bukit Batok Crescent,  , #03-10 Enterprise Centre,  ",
+				"postalCode": "658080",
+				"streetName": "Bukit Batok Crescent"
+			},
+			"regNumber": "201013819W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8740062378689926-App_Brand_Image.jpg",
+			"websiteUrl": "https://www.honeyworld.sg",
+			"descriptionHtml": "<p>HoneyWorld® is the only chain of honey specialty stores in Singapore. Timeless honey, enduring bee pollen, anti-aging royal jelly and anti-infection propolis, all available with different variants from different countries.</p>  <p>Participating Outlets:</p>  <ul> \t \t<li>Great World City </li> \t<li>Jurong Point </li> \t<li>One Raffles Place </li> \t<li>Our Tampines Hub </li> \t<li>Parkway Parade </li> \t<li>Thomson Plaza </li> \t<li>United Square </li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8091321667820552-App_Brand_Logo.jpg",
+			"createdAt": "2021-04-06T04:24:58.763Z",
+			"updatedAt": "2026-10-05T01:45:26.230Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "Bukit Timah Plaza (#01-24)\nGreat World City (#B1-K102)\nJewel Changi Airport (#B2-252)\nJurong Point (#02-43)\nOne Raffles Place (#B1-33)\nOur Tampines Hub (#B1-K25)\nParkway Parade (#B1-55)\nThomson Plaza (#01-117)\nUnited Square (#B1-K4)\n",
+			"promotional": "HoneyWorld® knows honey",
+			"searchableKeywords": [
+				"Raffles Place",
+				"Cecil Street",
+				"Bukit Timah Road",
+				"Beautyworld",
+				"Zion Road",
+				"Kim Seng Road",
+				"Havelock",
+				"Tiong Bahru",
+				"Marine Parade Road",
+				"Tampines",
+				"Tampines Walk",
+				"Thomson Road",
+				"Novena",
+				"Boon Lay",
+				"Jurong West Central 2",
+				"Upper Thomson Road",
+				"Marymount",
+				"Health",
+				"Retail",
+				"East",
+				"Honey",
+				"Manuka",
+				"Bees",
+				"Throat",
+				"Soothing",
+				"Soothe",
+				"West",
+				"Bee Pollen",
+				"Propolis",
+				"Throat Spray",
+				"Royal Jelly",
+				"Bees Wax",
+				"Wellness",
+				"Gift",
+				"Bukit Timah Plaza",
+				"Great World City",
+				"Jurong Point",
+				"One Raffles Place",
+				"Our Tampines Hub",
+				"Parkway Parade",
+				"Thompson Plaza",
+				"United Square",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c608272955cb5b8b97"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 10
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8740062378689926-App_Brand_Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8091321667820552-App_Brand_Logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8740062378689926-App_Brand_Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8740062378689926-App_Brand_Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8740062378689926-App_Brand_Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8091321667820552-App_Brand_Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8091321667820552-App_Brand_Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8091321667820552-App_Brand_Logo_high.jpg"
+			},
+			"searchContent": "HoneyWorld® is the only chain of honey specialty stores in Singapore. Timeless honey, enduring bee pollen, anti-aging royal jelly and anti-infection propolis, all available with different variants from different countries. Participating Outlets: Great World City Jurong Point One Raffles Place Our Tampines Hub Parkway Parade Thomson Plaza United Square Raffles Place Cecil Street Bukit Timah Road Beautyworld Zion Road Kim Seng Road Havelock Tiong Bahru Marine Parade Road Tampines Tampines Walk Thomson Road Novena Boon Lay Jurong West Central 2 Upper Thomson Road Marymount Health Retail East Honey Manuka Bees Throat Soothing Soothe West Bee Pollen Propolis Throat Spray Royal Jelly Bees Wax Wellness Gift Bukit Timah Plaza Great World City Jurong Point One Raffles Place Our Tampines Hub Parkway Parade Thompson Plaza United Square Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Retail",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-02T04:39:13.948Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "honeyworld-23cfb460",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6073f2a726d3c73ac0f8d5b3",
+					"name": "Thomson Plaza"
+				},
+				{
+					"_id": "6073f30426d3c73ac0f8d5b5",
+					"name": "United Square"
+				},
+				{
+					"_id": "6073f3eca21a4c1bf0c8e9b7",
+					"name": "Our Tampines Hub"
+				},
+				{
+					"_id": "6073f45326d3c73ac0f8d5b7",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "6073f50126d3c73ac0f8d5b9",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "6073f55826d3c73ac0f8d5bb",
+					"name": "One Raffles Place"
+				},
+				{
+					"_id": "6073f5baa21a4c1bf0c8e9bb",
+					"name": "Great World"
+				},
+				{
+					"_id": "6ab0f86303035cb42143bf77",
+					"name": "Tang Plaza"
+				},
+				{
+					"_id": "6ab0f98a674412973282004a",
+					"name": "Woodleigh Mall"
+				},
+				{
+					"_id": "6ab0f9ddf76e55a723e9b69e",
+					"name": "Tampines Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Thomson Plaza",
+			"United Square",
+			"Our Tampines Hub",
+			"Parkway Parade",
+			"Jurong Point",
+			"One Raffles Place",
+			"Great World",
+			"Tang Plaza",
+			"Woodleigh Mall",
+			"Tampines Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "HoneyWorld",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

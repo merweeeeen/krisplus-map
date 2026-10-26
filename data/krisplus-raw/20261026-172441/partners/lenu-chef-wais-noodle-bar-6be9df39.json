@@ -1,0 +1,250 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lenu-chef-wais-noodle-bar-6be9df39",
+	"slug": "lenu-chef-wais-noodle-bar-6be9df39",
+	"fetchedAt": "2026-10-26T17:28:03.501+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7b7f5dede8b43dc1bbd9f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Beef",
+				"Noodle",
+				"Braised Beef",
+				"Beef Broth",
+				"Pork Bone Soup",
+				"Dining",
+				"Bedok Mall",
+				"Bugis Junction",
+				"Changi Airport T3",
+				"Funan",
+				"City Hall",
+				"Jem",
+				"Jurong",
+				"Jewel",
+				"North Point City",
+				"Yishun",
+				"Resorts World Sentosa",
+				"Vivocity",
+				"Harbourfront",
+				"Parkway Parade",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "LeNu Chef Wais Noodle Bar",
+			"brand": "LeNu Chef Wai's Noodle Bar",
+			"code": "LEN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "LeNu Chef Wai",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane"
+			},
+			"regNumber": "201010333R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/14129883513039765-7651807064625482-Brand%20750%20x%20540.jpg",
+			"websiteUrl": "https://www.paradisegp.com/brand-lenu-chef-wais-noodle-bar",
+			"descriptionHtml": "<p>  ​​​​​​​LeNu is a casual Chinese noodle bar that strives to achieve perfection in every bowl to delight all diners at an affordable price. Indulge in their hearty braised beef broth, which is prepared for 18 hours using the freshest beef marrow, bones and other premium ingredients to create the rich authentic taste of beef.</p>  <p>Participating outlets:</p>  <ul> \t<li>Bedok Mall</li> \t<li>Bugis Junction</li> \t<li>City Square Mall</li> \t<li>Compass One</li> \t \t \t<li>JEM</li> \t<li>Jewel Changi Airport</li> \t<li>Northpoint City</li> \t<li>One Holland Village</li> \t<li>Parkway Parade</li> \t<li>Pasir Ris Mall</li><li>Punggol Coast Mall</li> \t<li>VivoCity</li> \t<li>Woodleigh Mall</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "                ",
+			"participatingOutlets": "•\tBedok Mall\n•\tBugis Junction\n•\tChangi Airport T3 (Transit) \n•\tCompass One\n•\tFunan \n•\tJEM\n•\tJewel Changi Airport \n•\tNorthpoint City\n•\tResorts World Sentosa\n•\tVivoCity",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9813742646725119-LeNuChefWai.jpg",
+			"createdAt": "2022-08-13T14:40:53.692Z",
+			"updatedAt": "2026-08-06T14:17:34.598Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97045578ca5d7f0b395"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 13
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14129883513039765-7651807064625482-Brand%20750%20x%20540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9813742646725119-LeNuChefWai.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14129883513039765-7651807064625482-Brand%20750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14129883513039765-7651807064625482-Brand%20750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14129883513039765-7651807064625482-Brand%20750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9813742646725119-LeNuChefWai_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9813742646725119-LeNuChefWai_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9813742646725119-LeNuChefWai_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-17T02:41:52.893Z",
+			"searchContent": "​​​​​​​LeNu is a casual Chinese noodle bar that strives to achieve perfection in every bowl to delight all diners at an affordable price. Indulge in their hearty braised beef broth, which is prepared for 18 hours using the freshest beef marrow, bones and other premium ingredients to create the rich authentic taste of beef. Participating outlets: Bedok Mall Bugis Junction City Square Mall Compass One JEM Jewel Changi Airport Northpoint City One Holland Village Parkway Parade Pasir Ris MallPunggol Coast Mall VivoCity Woodleigh Mall Beef Noodle Braised Beef Beef Broth Pork Bone Soup Dining Bedok Mall Bugis Junction Changi Airport T3 Funan City Hall Jem Jurong Jewel North Point City Yishun Resorts World Sentosa Vivocity Harbourfront Parkway Parade paradise FortuneFeast Dining Casual Dining Chinese",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lenu-chef-wais-noodle-bar-6be9df39",
+			"outlets": [
+				{
+					"_id": "62f92c7a42de063c902ea26f",
+					"name": "JEM"
+				},
+				{
+					"_id": "62f92cb842de063c902ea273",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "62f92ce22fd51d0548ce0089",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "62f92d102fd51d0548ce008d",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "62f92d3742de063c902ea277",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "62f92dc02fd51d0548ce0093",
+					"name": "Compass One"
+				},
+				{
+					"_id": "62f92e1742de063c902ea281",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "64521efd45c717005c416a9c",
+					"name": "Woodleigh Mall"
+				},
+				{
+					"_id": "64b6e56ab1c3de0055fc6091",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "658cf2d0154548004f075f81",
+					"name": "One Holland Village"
+				},
+				{
+					"_id": "665691b94b0e6900682644dc",
+					"name": "Pasir Ris Mall"
+				},
+				{
+					"_id": "6902ca3785caad047b346f2f",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "6902cb6a2ba8210467b7c44e",
+					"name": "Punggol Coast Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"JEM",
+			"Bedok Mall",
+			"Bugis Junction",
+			"Northpoint City",
+			"VivoCity",
+			"Compass One",
+			"Jewel Changi Airport",
+			"Woodleigh Mall",
+			"Parkway Parade",
+			"One Holland Village",
+			"Pasir Ris Mall",
+			"City Square Mall",
+			"Punggol Coast Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "LeNu Chef Wai's Noodle Bar",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

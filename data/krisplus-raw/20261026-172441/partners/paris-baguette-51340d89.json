@@ -1,0 +1,407 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/paris-baguette-51340d89",
+	"slug": "paris-baguette-51340d89",
+	"fetchedAt": "2026-10-26T17:25:25.498+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e855a82c447e603248b6553",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Paris Baguette",
+			"brand": "Paris Baguette",
+			"code": "PAB",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "6, Temasek Boulevard #36-03/04, Suntec Tower Four",
+				"postalCode": "038986",
+				"streetName": "Temasek Boulevard"
+			},
+			"category": "DINING",
+			"regNumber": "201108952N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5728885655912572-750x540%20APP%20brand%20image.png",
+			"websiteUrl": "https://www.parisbaguette.com.sg/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4427451507514888-PB%20Logo.jpg",
+			"createdAt": "2020-04-02T03:22:42.160Z",
+			"updatedAt": "2026-09-03T04:16:06.097Z",
+			"description": "Born from a love of bread and a passion for quality, Paris Baguette is an international franchise and fast-casual bakery founded in 1988 specialising in French-inspired goods. Indulge in chef-inspired cakes, pastries, sandwiches, salads and signature coffee and tea at Paris Baguette.",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 4,
+				"saleOfMiles": 0.03,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 150000,
+				"minTokens": 30000
+			},
+			"participatingOutlets": "All Paris Baguette outlets islandwide.",
+			"promotional": "Enjoy 10% off the total bill.",
+			"hideFromCustomer": false,
+			"categories": [
+				"DINING"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"payByCard": true,
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Paris Baguette, born in 1988, is a global bakery brand of SPC Group, a leading South Korean food and confectionery corporation. From its modest beginnings, the chain has grown steadily to become the No.1 bakery in Korea. Paris Baguette is committed to blending traditional baking techniques with modern innovation to deliver diverse range of products such as breads, pastries, cakes, and beverages that appeal to a wide audience, from everyday treats to special celebration. </p><p>You can now earn or redeem your miles via purchase of Paris Baguette Online Promo Codes too. Payment via Kris+ directly on http://parisbaguettesg.oddle.me/en_SG is not available.</p>",
+			"shortName": "Paris Baguette",
+			"searchableKeywords": [
+				"Yishun Avenue 2",
+				"Orchard Road",
+				"Somerset",
+				"Jurong East",
+				"Jurong Gateway Road",
+				"Changi Airport",
+				"Airport Boulevard",
+				"T3",
+				"Terminal 3 Changi",
+				"Jewel Changi Airport",
+				"Serangoon",
+				"Serangoon Central",
+				"Raffles Quay",
+				"Raffles Place",
+				"Bugis",
+				"Victoria Street",
+				"Promenade",
+				"Esplanade",
+				"Raffles Boulevard",
+				"Western",
+				"Dessert",
+				"Marina Bay",
+				"Marina One",
+				"Cafe",
+				"Trending",
+				"Cappucino",
+				"Latte",
+				"Food",
+				"Foodie",
+				"Artisan",
+				"Bakery",
+				"Bread",
+				"Sourdough",
+				"Cakes",
+				"Baguette",
+				"Sandwiches",
+				"Salads",
+				"Wine",
+				"Beer",
+				"Kombucha",
+				"Tea",
+				"Coffee",
+				"Health",
+				"Wellness",
+				"Dining",
+				"Silky Roll Cake",
+				"Amk Hub",
+				"Bugis Junction",
+				"Hong Leong Building",
+				"Ion Orchard",
+				"Jem",
+				"Nex",
+				"Northpoint City",
+				"Paya Lebar Quarter",
+				"Ang Mo Kio Hub",
+				"Raffles City",
+				"Bedok",
+				"Bedok Mall",
+				"Plq Mall",
+				"Tiong Bahru Plaza",
+				"City Hall",
+				"T4",
+				"Terminal 4 Changi",
+				"T2",
+				"Terminal 2 Changi",
+				"Chinatown",
+				"Holland Village",
+				"Hillion Mall",
+				"Bukit Panjang",
+				"Café",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR4",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e09d00b0a527865c34"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 26
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5728885655912572-750x540%20APP%20brand%20image.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4427451507514888-PB%20Logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5728885655912572-750x540%20APP%20brand%20image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5728885655912572-750x540%20APP%20brand%20image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5728885655912572-750x540%20APP%20brand%20image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4427451507514888-PB%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4427451507514888-PB%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4427451507514888-PB%20Logo_high.jpg"
+			},
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-02-24T03:44:58.703Z",
+			"searchContent": "Paris Baguette, born in 1988, is a global bakery brand of SPC Group, a leading South Korean food and confectionery corporation. From its modest beginnings, the chain has grown steadily to become the No.1 bakery in Korea. Paris Baguette is committed to blending traditional baking techniques with modern innovation to deliver diverse range of products such as breads, pastries, cakes, and beverages that appeal to a wide audience, from everyday treats to special celebration. You can now earn or redeem your miles via purchase of Paris Baguette Online Promo Codes too. Payment via Kris+ directly on http://parisbaguettesg.oddle.me/en_SG is not available. Yishun Avenue 2 Orchard Road Somerset Jurong East Jurong Gateway Road Changi Airport Airport Boulevard T3 Terminal 3 Changi Jewel Changi Airport Serangoon Serangoon Central Raffles Quay Raffles Place Bugis Victoria Street Promenade Esplanade Raffles Boulevard Western Dessert Marina Bay Marina One Cafe Trending Cappucino Latte Food Foodie Artisan Bakery Bread Sourdough Cakes Baguette Sandwiches Salads Wine Beer Kombucha Tea Coffee Health Wellness Dining Silky Roll Cake Amk Hub Bugis Junction Hong Leong Building Ion Orchard Jem Nex Northpoint City Paya Lebar Quarter Ang Mo Kio Hub Raffles City Bedok Bedok Mall Plq Mall Tiong Bahru Plaza City Hall T4 Terminal 4 Changi T2 Terminal 2 Changi Chinatown Holland Village Hillion Mall Bukit Panjang Café Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Dining Halal Cafe Casual Dining Beverages & Desserts",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "paris-baguette-51340d89",
+			"isDisplayOnKrisWeb": true,
+			"outlets": [
+				{
+					"_id": "5e86c35d0a50c71b0c0d3b4c",
+					"name": "JEM"
+				},
+				{
+					"_id": "5e86c383c68d35329402fc4a",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "5e86c3bf0a50c71b0c0d3b4e",
+					"name": "Hong Leong Building"
+				},
+				{
+					"_id": "5fa0135b51040437e8b64ca6",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "601656b984ba6971bc490fe8",
+					"name": "NEX"
+				},
+				{
+					"_id": "6108a1c55c3ada4bacb1b4a9",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "613ec0e7c4359a5840c27e2f",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "618a1abd06ae7249502dc089",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "6242c0654ac7013efc4cad35",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "62982a0bf92f1717642a26dd",
+					"name": "Changi Airport T3 (Public)"
+				},
+				{
+					"_id": "62b11ac443ffb93620eab7dc",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "630743dd00dd263dec63a275",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "633fc4567d074f331814e083",
+					"name": "Tiong Bahru Plaza"
+				},
+				{
+					"_id": "64f708803b077c004fc04c31",
+					"name": "Changi Airport T4 (Public)"
+				},
+				{
+					"_id": "64f70cc3f326af004fa5800f",
+					"name": "Changi Airport T2 (Public)"
+				},
+				{
+					"_id": "655c24af6aeb7200564189de",
+					"name": "One Holland Village"
+				},
+				{
+					"_id": "655c2563e6d68c0056641da3",
+					"name": "Chinatown Point"
+				},
+				{
+					"_id": "655c25ed30edb70056b9f03e",
+					"name": "Hillion Mall"
+				},
+				{
+					"_id": "65b0bb60b79c6250b1d746de",
+					"name": "White Sands"
+				},
+				{
+					"_id": "65b0bfcc695128814ea366fa",
+					"name": "Square 2"
+				},
+				{
+					"_id": "66f37a5872917e12b9721566",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "67cf9f34a1ac08041096ac21",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "682551ca0136b873d5877810",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "6867b1e267302b040075049c",
+					"name": "Aperia Mall"
+				},
+				{
+					"_id": "689210ec05a2e9045398915e",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "68afba4be4407135554be032",
+					"name": "West Mall"
+				},
+				{
+					"_id": "6936d982690241da8a231215",
+					"name": "Paragon"
+				},
+				{
+					"_id": "696f81afb91c534375097fd5",
+					"name": "Hougang Mall"
+				},
+				{
+					"_id": "6a98f47ef4fa5eaa1500d864",
+					"name": "Tampines Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"JEM",
+			"Bugis Junction",
+			"Hong Leong Building",
+			"Northpoint City",
+			"NEX",
+			"PLQ Mall",
+			"ION Orchard",
+			"AMK Hub",
+			"Jewel Changi Airport",
+			"Changi Airport T3 (Public)",
+			"Raffles City Shopping Centre",
+			"Bedok Mall",
+			"Tiong Bahru Plaza",
+			"Changi Airport T4 (Public)",
+			"Changi Airport T2 (Public)",
+			"One Holland Village",
+			"Chinatown Point",
+			"Hillion Mall",
+			"White Sands",
+			"Square 2",
+			"Parkway Parade",
+			"Marina Square",
+			"Changi City Point",
+			"Aperia Mall",
+			"VivoCity",
+			"West Mall",
+			"Paragon",
+			"Hougang Mall",
+			"Tampines Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Paris Baguette",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

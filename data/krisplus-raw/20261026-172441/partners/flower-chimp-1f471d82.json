@@ -1,0 +1,153 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/flower-chimp-1f471d82",
+	"slug": "flower-chimp-1f471d82",
+	"fetchedAt": "2026-10-26T17:30:07.524+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66c58ed9207a6b00666d7991",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Flower Delivery Singapore",
+				"Flower Bouquet",
+				"Florist",
+				"Gift Delivery"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "FLOWER CHIMP PTE. LTD.",
+			"brand": "Flower Chimp",
+			"code": "FLL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Flower Chimp",
+			"address": {
+				"city": "Singapore",
+				"line1": "68 CIRCULAR ROAD #02 - 01 SINGAPORE 049422",
+				"streetName": "68 CIRCULAR ROAD",
+				"postalCode": "049422",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.flowerchimp.sg/",
+			"descriptionHtml": "<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Flower Chimp is the go-to online florist and gift shop for all of life's important occasions. They offer the freshest, most beautiful blooms and unique gifts, making it easy to find the perfect present for any event. Plus, with same-day delivery available, you can ensure your loved ones receive their surprise promptly. </span></span></p>  <p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. </span></span>​​​​​​​</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6448477720867829-3075738359992848-FCSG_SG%20Airlines_Logo%20Brand_1000x1000.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6716065911728519-3906666116979127-Flower.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-08-21T06:53:13.889Z",
+			"updatedAt": "2026-08-06T14:18:06.260Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6716065911728519-3906666116979127-Flower.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6448477720867829-3075738359992848-FCSG_SG%20Airlines_Logo%20Brand_1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6716065911728519-3906666116979127-Flower_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6716065911728519-3906666116979127-Flower_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6716065911728519-3906666116979127-Flower_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6448477720867829-3075738359992848-FCSG_SG%20Airlines_Logo%20Brand_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6448477720867829-3075738359992848-FCSG_SG%20Airlines_Logo%20Brand_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6448477720867829-3075738359992848-FCSG_SG%20Airlines_Logo%20Brand_1000x1000_high.jpg"
+			},
+			"searchContent": "Flower Chimp is the go-to online florist and gift shop for all of life's important occasions. They offer the freshest, most beautiful blooms and unique gifts, making it easy to find the perfect present for any event. Plus, with same-day delivery available, you can ensure your loved ones receive their surprise promptly. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. ​​​​​​​ Flower Delivery Singapore Flower Bouquet Florist Gift Delivery Retail Home & Lifestyle Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:50:23.327Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "flower-chimp-1f471d82",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Flower Chimp",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

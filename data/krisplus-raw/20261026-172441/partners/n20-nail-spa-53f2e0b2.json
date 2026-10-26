@@ -1,0 +1,220 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/n20-nail-spa-53f2e0b2",
+	"slug": "n20-nail-spa-53f2e0b2",
+	"fetchedAt": "2026-10-26T17:26:41.687+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61494c9313e83d0b807640a5",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Nails",
+				"Pedicure",
+				"Manicure",
+				"Gels",
+				"Gelish",
+				"Polish",
+				"Nails Polish",
+				"Vivocity",
+				"Harbourfront",
+				"Telok Blangah Road",
+				"Plaza Singapura",
+				"Handy Road",
+				"Dhoby Ghaut",
+				"Tampines Mall",
+				"Tampines Central 5",
+				"Tampines",
+				"Gateway Drive",
+				"Jurong East",
+				"Westgate",
+				"Takashimaya",
+				"Orchard",
+				"Orchard Road",
+				"Birthday",
+				"Ngee Ann City",
+				"Services",
+				"Eyelash Extension",
+				"Eyebrow Embroidery",
+				"Eyebrow Waxing",
+				"Nail Spa",
+				"Sengkang Grand Mall"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "N20 Pte Ltd ",
+			"brand": "N20 Nail Spa ",
+			"code": "N20",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "N20 Nail Spa ",
+			"address": {
+				"city": "Singapore",
+				"line1": "5038 Ang Mo Kio Industrial Park 2 #01-427 ",
+				"streetName": "5038 Ang Mo Kio ",
+				"postalCode": "569541",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201902473H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7800898145519757-33160847683831496-750pixels(w)%20x%20540%20pixels(h).jpg",
+			"websiteUrl": "https://www.n20.com.sg",
+			"descriptionHtml": "<p>Set in a serene and luxurious ambience, N20 Nail Spa indulges customers with a one-stop nail spa experience that offers services including manicure, pedicure, eyelash extension, eyebrow embroidery and waxing. N20 Nail Spa is the perfect nail spa salon for a relaxing and pampering retreat.</p>\n\n<p>Participating outlets:</p>\n\n<p>•    Plaza Singapura<br />\n​​​​​​​•    Sengkang Grand Mall<br />\n​​​​​​​•    Takashimaya S.C (Nailography)<br />\n•    Tampines Mall<br />\n•    VivoCity<br />\n•    Westgate Mall<br />\n•    Tiong Bahru Plaza</p>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/25628314119047046-7754982092301963-1000%20pixels(w)%20x%201000%20pixels(h).jpg",
+			"createdAt": "2021-09-21T03:08:03.862Z",
+			"updatedAt": "2026-08-06T14:17:20.993Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "•\tTakashimaya S.C (Nailography)\n•\tTampines Mall\n•\tPlaza Singapura\n•\tVivoCity\n•\tWestgate Mall\n",
+			"promotional": "  \n     ",
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9aa2f71c855d5496e44"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 7
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7800898145519757-33160847683831496-750pixels(w)%20x%20540%20pixels(h).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/25628314119047046-7754982092301963-1000%20pixels(w)%20x%201000%20pixels(h).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7800898145519757-33160847683831496-750pixels(w)%20x%20540%20pixels(h)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7800898145519757-33160847683831496-750pixels(w)%20x%20540%20pixels(h)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7800898145519757-33160847683831496-750pixels(w)%20x%20540%20pixels(h)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/25628314119047046-7754982092301963-1000%20pixels(w)%20x%201000%20pixels(h)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/25628314119047046-7754982092301963-1000%20pixels(w)%20x%201000%20pixels(h)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/25628314119047046-7754982092301963-1000%20pixels(w)%20x%201000%20pixels(h)_high.jpg"
+			},
+			"searchContent": "Set in a serene and luxurious ambience, N20 Nail Spa indulges customers with a one-stop nail spa experience that offers services including manicure, pedicure, eyelash extension, eyebrow embroidery and waxing. N20 Nail Spa is the perfect nail spa salon for a relaxing and pampering retreat. Participating outlets: • Plaza Singapura ​​​​​​​• Sengkang Grand Mall ​​​​​​​• Takashimaya S.C (Nailography) • Tampines Mall • VivoCity • Westgate Mall • Tiong Bahru Plaza Nails Pedicure Manicure Gels Gelish Polish Nails Polish Vivocity Harbourfront Telok Blangah Road Plaza Singapura Handy Road Dhoby Ghaut Tampines Mall Tampines Central 5 Tampines Gateway Drive Jurong East Westgate Takashimaya Orchard Orchard Road Birthday Ngee Ann City Services Eyelash Extension Eyebrow Embroidery Eyebrow Waxing Nail Spa Sengkang Grand Mall Services Personal Care",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:15:45.489Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "n20-nail-spa-53f2e0b2",
+			"outlets": [
+				{
+					"_id": "614c2a0c1c7976708c729260",
+					"name": "Westgate "
+				},
+				{
+					"_id": "614c2a6027e631695cd69387",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "614c2adb27e631695cd6938b",
+					"name": "Ngee Ann City"
+				},
+				{
+					"_id": "614c2b2d27e631695cd6938d",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "614c2b8d27e631695cd6938f",
+					"name": "Plaza Singapura "
+				},
+				{
+					"_id": "64141cbb4f7bb70052f9347d",
+					"name": "Sengkang Grand Mall"
+				},
+				{
+					"_id": "6638868886084e006a9f3f3c",
+					"name": "Tiong Bahru Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Westgate ",
+			"Tampines Mall",
+			"Ngee Ann City",
+			"VivoCity",
+			"Plaza Singapura ",
+			"Sengkang Grand Mall",
+			"Tiong Bahru Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "N20 Nail Spa",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

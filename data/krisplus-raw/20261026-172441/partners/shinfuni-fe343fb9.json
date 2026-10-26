@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/shinfuni-fe343fb9",
+	"slug": "shinfuni-fe343fb9",
+	"fetchedAt": "2026-10-26T17:34:18.183+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69e827ef18d2cd1785c6ed8a",
+			"name": "Butter Bakery Pte Ltd (Shinfuni)",
+			"shortName": "Shinfuni",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Shinfuni",
+			"code": "SFN",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9091819922345277-08237670322925927-logo%20464%20x%20270.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6115412982507069-4032346867041885-Brand%20Image%20(1).png",
+			"websiteUrl": "https://www.instagram.com/shinfuni.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "8A ADMIRALTY STREET, #01-09",
+				"postalCode": "757437",
+				"streetName": "FOOD XCHANGE ADMIRALTY",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>The epitome of artisanal bakery crafting refined modern Taiwanese pastries and bakes. From crispy cream puffs to Hokkaido cream apple pies, each pastry is meticulously handcrafted with the finest ingredients, ensuring an indulgent experience for your taste buds. Join Shinfuni in celebrating the joy of good food and heartwarming moments!</p><p>Participating outlets:<br>- Bugis Junction<br>- Grantral Mall</p>",
+			"searchableKeywords": [
+				"Cream Puff",
+				"Dessert",
+				"Polo Bread",
+				"Apple Pie",
+				"Croissant",
+				"Tart",
+				"Donut",
+				"Bun",
+				"Pastry",
+				"Pastries",
+				"Puff"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR4",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS",
+								"BD",
+								"KID"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-28T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-04-22T01:44:15.557Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9091819922345277-08237670322925927-logo%20464%20x%20270.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6115412982507069-4032346867041885-Brand%20Image%20(1).png",
+			"createdAt": "2026-04-22T01:44:15.567Z",
+			"updatedAt": "2026-08-06T14:18:30.985Z",
+			"searchContent": "The epitome of artisanal bakery crafting refined modern Taiwanese pastries and bakes. From crispy cream puffs to Hokkaido cream apple pies, each pastry is meticulously handcrafted with the finest ingredients, ensuring an indulgent experience for your taste buds. Join Shinfuni in celebrating the joy of good food and heartwarming moments! Participating outlets: - Bugis Junction - Grantral Mall Cream Puff Dessert Polo Bread Apple Pie Croissant Tart Donut Bun Pastry Pastries Puff Dining Halal Quick Bites & Snacks Beverages & Desserts Kid-Friendly",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6115412982507069-4032346867041885-Brand%20Image%20(1)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6115412982507069-4032346867041885-Brand%20Image%20(1)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6115412982507069-4032346867041885-Brand%20Image%20(1)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9091819922345277-08237670322925927-logo%20464%20x%20270_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9091819922345277-08237670322925927-logo%20464%20x%20270_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9091819922345277-08237670322925927-logo%20464%20x%20270_high.jpg"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "shinfuni-fe343fb9",
+			"outlets": [
+				{
+					"_id": "69e82a126576f31946ef146b",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "69e82a65fd02b1f1b1cb1dfb",
+					"name": "Grantral Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis Junction",
+			"Grantral Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Shinfuni",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

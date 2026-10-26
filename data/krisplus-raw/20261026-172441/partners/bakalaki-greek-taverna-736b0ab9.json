@@ -1,0 +1,205 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bakalaki-greek-taverna-736b0ab9",
+	"slug": "bakalaki-greek-taverna-736b0ab9",
+	"fetchedAt": "2026-10-26T17:25:14.789+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e5de80e04d4ba2a689d8d31",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "BAKALAKI PTE. LTD",
+			"brand": "BAKALAKI Greek Taverna",
+			"code": "HOC",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "958 DUNEARN ROAD , #02-20 GARDENVISTA",
+				"postalCode": "589485",
+				"streetName": "DUNEARN ROAD"
+			},
+			"category": "DINING",
+			"regNumber": "201700766M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/20351971329787655-MicrosoftTeams-image%20(38).png",
+			"websiteUrl": "https://bakalaki.com/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-2ba9f4f8-f057-4c5d-806b-d838698201cc.png",
+			"description": "",
+			"participatingOutlets": "3 Seng Poh Road",
+			"createdAt": "2020-03-03T05:15:58.887Z",
+			"updatedAt": "2026-08-06T14:17:08.939Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"saleOfMiles": 0.03,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"promotional": "   ",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Bakalaki%20Greek%20Taverna\">Reserve A Table</a>.</p><p>Find yourself warmly welcomed into a traditional Greek home offering the most authentic Greek cuisine. Priding itself on providing the true Greek dining experience, BAKALAKI Greek Taverna offers a selection of ingredients sourced from Greek suppliers.</p>\n\n<p> <br></p>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "BAKALAKI Greek",
+			"searchableKeywords": [
+				"City",
+				"Greek",
+				"Mediterranean",
+				"Fine Dining",
+				"Wine",
+				"Dinner",
+				"Lunch",
+				"Tapas",
+				"Appetisers",
+				"Mains",
+				"Dessert",
+				"Pastry",
+				"Couples",
+				"First Dates",
+				"Valentines Day",
+				"Romantic",
+				"Dining",
+				"Martin Road",
+				"Robertson Quay",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"EUR"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e45e6d0897746a1e7c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/20351971329787655-MicrosoftTeams-image%20(38).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-2ba9f4f8-f057-4c5d-806b-d838698201cc.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/20351971329787655-MicrosoftTeams-image%20(38)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/20351971329787655-MicrosoftTeams-image%20(38)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/20351971329787655-MicrosoftTeams-image%20(38)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-2ba9f4f8-f057-4c5d-806b-d838698201cc_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-2ba9f4f8-f057-4c5d-806b-d838698201cc_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-2ba9f4f8-f057-4c5d-806b-d838698201cc_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-11-22T03:47:54.387Z",
+			"refundPeriodInDays": 60,
+			"searchContent": "*Click here to Reserve A Table. Find yourself warmly welcomed into a traditional Greek home offering the most authentic Greek cuisine. Priding itself on providing the true Greek dining experience, BAKALAKI Greek Taverna offers a selection of ingredients sourced from Greek suppliers. City Greek Mediterranean Fine Dining Wine Dinner Lunch Tapas Appetisers Mains Dessert Pastry Couples First Dates Valentines Day Romantic Dining Martin Road Robertson Quay Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Dining European",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bakalaki-greek-taverna-736b0ab9",
+			"outlets": [
+				{
+					"_id": "5e9ea3dacfd16f37700b4fdd",
+					"name": "Martin Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Martin Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "BAKALAKI Greek Taverna",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

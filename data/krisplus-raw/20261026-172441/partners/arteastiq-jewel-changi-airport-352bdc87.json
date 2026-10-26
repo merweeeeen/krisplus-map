@@ -1,0 +1,216 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/arteastiq-jewel-changi-airport-352bdc87",
+	"slug": "arteastiq-jewel-changi-airport-352bdc87",
+	"fetchedAt": "2026-10-26T17:25:08.732+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e0d5aae5104952e846052b6",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Arteastiq JWL Pte Ltd",
+			"brand": "Arteastiq (Jewel Changi Airport)",
+			"code": "ARB",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "29 Mayo Street , #04-01 Singapore ",
+				"postalCode": "208315",
+				"streetName": "Mayo Street"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "201706715R",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-09d081ba-3e25-4e51-b91b-26682b965bf1.jpg",
+			"createdAt": "2020-01-02T02:51:26.938Z",
+			"updatedAt": "2026-08-06T14:17:07.953Z",
+			"description": "Arteastiq is a premium tea lounge cum social painting studio concept established in 2010. With a name that combines Art and Tea, Arteastiq tease senses through inducing creativity and tantalizing taste buds.\n\nParticipating Outlet:\n•\tJewel Changi Airport",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1,
+					"saleOfMilesPct": 2,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.02,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 10% off dining when you flash the KrisPay app at the point of payment\n\nTerms and Conditions: \n•\tOnly applicable from 9am to 2pm and 6pm to closing.\n•\tThe discount is only applicable on à la carte food and beverages and not applicable in conjunction with other promotions, privileges, discounts and sets.\n•\tNot applicable for retail merchandise.\n•\tNot applicable on public holidays and eve of public holidays, as well as Valentine’s Day and Mother’s Day.\n•\tArteastiq reserves the right to amend the promotion at any time.\n\nFind out more at: http://www.arteastiq.com",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2243224127608512-3863734741321627-brandImagePath-770e3aa7-1c7b-4375-b989-8dc9bab9b1fe.jpg",
+			"participatingOutlets": "Jewel Changi Airport",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.arteastiq.com/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Arteastiq is a premium tea lounge cum social painting studio concept established in 2010. With a name that combines Art and Tea, Arteastiq tease senses through inducing creativity and tantalizing taste buds.</p>\n\n<p> </p>\n\n<p>Participating Outlet:<br />\n•    Arteastiq Tea Lounge @ Jewel</p>",
+			"shortName": "Arteastiq Jwl",
+			"searchableKeywords": [
+				"Changi Airport",
+				"Airport Boulevard",
+				"Western",
+				"Asian",
+				"Restaurant",
+				"Cafe",
+				"Trending",
+				"Cappucinos",
+				"Latte",
+				"Food",
+				"Foodie",
+				"Artisan",
+				"Bakery",
+				"Bread",
+				"Sourdough",
+				"Cakes",
+				"Baguette",
+				"Sandwiches",
+				"Salads",
+				"Kombucha",
+				"Tea",
+				"Coffee",
+				"Tapas",
+				"Art",
+				"Artwork",
+				"Pasta",
+				"Spaghetti",
+				"Jewel",
+				"Couples",
+				"First Dates",
+				"Dining",
+				"Valentines Day",
+				"Café",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"CAF",
+								"CD"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e9595add2492446482"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2243224127608512-3863734741321627-brandImagePath-770e3aa7-1c7b-4375-b989-8dc9bab9b1fe.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-09d081ba-3e25-4e51-b91b-26682b965bf1.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2243224127608512-3863734741321627-brandImagePath-770e3aa7-1c7b-4375-b989-8dc9bab9b1fe_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2243224127608512-3863734741321627-brandImagePath-770e3aa7-1c7b-4375-b989-8dc9bab9b1fe_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2243224127608512-3863734741321627-brandImagePath-770e3aa7-1c7b-4375-b989-8dc9bab9b1fe_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-09d081ba-3e25-4e51-b91b-26682b965bf1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-09d081ba-3e25-4e51-b91b-26682b965bf1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-09d081ba-3e25-4e51-b91b-26682b965bf1_high.jpg"
+			},
+			"searchContent": "Arteastiq is a premium tea lounge cum social painting studio concept established in 2010. With a name that combines Art and Tea, Arteastiq tease senses through inducing creativity and tantalizing taste buds. Participating Outlet: • Arteastiq Tea Lounge @ Jewel Changi Airport Airport Boulevard Western Asian Restaurant Cafe Trending Cappucinos Latte Food Foodie Artisan Bakery Bread Sourdough Cakes Baguette Sandwiches Salads Kombucha Tea Coffee Tapas Art Artwork Pasta Spaghetti Jewel Couples First Dates Dining Valentines Day Café Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Braci Origin Nobu 665 Solo Restaurant Romantic Dining Cafe Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "arteastiq-jewel-changi-airport-352bdc87",
+			"outlets": [
+				{
+					"_id": "5e1ebd17e2475b3d9c0a20f8",
+					"name": "Jewel Changi Airport"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jewel Changi Airport"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Arteastiq (Jewel Changi Airport)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

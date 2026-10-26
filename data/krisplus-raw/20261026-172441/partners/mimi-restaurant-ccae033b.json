@@ -1,0 +1,210 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mimi-restaurant-ccae033b",
+	"slug": "mimi-restaurant-ccae033b",
+	"fetchedAt": "2026-10-26T17:26:01.763+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60584915d725d80c88fc04a3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Mimi Restaurant",
+			"brand": "Mimi Restaurant",
+			"code": "MIM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "MimiRestaurant",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "211 Henderson Road, #04-03 ",
+				"postalCode": "159552",
+				"streetName": "Henderson Road"
+			},
+			"regNumber": "201623286G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/13313028866295773-Kris%2B%20App%20Privilege%20Image%20(750_540px).png",
+			"websiteUrl": "https://www.mimirestaurant.sg/",
+			"descriptionHtml": "<p>Indulge your palates with our thoughtfully curated menus of traditional Chinese cuisine with modern twists for a truly unforgettable dining experience. Embellished with oriental charms, Mimi’s private dining rooms offer an intimate recluse from the daily bustles.</p>  <p> <br></p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9393434893477743-mimi%20logo%20high%20rest-02.png",
+			"createdAt": "2021-03-22T07:36:53.365Z",
+			"updatedAt": "2026-09-18T08:28:47.855Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Mimi Restaurant",
+			"promotional": "Indulge your palates with our thoughtfully curated menus of traditional Chinese cuisine with modern twists for a truly unforgettable dining experience. Embellished with oriental charms, Mimi’s private dining rooms offer an intimate recluse from the daily bustles.",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"searchableKeywords": [
+				"Clarke Quay",
+				"Eu Tong Sen Street",
+				"Chinese",
+				"Boat Quay",
+				"Riverfront",
+				"Relaxation",
+				"Afternoon Tea",
+				"Chinese Tea",
+				"Dessert",
+				"Tea Time",
+				"Cuisine",
+				"Fine Dining",
+				"Couples",
+				"First Dates",
+				"Oriental",
+				"The Riverhouse",
+				"Valentines Day",
+				"Dining",
+				"Drinks",
+				"Alcohol",
+				"Wine",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic",
+				"FortuneFeast"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c745578ca5d7f0b3c1"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13313028866295773-Kris%2B%20App%20Privilege%20Image%20(750_540px).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9393434893477743-mimi%20logo%20high%20rest-02.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13313028866295773-Kris%2B%20App%20Privilege%20Image%20(750_540px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13313028866295773-Kris%2B%20App%20Privilege%20Image%20(750_540px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13313028866295773-Kris%2B%20App%20Privilege%20Image%20(750_540px)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9393434893477743-mimi%20logo%20high%20rest-02_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9393434893477743-mimi%20logo%20high%20rest-02_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9393434893477743-mimi%20logo%20high%20rest-02_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-10T09:38:02.397Z",
+			"searchContent": "Indulge your palates with our thoughtfully curated menus of traditional Chinese cuisine with modern twists for a truly unforgettable dining experience. Embellished with oriental charms, Mimi’s private dining rooms offer an intimate recluse from the daily bustles. Clarke Quay Eu Tong Sen Street Chinese Boat Quay Riverfront Relaxation Afternoon Tea Chinese Tea Dessert Tea Time Cuisine Fine Dining Couples First Dates Oriental The Riverhouse Valentines Day Dining Drinks Alcohol Wine Reunion Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Romantic FortuneFeast Dining Chinese",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mimi-restaurant-ccae033b",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "605b14575d9f2f3dd81a78a6",
+					"name": "The Riverhouse"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Riverhouse"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mimi Restaurant",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

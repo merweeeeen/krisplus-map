@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/gilmore-damian-dsilva-450939aa",
+	"slug": "gilmore-damian-dsilva-450939aa",
+	"fetchedAt": "2026-10-26T17:33:37.112+08:00",
+	"payload": {
+		"partner": {
+			"_id": "695f4c7e88b9badf326a1872",
+			"name": "OUE Rempapa Pte Ltd (Gilmore)",
+			"shortName": "Gilmore Damian",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Gilmore & Damian D'Silva",
+			"code": "GDD",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/04853606912070685-GilmoreDamianDSilva.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/02971598635471251-11297831552186244-Brand%20Image%20(7).jpg",
+			"websiteUrl": "https://www.gilmore.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "50 COLLYER QUAY  #18-01/02",
+				"postalCode": "049321",
+				"streetName": "OUE BAYFRONT",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Chef Damian revives family recipes dating back over 200 years from his Grandad Gilmore D'Silva, cooking with heart and sharing stories of home, migration, and community. Celebrating Eurasian and Singaporean heritage through flavours that connect generations.</span></p><p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">Note: Payment via Kris+ is not available for the following two scenarios. </p><ul style=\"font-weight: 300; box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\"><ul style=\"font-weight: 300; box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;\"><li style=\"font-weight: 300; box-sizing: border-box;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105);\">Events payments</span></li><li style=\"font-weight: 300; box-sizing: border-box;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105);\">Private dining room bookings</span></li></ul></ul>",
+			"searchableKeywords": [
+				"Malay",
+				"Eurasian",
+				"Chinese",
+				"fusion",
+				"heritage"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-08T06:19:42.789Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/04853606912070685-GilmoreDamianDSilva.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/02971598635471251-11297831552186244-Brand%20Image%20(7).jpg",
+			"createdAt": "2026-01-08T06:19:42.802Z",
+			"updatedAt": "2026-08-06T14:18:27.617Z",
+			"searchContent": "Chef Damian revives family recipes dating back over 200 years from his Grandad Gilmore D'Silva, cooking with heart and sharing stories of home, migration, and community. Celebrating Eurasian and Singaporean heritage through flavours that connect generations. Malay Eurasian Chinese fusion heritage Dining Vegetarian-Friendly Casual Dining Chinese Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/02971598635471251-11297831552186244-Brand%20Image%20(7)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/02971598635471251-11297831552186244-Brand%20Image%20(7)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/02971598635471251-11297831552186244-Brand%20Image%20(7)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/04853606912070685-GilmoreDamianDSilva_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/04853606912070685-GilmoreDamianDSilva_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/04853606912070685-GilmoreDamianDSilva_high.png"
+			},
+			"newMerchantEndDate": "2026-04-12T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "gilmore-damian-dsilva-450939aa",
+			"outlets": [
+				{
+					"_id": "695f4f6c30a761dee077a70d",
+					"name": "National Gallery"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"National Gallery"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Gilmore & Damian D'Silva",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

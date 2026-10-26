@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-embun-sg-53230828",
+	"slug": "the-embun-sg-53230828",
+	"fetchedAt": "2026-10-26T17:33:53.159+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6984583b265236d0692d0a43",
+			"name": "THEEMBUN PTE LTD",
+			"shortName": "The Embun SG",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "The Embun SG",
+			"code": "ESG",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/37641843629919913-Embun.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8956223594396484-7667728269159166-Embun%20Brand%20Image%20PNG.png",
+			"websiteUrl": "https://www.instagram.com/theembunsg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "93 OWEN ROAD  #01-01",
+				"postalCode": "218905",
+				"streetName": "93 OWEN ROAD  #01-01",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Nestled in the heart of Seletar Aerospace Park, Embun is a return to honest food, open skies, and the fire that brings us back to the good old days. Families gather here to feast, kids run free across their wide space, and little ones marvel at their live seafood tanks.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">The Embun SG<span> </span></span><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">is a Muslim owned establishment.</span></span></p>",
+			"searchableKeywords": [
+				"Halal asian",
+				"seafood",
+				"kids",
+				"family",
+				"satay",
+				"grill",
+				"halal"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"BD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-05T08:43:39.518Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/37641843629919913-Embun.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8956223594396484-7667728269159166-Embun%20Brand%20Image%20PNG.png",
+			"createdAt": "2026-02-05T08:43:39.530Z",
+			"updatedAt": "2026-09-04T05:33:54.676Z",
+			"searchContent": "Nestled in the heart of Seletar Aerospace Park, Embun is a return to honest food, open skies, and the fire that brings us back to the good old days. Families gather here to feast, kids run free across their wide space, and little ones marvel at their live seafood tanks. The Embun SG is a Muslim owned establishment. Halal asian seafood kids family satay grill halal Dining Halal Fine Dining Beverages & Desserts Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8956223594396484-7667728269159166-Embun%20Brand%20Image%20PNG_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8956223594396484-7667728269159166-Embun%20Brand%20Image%20PNG_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8956223594396484-7667728269159166-Embun%20Brand%20Image%20PNG_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/37641843629919913-Embun_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/37641843629919913-Embun_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/37641843629919913-Embun_high.png"
+			},
+			"newMerchantEndDate": "2026-05-03T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-embun-sg-53230828",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "698459c980dc0e23c628a20d",
+					"name": "Seletar Aerospace Park"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Seletar Aerospace Park"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Embun SG",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

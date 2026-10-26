@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/yue-hwa-chinese-products-7b6f0332",
+	"slug": "yue-hwa-chinese-products-7b6f0332",
+	"fetchedAt": "2026-10-26T17:30:10.751+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66c8340c203b680068da7b7b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chinese Herbs",
+				"Medicine",
+				"Ginseng",
+				"Bird Nest",
+				"Health",
+				"Herbal"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "YUE HWA CHINESE PRODUCTS PTE LTD",
+			"brand": "Yue Hwa Chinese Products",
+			"code": "YHC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Yue Hwa Chines",
+			"address": {
+				"city": "Singapore",
+				"line1": "70 Eu Tong Sen Street, Singapore 059805",
+				"streetName": "70 Eu Tong Sen Street",
+				"postalCode": "059805",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS",
+								"HL",
+								"GROC",
+								"FS",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.yuehwa.com.sg",
+			"descriptionHtml": "<p>Yue Hwa Chinese Products, founded in Hong Kong in 1959, is Singapore's leading Chinese speciality department store. At Yue Hwa, you can find a wide range of quality groceries, Chinese herbs, household items, health and beauty products, handicrafts, ceramics and more.</p>\n\n<p>Participating outlets:</p>\n\n<ul>\n\t<li>Chinatown (Yue Hwa Flagship Store)</li>\n\t<li>Jurong Point</li>\n\t<li>NEX</li>\n</ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/48098988733450065-2393409234284798-A%20-%20Brand%20Logo%20(1000x%201000).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/06947608464966781-08832913787265606-C%20-%20Brand%20Image%20750X540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"createdAt": "2024-08-23T07:02:36.433Z",
+			"updatedAt": "2026-09-30T16:00:06.856Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/06947608464966781-08832913787265606-C%20-%20Brand%20Image%20750X540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/48098988733450065-2393409234284798-A%20-%20Brand%20Logo%20(1000x%201000).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/06947608464966781-08832913787265606-C%20-%20Brand%20Image%20750X540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/06947608464966781-08832913787265606-C%20-%20Brand%20Image%20750X540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/06947608464966781-08832913787265606-C%20-%20Brand%20Image%20750X540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/48098988733450065-2393409234284798-A%20-%20Brand%20Logo%20(1000x%201000)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/48098988733450065-2393409234284798-A%20-%20Brand%20Logo%20(1000x%201000)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/48098988733450065-2393409234284798-A%20-%20Brand%20Logo%20(1000x%201000)_high.jpg"
+			},
+			"searchContent": "Yue Hwa Chinese Products, founded in Hong Kong in 1959, is Singapore's leading Chinese speciality department store. At Yue Hwa, you can find a wide range of quality groceries, Chinese herbs, household items, health and beauty products, handicrafts, ceramics and more. Participating outlets: Chinatown (Yue Hwa Flagship Store) Jurong Point NEX Chinese Herbs Medicine Ginseng Bird Nest Health Herbal Retail Fashion Home & Lifestyle Groceries Food Specialities Gifts & Souvenirs",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:34:45.430Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "yue-hwa-chinese-products-7b6f0332",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "66c8357966baa90069ec3fce",
+					"name": "Yue Hwa Building"
+				},
+				{
+					"_id": "66cd38a42c3eee0069823082",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "66cd38f9ec7acc00697fbffb",
+					"name": "NEX"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Yue Hwa Building",
+			"Jurong Point",
+			"NEX"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Yue Hwa Chinese Products",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

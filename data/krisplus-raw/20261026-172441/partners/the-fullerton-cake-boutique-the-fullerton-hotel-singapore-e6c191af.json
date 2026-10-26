@@ -1,0 +1,162 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-fullerton-cake-boutique-the-fullerton-hotel-singapore-e6c191af",
+	"slug": "the-fullerton-cake-boutique-the-fullerton-hotel-singapore-e6c191af",
+	"fetchedAt": "2026-10-26T17:33:44.144+08:00",
+	"payload": {
+		"partner": {
+			"_id": "697b122d8fdb5f8aaa4666ea",
+			"name": "Precious Treasure Pte Ltd (The Fullerton Cake Boutique – The Fullerton Hotel Singapore)",
+			"shortName": "Fullerton Cake",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "The Fullerton Cake Boutique (The Fullerton Hotel Singapore)",
+			"code": "FCB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/16861694137523076-FullertonCake.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/07014987794688321-7163081951735542-750x540.jpg",
+			"websiteUrl": "https://shop.fullertonhotels.com/category/dine-with-fullerton/sweet-treats?_gl=1%2Ah5or4m%2A_ga%2AMTcyNjg4NDI3Ni4xNzQ3MzkzNDc0%2",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 Fullerton Square",
+				"postalCode": "049178",
+				"streetName": "1 Fullerton Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Nestled in the elegant lobby of The Fullerton Hotel Singapore at 1 Fullerton Square, The Fullerton Cake Boutique invites you to indulge in a world of sweetness. </p><p>Discover their exquisite range of artisanal cakes, decadent pastries, and traditional sweets, each crafted with passion and designed to delight your senses.</p>",
+			"searchableKeywords": [
+				"Artisanal Cakes",
+				"Afternoon Tea",
+				"Souvenirs",
+				"Whole Cakes",
+				"Pastry"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.044,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS",
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-29T07:54:21.035Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16861694137523076-FullertonCake.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07014987794688321-7163081951735542-750x540.jpg",
+			"createdAt": "2026-01-29T07:54:21.042Z",
+			"updatedAt": "2026-09-09T01:20:00.323Z",
+			"searchContent": "Nestled in the elegant lobby of The Fullerton Hotel Singapore at 1 Fullerton Square, The Fullerton Cake Boutique invites you to indulge in a world of sweetness. Discover their exquisite range of artisanal cakes, decadent pastries, and traditional sweets, each crafted with passion and designed to delight your senses. Artisanal Cakes Afternoon Tea Souvenirs Whole Cakes Pastry Retail Gifts & Souvenirs Food Specialities",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07014987794688321-7163081951735542-750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07014987794688321-7163081951735542-750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07014987794688321-7163081951735542-750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16861694137523076-FullertonCake_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16861694137523076-FullertonCake_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16861694137523076-FullertonCake_high.png"
+			},
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-fullerton-cake-boutique-the-fullerton-hotel-singapore-e6c191af",
+			"outlets": [
+				{
+					"_id": "697b1480a430e4421aac1f9c",
+					"name": "The Fullerton Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Fullerton Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Fullerton Cake Boutique (The Fullerton Hotel Singapore)",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

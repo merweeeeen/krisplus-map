@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/rollgaadi-82dd7fbb",
+	"slug": "rollgaadi-82dd7fbb",
+	"fetchedAt": "2026-10-26T17:33:00.106+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6913ed9a7059288858391cca",
+			"name": "Rollgaadi Pte Ltd",
+			"shortName": "RollGaadi",
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"brand": "RollGaadi",
+			"code": "RGR",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7663993509652782-Rollgaadi.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7893183985884515-31044807972278865-Banner%20Image%20750%20X%20540.png",
+			"websiteUrl": "https://www.instagram.com/rollgaadi/?hl=en",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "18 PINE GROVE #12-06",
+				"postalCode": "597594",
+				"streetName": "CAVENDISH PARK",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">RollGaadi serves authentic Kathi Kebab rolls made from scratch every day. They hand-make every kebab and hand-roll every layered paratha to bring you the most authentic and mouth-watering experience you can find outside Kolkata!</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">RollGaadi <span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">is a Muslim owned establishment.</span></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"></span><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Participating outlets:<br>- Changi City Point<br>- Great World City<br>- i12 Katong</span></p>",
+			"searchableKeywords": [
+				"Kebab",
+				"Indian",
+				"roll"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS",
+								"IND"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-12T02:14:50.894Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7663993509652782-Rollgaadi.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7893183985884515-31044807972278865-Banner%20Image%20750%20X%20540.png",
+			"createdAt": "2025-11-12T02:14:50.902Z",
+			"updatedAt": "2026-09-04T06:58:43.698Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7893183985884515-31044807972278865-Banner%20Image%20750%20X%20540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7893183985884515-31044807972278865-Banner%20Image%20750%20X%20540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7893183985884515-31044807972278865-Banner%20Image%20750%20X%20540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7663993509652782-Rollgaadi_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7663993509652782-Rollgaadi_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7663993509652782-Rollgaadi_high.png"
+			},
+			"searchContent": "RollGaadi serves authentic Kathi Kebab rolls made from scratch every day. They hand-make every kebab and hand-roll every layered paratha to bring you the most authentic and mouth-watering experience you can find outside Kolkata! RollGaadi is a Muslim owned establishment. Participating outlets: - Changi City Point - Great World City - i12 Katong Kebab Indian roll Dining Halal Quick Bites & Snacks Indian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "rollgaadi-82dd7fbb",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "6913f431311d359c63e822ac",
+					"name": "i12 Katong"
+				},
+				{
+					"_id": "6913f9da2b5387a1fed33f18",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "692914651dc3334a64d7422f",
+					"name": "Great World"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"i12 Katong",
+			"Changi City Point",
+			"Great World"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "RollGaadi",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

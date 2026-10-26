@@ -1,0 +1,159 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/pampered-pets-dog-daycare-boarding-7faa5b15",
+	"slug": "pampered-pets-dog-daycare-boarding-7faa5b15",
+	"fetchedAt": "2026-10-26T17:33:19.125+08:00",
+	"payload": {
+		"partner": {
+			"_id": "693bd957a7135f350c2753c8",
+			"name": "Pampered Pets Relocation & Lodging Pte Ltd",
+			"shortName": "Pampered Pets",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "Pampered Pets (Dog Daycare & Boarding)",
+			"code": "PAM",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5895195295324871-PamperedPets.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8073315501587195-7222474338526794-PPRL-Logo-750X540.jpg",
+			"websiteUrl": "https://www.pam-pets.com",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "The Star Vista, #01-14",
+				"postalCode": "138617",
+				"streetName": "1 Vista Exchange Green,",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>At times, you may need a temporary caretaker for your pup while you are away - Pampered Pets' boarding facility at The Star Vista (#01-14/15) is complete with comfy beds and soothing music. To maintain high levels of hygiene, the premises is sanitised twice daily.</p>",
+			"searchableKeywords": [
+				"pets",
+				"dogs",
+				"Dog Boarding",
+				"Daycare Services",
+				"Pets boarding",
+				"Pets Boarding facility",
+				"Pet Hotel"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-12T08:59:03.448Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5895195295324871-PamperedPets.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8073315501587195-7222474338526794-PPRL-Logo-750X540.jpg",
+			"createdAt": "2025-12-12T08:59:03.491Z",
+			"updatedAt": "2026-08-06T14:18:26.273Z",
+			"searchContent": "At times, you may need a temporary caretaker for your pup while you are away - Pampered Pets' boarding facility at The Star Vista (#01-14/15) is complete with comfy beds and soothing music. To maintain high levels of hygiene, the premises is sanitised twice daily. pets dogs Dog Boarding Daycare Services Pets boarding Pets Boarding facility Pet Hotel Services",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8073315501587195-7222474338526794-PPRL-Logo-750X540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8073315501587195-7222474338526794-PPRL-Logo-750X540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8073315501587195-7222474338526794-PPRL-Logo-750X540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5895195295324871-PamperedPets_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5895195295324871-PamperedPets_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5895195295324871-PamperedPets_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "pampered-pets-dog-daycare-boarding-7faa5b15",
+			"outlets": [
+				{
+					"_id": "693bda856fd64865a62febe6",
+					"name": "The Star Vista"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Star Vista"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Pampered Pets (Dog Daycare & Boarding)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/little-island-brewing-co-south-beach-0302387c",
+	"slug": "little-island-brewing-co-south-beach-0302387c",
+	"fetchedAt": "2026-10-26T17:28:57.610+08:00",
+	"payload": {
+		"partner": {
+			"_id": "643df5bf703dea005caf55f9",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Craft Beers",
+				"Brewery",
+				"Pizzas",
+				"Sunday Roast",
+				"Wines",
+				"Cocktails",
+				"Bar",
+				"Grill",
+				"Birthdays",
+				"Anniversary",
+				"Corporate",
+				"Events",
+				"Weddings",
+				"Family",
+				"Gatherings",
+				"Live Band",
+				"Live Music",
+				"Changi",
+				"South Beach",
+				"Best",
+				"Steak",
+				"Seafood",
+				"Platters",
+				"Meats",
+				"Vegetarian",
+				"Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Alchemist Beer Lab Pte Ltd",
+			"brand": "Little Island Brewing Co. (South Beach)",
+			"code": "LIS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Little Island",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "26 Beach Road, South Beach Avenue, #B1-16 ",
+				"postalCode": "189768",
+				"streetName": "26 Beach Road"
+			},
+			"regNumber": "201543206W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/10118600450793847-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540.jpg",
+			"websiteUrl": "https://libc.co",
+			"descriptionHtml": "<p>Little Island Brewing Co @ South Beach is centrally located and well loved by the offices&nbsp;and residents of South Beach Residences and JW Marriott. At Little Island Brewing Co @ South Beach, a refined dining menu is available for&nbsp;pairing&nbsp;with their craft beers brewed in house and many other drinks options.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7759516302744727-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000.jpg",
+			"createdAt": "2023-04-18T01:43:27.724Z",
+			"updatedAt": "2026-08-06T14:17:43.884Z",
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [
+								"VEG"
+							],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"PB",
+								"CD"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94cfd404ac7a5ba301e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10118600450793847-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7759516302744727-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10118600450793847-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10118600450793847-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10118600450793847-33192885513368076-8459756924372561-15996840181077032-BrandImage_App_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7759516302744727-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7759516302744727-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7759516302744727-5085351045692907-7767129091099758-7403369021781046-BrandLogo_App_1000x1000_high.jpg"
+			},
+			"searchContent": "Little Island Brewing Co @ South Beach is centrally located and well loved by the offices and residents of South Beach Residences and JW Marriott. At Little Island Brewing Co @ South Beach, a refined dining menu is available for pairing with their craft beers brewed in house and many other drinks options. Craft Beers Brewery Pizzas Sunday Roast Wines Cocktails Bar Grill Birthdays Anniversary Corporate Events Weddings Family Gatherings Live Band Live Music Changi South Beach Best Steak Seafood Platters Meats Vegetarian Dining Dining Vegetarian-Friendly Pubs & Bars Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "little-island-brewing-co-south-beach-0302387c",
+			"outlets": [
+				{
+					"_id": "643df82697ab90005cbd71cc",
+					"name": "South Beach Avenue"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"South Beach Avenue"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Little Island Brewing Co. (South Beach)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/skyline-bar-parkroyal-collection-marina-bay-afca2f36",
+	"slug": "skyline-bar-parkroyal-collection-marina-bay-afca2f36",
+	"fetchedAt": "2026-10-26T17:28:33.441+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63992c05dbab781c6cebad28",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"saleOfMiles": 0.046,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Marina Bay",
+				"Rooftop Bar",
+				"Parkroyal Collection",
+				"Dining",
+				"Skyline Bar",
+				"Dates",
+				"Drinks",
+				"Valentines Day",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "AQUAMARINA HOTEL PRIVATE LIMITED",
+			"brand": "Skyline Bar (PARKROYAL COLLECTION Marina Bay)",
+			"code": "SLB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Skyline Bar",
+			"address": {
+				"city": "Singapore",
+				"line1": "6 Raffles Boulevard, Marina Square, Singapore 039594",
+				"streetName": "6 Raffles Boulevard",
+				"postalCode": "039594",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198105200M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/12457218459201114-prsmb-kris%2B-brand-img-app-750x540-skb.jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pr-collection-marina-bay/dining/skyline-bar.html",
+			"descriptionHtml": "<p>Located next to PARKROYAL COLLECTION Marina Bay’s outdoor swimming pool and sprawling green lawn, and set against the backdrop of the magnificent Marina Bay, the Skyline Bar serves up a spread of tantalising dishes, savoury bites and beverages perfect for your indulgence, complementing a well-deserved siesta while you watch the world drift by.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"promotional": "       ",
+			"participatingOutlets": "PARKROYAL COLLECTION Marina Bay",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/17973982311118153-prsmb-kris%2B-brand-logo-app-1000x1000-skb.jpg",
+			"createdAt": "2022-12-14T01:51:01.728Z",
+			"updatedAt": "2026-08-06T14:17:39.013Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95e3d10e34df66b4706"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12457218459201114-prsmb-kris%2B-brand-img-app-750x540-skb.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/17973982311118153-prsmb-kris%2B-brand-logo-app-1000x1000-skb.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12457218459201114-prsmb-kris%2B-brand-img-app-750x540-skb_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12457218459201114-prsmb-kris%2B-brand-img-app-750x540-skb_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12457218459201114-prsmb-kris%2B-brand-img-app-750x540-skb_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/17973982311118153-prsmb-kris%2B-brand-logo-app-1000x1000-skb_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/17973982311118153-prsmb-kris%2B-brand-logo-app-1000x1000-skb_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/17973982311118153-prsmb-kris%2B-brand-logo-app-1000x1000-skb_high.jpg"
+			},
+			"searchContent": "Located next to PARKROYAL COLLECTION Marina Bay’s outdoor swimming pool and sprawling green lawn, and set against the backdrop of the magnificent Marina Bay, the Skyline Bar serves up a spread of tantalising dishes, savoury bites and beverages perfect for your indulgence, complementing a well-deserved siesta while you watch the world drift by. Marina Bay Rooftop Bar Parkroyal Collection Dining Skyline Bar Dates Drinks Valentines Day Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:25:55.300Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "skyline-bar-parkroyal-collection-marina-bay-afca2f36",
+			"outlets": [
+				{
+					"_id": "639fb3465a882214ec90f338",
+					"name": "PARKROYAL COLLECTION MarinaBay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL COLLECTION MarinaBay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Skyline Bar (PARKROYAL COLLECTION Marina Bay)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

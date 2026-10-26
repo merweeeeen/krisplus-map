@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-dining-room-sheraton-towers-7f587944",
+	"slug": "the-dining-room-sheraton-towers-7f587944",
+	"fetchedAt": "2026-10-26T17:26:53.669+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6180a17a7ae2112260142fc6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"International",
+				"Asian",
+				"Waterfall",
+				"Dining",
+				"Sheraton Towers",
+				"Scotts Rd",
+				"Newton",
+				"Dates",
+				"A La Carte",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Sheraton Towers Singapore Hotels",
+			"brand": "The Dining Room (Sheraton Towers)",
+			"code": "THE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "The DiningRoom",
+			"address": {
+				"city": "Singapore",
+				"line1": "39, Scotts Road",
+				"streetName": "39 Scotts Road",
+				"postalCode": "228230",
+				"cityCode": "SIN"
+			},
+			"regNumber": "34053800K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7570421020171443-2951294824995361-TDR.png%20750%20x%20540.png",
+			"websiteUrl": "https://www.marriott.com/hotels/hotel-information/restaurant/details/sinsi-sheraton-towers-singapore/5960355/",
+			"descriptionHtml": "<p>Set amidst a signature cascading waterfall, rock pools, and lush landscaped gardens, The Dining Room is a choice destination for a hearty feast with a charming view. Located at the lobby level, the restaurant offers exquisite international, Asian and local favourites on the a la carte menu.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/06832673988205795-46573905509652214-TDR.png%201000%20x%201000.png",
+			"createdAt": "2021-11-02T02:24:58.079Z",
+			"updatedAt": "2026-08-06T14:17:22.643Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "       ",
+			"promotional": "         ",
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef99b2f71c855d5496e3e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7570421020171443-2951294824995361-TDR.png%20750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/06832673988205795-46573905509652214-TDR.png%201000%20x%201000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7570421020171443-2951294824995361-TDR_low.png%20750%20x%20540",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7570421020171443-2951294824995361-TDR_med.png%20750%20x%20540",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7570421020171443-2951294824995361-TDR_high.png%20750%20x%20540"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/06832673988205795-46573905509652214-TDR_low.png%201000%20x%201000",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/06832673988205795-46573905509652214-TDR_med.png%201000%20x%201000",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/06832673988205795-46573905509652214-TDR_high.png%201000%20x%201000"
+			},
+			"searchContent": "Set amidst a signature cascading waterfall, rock pools, and lush landscaped gardens, The Dining Room is a choice destination for a hearty feast with a charming view. Located at the lobby level, the restaurant offers exquisite international, Asian and local favourites on the a la carte menu. International Asian Waterfall Dining Sheraton Towers Scotts Rd Newton Dates A La Carte Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-20T09:46:05.627Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-dining-room-sheraton-towers-7f587944",
+			"outlets": [
+				{
+					"_id": "618c82f99e8fb5468caa2f6a",
+					"name": "Sheraton Towers"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sheraton Towers"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Dining Room (Sheraton Towers)",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/10scotts-2d15bbaa",
+	"slug": "10scotts-2d15bbaa",
+	"fetchedAt": "2026-10-26T17:34:47.075+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a3617c64ddb2995c35b7604",
+			"name": "Borneo Properties  Sdn Bhd (Trading as Grand Hyatt Singapore)",
+			"shortName": "10SCOTTS",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "10SCOTTS",
+			"code": "105",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/11762645611859512-3805826461661712-10_SCOTTS%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2043123763211825-1036258597607167-10SCOTTS%2015May.png",
+			"websiteUrl": "https://www.singapore.grand.hyattrestaurants.com/10-scotts",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "10 Scotts Road Singapore 228211",
+				"postalCode": "228211",
+				"streetName": "10 Scotts Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">10|SCOTTS reimagines relaxed elegance as a living room in the heart of Orchard Road. Designed with a distinctly residential feel, the space invites guests to unwind over refined Afternoon Tea and convivial Happy Hour moments. </span></p>",
+			"searchableKeywords": [
+				"Afternoon Tea",
+				"Buffet",
+				"Wines",
+				"Cocktails",
+				"Western",
+				"Lounge",
+				"Coffee",
+				"Meetings",
+				"Happy Hour"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"QBS",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-20T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-20T04:32:06.847Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11762645611859512-3805826461661712-10_SCOTTS%20Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2043123763211825-1036258597607167-10SCOTTS%2015May.png",
+			"createdAt": "2026-06-20T04:32:06.889Z",
+			"updatedAt": "2026-08-06T14:18:32.748Z",
+			"searchContent": "10|SCOTTS reimagines relaxed elegance as a living room in the heart of Orchard Road. Designed with a distinctly residential feel, the space invites guests to unwind over refined Afternoon Tea and convivial Happy Hour moments. Afternoon Tea Buffet Wines Cocktails Western Lounge Coffee Meetings Happy Hour Dining Buffet Casual Dining Quick Bites & Snacks Beverages & Desserts Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2043123763211825-1036258597607167-10SCOTTS%2015May_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2043123763211825-1036258597607167-10SCOTTS%2015May_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2043123763211825-1036258597607167-10SCOTTS%2015May_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11762645611859512-3805826461661712-10_SCOTTS%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11762645611859512-3805826461661712-10_SCOTTS%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11762645611859512-3805826461661712-10_SCOTTS%20Logo_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "10scotts-2d15bbaa",
+			"outlets": [
+				{
+					"_id": "6a36189ccc042a5cc4648d21",
+					"name": "Grand Hyatt"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Grand Hyatt"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "10SCOTTS",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

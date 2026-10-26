@@ -1,0 +1,252 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/neals-yard-remedies-5c35baef",
+	"slug": "neals-yard-remedies-5c35baef",
+	"fetchedAt": "2026-10-26T17:25:24.793+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e78478627d637255079e55b",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Simple Wellness Pte Ltd",
+			"brand": "Neal's Yard Remedies",
+			"code": "NYR",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "50 Gambas Crescent , #10-41, Proxima Gambas",
+				"postalCode": "757022",
+				"streetName": "Gambas Crescent"
+			},
+			"category": "RETAIL",
+			"regNumber": "201409793N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-26a6b4db-5c04-4b77-95c1-266ce3012b99.jpg",
+			"websiteUrl": "https://simplewellness.com.sg/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-420dcf91-895b-436d-9870-546e84598186.jpg",
+			"createdAt": "2020-03-23T05:22:14.833Z",
+			"updatedAt": "2026-10-08T06:28:18.604Z",
+			"categary": "Others",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Takashimaya Shopping Centre",
+			"promotional": "KrisPay Exclusive Promotion:\n1) 15% Off Serum & Free Skincare Kit\n2) 15% Off Beauty Balm & Free Travel-Size Beauty Balm\n\nTerms and Conditions:\n•\tGift with purchase is only available while stocks last.  \n\nFind out more at:\nhttps://simplewellness.com.sg/",
+			"hideFromCustomer": false,
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"descriptionHtml": "<p>Neal’s Yard Remedies is an award-winning natural health and beauty products retailer. Crafted with the highest possible percentage of organic ingredients as they are kinder to the earth and you. Using ethically sourced herbs, botanicals and essential oils, experts handcraft a series of wellness products for you.<br> <br> Participating Outlet: ​​​​50 Gambas Crescent,  #10-41 Proxima @Gambas Singapore 757022 Opens Monday to Friday, 10am to 6pm.</p><p>Please contact the concierge team at 98890142 if you wish to visit Neal's Yard Remedies after office hours 6pm – 8pm.</p>",
+			"countryCode": "SG",
+			"shortName": "NYR",
+			"searchableKeywords": [
+				"Orchard",
+				"City",
+				"Town",
+				"Central",
+				"Skincare",
+				"Aromatherapy Oils",
+				"Homefragrance",
+				"Facial",
+				"Organic",
+				"Natural",
+				"Sustainable",
+				"Eco",
+				"Birthday",
+				"Oil",
+				"Ngee Ann City",
+				"Takashimaya Shopping Centre",
+				"Retail",
+				"Health",
+				"Beauty",
+				"Botanicals",
+				"Gift",
+				"For Him",
+				"For Her",
+				"Rose",
+				"Lotion",
+				"Uk",
+				"Moisturiser",
+				"Body",
+				"Sanitizer",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions",
+				"Spa",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Perfume",
+				"NealS Yard Remedies",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS",
+								"BEA",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e0a65eaf5ea768288c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-26a6b4db-5c04-4b77-95c1-266ce3012b99.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-420dcf91-895b-436d-9870-546e84598186.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-26a6b4db-5c04-4b77-95c1-266ce3012b99_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-26a6b4db-5c04-4b77-95c1-266ce3012b99_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-26a6b4db-5c04-4b77-95c1-266ce3012b99_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-420dcf91-895b-436d-9870-546e84598186_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-420dcf91-895b-436d-9870-546e84598186_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-420dcf91-895b-436d-9870-546e84598186_high.jpg"
+			},
+			"searchContent": "Neal’s Yard Remedies is an award-winning natural health and beauty products retailer. Crafted with the highest possible percentage of organic ingredients as they are kinder to the earth and you. Using ethically sourced herbs, botanicals and essential oils, experts handcraft a series of wellness products for you. Participating Outlet: ​​​​50 Gambas Crescent, #10-41 Proxima @Gambas Singapore 757022 Opens Monday to Friday, 10am to 6pm. Please contact the concierge team at 98890142 if you wish to visit Neal's Yard Remedies after office hours 6pm – 8pm. Orchard City Town Central Skincare Aromatherapy Oils Homefragrance Facial Organic Natural Sustainable Eco Birthday Oil Ngee Ann City Takashimaya Shopping Centre Retail Health Beauty Botanicals Gift For Him For Her Rose Lotion Uk Moisturiser Body Sanitizer Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Spa Dermalogica Elemis Spa Natureland Clarins Aesop Cleanser Massage Guasha Foot Massage Body Massage Treatment Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Perfume NealS Yard Remedies Ruhens Grohe Hansgrohe Mayer Simmons Sealy Retail Gifts & Souvenirs Beauty Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-16T03:51:36.960Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "neals-yard-remedies-5c35baef",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5ed21cf16179dc20f4cb71fc",
+					"name": "50 Gambas Crescent"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"50 Gambas Crescent"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Neal's Yard Remedies",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

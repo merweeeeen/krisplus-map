@@ -1,0 +1,233 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ola-beach-club-81b02745",
+	"slug": "ola-beach-club-81b02745",
+	"fetchedAt": "2026-10-26T17:25:45.755+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f98e26d9b5fc749848cf38d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING",
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Ola Beach Club",
+			"brand": "Ola Beach Club",
+			"code": "OBC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Ola Beach Club",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "6 Temasek Boulevard , #30-01A Suntec Tower Four ",
+				"postalCode": "038986",
+				"streetName": "Temasek Boulevard"
+			},
+			"regNumber": "201605112R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/975006715246099-Brand%20Image%20(App%20750x540).jpg",
+			"websiteUrl": "https://www.olabeachclub.com",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Ola Beach Club brings a slice of Hawaii to Singapore",
+			"participatingOutlets": "46 Siloso Beach Walk,\nSingapore 099005",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8468771494189575-Brand%20Logo%20(App%201000x1000).jpg",
+			"createdAt": "2020-10-28T03:15:57.396Z",
+			"updatedAt": "2026-09-30T16:00:06.102Z",
+			"description": "",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Ola%20Beach%20Club\">Reserve A Table</a>.</p><p>Singapore’s only all-encompassing Hawaiian-themed lifestyle venue that caters to fun and sun-loving guests of all ages! Daytime activities includes heart-pumping water sports for the adventurous and fun kiddy water rides for the little ones. Ola Beach Club also has an all-day Hawaiian-inspired menu to keep you energised through the day and into the night. </p>",
+			"searchableKeywords": [
+				"Sentosa",
+				"Silosa Beach Walk",
+				"Western",
+				"Sun",
+				"Sand",
+				"Sea",
+				"Dining",
+				"American",
+				"Diner",
+				"Water Sports",
+				"Banana Boat",
+				"Fries",
+				"Soda",
+				"Drinks",
+				"Alcohol",
+				"Beerwine",
+				"Steak",
+				"Pasta",
+				"Pizza",
+				"Kids",
+				"Couples",
+				"Children",
+				"Dates",
+				"Valentines Day",
+				"Outdoors",
+				"Adventure",
+				"Attraction",
+				"Family",
+				"Outdoor",
+				"Harbourfront",
+				"Class",
+				"Workshop",
+				"Activity",
+				"Music",
+				"Concert",
+				"Bonding",
+				"School Holidays",
+				"Virtual",
+				"Teams",
+				"Friends",
+				"Arts  Crafts",
+				"Immersive Experiences",
+				"Experiences",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				},
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"ENT"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d65e6d0897746a1e78"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/975006715246099-Brand%20Image%20(App%20750x540).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8468771494189575-Brand%20Logo%20(App%201000x1000).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/975006715246099-Brand%20Image%20(App%20750x540)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/975006715246099-Brand%20Image%20(App%20750x540)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/975006715246099-Brand%20Image%20(App%20750x540)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8468771494189575-Brand%20Logo%20(App%201000x1000)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8468771494189575-Brand%20Logo%20(App%201000x1000)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8468771494189575-Brand%20Logo%20(App%201000x1000)_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Singapore’s only all-encompassing Hawaiian-themed lifestyle venue that caters to fun and sun-loving guests of all ages! Daytime activities includes heart-pumping water sports for the adventurous and fun kiddy water rides for the little ones. Ola Beach Club also has an all-day Hawaiian-inspired menu to keep you energised through the day and into the night. Sentosa Silosa Beach Walk Western Sun Sand Sea Dining American Diner Water Sports Banana Boat Fries Soda Drinks Alcohol Beerwine Steak Pasta Pizza Kids Couples Children Dates Valentines Day Outdoors Adventure Attraction Family Outdoor Harbourfront Class Workshop Activity Music Concert Bonding School Holidays Virtual Teams Friends Arts  Crafts Immersive Experiences Experiences Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Casual Dining Activities Entertainment",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:14:07.727Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ola-beach-club-81b02745",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5ffc046561c71416ec1ce1f6",
+					"name": "Siloso Beach Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Siloso Beach Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Ola Beach Club",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

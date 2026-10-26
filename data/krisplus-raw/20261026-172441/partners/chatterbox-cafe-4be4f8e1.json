@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/chatterbox-cafe-4be4f8e1",
+	"slug": "chatterbox-cafe-4be4f8e1",
+	"fetchedAt": "2026-10-26T17:32:36.937+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68da5972b7c8c30467341942",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chicken rice",
+				"local Singaporean",
+				"Hainan Chicken Rice",
+				"Sentosa",
+				"Chilli Crab",
+				"Laksa"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "CBX PTE LTD (RWS)",
+			"brand": "Chatterbox Café",
+			"code": "CBC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Chatterbox RWS",
+			"address": {
+				"line1": "50 COLLYER QUAY #18-01/02",
+				"postalCode": "049321",
+				"streetName": "OUE BAYFRONT",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://chatterbox.com.sg/",
+			"descriptionHtml": "<p class=\"MsoNormal\">  </p><p>Since 1971, Chatterbox has been home to the legendary Mandarin Chicken Rice, pioneering the elevation of beloved hawker food into a five-star experience. Today, their menu continues that legacy—a modern celebration of Singapore's rich culinary heritage, crafted with time-honoured recipes. </p>  <p>Chatterbox Café is located at WEAVE Mall at Resorts World Sentosa.</p>  <p></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8916716097697417-ChatterboxCafe.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2721880498189151-008000068986618425-Brand%20Image_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8916716097697417-ChatterboxCafe.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2721880498189151-008000068986618425-Brand%20Image_750x540.jpg",
+			"createdAt": "2025-09-29T10:03:30.742Z",
+			"updatedAt": "2026-10-01T00:55:54.660Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2721880498189151-008000068986618425-Brand%20Image_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2721880498189151-008000068986618425-Brand%20Image_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2721880498189151-008000068986618425-Brand%20Image_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8916716097697417-ChatterboxCafe_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8916716097697417-ChatterboxCafe_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8916716097697417-ChatterboxCafe_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-12-01T01:35:11.698Z",
+			"searchContent": "Since 1971, Chatterbox has been home to the legendary Mandarin Chicken Rice, pioneering the elevation of beloved hawker food into a five-star experience. Today, their menu continues that legacy—a modern celebration of Singapore's rich culinary heritage, crafted with time-honoured recipes. Chatterbox Café is located at WEAVE Mall at Resorts World Sentosa. Chicken rice local Singaporean Hainan Chicken Rice Sentosa Chilli Crab Laksa Dining Cafe Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Chinese Asian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "chatterbox-cafe-4be4f8e1",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "68da5bbc2b42a2046734e5b6",
+					"name": "Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Chatterbox Café",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

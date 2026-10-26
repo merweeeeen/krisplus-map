@@ -1,0 +1,222 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/la-source-spa-ebd8ceea",
+	"slug": "la-source-spa-ebd8ceea",
+	"fetchedAt": "2026-10-26T17:26:26.871+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60ab17cd01edb564508d5732",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "La Source Singapore Pte Ltd",
+			"brand": "La Source Spa",
+			"code": "LS1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "La Source Spa",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "545 Orchard Road, #04-27 Far East Shopping Centre",
+				"postalCode": "238882",
+				"streetName": "Orchard Road"
+			},
+			"regNumber": "200716707W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6231444251765226-Brand%20Image%20750x540.png",
+			"websiteUrl": "https://lasource.com.sg/",
+			"descriptionHtml": "<p>​​​​​​​Sanctuary to retreat to for a luxurious pampering experience that rejuvenates and relaxes the body without fuss or frivolity. La Source Spa believes in bringing the mind, body, and soul to a renewed state of peace and restored inner balance.</p>\n\n<p>Participating outlet:</p>\n\n<ul>\n\t<li>voco Orchard Singapore (former Hilton Singapore</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/41997511754709627-La%20Source%20Logo%201000x1000.png",
+			"createdAt": "2021-05-24T03:04:45.650Z",
+			"updatedAt": "2026-08-06T14:17:17.665Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "The Shopping Gallery",
+			"promotional": "        ",
+			"searchableKeywords": [
+				"Orchard",
+				"City",
+				"Town",
+				"Central",
+				"Beauty",
+				"Spa",
+				"Face",
+				"Skin",
+				"Skincare",
+				"Repar",
+				"Rejuvenate",
+				"Antiaging",
+				"Glowingskin",
+				"Hydrating",
+				"Facelift",
+				"Treatment",
+				"Wellness",
+				"Massage",
+				"Eyebrow Embroidery",
+				"Haircut",
+				"Couples",
+				"Birthday",
+				"Facial",
+				"Services",
+				"Luxurious",
+				"The Shopping Gallery At Hilton",
+				"Voco Orchard Singapore",
+				"Spa",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9bdb35256c5b2c9bf00"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6231444251765226-Brand%20Image%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/41997511754709627-La%20Source%20Logo%201000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6231444251765226-Brand%20Image%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6231444251765226-Brand%20Image%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6231444251765226-Brand%20Image%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/41997511754709627-La%20Source%20Logo%201000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/41997511754709627-La%20Source%20Logo%201000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/41997511754709627-La%20Source%20Logo%201000x1000_high.png"
+			},
+			"searchContent": "​​​​​​​Sanctuary to retreat to for a luxurious pampering experience that rejuvenates and relaxes the body without fuss or frivolity. La Source Spa believes in bringing the mind, body, and soul to a renewed state of peace and restored inner balance. Participating outlet: voco Orchard Singapore (former Hilton Singapore Orchard City Town Central Beauty Spa Face Skin Skincare Repar Rejuvenate Antiaging Glowingskin Hydrating Facelift Treatment Wellness Massage Eyebrow Embroidery Haircut Couples Birthday Facial Services Luxurious The Shopping Gallery At Hilton Voco Orchard Singapore Spa Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Treatment Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:14:12.577Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "la-source-spa-ebd8ceea",
+			"outlets": [
+				{
+					"_id": "60af0910ff08e815f4c18eb7",
+					"name": "voco Orchard Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"voco Orchard Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "La Source Spa",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

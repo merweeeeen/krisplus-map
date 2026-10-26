@@ -1,0 +1,206 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/seoul-garden-buffet-cca1ba31",
+	"slug": "seoul-garden-buffet-cca1ba31",
+	"fetchedAt": "2026-10-26T17:30:38.779+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67496dd61613390072f19647",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Korean",
+				"Buffet",
+				"Halal Buffet",
+				"Bbq",
+				"Birthday",
+				"Steamboat",
+				"Grill Buffet",
+				"Halal Certified",
+				"Marinated Meats",
+				"Allyoucaneat"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "ZINGRILL PTE LTD (Seoul Garden Buffet)",
+			"brand": "Seoul Garden Buffet",
+			"code": "SGB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Seoul Garden B",
+			"address": {
+				"line1": "1 COLEMAN STREET  #10-07  THE ADELPHI  SINGAPORE 179803",
+				"postalCode": "179803",
+				"streetName": "1 COLEMAN STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.seoulgarden.com.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Seoul%20Garden\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Seoul Garden Buffet, a renowned international Korean grill and hotpot chain, offers a unique 2-in-1 (smokeless grill and hotpot) dining experience that caters to every craving. Unleash your inner chef and create your own culinary masterpieces with a wide variety of fresh ingredients at your fingertips.<br> ​​​​​​​<br> Participating outlets:</p>  <ul> \t<li>Aperia Mall</li><li>Bugis Junction</li><li>City Square Mall (Coming soon)</li><li>IMM</li> \t \t<li>Marina Square</li> \t<li>Northpoint City</li> \t<li>Tampines Mall</li> \t<li>The Clementi Mall</li> </ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8517582989249488-1198328620650253-download.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6085162622908542-7264955094404715-652416118687476-750%20x%20540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 8
+				}
+			],
+			"createdAt": "2024-11-29T07:31:34.846Z",
+			"updatedAt": "2026-10-12T02:44:13.940Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6085162622908542-7264955094404715-652416118687476-750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6085162622908542-7264955094404715-652416118687476-750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6085162622908542-7264955094404715-652416118687476-750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8517582989249488-1198328620650253-download_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8517582989249488-1198328620650253-download_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8517582989249488-1198328620650253-download_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6085162622908542-7264955094404715-652416118687476-750%20x%20540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8517582989249488-1198328620650253-download.jpg",
+			"searchContent": "*Click here to Reserve A Table. Seoul Garden Buffet, a renowned international Korean grill and hotpot chain, offers a unique 2-in-1 (smokeless grill and hotpot) dining experience that caters to every craving. Unleash your inner chef and create your own culinary masterpieces with a wide variety of fresh ingredients at your fingertips. ​​​​​​​ Participating outlets: Aperia MallBugis JunctionCity Square Mall (Coming soon)IMM Marina Square Northpoint City Tampines Mall The Clementi Mall Korean Buffet Halal Buffet Bbq Birthday Steamboat Grill Buffet Halal Certified Marinated Meats Allyoucaneat Dining Halal Buffet Casual Dining Asian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:31:31.356Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "seoul-garden-buffet-cca1ba31",
+			"outlets": [
+				{
+					"_id": "674974bd2ec8960073517952",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "674976cf1613390072f1a17c",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "67497731796960006b7284da",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "67497780e35231006a4b1113",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "67497809bf80ee0062995bdd",
+					"name": "The Clementi Mall"
+				},
+				{
+					"_id": "683fea3b31f6b104085e3867",
+					"name": "IMM"
+				},
+				{
+					"_id": "6ab38c7f8c63a27c3c505e0a",
+					"name": "Aperia Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis Junction",
+			"Marina Square",
+			"Northpoint City",
+			"Tampines Mall",
+			"The Clementi Mall",
+			"IMM",
+			"Aperia Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Seoul Garden Buffet",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

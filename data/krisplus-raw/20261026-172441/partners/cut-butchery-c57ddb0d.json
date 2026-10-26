@@ -1,0 +1,200 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cut-butchery-c57ddb0d",
+	"slug": "cut-butchery-c57ddb0d",
+	"fetchedAt": "2026-10-26T17:29:48.616+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65dc421555c3e70053598913",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.33,
+				"saleOfMiles": 0.015,
+				"amountBlock": 3,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Meat",
+				"seafood",
+				"beef",
+				"pork",
+				"chicken",
+				"organic",
+				"lamb",
+				"cheese",
+				"wine",
+				"guanciale",
+				"pancetta",
+				"ham",
+				"nitrate free",
+				"bbq",
+				"marinated meat",
+				"shabu",
+				"yakiniku",
+				"ribeye",
+				"striploin",
+				"hanger",
+				"deli",
+				"groceries"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65dc421ee71e630e0450aeca"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "CUT BUTCHERY GRILL PTE LTD",
+			"brand": "Cut Butchery",
+			"code": "CBG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Cut Butchery",
+			"address": {
+				"city": "Singapore",
+				"line1": "51 EWE BOON ROAD  #04-04  SINGAPORE 259345",
+				"streetName": "51 EWE BOON ROAD",
+				"postalCode": "259345",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FS",
+								"GROC"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.cutbutchery.sg/",
+			"descriptionHtml": "<p>Cut Butchery is one of Singapore’s best butchers, ranging from the basics of everyday meats to premium Japanese & Australian Wagyu. They also have the best Shabu-Shabu and Yakiniku cuts, a wide range of marinated meats for BBQ and oven baking. In-House Dry Aged meats range from Beef, Pork and even Duck and Fish.</p>\n\n<p>Participating outlets:</p>\n\n<ul>\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Bedok Mall</span></span></li>\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Bukit Timah Plaza</span></span></li>\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">My Village @ Serangoon Gardens</span></span></li>\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Tampines Mall</span></span></li>\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Thomson Plaza</span></span></li>\n</ul>\n\n<p> </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/887232225275215-cut%20butchery_logo%20(004).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6226521465752293-cut%20butchery_1%20(003).png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"createdAt": "2024-02-26T07:47:33.882Z",
+			"updatedAt": "2026-08-06T14:17:59.647Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6226521465752293-cut%20butchery_1%20(003).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/887232225275215-cut%20butchery_logo%20(004).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6226521465752293-cut%20butchery_1%20(003)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6226521465752293-cut%20butchery_1%20(003)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6226521465752293-cut%20butchery_1%20(003)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/887232225275215-cut%20butchery_logo%20(004)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/887232225275215-cut%20butchery_logo%20(004)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/887232225275215-cut%20butchery_logo%20(004)_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-26T09:17:16.576Z",
+			"searchContent": "Cut Butchery is one of Singapore’s best butchers, ranging from the basics of everyday meats to premium Japanese & Australian Wagyu. They also have the best Shabu-Shabu and Yakiniku cuts, a wide range of marinated meats for BBQ and oven baking. In-House Dry Aged meats range from Beef, Pork and even Duck and Fish. Participating outlets: Bedok Mall Bukit Timah Plaza My Village @ Serangoon Gardens Tampines Mall Thomson Plaza Meat seafood beef pork chicken organic lamb cheese wine guanciale pancetta ham nitrate free bbq marinated meat shabu yakiniku ribeye striploin hanger deli groceries Retail Food Specialities Groceries",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cut-butchery-c57ddb0d",
+			"outlets": [
+				{
+					"_id": "65dc44cfa18aef0052d8d474",
+					"name": "My Village Mall"
+				},
+				{
+					"_id": "65dc455da18aef0052d8d572",
+					"name": " Bukit Timah Plaza"
+				},
+				{
+					"_id": "65dc45d000fdf50053c3fea6",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "65dc466569fdac00539248e3",
+					"name": "Thomson Plaza"
+				},
+				{
+					"_id": "6729d1dfba294c00721e63ea",
+					"name": "Tampines Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"My Village Mall",
+			" Bukit Timah Plaza",
+			"Bedok Mall",
+			"Thomson Plaza",
+			"Tampines Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 3,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cut Butchery",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 3 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -8,7 +8,7 @@ The app reads only `public/data/krisplus-outlets.geojson`. You can start this ph
 
 ### 4.1 Load and type the data
 
-1. Add a GeoJSON feature schema to `shared/schema.ts`, built from the outlet schema.
+1. Use `OutletFeatureCollection` from `shared/schema.ts`. Phase 3 added it. The file is about 1.9 MB, or 190 KB with gzip, for 1,483 features.
 2. In `src/routes/index.tsx`, fetch `/data/krisplus-outlets.geojson` in the route loader and parse it with the schema. Show an error state with a retry button if the fetch or the parse fails.
 3. Read `generated_at` from the file and show it in the footer as "Data collected <date>".
 
@@ -25,7 +25,7 @@ Done when reloading the page or opening a copied link restores the same search, 
 1. Add `leaflet`, `react-leaflet`, and a marker clustering plugin. Pin releases at least two weeks old.
 2. Render the map on the client only, with `ClientOnly` from `@tanstack/react-router` or a lazy import. Leaflet needs `window`.
 3. Use OneMap's Default tiles, `https://www.onemap.gov.sg/maps/tiles/Default/{z}/{x}/{y}.png`. Set the zoom range and attribution that Phase 0 confirmed.
-4. Cluster the pins. Tapping a pin selects that outlet. Tapping a cluster zooms in.
+4. Cluster the pins. Tapping a pin selects that outlet. Tapping a cluster zooms in. Many outlets share one coordinate, because geocoding stops at the building. On 2026-10-26, Suntec City Mall and VivoCity held 40 outlets each, and Jewel Changi Airport held 31. Zooming in never splits those, so a cluster at full zoom must open a list of its outlets instead.
 5. Centre on Singapore by default, at about `[1.3521, 103.8198]`.
 
 Done when every feature appears as a pin or inside a cluster, and the map pans smoothly on a mid-range phone.

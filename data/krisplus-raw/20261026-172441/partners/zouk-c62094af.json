@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/zouk-c62094af",
+	"slug": "zouk-c62094af",
+	"fetchedAt": "2026-10-26T17:31:18.635+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67e4c09902d1b134a037ea3d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Club",
+				"night life",
+				"lounge",
+				"champagne",
+				"vodka",
+				"whisky",
+				"gin",
+				"rum",
+				"bourbon",
+				"drinking",
+				"alcohol",
+				"bar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Zouk Clarke Quay Pte Ltd - Zouk",
+			"brand": "Zouk",
+			"code": "ZOU",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5813",
+			"shortName": "Zouk",
+			"address": {
+				"line1": "3C RIVER VALLEY ROAD #02-02 SINGAPORE 179022",
+				"postalCode": "179022",
+				"streetName": "3C RIVER VALLEY ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://zoukgroup.com/singapore/zouk/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">As the largest club in the complex with a capacity of over 1,500, the main Zouk room regularly hosts international guest DJs, ‘live’ performances, Fashion shows, fringe art events, short film screenings, and exhibitions. The club is accessed through a dramatically lit and sculptural tunnel as a prequel to the scene ahead of the neo-industrial-themed space. </span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6963266769500653-zouk.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7495637736832157-06505415803038561-Untitled.png",
+			"countryCode": "SG",
+			"mccDescription": "Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6963266769500653-zouk.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7495637736832157-06505415803038561-Untitled.png",
+			"createdAt": "2025-03-27T03:06:02.097Z",
+			"updatedAt": "2026-09-01T01:48:11.125Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7495637736832157-06505415803038561-Untitled_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7495637736832157-06505415803038561-Untitled_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7495637736832157-06505415803038561-Untitled_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6963266769500653-zouk_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6963266769500653-zouk_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6963266769500653-zouk_high.png"
+			},
+			"searchContent": "As the largest club in the complex with a capacity of over 1,500, the main Zouk room regularly hosts international guest DJs, ‘live’ performances, Fashion shows, fringe art events, short film screenings, and exhibitions. The club is accessed through a dramatically lit and sculptural tunnel as a prequel to the scene ahead of the neo-industrial-themed space. Club night life lounge champagne vodka whisky gin rum bourbon drinking alcohol bar Activities",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-30T01:52:56.929Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "zouk-c62094af",
+			"outlets": [
+				{
+					"_id": "67e4c4304375c60410da3ad1",
+					"name": "Zouk Bar"
+				},
+				{
+					"_id": "67e65bb3f2baed34ff150693",
+					"name": "Zouk Ticketing"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Zouk Bar",
+			"Zouk Ticketing"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Zouk",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

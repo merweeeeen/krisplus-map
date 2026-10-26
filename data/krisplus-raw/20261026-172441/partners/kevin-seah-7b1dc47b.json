@@ -1,0 +1,214 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kevin-seah-7b1dc47b",
+	"slug": "kevin-seah-7b1dc47b",
+	"fetchedAt": "2026-10-26T17:26:33.798+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60f12ddcebc37e4e6c9cea06",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Bukit Merah",
+				"Redhill",
+				"Clothes",
+				"Shoes",
+				"Tailor",
+				"Clothing",
+				"Shirt",
+				"Caps",
+				"Trouser",
+				"Shoe",
+				"Tie",
+				"Accessories",
+				"Jeans",
+				"Fitting",
+				"Retail",
+				"Suit",
+				"Bespoke",
+				"Contemporary",
+				"Modern",
+				"For Him",
+				"Homegrown",
+				"The Mill",
+				"5 Jalan Kilang",
+				"Custom Made",
+				"Customised",
+				"Male",
+				"Menswear",
+				"Fashion",
+				"Smart",
+				"Suits",
+				"Newclothes",
+				"Zara",
+				"Uniqlo",
+				"Charles",
+				"Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Hats",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "The Kevin Seah Group Pte Ltd",
+			"brand": "KEVIN SEAH",
+			"code": "KS1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5691",
+			"shortName": "KEVIN SEAH",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "5 Jalan Kilang, The Mill, #03-01",
+				"postalCode": "159405",
+				"streetName": "Jalan Kilang The Mill"
+			},
+			"regNumber": "201400872E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7467130801786288-Kevin%20Seah%20Image.jpg",
+			"websiteUrl": "https://www.kevinseah.com/",
+			"descriptionHtml": "<p>Founded in 2009, KEVIN SEAH has built a reputation as the premier modern tailor and men’s outfitter in Singapore. Offering an incomparable selection of the finest cloth, KEVIN SEAH specialises in design-savvy garments balancing classic elegance and contemporary comfort.</p>  <p>Participating Outlet:</p>  <ul> \t<li>Botanic Gardens View</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Mens and womens clothing stores",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8243777894528226-Kevin%20Seah%20logo.jpg",
+			"createdAt": "2021-07-16T06:57:32.921Z",
+			"updatedAt": "2026-09-01T02:08:12.832Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 4,
+				"saleOfMiles": 0.032,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 60000,
+				"minTokens": 10000
+			},
+			"participatingOutlets": "          ",
+			"promotional": "     ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9b55e6d0897746a1e72"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7467130801786288-Kevin%20Seah%20Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8243777894528226-Kevin%20Seah%20logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7467130801786288-Kevin%20Seah%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7467130801786288-Kevin%20Seah%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7467130801786288-Kevin%20Seah%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8243777894528226-Kevin%20Seah%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8243777894528226-Kevin%20Seah%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8243777894528226-Kevin%20Seah%20logo_high.jpg"
+			},
+			"searchContent": "Founded in 2009, KEVIN SEAH has built a reputation as the premier modern tailor and men’s outfitter in Singapore. Offering an incomparable selection of the finest cloth, KEVIN SEAH specialises in design-savvy garments balancing classic elegance and contemporary comfort. Participating Outlet: Botanic Gardens View Bukit Merah Redhill Clothes Shoes Tailor Clothing Shirt Caps Trouser Shoe Tie Accessories Jeans Fitting Retail Suit Bespoke Contemporary Modern For Him Homegrown The Mill 5 Jalan Kilang Custom Made Customised Male Menswear Fashion Smart Suits Newclothes Zara Uniqlo Charles Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shorts Leggings Hats Garments Scarves Jewellery Bags Belts Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-20T02:32:57.228Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kevin-seah-7b1dc47b",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "60f7b944b16d5b6de8fa6289",
+					"name": "Botanic Gardens View"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Botanic Gardens View"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "KEVIN SEAH",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

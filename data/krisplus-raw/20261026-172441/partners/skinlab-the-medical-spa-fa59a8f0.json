@@ -1,0 +1,220 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/skinlab-the-medical-spa-fa59a8f0",
+	"slug": "skinlab-the-medical-spa-fa59a8f0",
+	"fetchedAt": "2026-10-26T17:34:42.171+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a2a63ffa3e1c33045352732",
+			"name": "SKINLAB THE MEDICAL SPA PTE. LTD.",
+			"shortName": "SkinLab The Me",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "SkinLab The Medical Spa",
+			"code": "INL",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/22481704879230224-43460262569849806-SkinLab%20Brand%20Logo%20(260x260).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/888221688689727-6642049983473837-Brand%20Image%20(750x540).png",
+			"websiteUrl": "https://www.skinlabmedspa.com/",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "501 ORCHARD ROAD, #04-04 WHEELOCK PLACE SINGAPORE 238880",
+				"postalCode": "238880",
+				"streetName": "501 ORCHARD ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">SkinLab The Medical Spa is Singapore’s largest medical spa     chain, offering advanced, medical-grade facials and skincare products. Every     treatment is thoughtfully curated to target your unique skin concerns,     combining proven clinical expertise with the latest innovations in cosmetic     dermatology to deliver visible, lasting results.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>Causeway Point</li><li>imall</li><li>Junction 8</li><li>Jurong Point</li><li>Plaza Singapura</li><li>Sengkang Grand Mall</li><li>Tampines 1</li><li>Westgate</li><li>Wheelock Place</li><li>Waterway Point (\"SL Aesthetic Clinic\") <em>Kris+ is accepted only for Spa services at this outlet</em></li></ul>                ",
+			"searchableKeywords": [
+				"Skinlab",
+				"facial",
+				"facial treatment",
+				"facial spa",
+				"medical peel",
+				"melasma",
+				"skinlab medical spa",
+				"hydrating facial",
+				"skin rejuvenation",
+				"glass skin",
+				"acne scars",
+				"antiaging facial",
+				"brightening facial",
+				"blackhead removal",
+				"extraction",
+				"medical spa",
+				"skin tightening",
+				"pigmentation",
+				"acne treatment"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-17T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 10
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-11T07:30:07.236Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/22481704879230224-43460262569849806-SkinLab%20Brand%20Logo%20(260x260).png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/888221688689727-6642049983473837-Brand%20Image%20(750x540).png",
+			"createdAt": "2026-06-11T07:30:07.252Z",
+			"updatedAt": "2026-10-02T00:52:48.441Z",
+			"searchContent": "SkinLab The Medical Spa is Singapore’s largest medical spa chain, offering advanced, medical-grade facials and skincare products. Every treatment is thoughtfully curated to target your unique skin concerns, combining proven clinical expertise with the latest innovations in cosmetic dermatology to deliver visible, lasting results. Participating outlets: Causeway PointimallJunction 8Jurong PointPlaza SingapuraSengkang Grand MallTampines 1WestgateWheelock PlaceWaterway Point (\"SL Aesthetic Clinic\") Kris+ is accepted only for Spa services at this outlet Skinlab facial facial treatment facial spa medical peel melasma skinlab medical spa hydrating facial skin rejuvenation glass skin acne scars antiaging facial brightening facial blackhead removal extraction medical spa skin tightening pigmentation acne treatment Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/888221688689727-6642049983473837-Brand%20Image%20(750x540)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/888221688689727-6642049983473837-Brand%20Image%20(750x540)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/888221688689727-6642049983473837-Brand%20Image%20(750x540)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/22481704879230224-43460262569849806-SkinLab%20Brand%20Logo%20(260x260)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/22481704879230224-43460262569849806-SkinLab%20Brand%20Logo%20(260x260)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/22481704879230224-43460262569849806-SkinLab%20Brand%20Logo%20(260x260)_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "skinlab-the-medical-spa-fa59a8f0",
+			"outlets": [
+				{
+					"_id": "6a3c9d7c4ddb2995c36c0811",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "6a3c9dfc4ddb2995c36c09a5",
+					"name": "imall"
+				},
+				{
+					"_id": "6a3c9eab71c936890e28686d",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "6a3cd2cb2f5f12a1b930d864",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "6a3cd3316182adb9d8820f94",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "6a3cd3a96182adb9d8821111",
+					"name": "Sengkang Grand Mall"
+				},
+				{
+					"_id": "6a3cd4146182adb9d8821297",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "6a3cd477521de511a4384f99",
+					"name": "Waterway Point - West Wing"
+				},
+				{
+					"_id": "6a3cd4d9132b86a93f2f700b",
+					"name": "Westgate"
+				},
+				{
+					"_id": "6a3cd5371bde345462de291c",
+					"name": "Wheelock Place"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Causeway Point",
+			"imall",
+			"Junction 8",
+			"Jurong Point",
+			"Plaza Singapura",
+			"Sengkang Grand Mall",
+			"Tampines 1",
+			"Waterway Point - West Wing",
+			"Westgate",
+			"Wheelock Place"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SkinLab The Medical Spa",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

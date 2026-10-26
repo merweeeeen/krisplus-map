@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/solo-ristorante-92082d8c",
+	"slug": "solo-ristorante-92082d8c",
+	"fetchedAt": "2026-10-26T17:29:04.659+08:00",
+	"payload": {
+		"partner": {
+			"_id": "646ae45980fad8004d5c75be",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Italian",
+				"Italian Food",
+				"Italian Restaurant",
+				"Pasta",
+				"Omakase",
+				"Vegetarian",
+				"Private Room",
+				"Florentine Steak",
+				"Amoy St",
+				"Dining",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Solo Ristorante Pte ltd",
+			"brand": "Solo Ristorante",
+			"code": "SOR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "SoloRistorante",
+			"address": {
+				"line1": "TANJONG PAGAR DISTRIPARK, 39 KEPPEL ROAD, #03-03, Postal 089065",
+				"postalCode": "089065",
+				"streetName": "TANJONG PAGAR DISTRIPARK",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201719622H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/012077422934277493-9448029139256069-Brand%20image.png",
+			"websiteUrl": "https://www.soloristorante.com/",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Solo%20Ristorante\">Reserve A Table</a>.</p><p>A casual fine-dining establishment that offers two contrasting spaces decked in copper lightings and dark wood with warm undertones furnishings. Solo Ristorante is a perfect spot for dates, casual dining or business lunches.</p>\n\n<p>Chef Partner, Simone Fraternali shares “My cuisine reflects my life, my vision. Holding true to my roots – Delicious yet classic dishes where flavour is the pivot composed with quality ingredients.”</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/12049804244418438-48010847086902864-MicrosoftTeams-image%20(7).png",
+			"createdAt": "2023-05-22T03:41:13.518Z",
+			"updatedAt": "2026-08-06T14:17:45.112Z",
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"ITA"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9499d00b0a527865c04"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/012077422934277493-9448029139256069-Brand%20image.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12049804244418438-48010847086902864-MicrosoftTeams-image%20(7).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/012077422934277493-9448029139256069-Brand%20image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/012077422934277493-9448029139256069-Brand%20image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/012077422934277493-9448029139256069-Brand%20image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12049804244418438-48010847086902864-MicrosoftTeams-image%20(7)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12049804244418438-48010847086902864-MicrosoftTeams-image%20(7)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12049804244418438-48010847086902864-MicrosoftTeams-image%20(7)_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. A casual fine-dining establishment that offers two contrasting spaces decked in copper lightings and dark wood with warm undertones furnishings. Solo Ristorante is a perfect spot for dates, casual dining or business lunches. Chef Partner, Simone Fraternali shares “My cuisine reflects my life, my vision. Holding true to my roots – Delicious yet classic dishes where flavour is the pivot composed with quality ingredients.” Italian Italian Food Italian Restaurant Pasta Omakase Vegetarian Private Room Florentine Steak Amoy St Dining Business Corporate Dining Working Lunch Networking Dining Vegetarian-Friendly Fine Dining Italian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:18:18.333Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "solo-ristorante-92082d8c",
+			"outlets": [
+				{
+					"_id": "646ae55093d951004f9fb27b",
+					"name": "45 Amoy St"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"45 Amoy St"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Solo Ristorante",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ushio-sumiyaki-sake-bar-47763d69",
+	"slug": "ushio-sumiyaki-sake-bar-47763d69",
+	"fetchedAt": "2026-10-26T17:27:52.216+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e8c3905eae3716fce5e870",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Japanese",
+				"Japanese Cuisine",
+				"Yakitori",
+				"Lunch Sets",
+				"Sashimi",
+				"Beer",
+				"Sake",
+				"Tunglok",
+				"Japanese Food",
+				"Dining",
+				"Ouetower",
+				"Ushio",
+				"Tung Lok"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "USHIO Sumiyaki & Sake Bar",
+			"brand": "USHIO Sumiyaki & Sake Bar",
+			"code": "USH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "USHIO SUMIYAKI",
+			"address": {
+				"line1": "26 Tai Seng St, #02-01, Singapore 534057 ",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng St",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200006691H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6007609358394714-USHIO.png",
+			"websiteUrl": "https://www.ushio-sumiyaki.com/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u>.</a></em><br />\n<br />\n​​​​​​​Home to Japanese-style delicacies alongside creative sharing plates - a la “Japanese tapas”, enjoy an unforgettable Izakaya experience with original creations rejuvenated with a contemporary touch.</p>\n\n<p>The menu also includes an extensive range artisanal sakes that are meticulously selected from major prefectures in Japan.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"promotional": "            ",
+			"participatingOutlets": "OUE Tower, Level 8, 60 Collyer Quay",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 12.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1811950192398155-42203433935306744-Brand%20Logo13.jpg",
+			"createdAt": "2022-08-02T06:26:24.916Z",
+			"updatedAt": "2026-10-15T12:22:27.125Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9743d10e34df66b4710"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6007609358394714-USHIO_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6007609358394714-USHIO_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6007609358394714-USHIO_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6007609358394714-USHIO.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1811950192398155-42203433935306744-Brand%20Logo13.jpg",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1811950192398155-42203433935306744-Brand%20Logo13_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1811950192398155-42203433935306744-Brand%20Logo13_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1811950192398155-42203433935306744-Brand%20Logo13_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​Home to Japanese-style delicacies alongside creative sharing plates - a la “Japanese tapas”, enjoy an unforgettable Izakaya experience with original creations rejuvenated with a contemporary touch. The menu also includes an extensive range artisanal sakes that are meticulously selected from major prefectures in Japan. Japanese Japanese Cuisine Yakitori Lunch Sets Sashimi Beer Sake Tunglok Japanese Food Dining Ouetower Ushio Tung Lok Dining Casual Dining Japanese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-27T10:04:12.166Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ushio-sumiyaki-sake-bar-47763d69",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "62e8dd04e82b3a02c48df553",
+					"name": "OUE Tower"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"OUE Tower"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "USHIO Sumiyaki & Sake Bar",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

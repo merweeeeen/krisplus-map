@@ -1,0 +1,317 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/harvey-norman-92750188",
+	"slug": "harvey-norman-92750188",
+	"fetchedAt": "2026-10-26T17:25:03.391+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5d6dddd5d6fd1a0980744c22",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Pertama Merchandising Pte Ltd",
+			"brand": "Harvey Norman",
+			"code": "PMP",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "315 Outram Road #01-01/02 , Tan Boon Liat Building Singapore ",
+				"postalCode": "169074",
+				"streetName": "Outram Road"
+			},
+			"categary": "Electronics and Technology",
+			"regNumber": "198902241N",
+			"promotional": "Find out more: https://www.harveynorman.com.sg/\n\n",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.027,
+				"amountBlock": 3,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 300000,
+				"minTokens": 60000,
+				"cardMerchantFees": {
+					"refundable": 0.8,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0.9
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-ce216aa7-ee5b-4fc7-b771-c98972a57198.png",
+			"createdAt": "2019-09-03T03:28:21.363Z",
+			"updatedAt": "2026-10-08T01:54:13.109Z",
+			"loyaltyProgram": {
+				"name": " ",
+				"pointName": " ",
+				"logoPath": " ",
+				"description": " ",
+				"tncLink": " ",
+				"loginUrl": " "
+			},
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6413029360061904-WhatsApp%20Image%202026-08-03%20at%206.08.17%20PM.jpg",
+			"participatingOutlets": "•\tValid at all Harvey Norman outlets in Singapore",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.harveynorman.com.sg/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5732",
+			"mccDescription": "Electronics Stores",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Harvey Norman",
+			"descriptionHtml": "<p>Harvey Norman is a leading household name in Singapore. Besides a huge range of electrical and IT products available at all Harvey Norman stores, customers can take their pick from a wide selection of furniture, homeware and bedding products at Millenia Walk Flagship Superstore, Parkway Parade Superstore, Northpoint Superstore and ESR BizPark factory outlet. Harvey Norman strives to provide customers with professional service and the most current product innovations from leading brands.</p>  <p>Terms and Conditions:<br> •    KrisPay cannot be used for the purchase of gift cards.</p>  <p>Participating Outlets:<br> •    Valid at all Harvey Norman outlets in Singapore</p>",
+			"searchableKeywords": [
+				"Promenade",
+				"Raffles Boulevard",
+				"Esplanade",
+				"Orchard",
+				"Somerset",
+				"Temasek Boulevard",
+				"Tongkang",
+				"Sengkang West Avenue",
+				"Yishun",
+				"Yishun Avenue",
+				"Boon Lay",
+				"Jurong West Central 2",
+				"Chai Chee",
+				"Bedok",
+				"Marine Parade",
+				"Eunos",
+				"Paya Lebar",
+				"Gateway Drive",
+				"Jurong East",
+				"Upper Changi Road",
+				"Hougang",
+				"Hougang Avenue",
+				"Bukit Panjang",
+				"Jelubu Road",
+				"Bukit Batok",
+				"Bukit Batok Central",
+				"Electronics",
+				"Retail",
+				"Computers",
+				"Laptops",
+				"Printing",
+				"Chargers",
+				"It",
+				"Tech",
+				"Av",
+				"Tv",
+				"Recorder",
+				"Sony",
+				"Samsung",
+				"Asus",
+				"Razer",
+				"Home Improvement",
+				"Renovation",
+				"Fans",
+				"Fridge",
+				"Refrigerator",
+				"Airconditoner",
+				"Ac",
+				"Parkway Parade",
+				"Pp",
+				"Esr Bizpark",
+				"Bedok Point",
+				"Seletar",
+				"Djitsun",
+				"Millenia Walk",
+				"Centerpoint",
+				"Northpoint City",
+				"Bukit Panjang Plaza",
+				"Jp",
+				"Suntec City",
+				"Westgate",
+				"Jurong",
+				"Seletar Mall",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electrical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Hairdryer",
+				"Airconditioner",
+				"Washing Machine",
+				"Kettle",
+				"Hair Straightener",
+				"Lifestyle Appliances",
+				"Furniture",
+				"The Expert Sound",
+				"Technology",
+				"Tech Gadgets",
+				"Homefurnishing"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR4",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9ee9d00b0a527865c42"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 12
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6413029360061904-WhatsApp%20Image%202026-08-03%20at%206_low.08",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6413029360061904-WhatsApp%20Image%202026-08-03%20at%206_med.08",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6413029360061904-WhatsApp%20Image%202026-08-03%20at%206_high.08"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6413029360061904-WhatsApp%20Image%202026-08-03%20at%206.08.17%20PM.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-ce216aa7-ee5b-4fc7-b771-c98972a57198.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-ce216aa7-ee5b-4fc7-b771-c98972a57198_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-ce216aa7-ee5b-4fc7-b771-c98972a57198_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-ce216aa7-ee5b-4fc7-b771-c98972a57198_high.png"
+			},
+			"refundPeriodUpdatedAt": "2026-07-15T03:14:58.896Z",
+			"refundPeriodInDays": 180,
+			"searchContent": "Harvey Norman is a leading household name in Singapore. Besides a huge range of electrical and IT products available at all Harvey Norman stores, customers can take their pick from a wide selection of furniture, homeware and bedding products at Millenia Walk Flagship Superstore, Parkway Parade Superstore, Northpoint Superstore and ESR BizPark factory outlet. Harvey Norman strives to provide customers with professional service and the most current product innovations from leading brands. Terms and Conditions: • KrisPay cannot be used for the purchase of gift cards. Participating Outlets: • Valid at all Harvey Norman outlets in Singapore Promenade Raffles Boulevard Esplanade Orchard Somerset Temasek Boulevard Tongkang Sengkang West Avenue Yishun Yishun Avenue Boon Lay Jurong West Central 2 Chai Chee Bedok Marine Parade Eunos Paya Lebar Gateway Drive Jurong East Upper Changi Road Hougang Hougang Avenue Bukit Panjang Jelubu Road Bukit Batok Bukit Batok Central Electronics Retail Computers Laptops Printing Chargers It Tech Av Tv Recorder Sony Samsung Asus Razer Home Improvement Renovation Fans Fridge Refrigerator Airconditoner Ac Parkway Parade Pp Esr Bizpark Bedok Point Seletar Djitsun Millenia Walk Centerpoint Northpoint City Bukit Panjang Plaza Jp Suntec City Westgate Jurong Seletar Mall Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electrical Components Audio Television Headphones Cables Plug Travel Accessories Hairdryer Airconditioner Washing Machine Kettle Hair Straightener Lifestyle Appliances Furniture The Expert Sound Technology Tech Gadgets Homefurnishing Retail Electrical & Electronics Home & Lifestyle",
+			"isDisplayOnKrisWeb": true,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "harvey-norman-92750188",
+			"outlets": [
+				{
+					"_id": "5d91808a41aa3a39040eb942",
+					"name": "Hougang Mall"
+				},
+				{
+					"_id": "5d918345cae4e32e287ac0c4",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "5d91858a9f62833d102cd942",
+					"name": "Millenia Walk"
+				},
+				{
+					"_id": "5d918616e0126d4080ab9c23",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "5d91871acc3b0b1cb8ea61ec",
+					"name": "Parkway Parade (L2) 34-36"
+				},
+				{
+					"_id": "5d91878ee0126d4080ab9c25",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "5d919fe7cc3b0b1cb8ea61f2",
+					"name": "ESR BizPark @ Chai Chee"
+				},
+				{
+					"_id": "5d91a071cc3b0b1cb8ea61f4",
+					"name": "West Mall"
+				},
+				{
+					"_id": "5d91aa979f62833d102cd946",
+					"name": "Parkway Parade 02-01 to 05"
+				},
+				{
+					"_id": "5fbc651b3aa7475ec438a52f",
+					"name": "Westgate"
+				},
+				{
+					"_id": "68468d6c11e6c80887eb1081",
+					"name": "Lot One"
+				},
+				{
+					"_id": "685a003f20ee290405c15e4e",
+					"name": "Punggol Coast Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Hougang Mall",
+			"Jurong Point",
+			"Millenia Walk",
+			"Northpoint City",
+			"Parkway Parade (L2) 34-36",
+			"Suntec City",
+			"ESR BizPark @ Chai Chee",
+			"West Mall",
+			"Parkway Parade 02-01 to 05",
+			"Westgate",
+			"Lot One",
+			"Punggol Coast Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 3,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Harvey Norman",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 3 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

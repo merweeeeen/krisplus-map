@@ -1,0 +1,217 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/in-good-company-cdc08fce",
+	"slug": "in-good-company-cdc08fce",
+	"fetchedAt": "2026-10-26T17:25:07.754+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5dfb201cf67cd80f2ca661f4",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "IGC X Private Limited",
+			"brand": "IN GOOD COMPANY",
+			"code": "IGC",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "38 Jalan Pemimpin , M38, #05-01 Singapore ",
+				"postalCode": "577178",
+				"streetName": "Jalan Pemimpin"
+			},
+			"categary": "Fashion",
+			"regNumber": "201313075E",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6132707014351642-KRISPAY_Logo_App_Black.png",
+			"createdAt": "2019-12-19T07:00:44.219Z",
+			"updatedAt": "2026-10-20T07:45:45.074Z",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.6
+				},
+				"saleOfMiles": 0.026,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"promotional": "Kris+ Exclusive Promotion:\nEnjoy 10% off Womenswear, Menswear, Mini Me and Accessories when you flash the Kris+ app at point of purchase.\n\nTerms & Conditions:\n•\tDiscount cannot be used with any other ongoing promotions, discounts and privileges\n\nFind out more at: www.ingoodcompany.asia",
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/33305433218072067-IGC_Kris_Sep2024_750px.jpg",
+			"participatingOutlets": "•\tION Orchard\n•\tJewel Changi Airport\n•\tThe Shoppes at Marina Bay Sands",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://ingoodcompany.asia/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"countryCode": "SG",
+			"descriptionHtml": "<p>One of Singapore's most successful local fashion labels, IN GOOD COMPANY is a brand that is characteristically modern and quietly confident. Designed to form the building blocks of an adaptable wardrobe, the label offers effortless pieces in timeless silhouettes with clever detailing. A unique range of hand-crafted necklaces accent the label's ready-to-wear line, adding graphic pops of colour to simple ensembles.  <br></p><ul> <br></ul>",
+			"shortName": "IN GOOD COMPAN",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Fashion",
+				"Retail",
+				"Central",
+				"Clothes",
+				"Style",
+				"Trending",
+				"Dress",
+				"Blouse",
+				"Top",
+				"Tshirt",
+				"Merchandise",
+				"Ootd",
+				"Semi Casual",
+				"Glam",
+				"Stylediary",
+				"Stylegram",
+				"Fashionaddict",
+				"Fashiondesigner",
+				"Ion Orchard",
+				"Igc",
+				"Chic",
+				"Instagrammable",
+				"Female",
+				"Ladies",
+				"Menswear",
+				"Neutral",
+				"Premium",
+				"Tourists",
+				"Newclothes",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Trousers",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR7",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9eab3267e313a36e15d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/33305433218072067-IGC_Kris_Sep2024_750px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/33305433218072067-IGC_Kris_Sep2024_750px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/33305433218072067-IGC_Kris_Sep2024_750px_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/33305433218072067-IGC_Kris_Sep2024_750px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6132707014351642-KRISPAY_Logo_App_Black.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6132707014351642-KRISPAY_Logo_App_Black_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6132707014351642-KRISPAY_Logo_App_Black_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6132707014351642-KRISPAY_Logo_App_Black_high.png"
+			},
+			"searchContent": "One of Singapore's most successful local fashion labels, IN GOOD COMPANY is a brand that is characteristically modern and quietly confident. Designed to form the building blocks of an adaptable wardrobe, the label offers effortless pieces in timeless silhouettes with clever detailing. A unique range of hand-crafted necklaces accent the label's ready-to-wear line, adding graphic pops of colour to simple ensembles. Orchard Road Fashion Retail Central Clothes Style Trending Dress Blouse Top Tshirt Merchandise Ootd Semi Casual Glam Stylediary Stylegram Fashionaddict Fashiondesigner Ion Orchard Igc Chic Instagrammable Female Ladies Menswear Neutral Premium Tourists Newclothes Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Trousers Shoes Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Retail Fashion",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-06T06:57:34.486Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "in-good-company-cdc08fce",
+			"outlets": [
+				{
+					"_id": "6a2f6fccb007f1aa3f89273c",
+					"name": "316 Joo Chiat Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"316 Joo Chiat Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "IN GOOD COMPANY",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

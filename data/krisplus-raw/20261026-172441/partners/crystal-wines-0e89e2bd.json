@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/crystal-wines-0e89e2bd",
+	"slug": "crystal-wines-0e89e2bd",
+	"fetchedAt": "2026-10-26T17:34:38.070+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a1f8da0b75dcd40366a9d6f",
+			"name": "CRYSTAL WINES PTE. LTD.",
+			"shortName": "Crystal Wines",
+			"mccCode": "5921",
+			"mccDescription": "Package Stores - Beer, Wine, and Liquor",
+			"brand": "Crystal Wines",
+			"code": "CWP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4124413209359481-360273285589374-Brand-logo-CW.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7035075966479716-7072563050818008-Brand-image-CW.jpg",
+			"websiteUrl": "https://www.crystalwines.com",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "2 Alexandra Road. #02-01 Delta House. Singapore 159919",
+				"postalCode": "159919",
+				"streetName": "2 Alexandra Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Established in 1998, Crystal Wines is a leading fine wine     merchant and proud member of The Brewerkz Group.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Awarded the Singapore E50 Award 2024, Crystal Wines curates     an exceptional selection of bottles from renowned Old and New World regions,     catering to both casual wine lovers and serious collectors. Its Valley Point     flagship store features a bespoke walk-in cellar and an intimate private     tasting space for a premium wine experience.</p>",
+			"searchableKeywords": [
+				"Wines",
+				"fine wines",
+				"wine shop",
+				"champagne",
+				"red wine",
+				"white wine",
+				"French wine",
+				"Italian wine",
+				"super Tuscan wine",
+				"premium wine",
+				"luxury gift",
+				"corporate gift",
+				"gifting",
+				"celebration",
+				"fine dining",
+				"wine tasting",
+				"wine workshop",
+				"wine glass"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 6,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS",
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-10T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-03T02:12:48.476Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4124413209359481-360273285589374-Brand-logo-CW.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7035075966479716-7072563050818008-Brand-image-CW.jpg",
+			"createdAt": "2026-06-03T02:12:48.492Z",
+			"updatedAt": "2026-09-30T16:00:04.554Z",
+			"searchContent": "Established in 1998, Crystal Wines is a leading fine wine merchant and proud member of The Brewerkz Group. Awarded the Singapore E50 Award 2024, Crystal Wines curates an exceptional selection of bottles from renowned Old and New World regions, catering to both casual wine lovers and serious collectors. Its Valley Point flagship store features a bespoke walk-in cellar and an intimate private tasting space for a premium wine experience. Wines fine wines wine shop champagne red wine white wine French wine Italian wine super Tuscan wine premium wine luxury gift corporate gift gifting celebration fine dining wine tasting wine workshop wine glass Retail Gifts & Souvenirs Food Specialities",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7035075966479716-7072563050818008-Brand-image-CW_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7035075966479716-7072563050818008-Brand-image-CW_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7035075966479716-7072563050818008-Brand-image-CW_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4124413209359481-360273285589374-Brand-logo-CW_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4124413209359481-360273285589374-Brand-logo-CW_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4124413209359481-360273285589374-Brand-logo-CW_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "crystal-wines-0e89e2bd",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6a1f8ebdc65f030d0047abcc",
+					"name": "Valley Point Shopping Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Valley Point Shopping Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Crystal Wines",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

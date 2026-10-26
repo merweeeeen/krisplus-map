@@ -1,0 +1,194 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jumbo-premium-f6a964b4",
+	"slug": "jumbo-premium-f6a964b4",
+	"fetchedAt": "2026-10-26T17:31:33.743+08:00",
+	"payload": {
+		"partner": {
+			"_id": "681da7773f9c6d28480fd823",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Jumbo Premium",
+				"Jumbo Seafood",
+				"Chilli Crab",
+				"Chili Crab",
+				"Prawn",
+				"Seafood",
+				"Best Seafood",
+				"Seafood Restaurant",
+				"Restaurant",
+				"Lobster",
+				"Alaskan Crab",
+				"Chinese",
+				"Chinese Restaurant",
+				"Gathering",
+				"Family",
+				"Celebrations",
+				"Kids Restaurant",
+				"Awardwinning",
+				"Best Review",
+				"Not To Be Missed",
+				"Live Seafood",
+				"Best Chilli Crab",
+				"Dim Sum",
+				"Afternoon Tea",
+				"High Tea",
+				"Rws",
+				"Resorts World Sentosa",
+				"Dining At Sentosa",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "JUMBO GROUP OF RESTAURANTS PTE LTD (JUMBO Premium)",
+			"brand": "JUMBO Premium",
+			"code": "JPR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "JUMBO Premium",
+			"address": {
+				"line1": "26 Tai Seng Street #08-01  Singapore 534057",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng Street #08-01",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"ASI",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.jumboseafood.com.sg/en/home",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Experience JUMBO Premium and savour Singapore-style seafood, handcrafted Dim Sum, and a unique Afternoon High Tea. Enjoy signature dishes like Chilli Crab and Black Pepper Crab, plus fresh artisanal Dim Sum. Their High Tea features seafood-inspired bites that change regularly for a fresh, delightful treat. Enjoy and savour unforgettable flavours!</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/29210275599546986-6937691020959882-JSRW_Logo_260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5010130446847798-Award-Winning%20Chilli%20Mud%20Crab.png",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR4",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/29210275599546986-6937691020959882-JSRW_Logo_260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5010130446847798-Award-Winning%20Chilli%20Mud%20Crab.png",
+			"createdAt": "2025-05-09T06:57:59.775Z",
+			"updatedAt": "2026-09-23T08:25:18.958Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5010130446847798-Award-Winning%20Chilli%20Mud%20Crab_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5010130446847798-Award-Winning%20Chilli%20Mud%20Crab_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5010130446847798-Award-Winning%20Chilli%20Mud%20Crab_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/29210275599546986-6937691020959882-JSRW_Logo_260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/29210275599546986-6937691020959882-JSRW_Logo_260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/29210275599546986-6937691020959882-JSRW_Logo_260x260_high.png"
+			},
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-09-23T08:25:18.958Z",
+			"searchContent": "Experience JUMBO Premium and savour Singapore-style seafood, handcrafted Dim Sum, and a unique Afternoon High Tea. Enjoy signature dishes like Chilli Crab and Black Pepper Crab, plus fresh artisanal Dim Sum. Their High Tea features seafood-inspired bites that change regularly for a fresh, delightful treat. Enjoy and savour unforgettable flavours! Jumbo Premium Jumbo Seafood Chilli Crab Chili Crab Prawn Seafood Best Seafood Seafood Restaurant Restaurant Lobster Alaskan Crab Chinese Chinese Restaurant Gathering Family Celebrations Kids Restaurant Awardwinning Best Review Not To Be Missed Live Seafood Best Chilli Crab Dim Sum Afternoon Tea High Tea Rws Resorts World Sentosa Dining At Sentosa Dining Casual Dining Kid-Friendly Asian Chinese",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jumbo-premium-f6a964b4",
+			"outlets": [
+				{
+					"_id": "681dad3b99688e129ce9b6b9",
+					"name": "Resort World Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Resort World Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "JUMBO Premium",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

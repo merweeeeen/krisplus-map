@@ -1,0 +1,166 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/masterpiece-collectibles-adf87d40",
+	"slug": "masterpiece-collectibles-adf87d40",
+	"fetchedAt": "2026-10-26T17:34:37.331+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a154d70e13b55f792ad6018",
+			"name": "MASTERPIECE COLLECTIBLES PTE. LTD.",
+			"shortName": "Masterpiece Co",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Masterpiece Collectibles",
+			"code": "MST",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/11628537431373576-05945312571802264-Brand%20Logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3273362772388666-4109843415126848-Brand%20Image.jpg",
+			"websiteUrl": "https://masterpiececollectibles.com/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "462 CRAWFORD LANE #02-47, SINGAPORE 190462",
+				"postalCode": "190462",
+				"streetName": "462 CRAWFORD LANE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(55, 65, 81); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Founded in 2008, Masterpiece Collectibles creates uniquely Singaporean scale models, by collectors, for collectors. Fuelled by a passion to capture “home” in miniature, the team designs highly detailed, display-worthy pieces using premium components crafted to preserve memories and appreciate in value over time.</span></p>",
+			"searchableKeywords": [
+				"Singapore collectibles",
+				"Singapore scale models",
+				"gifts",
+				"souvenirs",
+				"heritage",
+				"miniature",
+				"Figurines",
+				"Accessories",
+				"Bus",
+				"Train",
+				"MRT"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-07-29T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-26T07:36:16.096Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11628537431373576-05945312571802264-Brand%20Logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3273362772388666-4109843415126848-Brand%20Image.jpg",
+			"createdAt": "2026-05-26T07:36:16.108Z",
+			"updatedAt": "2026-08-06T14:18:31.845Z",
+			"searchContent": "Founded in 2008, Masterpiece Collectibles creates uniquely Singaporean scale models, by collectors, for collectors. Fuelled by a passion to capture “home” in miniature, the team designs highly detailed, display-worthy pieces using premium components crafted to preserve memories and appreciate in value over time. Singapore collectibles Singapore scale models gifts souvenirs heritage miniature Figurines Accessories Bus Train MRT Retail Gifts & Souvenirs",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3273362772388666-4109843415126848-Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3273362772388666-4109843415126848-Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3273362772388666-4109843415126848-Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11628537431373576-05945312571802264-Brand%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11628537431373576-05945312571802264-Brand%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11628537431373576-05945312571802264-Brand%20Logo_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "masterpiece-collectibles-adf87d40",
+			"outlets": [
+				{
+					"_id": "6a154ef3f83ade3933d27df4",
+					"name": "462 Crawford Lane"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"462 Crawford Lane"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Masterpiece Collectibles",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

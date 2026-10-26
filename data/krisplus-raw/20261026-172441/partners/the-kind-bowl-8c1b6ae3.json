@@ -1,0 +1,199 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-kind-bowl-8c1b6ae3",
+	"slug": "the-kind-bowl-8c1b6ae3",
+	"fetchedAt": "2026-10-26T17:29:28.484+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6552d9ee30faf900556b4198",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"saleOfMilesPct": 2.5,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Cafe",
+				"Café",
+				"Atlas Coffee House",
+				"PS Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Coffee",
+				"Tea",
+				"Cakes",
+				"Pastries",
+				"bistro",
+				"braserrie",
+				"espresso bar",
+				"teahouse",
+				"coffee shop",
+				"Medical",
+				"Doctor",
+				"General Practioner",
+				"Healthcare",
+				"Medical Package",
+				"MC",
+				"Medical Certificate",
+				"Vaccinations"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"6552d9f6ff5eb116bbd649d8"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "NORDIC GREEN PTE LTD",
+			"brand": "The Kind Bowl",
+			"code": "TKB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "The Kind Bowl",
+			"address": {
+				"city": "Singapore",
+				"line1": "71 KILLINEY ROAD SINGAPORE 239527",
+				"streetName": "71 KILLINEY ROAD",
+				"postalCode": "239527",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"ASI",
+								"HEAL"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"regNumber": "201908824M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4695992311091881-tkb2.png",
+			"websiteUrl": "https://www.thekindbowl.com.sg",
+			"descriptionHtml": "<p>The Kind Bowl was established in line with the current global effort to ‘Go Green’ and the greater awareness of the health benefits embodied in the phrase, “Let food be thy medicine “. They source sustainable ingredients to create a modern, convenient, affordable yet ethical menu. They believe that everyone can make an impact and make the world a better place by switching to even just 1 plant-based meal a month.</p>\n\n<ul>\n\t<li>Northpoint City</li>\n\t\n\t<li>Killiney</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6610971508674319-tkb1.jpg",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"createdAt": "2023-11-14T02:22:38.011Z",
+			"updatedAt": "2026-08-06T14:17:55.037Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4695992311091881-tkb2.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6610971508674319-tkb1.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4695992311091881-tkb2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4695992311091881-tkb2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4695992311091881-tkb2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6610971508674319-tkb1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6610971508674319-tkb1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6610971508674319-tkb1_high.jpg"
+			},
+			"searchContent": "The Kind Bowl was established in line with the current global effort to ‘Go Green’ and the greater awareness of the health benefits embodied in the phrase, “Let food be thy medicine “. They source sustainable ingredients to create a modern, convenient, affordable yet ethical menu. They believe that everyone can make an impact and make the world a better place by switching to even just 1 plant-based meal a month. Northpoint City Killiney Cafe Café Atlas Coffee House PS Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Coffee Tea Cakes Pastries bistro braserrie espresso bar teahouse coffee shop Medical Doctor General Practioner Healthcare Medical Package MC Medical Certificate Vaccinations Dining Vegan-Friendly Vegetarian-Friendly Asian Healthy",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-kind-bowl-8c1b6ae3",
+			"outlets": [
+				{
+					"_id": "655433e5457a1e004f83fe5f",
+					"name": "Killiney"
+				},
+				{
+					"_id": "6554346835843f0056998f53",
+					"name": "Northpoint City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Killiney",
+			"Northpoint City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Kind Bowl",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

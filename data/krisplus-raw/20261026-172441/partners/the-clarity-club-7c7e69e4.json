@@ -1,0 +1,206 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-clarity-club-7c7e69e4",
+	"slug": "the-clarity-club-7c7e69e4",
+	"fetchedAt": "2026-10-26T17:34:24.187+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69f81256d57827450dfa4511",
+			"name": "CLARITY AV PTE. LTD. (The Clarity Club)",
+			"shortName": "The Clarity Cl",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "The Clarity Club",
+			"code": "CIU",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5686255796708322-9587144861888157-The%20Clarity%20Club%20-%20Brand%20Logo%20(260%20x%20260px).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9310906611931551-4048117863104439-The%20Clarity%20Club%20-%20Brand%20Image%20(750%20x%20540px).jpg",
+			"websiteUrl": "https://www.theclarityclub.sg/",
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 COLEMAN STREET, #03-36, THE ADELPHI, SINGAPORE 179803",
+				"postalCode": "179803",
+				"streetName": "1 COLEMAN STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">The Clarity Club is Singapore’s private cinema and lifestyle\n    destination by The Clarity Group. Designed for discerning audiences, it blends\n    world‑class technology with refined hospitality. Host screenings, watch\n    parties, launches, and celebrations in The Grand Theatre featuring a 200 inch\n    4K projection and Dolby Atmos plus elegant social spaces and concierge‑level\n    care.</p>",
+			"searchableKeywords": [
+				"private cinema",
+				"private screening room",
+				"event venue",
+				"venue rental",
+				"unique venue",
+				"hidden venue",
+				"luxury venue",
+				"private event space",
+				"corporate event venue",
+				"brand launch venue",
+				"product launch venue",
+				"watch party venue",
+				"movie night venue",
+				"screening venue",
+				"intimate event space",
+				"premium event space",
+				"boutique venue",
+				"immersive venue",
+				"luxury lifestyle venue",
+				"private club",
+				"members club",
+				"social club",
+				"networking venue",
+				"client entertainment venue",
+				"executive offsite venue",
+				"workshop venue",
+				"presentation venue",
+				"meeting venue",
+				"private dining venue",
+				"karaoke venue",
+				"KTV room",
+				"celebration venue",
+				"birthday venue",
+				"anniversary venue",
+				"date night venue",
+				"team bonding venue",
+				"media launch venue",
+				"press event venue",
+				"VIP event venue",
+				"exclusive venue",
+				"Singapore private cinema",
+				"Singapore event venue",
+				"Singapore venue rental",
+				"Henderson venue",
+				"lifestyle venue",
+				"cinema experience",
+				"Dolby Atmos venue",
+				"4K projection venue",
+				"luxury experience",
+				"bespoke events"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"ENT",
+								"INDR"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-07-05T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-04T03:28:22.451Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5686255796708322-9587144861888157-The%20Clarity%20Club%20-%20Brand%20Logo%20(260%20x%20260px).jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9310906611931551-4048117863104439-The%20Clarity%20Club%20-%20Brand%20Image%20(750%20x%20540px).jpg",
+			"createdAt": "2026-05-04T03:28:22.471Z",
+			"updatedAt": "2026-08-06T14:18:31.397Z",
+			"searchContent": "The Clarity Club is Singapore’s private cinema and lifestyle destination by The Clarity Group. Designed for discerning audiences, it blends world‑class technology with refined hospitality. Host screenings, watch parties, launches, and celebrations in The Grand Theatre featuring a 200 inch 4K projection and Dolby Atmos plus elegant social spaces and concierge‑level care. private cinema private screening room event venue venue rental unique venue hidden venue luxury venue private event space corporate event venue brand launch venue product launch venue watch party venue movie night venue screening venue intimate event space premium event space boutique venue immersive venue luxury lifestyle venue private club members club social club networking venue client entertainment venue executive offsite venue workshop venue presentation venue meeting venue private dining venue karaoke venue KTV room celebration venue birthday venue anniversary venue date night venue team bonding venue media launch venue press event venue VIP event venue exclusive venue Singapore private cinema Singapore event venue Singapore venue rental Henderson venue lifestyle venue cinema experience Dolby Atmos venue 4K projection venue luxury experience bespoke events Activities Entertainment Indoor",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9310906611931551-4048117863104439-The%20Clarity%20Club%20-%20Brand%20Image%20(750%20x%20540px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9310906611931551-4048117863104439-The%20Clarity%20Club%20-%20Brand%20Image%20(750%20x%20540px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9310906611931551-4048117863104439-The%20Clarity%20Club%20-%20Brand%20Image%20(750%20x%20540px)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5686255796708322-9587144861888157-The%20Clarity%20Club%20-%20Brand%20Logo%20(260%20x%20260px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5686255796708322-9587144861888157-The%20Clarity%20Club%20-%20Brand%20Logo%20(260%20x%20260px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5686255796708322-9587144861888157-The%20Clarity%20Club%20-%20Brand%20Logo%20(260%20x%20260px)_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-clarity-club-7c7e69e4",
+			"outlets": [
+				{
+					"_id": "69f813a739f6f15f2afa57b4",
+					"name": "Apex@Henderson"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Apex@Henderson"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Clarity Club",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

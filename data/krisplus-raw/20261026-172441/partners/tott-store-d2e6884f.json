@@ -1,0 +1,180 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tott-store-d2e6884f",
+	"slug": "tott-store-d2e6884f",
+	"fetchedAt": "2026-10-26T17:31:55.844+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68746f5db57748040f2ba61f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 7,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 17.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Culinary Classes",
+				"Kitchenware",
+				"Cookware",
+				"Pot",
+				"Knife",
+				"Tableware",
+				"Partyware",
+				"Mixer Cutlery Baking",
+				"Cooking",
+				"Hosting",
+				"Appliances",
+				"Bakeware",
+				"Gadgets",
+				"Sia Huat",
+				"Home  Living",
+				"Chef",
+				"Processors",
+				"Bruno",
+				"Cuisinart",
+				"Kitchenaid"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Tott Store",
+			"brand": "ToTT Store",
+			"code": "TOT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "ToTT Store",
+			"address": {
+				"city": "Singapore",
+				"line1": "20 Pandan Road, Singapore 609272",
+				"streetName": "20 Pandan Road",
+				"postalCode": "609272",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://tottstore.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">ToTT Store is a one-stop culinary wonderland that inspires you to Cook, Bake and Host, with a curated selection of quality kitchen appliances, cookware, bakeware, tableware and home ware goods. Selected stores feature state-of-the-art cooking studios that offer a comprehensive range of cooking and baking classes, private parties and team-building programs.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Participating outlets:</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">•\ti12 Katong<br>•\tSuntec</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8032242648188577-ToTT.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7921437389462274-5419481924182721-Brand_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8032242648188577-ToTT.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7921437389462274-5419481924182721-Brand_750x540.jpg",
+			"createdAt": "2025-07-14T02:45:50.039Z",
+			"updatedAt": "2026-10-15T12:22:24.498Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7921437389462274-5419481924182721-Brand_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7921437389462274-5419481924182721-Brand_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7921437389462274-5419481924182721-Brand_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8032242648188577-ToTT_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8032242648188577-ToTT_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8032242648188577-ToTT_high.png"
+			},
+			"searchContent": "ToTT Store is a one-stop culinary wonderland that inspires you to Cook, Bake and Host, with a curated selection of quality kitchen appliances, cookware, bakeware, tableware and home ware goods. Selected stores feature state-of-the-art cooking studios that offer a comprehensive range of cooking and baking classes, private parties and team-building programs. Participating outlets: • i12 Katong • Suntec Culinary Classes Kitchenware Cookware Pot Knife Tableware Partyware Mixer Cutlery Baking Cooking Hosting Appliances Bakeware Gadgets Sia Huat Home  Living Chef Processors Bruno Cuisinart Kitchenaid Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tott-store-d2e6884f",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-09-30T16:00:06.488Z",
+			"outlets": [
+				{
+					"_id": "68747130c46836040f252ad4",
+					"name": "i12 Katong"
+				},
+				{
+					"_id": "6874722022efc4040d7467f4",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"i12 Katong",
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ToTT Store",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

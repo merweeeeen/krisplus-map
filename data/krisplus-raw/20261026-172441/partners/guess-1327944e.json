@@ -1,0 +1,242 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/guess-1327944e",
+	"slug": "guess-1327944e",
+	"fetchedAt": "2026-10-26T17:26:38.693+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6131a72f5828db397ccea8be",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Orchard Road",
+				"Paragon",
+				"Ion",
+				"Takashimaya",
+				"Ngee Ann City",
+				"Bugis Junction",
+				"Bugis",
+				"Victoria Street",
+				"United Square",
+				"Novena",
+				"Thomson Road",
+				"The Shoppes",
+				"Mbs",
+				"Bayfront",
+				"Bayfront Avenue",
+				"Jeans",
+				"Kids",
+				"Teens",
+				"Adults",
+				"Casual",
+				"American",
+				"Shirts",
+				"Bermudas",
+				"Fashion",
+				"Dress",
+				"Cullocks",
+				"Retail",
+				"Clothes",
+				"Marina Bay Sands",
+				"For Him",
+				"For Her",
+				"Accessories",
+				"Fragrances",
+				"Eyewear",
+				"Jewellery",
+				"Shoes",
+				"Bags",
+				"Timepieces",
+				"Watches",
+				"International",
+				"Global",
+				"Streetwear",
+				"Trendy",
+				"Style",
+				"Clothing",
+				"Shopping",
+				"Tourists",
+				"Newclothes",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "GUESS? SINGAPORE PTE LTD",
+			"brand": "GUESS",
+			"code": "GU1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5621",
+			"shortName": "GUESS",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "111 SOMERSET ROAD #06-14 ",
+				"postalCode": "238164",
+				"streetName": "111 SOMERSET ROAD"
+			},
+			"regNumber": "201610838E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/29256502527239503-Brand%20Image%20750x540.png",
+			"websiteUrl": "https://www.guess.com/us/en/home",
+			"descriptionHtml": "<p>GUESS is a global lifestyle brand supported by sexy, spirited advertising that has become iconic. They offer collections for men, women and children, as well as a wide range of accessories from jewelry, fragrances, eyewear and timepieces to highly desirable shoes and bags.</p>  <p>Participating Outlets:</p>  <ul style=\"list-style-type: circle;\"><li>GUESS Accessories store @ Bugis Junction </li><li>GUESS store @ Changi City Point</li><li>GUESS store @ IMM     </li></ul>   ",
+			"countryCode": "SG",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/38936855962192296-7491514913179278-1000x1000.jpg",
+			"createdAt": "2021-09-03T04:40:15.647Z",
+			"updatedAt": "2026-10-09T08:28:58.350Z",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "                          ",
+			"promotional": "                    ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9ae595add2492446465"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/29256502527239503-Brand%20Image%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/38936855962192296-7491514913179278-1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/29256502527239503-Brand%20Image%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/29256502527239503-Brand%20Image%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/29256502527239503-Brand%20Image%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/38936855962192296-7491514913179278-1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/38936855962192296-7491514913179278-1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/38936855962192296-7491514913179278-1000x1000_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "GUESS is a global lifestyle brand supported by sexy, spirited advertising that has become iconic. They offer collections for men, women and children, as well as a wide range of accessories from jewelry, fragrances, eyewear and timepieces to highly desirable shoes and bags. Participating Outlets: GUESS Accessories store @ Bugis Junction GUESS store @ Changi City PointGUESS store @ IMM Orchard Road Paragon Ion Takashimaya Ngee Ann City Bugis Junction Bugis Victoria Street United Square Novena Thomson Road The Shoppes Mbs Bayfront Bayfront Avenue Jeans Kids Teens Adults Casual American Shirts Bermudas Fashion Dress Cullocks Retail Clothes Marina Bay Sands For Him For Her Accessories Fragrances Eyewear Jewellery Shoes Bags Timepieces Watches International Global Streetwear Trendy Style Clothing Shopping Tourists Newclothes Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Pants Blouse Trousers Tshirt Shorts Leggings Suits Hats Caps Garments Scarves Belts Retail Fashion",
+			"refundPeriodUpdatedAt": "2026-02-15T12:26:59.513Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "guess-1327944e",
+			"outlets": [
+				{
+					"_id": "67847167e48d4d006b944852",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "68464c4fc363f104016b842c",
+					"name": "IMM"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi City Point",
+			"IMM"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "GUESS",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -6,11 +6,13 @@ import { RAW_ROOT, runPaths } from "./lib/paths.ts";
 import { runIdFor } from "./lib/time.ts";
 import { discover } from "./stages/discover.ts";
 import { fetchPartners } from "./stages/fetch.ts";
+import { exportOutlets } from "./stages/export.ts";
 import { geocodeOutlets } from "./stages/geocode.ts";
 import { normalizeOutlets } from "./stages/normalize.ts";
 import { parsePartners } from "./stages/parse.ts";
+import { validateStage } from "./stages/validate.ts";
 
-const STAGES = ["discover", "fetch", "parse", "normalize", "geocode"] as const;
+const STAGES = ["discover", "fetch", "parse", "normalize", "geocode", "validate", "export"] as const;
 type Stage = (typeof STAGES)[number];
 
 function isStage(value: string): value is Stage {
@@ -71,6 +73,12 @@ for (const stage of stagesToRun) {
 			break;
 		case "geocode":
 			await geocodeOutlets({ http: oneMapHttp, paths });
+			break;
+		case "validate":
+			await validateStage({ paths });
+			break;
+		case "export":
+			await exportOutlets({ paths });
 			break;
 		default: {
 			const unhandled: never = stage;

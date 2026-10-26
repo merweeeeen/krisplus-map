@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kaarla-wood-fire-grill-bar-e2e03b71",
+	"slug": "kaarla-wood-fire-grill-bar-e2e03b71",
+	"fetchedAt": "2026-10-26T17:30:46.596+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6773ba2369c7d4007462d283",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bar And Grill",
+				"Rooftop Restaurant",
+				"Restaurant With A View",
+				"Australian Cuisine",
+				"Japanese Cuisine",
+				"Fusion"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "1-Spring Pte Ltd (Kaarla Wood-Fire Grill & Bar)",
+			"brand": "Kaarla Wood-Fire Grill & Bar",
+			"code": "KWG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Kaarla Wood Fi",
+			"address": {
+				"line1": "211 HENDERSON ROAD",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"PB",
+								"WES",
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://kaarla.sg/",
+			"descriptionHtml": "<p>Kaarla Wood-Fire Grill and Bar beckons with its unique blend of Australian cuisine with Japanese influences. Kaarla defines quintessential Australian cooking as a ‘cuisine without borders’, emphasising Australia’s new love affair with Japanese cuisine.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/010751086267428933-5640069434341914-Kaarla.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5335441497629245-02941518541313659-brand%20image.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-12-31T09:32:19.419Z",
+			"updatedAt": "2026-09-18T08:28:25.484Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5335441497629245-02941518541313659-brand%20image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5335441497629245-02941518541313659-brand%20image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5335441497629245-02941518541313659-brand%20image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/010751086267428933-5640069434341914-Kaarla_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/010751086267428933-5640069434341914-Kaarla_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/010751086267428933-5640069434341914-Kaarla_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5335441497629245-02941518541313659-brand%20image.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/010751086267428933-5640069434341914-Kaarla.png",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-10T09:37:11.907Z",
+			"searchContent": "Kaarla Wood-Fire Grill and Bar beckons with its unique blend of Australian cuisine with Japanese influences. Kaarla defines quintessential Australian cooking as a ‘cuisine without borders’, emphasising Australia’s new love affair with Japanese cuisine. Bar And Grill Rooftop Restaurant Restaurant With A View Australian Cuisine Japanese Cuisine Fusion Dining Casual Dining Pubs & Bars Western Japanese",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kaarla-wood-fire-grill-bar-e2e03b71",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6773bbc7933ab6006dc827d9",
+					"name": "CapitaSpring"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"CapitaSpring"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kaarla Wood-Fire Grill & Bar",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

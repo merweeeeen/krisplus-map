@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/floramoments-d767687c",
+	"slug": "floramoments-d767687c",
+	"fetchedAt": "2026-10-26T17:30:24.545+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66f65d2f5164bf0074bd6103",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.031,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Flower",
+				"Florist",
+				"Flora",
+				"Floral",
+				"Floramoments",
+				"Flora Moments",
+				"Floral Moments",
+				"Rose",
+				"Bouquet",
+				"Bookay",
+				"Birthday",
+				"Condolences",
+				"Wreath",
+				"Congratulations",
+				"Funeral",
+				"Get Well Soon",
+				"Premium",
+				"Fruits",
+				"Vday",
+				"Valentine",
+				"Mother",
+				"Mother’S Day",
+				"Thank You",
+				"99 Roses",
+				"Grand Opening",
+				"Opening",
+				"Hamper",
+				"Gift",
+				"Bloom"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "FLORA MOMENTS PTE. LTD.",
+			"brand": "Floramoments",
+			"code": "FLM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Floramoments",
+			"address": {
+				"line1": "1 TANJONG PAGAR PLAZA #02-48 SINGAPORE 082001",
+				"postalCode": "082001",
+				"streetName": "1 TANJONG PAGAR PLAZA",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://floramoments.sg/",
+			"descriptionHtml": "<p>From elegant wreaths, striking opening stands, vibrant bouquets, luxurious hampers to bespoke bridal arrangements, Floramoments crafts nature's beauty into unforgettable gifts. With free same-day delivery, Floramoments ensures heartfelt moments are timely celebrated.</p>  <p><span style=\"font-size:12pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via in-store payments.</span></span></span></span>​​​​​​​</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7539274659157973-31391530571308945-A%20540x540%20(002).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/28404739319016925-C%20-%20750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-09-27T07:22:23.279Z",
+			"updatedAt": "2026-08-06T14:18:07.717Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/28404739319016925-C%20-%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/28404739319016925-C%20-%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/28404739319016925-C%20-%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7539274659157973-31391530571308945-A%20540x540%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7539274659157973-31391530571308945-A%20540x540%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7539274659157973-31391530571308945-A%20540x540%20(002)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/28404739319016925-C%20-%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7539274659157973-31391530571308945-A%20540x540%20(002).png",
+			"searchContent": "From elegant wreaths, striking opening stands, vibrant bouquets, luxurious hampers to bespoke bridal arrangements, Floramoments crafts nature's beauty into unforgettable gifts. With free same-day delivery, Floramoments ensures heartfelt moments are timely celebrated. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via in-store payments.​​​​​​​ Flower Florist Flora Floral Floramoments Flora Moments Floral Moments Rose Bouquet Bookay Birthday Condolences Wreath Congratulations Funeral Get Well Soon Premium Fruits Vday Valentine Mother Mother’S Day Thank You 99 Roses Grand Opening Opening Hamper Gift Bloom Retail Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-04-07T09:32:37.414Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "floramoments-d767687c",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Floramoments",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

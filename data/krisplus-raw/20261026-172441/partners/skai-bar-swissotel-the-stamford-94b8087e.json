@@ -1,0 +1,188 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/skai-bar-swissotel-the-stamford-94b8087e",
+	"slug": "skai-bar-swissotel-the-stamford-94b8087e",
+	"fetchedAt": "2026-10-26T17:27:00.911+08:00",
+	"payload": {
+		"partner": {
+			"_id": "618c9fbb46c91e5bb4cc24c7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Skyline",
+				"Bar",
+				"Wine",
+				"View",
+				"Swissotel Singapore",
+				"Swissotel The Stamford",
+				"Raffles City",
+				"Skai",
+				"City Hall",
+				"Central",
+				"Rooftop",
+				"Dining",
+				"Fine Dining",
+				"Celebrations",
+				"Occasions",
+				"Anniversary",
+				"Valentines Day",
+				"Romantic",
+				"Birthday",
+				"Drinks",
+				"Contemporary",
+				"European"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "RC Hotels (Pte.) Ltd. (SKAI Bar)",
+			"brand": "SKAI Bar (Swissôtel The Stamford)",
+			"code": "SKB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "SKAI Bar",
+			"address": {
+				"line1": "2 Stamford Road ",
+				"postalCode": "178882",
+				"streetName": "Stamford Road ",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198904859N ",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6734651908601597-6615156612210245-SKAI%20Bar%20-%20Brand%20Image%20-%20750%20x%20540.png",
+			"websiteUrl": "https://www.swissotel-singapore-stamford.com/restaurants-bars/skai-bar/",
+			"descriptionHtml": "<p>For weddings related enquiries, kindly contact fbsales.singapore@Fairmont.com for more information.</p><p><br></p><p>Set in a chic space boasting unparalleled views of the Singapore skyline, the contemporary wine bar showcases a thoughtfully curated wine selection from the Old and New World, catering to every occasion and drinker from seasoned oenophiles to budding wine enthusiasts.</p>\n\n<p>Serving 15 different blends by the glass and over 60 wines by the bottle, guests can look forward to appreciating an array of exceptional blends and unique expressions from prominent winemaking regions.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5083816713579887-01988278689661027-SKAI%20Bar%20-%20BRAND%20LOGO%201000%20x%201000.png",
+			"createdAt": "2021-11-11T04:44:43.278Z",
+			"updatedAt": "2026-08-06T14:17:22.963Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "                    ",
+			"promotional": "          ",
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef996a65eaf5ea7682880"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6734651908601597-6615156612210245-SKAI%20Bar%20-%20Brand%20Image%20-%20750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5083816713579887-01988278689661027-SKAI%20Bar%20-%20BRAND%20LOGO%201000%20x%201000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6734651908601597-6615156612210245-SKAI%20Bar%20-%20Brand%20Image%20-%20750%20x%20540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6734651908601597-6615156612210245-SKAI%20Bar%20-%20Brand%20Image%20-%20750%20x%20540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6734651908601597-6615156612210245-SKAI%20Bar%20-%20Brand%20Image%20-%20750%20x%20540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5083816713579887-01988278689661027-SKAI%20Bar%20-%20BRAND%20LOGO%201000%20x%201000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5083816713579887-01988278689661027-SKAI%20Bar%20-%20BRAND%20LOGO%201000%20x%201000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5083816713579887-01988278689661027-SKAI%20Bar%20-%20BRAND%20LOGO%201000%20x%201000_high.png"
+			},
+			"searchContent": "For weddings related enquiries, kindly contact fbsales.singapore@Fairmont.com for more information. Set in a chic space boasting unparalleled views of the Singapore skyline, the contemporary wine bar showcases a thoughtfully curated wine selection from the Old and New World, catering to every occasion and drinker from seasoned oenophiles to budding wine enthusiasts. Serving 15 different blends by the glass and over 60 wines by the bottle, guests can look forward to appreciating an array of exceptional blends and unique expressions from prominent winemaking regions. Skyline Bar Wine View Swissotel Singapore Swissotel The Stamford Raffles City Skai City Hall Central Rooftop Dining Fine Dining Celebrations Occasions Anniversary Valentines Day Romantic Birthday Drinks Contemporary European Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-02-24T02:39:56.232Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "skai-bar-swissotel-the-stamford-94b8087e",
+			"outlets": [
+				{
+					"_id": "619c944c024a4c1c98049ded",
+					"name": "Swissotel The Stamford"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Swissotel The Stamford"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SKAI Bar (Swissôtel The Stamford)",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

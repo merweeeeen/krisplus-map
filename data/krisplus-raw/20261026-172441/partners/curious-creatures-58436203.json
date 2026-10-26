@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/curious-creatures-58436203",
+	"slug": "curious-creatures-58436203",
+	"fetchedAt": "2026-10-26T17:32:56.992+08:00",
+	"payload": {
+		"partner": {
+			"_id": "690dbee95430892967e6f2be",
+			"name": "Curious Creatures Studio Pte Ltd",
+			"shortName": "Curious Creatu",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Curious Creatures",
+			"code": "CRE",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/44341873891636285-CuriousCreatures.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/600141316314049-8407945969788564-cc_kris-750x560_brandimage.jpg",
+			"websiteUrl": "https://www.curiouscreatures.cc/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "333 Kreta Ayer Road  #03-21",
+				"postalCode": "080333",
+				"streetName": "333 Kreta Ayer Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\">Established in 2011, Curious Creatures has become Singapore's beloved jewellery destination specialising in exquisite demi-fine and fine creations suitable for both everyday wear and special moments. Every piece is meticulously designed in-house and crafted in exclusive small-batch productions. Beyond their stunning jewellery collections, this versatile brand offers unique services including permanent jewellery application, professional piercing, custom engraving, and even stylish accessories for your furry companions.</p><p class=\"MsoNormal\">Participating outlets:</p><ul><li style=\"text-align: left;\">ION Orchard</li><li style=\"text-align: left;\">New Bahru</li></ul>",
+			"searchableKeywords": [
+				"Jewelry",
+				"piercing",
+				"engravable jewelry",
+				"permanent jewelry",
+				"silver jewelry",
+				"fine jewelry",
+				"personalized jewelry",
+				"customized jewelry",
+				"pet accessories",
+				"bracelet",
+				"earrings",
+				"rings",
+				"necklace",
+				"curious creatures",
+				"gold jewelry"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.03,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-07T09:42:01.870Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/44341873891636285-CuriousCreatures.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/600141316314049-8407945969788564-cc_kris-750x560_brandimage.jpg",
+			"createdAt": "2025-11-07T09:42:01.885Z",
+			"updatedAt": "2026-08-06T14:18:24.585Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/600141316314049-8407945969788564-cc_kris-750x560_brandimage_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/600141316314049-8407945969788564-cc_kris-750x560_brandimage_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/600141316314049-8407945969788564-cc_kris-750x560_brandimage_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/44341873891636285-CuriousCreatures_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/44341873891636285-CuriousCreatures_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/44341873891636285-CuriousCreatures_high.jpg"
+			},
+			"searchContent": "Established in 2011, Curious Creatures has become Singapore's beloved jewellery destination specialising in exquisite demi-fine and fine creations suitable for both everyday wear and special moments. Every piece is meticulously designed in-house and crafted in exclusive small-batch productions. Beyond their stunning jewellery collections, this versatile brand offers unique services including permanent jewellery application, professional piercing, custom engraving, and even stylish accessories for your furry companions. Participating outlets: ION OrchardNew Bahru Jewelry piercing engravable jewelry permanent jewelry silver jewelry fine jewelry personalized jewelry customized jewelry pet accessories bracelet earrings rings necklace curious creatures gold jewelry Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "curious-creatures-58436203",
+			"outlets": [
+				{
+					"_id": "691435606265e13a92f58868",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "69143607eb7415bc7b71a77d",
+					"name": "New Bahru"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard",
+			"New Bahru"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Curious Creatures",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

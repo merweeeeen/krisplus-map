@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/futurum-academy-47db9163",
+	"slug": "futurum-academy-47db9163",
+	"fetchedAt": "2026-10-26T17:28:36.634+08:00",
+	"payload": {
+		"partner": {
+			"_id": "639a83b9a145ca333cb4f395",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Robotic",
+				"Coding",
+				"3D",
+				"Printing",
+				"Activities",
+				"Funan",
+				"City Hall",
+				"Courses",
+				"Classes",
+				"Kids",
+				"Children",
+				"Holiday",
+				"Class",
+				"Workshop",
+				"Activity",
+				"Music",
+				"Concert",
+				"Bonding",
+				"School Holidays",
+				"Virtual",
+				"Teams",
+				"Family",
+				"Friends",
+				"Arts  Crafts",
+				"Immersive Experiences",
+				"Experiences"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Futurum Academy",
+			"brand": "Futurum Academy",
+			"code": "FA1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Futurum Academ",
+			"address": {
+				"line1": "107 NORTH BRIDGE ROAD,#02-13, SINGAPORE 179105",
+				"postalCode": "179105",
+				"streetName": "107 NORTH BRIDGE ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "202213858K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/05642095747793663-8528206755422965-download.jpg",
+			"websiteUrl": "https://futurumacademy.com",
+			"descriptionHtml": "<p>Futurum Academy is a school dedicated to cultivating multi-dimensional and collaborative critical thinking among youths.</p>\n\n<p>Their curriculum is anchored on computational thinking, integrating various disciplines such as coding, digital art, 3D design and printing, and engineering design to equip their students with the best knowledge, skills, and abilities to be future-ready.</p>\n\n<p>With their cutting-edge STEAM education, progressive curriculum and innovative practices, their classes will surely benefit you!</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR6",
+			"promotional": "                     ",
+			"participatingOutlets": "                     ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/07054382870471798-1576504539598016-download.jpg",
+			"createdAt": "2022-12-15T02:17:29.447Z",
+			"updatedAt": "2026-08-06T14:17:39.137Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"LEA"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95d0108b03f047da56f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/05642095747793663-8528206755422965-download.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07054382870471798-1576504539598016-download.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/05642095747793663-8528206755422965-download_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/05642095747793663-8528206755422965-download_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/05642095747793663-8528206755422965-download_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07054382870471798-1576504539598016-download_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07054382870471798-1576504539598016-download_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07054382870471798-1576504539598016-download_high.jpg"
+			},
+			"searchContent": "Futurum Academy is a school dedicated to cultivating multi-dimensional and collaborative critical thinking among youths. Their curriculum is anchored on computational thinking, integrating various disciplines such as coding, digital art, 3D design and printing, and engineering design to equip their students with the best knowledge, skills, and abilities to be future-ready. With their cutting-edge STEAM education, progressive curriculum and innovative practices, their classes will surely benefit you! Robotic Coding 3D Printing Activities Funan City Hall Courses Classes Kids Children Holiday Class Workshop Activity Music Concert Bonding School Holidays Virtual Teams Family Friends Arts  Crafts Immersive Experiences Experiences Activities Learning",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:44:48.855Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "futurum-academy-47db9163",
+			"outlets": [
+				{
+					"_id": "639ae374f69a131a90b38608",
+					"name": "Funan"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Futurum Academy",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

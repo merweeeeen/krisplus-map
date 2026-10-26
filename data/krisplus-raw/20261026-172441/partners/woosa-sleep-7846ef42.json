@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/woosa-sleep-7846ef42",
+	"slug": "woosa-sleep-7846ef42",
+	"fetchedAt": "2026-10-26T17:30:06.706+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66988097f087a90069165dc0",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.028,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Woosa",
+				"Bedding",
+				"Mattress",
+				"Bed Frame",
+				"Storage Base",
+				"Adjustable Base",
+				"Sleep",
+				"Bed",
+				"Pillow",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "WOOSA SLEEP PTE LTD",
+			"brand": "WOOSA SLEEP",
+			"code": "WSA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "WOOSA SLEEP",
+			"address": {
+				"city": "Singapore",
+				"line1": "1 Tampines North Dr. 1, #01-01 T-Space, Singapore 528559",
+				"streetName": "1 Tampines North Dr.",
+				"postalCode": "528559",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://Woosasleep.co",
+			"descriptionHtml": "<p>Woosa’s signature mattresses are designed in Singapore and made entirely in Belgium with parts sourced across Europe for incredible quality. Balancing your preferences in support and comfort, Woosa elevates your bedtime experience with their innovative Adjustable Base II that allows you to customise your favourite position setting (Zero Gravity, Anti-Snore, TV).</p><p>Participating outlets:</p><ul style=\"list-style-type: circle;\"><li>T-Space</li><li>Tan Boon Liat Building</li></ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3063166617451465-9113535464511429-A%20Brand%20Logo%20(App).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4003337222329395-6241536681954432-C%20Brand%20Image%20(App).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"createdAt": "2024-07-18T02:40:23.539Z",
+			"updatedAt": "2026-08-06T14:18:05.310Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4003337222329395-6241536681954432-C%20Brand%20Image%20(App).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3063166617451465-9113535464511429-A%20Brand%20Logo%20(App).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4003337222329395-6241536681954432-C%20Brand%20Image%20(App)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4003337222329395-6241536681954432-C%20Brand%20Image%20(App)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4003337222329395-6241536681954432-C%20Brand%20Image%20(App)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3063166617451465-9113535464511429-A%20Brand%20Logo%20(App)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3063166617451465-9113535464511429-A%20Brand%20Logo%20(App)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3063166617451465-9113535464511429-A%20Brand%20Logo%20(App)_high.jpg"
+			},
+			"searchContent": "Woosa’s signature mattresses are designed in Singapore and made entirely in Belgium with parts sourced across Europe for incredible quality. Balancing your preferences in support and comfort, Woosa elevates your bedtime experience with their innovative Adjustable Base II that allows you to customise your favourite position setting (Zero Gravity, Anti-Snore, TV). Participating outlets: T-SpaceTan Boon Liat Building Woosa Bedding Mattress Bed Frame Storage Base Adjustable Base Sleep Bed Pillow Homefurnishing Retail Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-30T16:31:28.276Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "woosa-sleep-7846ef42",
+			"outlets": [
+				{
+					"_id": "669881e5a8289e00687c92e4",
+					"name": "T-Space"
+				},
+				{
+					"_id": "6864d4729d717c0407c479fc",
+					"name": "Tan Boon Liat Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"T-Space",
+			"Tan Boon Liat Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "WOOSA SLEEP",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

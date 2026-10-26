@@ -1,0 +1,192 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/yagyo-haven-56987240",
+	"slug": "yagyo-haven-56987240",
+	"fetchedAt": "2026-10-26T17:35:12.119+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a7158fbd223c3b72ef1ac39",
+			"name": "M2M HAPPY LIFE PRIVATE LIMITED",
+			"shortName": "Yagyo Haven",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "Yagyo Haven",
+			"code": "M2M",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/0907175112048737-833468523859701-YH%20Logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6573677929497272-23768197586643836-YH%20BrandImage_750x540.jpg",
+			"websiteUrl": "https://www.yagyohaven.com",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "149 Rochor Road #05-15 Singapore 188425",
+				"postalCode": "188425",
+				"streetName": "149 Rochor Road #05-15",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Yagyo Haven is a modern oriental wellness sanctuary in     Singapore, offering immersive experiences that fuse traditional Chinese culture     with contemporary self-care. From therapeutic head spa rituals and wellness     treatments to Hanfu makeovers and photography, Yagyo Haven is a distinctive     destination for relaxation, rejuvenation, and cultural appreciation.</p>",
+			"searchableKeywords": [
+				"Yagyo Haven",
+				"Head Spa",
+				"Head Spa Singapore",
+				"Chinese Head Spa",
+				"Scalp Treatment",
+				"Scalp Spa",
+				"Hair Spa",
+				"Wellness Spa",
+				"Women Spa",
+				"Female Only Spa",
+				"Ladies Spa",
+				"Spa Bugis",
+				"Wellness Singapore",
+				"Relaxation Spa",
+				"Chinese Wellness",
+				"Oriental Wellness",
+				"Hanfu",
+				"Hanfu Photoshoot",
+				"Hanfu Photography",
+				"Hanfu Experience",
+				"Hanfu Rental",
+				"Chinese Costume Photoshoot",
+				"Chinese Cultural Experience",
+				"Makeover Studio",
+				"Photography Studio",
+				"Couple Photoshoot",
+				"Singapore Photoshoot",
+				"Beauty Spa",
+				"Self Care",
+				"Relaxation",
+				"Bugis Spa",
+				"Bugis Photoshoot",
+				"Chinese Spa",
+				"Cultural Experience Singapore",
+				"Wellness Experience",
+				"Spa Singapore"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": "2026-10-13T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-08-04T03:14:03.525Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0907175112048737-833468523859701-YH%20Logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6573677929497272-23768197586643836-YH%20BrandImage_750x540.jpg",
+			"createdAt": "2026-08-04T03:14:03.562Z",
+			"updatedAt": "2026-08-13T01:40:33.715Z",
+			"searchContent": "Yagyo Haven is a modern oriental wellness sanctuary in Singapore, offering immersive experiences that fuse traditional Chinese culture with contemporary self-care. From therapeutic head spa rituals and wellness treatments to Hanfu makeovers and photography, Yagyo Haven is a distinctive destination for relaxation, rejuvenation, and cultural appreciation. Yagyo Haven Head Spa Head Spa Singapore Chinese Head Spa Scalp Treatment Scalp Spa Hair Spa Wellness Spa Women Spa Female Only Spa Ladies Spa Spa Bugis Wellness Singapore Relaxation Spa Chinese Wellness Oriental Wellness Hanfu Hanfu Photoshoot Hanfu Photography Hanfu Experience Hanfu Rental Chinese Costume Photoshoot Chinese Cultural Experience Makeover Studio Photography Studio Couple Photoshoot Singapore Photoshoot Beauty Spa Self Care Relaxation Bugis Spa Bugis Photoshoot Chinese Spa Cultural Experience Singapore Wellness Experience Spa Singapore Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6573677929497272-23768197586643836-YH%20BrandImage_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6573677929497272-23768197586643836-YH%20BrandImage_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6573677929497272-23768197586643836-YH%20BrandImage_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0907175112048737-833468523859701-YH%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0907175112048737-833468523859701-YH%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0907175112048737-833468523859701-YH%20Logo_high.jpg"
+			},
+			"slugId": "yagyo-haven-56987240",
+			"outlets": [
+				{
+					"_id": "6a7159e5d044667ec58978ee",
+					"name": "Fu Lu Shou Complex"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fu Lu Shou Complex"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Yagyo Haven",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

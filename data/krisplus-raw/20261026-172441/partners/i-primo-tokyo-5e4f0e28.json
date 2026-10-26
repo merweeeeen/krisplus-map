@@ -1,0 +1,180 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/i-primo-tokyo-5e4f0e28",
+	"slug": "i-primo-tokyo-5e4f0e28",
+	"fetchedAt": "2026-10-26T17:30:55.725+08:00",
+	"payload": {
+		"partner": {
+			"_id": "677e2c62799f1b007473072e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Diamond",
+				"Engagement Ring",
+				"Wedding Ring",
+				"Wedding Band",
+				"Diamond Ring",
+				"Necklace",
+				"Bracelets",
+				"Earrings",
+				"Baby Ring",
+				"Pearl",
+				"Gold",
+				"Platinum",
+				"Gift",
+				"Present",
+				"Proposal",
+				"Fashion",
+				"Japan",
+				"Japanese",
+				"Jewellery",
+				"Jewelry",
+				"Ring",
+				"Wedding",
+				"Anniversary"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Primo Diamond Singapore Pte Ltd",
+			"brand": "I-PRIMO Tokyo",
+			"code": "PDS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "I PRIMO Tokyo",
+			"address": {
+				"city": "Singapore",
+				"line1": "20 ANSON ROAD #11-01 TWENTY ANSON SINGAPORE 079912",
+				"streetName": "20 ANSON ROAD",
+				"postalCode": "079912",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS",
+								"AJW",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.iprimo.sg",
+			"descriptionHtml": "<p>I-PRIMO is a Japanese brand specializing in diamond engagement and wedding rings. With over 25 years of expertise, it offers meticulously crafted rings that celebrate love. Known for exceptional quality, Japanese craftsmanship, and personalized service, I-PRIMO is trusted worldwide for life’s most precious milestones.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/15257445434495498-28638614366598003-Kris%2B_Brand%20Logo%20(002).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/91612975569956-6228219049360639-Kris%2B_Brand%20Image.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2025-01-08T07:42:26.138Z",
+			"updatedAt": "2026-08-06T14:18:11.129Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/91612975569956-6228219049360639-Kris%2B_Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/91612975569956-6228219049360639-Kris%2B_Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/91612975569956-6228219049360639-Kris%2B_Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/15257445434495498-28638614366598003-Kris%2B_Brand%20Logo%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/15257445434495498-28638614366598003-Kris%2B_Brand%20Logo%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/15257445434495498-28638614366598003-Kris%2B_Brand%20Logo%20(002)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/91612975569956-6228219049360639-Kris%2B_Brand%20Image.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/15257445434495498-28638614366598003-Kris%2B_Brand%20Logo%20(002).png",
+			"searchContent": "I-PRIMO is a Japanese brand specializing in diamond engagement and wedding rings. With over 25 years of expertise, it offers meticulously crafted rings that celebrate love. Known for exceptional quality, Japanese craftsmanship, and personalized service, I-PRIMO is trusted worldwide for life’s most precious milestones. Diamond Engagement Ring Wedding Ring Wedding Band Diamond Ring Necklace Bracelets Earrings Baby Ring Pearl Gold Platinum Gift Present Proposal Fashion Japan Japanese Jewellery Jewelry Ring Wedding Anniversary Retail Fashion Accessories, Jewellery & Watches Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T07:02:00.021Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "i-primo-tokyo-5e4f0e28",
+			"outlets": [
+				{
+					"_id": "677e2e6ae78b3174bf3c41c8",
+					"name": "Suntec City Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "I-PRIMO Tokyo",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

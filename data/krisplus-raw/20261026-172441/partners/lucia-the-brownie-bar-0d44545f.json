@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lucia-the-brownie-bar-0d44545f",
+	"slug": "lucia-the-brownie-bar-0d44545f",
+	"fetchedAt": "2026-10-26T17:32:42.917+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68eda6fdbae0130474428605",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Brownies",
+				"Cakes",
+				"Fudgy",
+				"Chocolate",
+				"Nutella",
+				"Peanut Butter",
+				"Macadamia",
+				"Biscoff",
+				"Yuzu",
+				"Oreo",
+				"Salted Caramel",
+				"Pandan",
+				"Celebration",
+				"gifts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "Lucia The Brownie Bar Pte. Ltd.",
+			"brand": "Lucia The Brownie Bar",
+			"code": "LUC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5814",
+			"shortName": "Lucia The Brow",
+			"address": {
+				"line1": "200 Pandan Loop, #10-02 CT FoodChain, Singapore 128388",
+				"postalCode": "128388",
+				"streetName": "200 Pandan Loop",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.luciabrownies.com/",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Lucia The Brownie Bar is a charming local boutique offering\n    irresistible brownies known for their soft, fudgy interiors paired with a\n    delectably crisp, shiny top. Crafted in small, daily batches with only the\n    finest, preservative-free ingredients, each treat is a testament to quality.\n    Presented in elegantly designed boxes, these brownies make the perfect gift for\n    any occasion.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating Outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>CIMB Plaza</li><li>Raffles City Shopping Centre</li></ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9315765663684457-LuciaBrownies.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/44454321195668234-4637286372342404-Brand%20Image%20-%20Lucia%20Brownies.png",
+			"countryCode": "SG",
+			"mccDescription": "Fast Food Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9315765663684457-LuciaBrownies.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/44454321195668234-4637286372342404-Brand%20Image%20-%20Lucia%20Brownies.png",
+			"createdAt": "2025-10-14T01:27:25.957Z",
+			"updatedAt": "2026-08-06T14:18:22.792Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/44454321195668234-4637286372342404-Brand%20Image%20-%20Lucia%20Brownies_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/44454321195668234-4637286372342404-Brand%20Image%20-%20Lucia%20Brownies_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/44454321195668234-4637286372342404-Brand%20Image%20-%20Lucia%20Brownies_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9315765663684457-LuciaBrownies_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9315765663684457-LuciaBrownies_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9315765663684457-LuciaBrownies_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-10-31T09:26:06.923Z",
+			"searchContent": "Lucia The Brownie Bar is a charming local boutique offering irresistible brownies known for their soft, fudgy interiors paired with a delectably crisp, shiny top. Crafted in small, daily batches with only the finest, preservative-free ingredients, each treat is a testament to quality. Presented in elegantly designed boxes, these brownies make the perfect gift for any occasion. Participating Outlets: CIMB PlazaRaffles City Shopping Centre Brownies Cakes Fudgy Chocolate Nutella Peanut Butter Macadamia Biscoff Yuzu Oreo Salted Caramel Pandan Celebration gifts Retail",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lucia-the-brownie-bar-0d44545f",
+			"outlets": [
+				{
+					"_id": "68edae75ce3a7f046e586cab",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "68edaed51e1f2a0468b93df2",
+					"name": "CIMB Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Raffles City Shopping Centre",
+			"CIMB Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Lucia The Brownie Bar",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

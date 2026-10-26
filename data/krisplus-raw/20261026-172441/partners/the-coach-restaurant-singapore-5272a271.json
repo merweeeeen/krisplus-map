@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-coach-restaurant-singapore-5272a271",
+	"slug": "the-coach-restaurant-singapore-5272a271",
+	"fetchedAt": "2026-10-26T17:34:58.316+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a4badc23c1b1bc93c6e3003",
+			"name": "COACH SINGAPORE PTE LTD",
+			"shortName": "Coach Restaura",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "The Coach Restaurant Singapore",
+			"code": "TCR",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5297958967548777-1628894614459533-Kris%20x%20Coach%20Retaurant-Brand%20Logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16519025938265597-Kris%20x%20Coach%20Retaurant-Brand%20Image.jpg",
+			"websiteUrl": "https://singapore.coach.com/coach-restaurant",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "77 Robinson Road  #08-01",
+				"postalCode": "068896",
+				"streetName": "Robinson 77",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><a name=\"OLE_LINK5\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: rgb(255, 255, 255); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;\">Discover The Coach Restaurant, a modern New York steakhouse reimagined through the lens of Coach. Thoughtful craft, warm hospitality, and distinctive brand details create an inviting, immersive dining experience.</a></p>",
+			"searchableKeywords": [
+				"steakhouse",
+				"steak",
+				"fried chicken",
+				"burger",
+				"oysters",
+				"seafood",
+				"caviar",
+				"dessert",
+				"wine",
+				"cocktails",
+				"beer",
+				"martinis",
+				"restaurant",
+				"changi",
+				"airport",
+				"jewel",
+				"Singapore",
+				"American",
+				"bar",
+				"celebration",
+				"modern",
+				"casual",
+				"kids friendly",
+				"lunch specials"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"WES",
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-13T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-06T13:29:38.373Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5297958967548777-1628894614459533-Kris%20x%20Coach%20Retaurant-Brand%20Logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16519025938265597-Kris%20x%20Coach%20Retaurant-Brand%20Image.jpg",
+			"createdAt": "2026-07-06T13:29:38.383Z",
+			"updatedAt": "2026-08-06T14:18:33.256Z",
+			"searchContent": "Discover The Coach Restaurant, a modern New York steakhouse reimagined through the lens of Coach. Thoughtful craft, warm hospitality, and distinctive brand details create an inviting, immersive dining experience. steakhouse steak fried chicken burger oysters seafood caviar dessert wine cocktails beer martinis restaurant changi airport jewel Singapore American bar celebration modern casual kids friendly lunch specials Dining Western Casual Dining",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16519025938265597-Kris%20x%20Coach%20Retaurant-Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16519025938265597-Kris%20x%20Coach%20Retaurant-Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16519025938265597-Kris%20x%20Coach%20Retaurant-Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5297958967548777-1628894614459533-Kris%20x%20Coach%20Retaurant-Brand%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5297958967548777-1628894614459533-Kris%20x%20Coach%20Retaurant-Brand%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5297958967548777-1628894614459533-Kris%20x%20Coach%20Retaurant-Brand%20Logo_high.jpg"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-coach-restaurant-singapore-5272a271",
+			"outlets": [
+				{
+					"_id": "6a4bb06f2ad95c49c8c8269c",
+					"name": "Jewel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jewel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Coach Restaurant Singapore",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

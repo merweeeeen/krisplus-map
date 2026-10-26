@@ -1,0 +1,200 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/highbrow-2ac79b52",
+	"slug": "highbrow-2ac79b52",
+	"fetchedAt": "2026-10-26T17:33:20.111+08:00",
+	"payload": {
+		"partner": {
+			"_id": "693bde4afd0d6f7531026982",
+			"name": "BS 777 Singapore Pte Ltd",
+			"shortName": "Highbrow",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "Highbrow",
+			"code": "HB1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8167448127477872-HighBrow.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7905547383917166-8573370692187934-2.jpg",
+			"websiteUrl": "https://www.highbrow.com.sg",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "21 Hendry Close",
+				"postalCode": "549276",
+				"streetName": "21 Hendry Close",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>HighBrow is a reputable beauty salon in Singapore known for its expertise in eyebrow embroidery, eyelash extensions and semi-permanent cosmetic enhancements. Established with the belief that beauty should appear natural and effortless, the brand has refined its techniques over more than a decade to highlight the unique features of every individual.</p><ul><li>Orchard Gateway</li><li>The Adelphi</li></ul>",
+			"searchableKeywords": [
+				"lash salon",
+				"permanent eyeliner",
+				"brow embroidery microblading",
+				"microblading Singapore",
+				"eyebrow tattoo removal singapore",
+				"eyebrow embroidery near me",
+				"eyebrow singapore",
+				"best eyebrow embroidery singapor",
+				"brow embroidery",
+				"eyebrow embroidery",
+				"natural eyebrow embroidery",
+				"nano eyebrow embroidery",
+				"eyebrow embroidery removal singapore",
+				"express gelish manicure",
+				"eyebrow tattoo singapore",
+				"brow specialist",
+				"permanent eyeliner singapore",
+				"lip tattoo singapore",
+				"inner eyeliner embroidery",
+				"volume lash extensions",
+				"eyebrow salon",
+				"semi permanent eyebrow",
+				"lash design",
+				"eyeliner embroidery singapore",
+				"eyelash extension",
+				"brow tinting singapore",
+				"hairline embroidery",
+				"eyelash extension orchard",
+				"natural eyelash extensions",
+				"lip embroidery singapore",
+				"tattoo eyeliner singapore",
+				"eyelash salon",
+				"spa and manicure",
+				"express pedicure",
+				"lip blushing",
+				"lashes singapore",
+				"classic eyelash extensions",
+				"semi permanent eyeliner",
+				"nails orchard"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-12T09:20:10.311Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8167448127477872-HighBrow.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7905547383917166-8573370692187934-2.jpg",
+			"createdAt": "2025-12-12T09:20:10.320Z",
+			"updatedAt": "2026-08-06T14:18:26.305Z",
+			"searchContent": "HighBrow is a reputable beauty salon in Singapore known for its expertise in eyebrow embroidery, eyelash extensions and semi-permanent cosmetic enhancements. Established with the belief that beauty should appear natural and effortless, the brand has refined its techniques over more than a decade to highlight the unique features of every individual. Orchard GatewayThe Adelphi lash salon permanent eyeliner brow embroidery microblading microblading Singapore eyebrow tattoo removal singapore eyebrow embroidery near me eyebrow singapore best eyebrow embroidery singapor brow embroidery eyebrow embroidery natural eyebrow embroidery nano eyebrow embroidery eyebrow embroidery removal singapore express gelish manicure eyebrow tattoo singapore brow specialist permanent eyeliner singapore lip tattoo singapore inner eyeliner embroidery volume lash extensions eyebrow salon semi permanent eyebrow lash design eyeliner embroidery singapore eyelash extension brow tinting singapore hairline embroidery eyelash extension orchard natural eyelash extensions lip embroidery singapore tattoo eyeliner singapore eyelash salon spa and manicure express pedicure lip blushing lashes singapore classic eyelash extensions semi permanent eyeliner nails orchard Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7905547383917166-8573370692187934-2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7905547383917166-8573370692187934-2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7905547383917166-8573370692187934-2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8167448127477872-HighBrow_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8167448127477872-HighBrow_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8167448127477872-HighBrow_high.jpg"
+			},
+			"newMerchantEndDate": "2026-03-12T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "highbrow-2ac79b52",
+			"outlets": [
+				{
+					"_id": "693bdfe556b48f01591546b6",
+					"name": "Orchard Gateway"
+				},
+				{
+					"_id": "693be0202eaff59e5d7e21ce",
+					"name": "The Adelphi"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Orchard Gateway",
+			"The Adelphi"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Highbrow",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

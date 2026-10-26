@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sol-ora-5be434e4",
+	"slug": "sol-ora-5be434e4",
+	"fetchedAt": "2026-10-26T17:30:49.711+08:00",
+	"payload": {
+		"partner": {
+			"_id": "677603c73f123c14e866c247",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Latinmediterranean",
+				"Sentosa Restaurant",
+				"Rooftop Restaurant",
+				"Beach Views",
+				"Sentosa",
+				"Roof Top Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "1-Production Pte Ltd (Sol & Ora)",
+			"brand": "Sol & Ora",
+			"code": "ORA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Sol and Ora",
+			"address": {
+				"line1": "211 HENDERSON ROAD",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON  #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://solandora.sg/",
+			"descriptionHtml": "<p>Sol & Ora beckons you to savour the essence of Mediterranean gastronomy from Sunrise to Starlight. Nestled against the serene backdrop of the ocean's embrace, their coastal culinary haven invites you to embark on a timeless gastronomic journey. </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8210884879572817-15516015578230924-S%26O%20logo%20260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/11104115321970931-6671248269705445-Brand%20Image%20750x540.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2025-01-02T03:11:03.192Z",
+			"updatedAt": "2026-09-18T08:30:41.170Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11104115321970931-6671248269705445-Brand%20Image%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11104115321970931-6671248269705445-Brand%20Image%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11104115321970931-6671248269705445-Brand%20Image%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8210884879572817-15516015578230924-S%26O%20logo%20260x260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8210884879572817-15516015578230924-S%26O%20logo%20260x260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8210884879572817-15516015578230924-S%26O%20logo%20260x260_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11104115321970931-6671248269705445-Brand%20Image%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8210884879572817-15516015578230924-S%26O%20logo%20260x260.png",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:23:25.391Z",
+			"searchContent": "Sol & Ora beckons you to savour the essence of Mediterranean gastronomy from Sunrise to Starlight. Nestled against the serene backdrop of the ocean's embrace, their coastal culinary haven invites you to embark on a timeless gastronomic journey. Latinmediterranean Sentosa Restaurant Rooftop Restaurant Beach Views Sentosa Roof Top Dining Dining Casual Dining Beverages & Desserts Western",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sol-ora-5be434e4",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "67760599beb7b2da35b70f48",
+					"name": "The Outpost Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Outpost Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sol & Ora",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

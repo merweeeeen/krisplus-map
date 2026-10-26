@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/straitskitchen-9898dcc9",
+	"slug": "straitskitchen-9898dcc9",
+	"fetchedAt": "2026-10-26T17:34:46.196+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a339374b7d8bf4c195ff06e",
+			"name": "Borneo Properties Sdn Bhd (Trading as Grand Hyatt Singapore)",
+			"shortName": "StraitsKitchen",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "StraitsKitchen",
+			"code": "5KN",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8092271224547325-5652656052084495-SraitsKitchen%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9732767994981131-5225321342291533-StraitsKitchen%2015May.png",
+			"websiteUrl": "https://www.singapore.grand.hyattrestaurants.com/straitskitchen",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "10 Scotts Road Singapore 228211",
+				"postalCode": "228211",
+				"streetName": "10 Scotts Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Journey through Singapore’s rich food culture and savour some of the favourite local dishes at one of the few restaurants in Orchard to serve a Halal-certified buffet spread. </span></p>",
+			"searchableKeywords": [
+				"Singapore",
+				"local",
+				"buffet",
+				"orchard",
+				"kidfriendly",
+				"Asian",
+				"Halal",
+				"Grand Hyatt Singapore"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"KID",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-20T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-18T06:43:00.373Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8092271224547325-5652656052084495-SraitsKitchen%20Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9732767994981131-5225321342291533-StraitsKitchen%2015May.png",
+			"createdAt": "2026-06-18T06:43:00.378Z",
+			"updatedAt": "2026-08-06T14:18:32.723Z",
+			"searchContent": "Journey through Singapore’s rich food culture and savour some of the favourite local dishes at one of the few restaurants in Orchard to serve a Halal-certified buffet spread. Singapore local buffet orchard kidfriendly Asian Halal Grand Hyatt Singapore Dining Halal Buffet Kid-Friendly Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9732767994981131-5225321342291533-StraitsKitchen%2015May_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9732767994981131-5225321342291533-StraitsKitchen%2015May_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9732767994981131-5225321342291533-StraitsKitchen%2015May_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8092271224547325-5652656052084495-SraitsKitchen%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8092271224547325-5652656052084495-SraitsKitchen%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8092271224547325-5652656052084495-SraitsKitchen%20Logo_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "straitskitchen-9898dcc9",
+			"outlets": [
+				{
+					"_id": "6a360fe62f5f12a1b91f5f9e",
+					"name": "Grand Hyatt"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Grand Hyatt"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "StraitsKitchen",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/fried-chicken-master-e7e3e9bb",
+	"slug": "fried-chicken-master-e7e3e9bb",
+	"fetchedAt": "2026-10-26T17:30:25.724+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66fa40e42580d0007348b0b9",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Fried Chicken",
+				"Fast Food",
+				"Must Try Food In Singapore",
+				"Halal",
+				"Fried Chicken Singapore"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "SFCM PTE. LTD.",
+			"brand": "Fried Chicken Master",
+			"code": "FCM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5814",
+			"shortName": "Fried Chicken",
+			"address": {
+				"city": "Singapore",
+				"line1": "65 SIMS AVENUE #02-06 YI XIU FACTORY BUILDING SINGAPORE 387418",
+				"streetName": "65 SIMS AVENUE",
+				"postalCode": "387418",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HAL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"QBS"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"websiteUrl": "https://www.chickenmaster.com.sg/",
+			"descriptionHtml": "<p>Fried Chicken Master, Taiwan's Leading Halal Fried Chicken Chain, offers a flavourful experience with every bite. Known for its crispy skin, tender meat and diverse menu, customers enjoy an unforgettable taste that keeps them coming back for more! </p>\n\n<p>Participating outlets:</p>\n\n<ul>\n\t<li>Century Square</li>\n\t<li>Suntec City</li>\n\t<li>Northpoint City</li>\n</ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6312845125005833-02205395437402391-Brand%20Logo%201000x1000%20(1).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3582691249567844-8822889426054827-Brand%20Image750x540px%20(1).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Fast Food Restaurants",
+			"partnershipGroup": "GR4",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"createdAt": "2024-09-30T06:10:44.680Z",
+			"updatedAt": "2026-08-06T14:18:07.794Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3582691249567844-8822889426054827-Brand%20Image750x540px%20(1)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3582691249567844-8822889426054827-Brand%20Image750x540px%20(1)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3582691249567844-8822889426054827-Brand%20Image750x540px%20(1)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6312845125005833-02205395437402391-Brand%20Logo%201000x1000%20(1)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6312845125005833-02205395437402391-Brand%20Logo%201000x1000%20(1)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6312845125005833-02205395437402391-Brand%20Logo%201000x1000%20(1)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3582691249567844-8822889426054827-Brand%20Image750x540px%20(1).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6312845125005833-02205395437402391-Brand%20Logo%201000x1000%20(1).jpg",
+			"searchContent": "Fried Chicken Master, Taiwan's Leading Halal Fried Chicken Chain, offers a flavourful experience with every bite. Known for its crispy skin, tender meat and diverse menu, customers enjoy an unforgettable taste that keeps them coming back for more! Participating outlets: Century Square Suntec City Northpoint City Fried Chicken Fast Food Must Try Food In Singapore Halal Fried Chicken Singapore Dining Halal Quick Bites & Snacks",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "fried-chicken-master-e7e3e9bb",
+			"outlets": [
+				{
+					"_id": "66fa42e46ec8e8006c397bf7",
+					"name": "Century Square"
+				},
+				{
+					"_id": "66fa437e62c378007150d600",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "6758f1b06f7f1a0073071c43",
+					"name": "Northpoint City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Century Square",
+			"Suntec City",
+			"Northpoint City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Fried Chicken Master",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

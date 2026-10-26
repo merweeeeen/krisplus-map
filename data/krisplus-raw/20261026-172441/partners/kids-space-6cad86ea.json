@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kids-space-6cad86ea",
+	"slug": "kids-space-6cad86ea",
+	"fetchedAt": "2026-10-26T17:33:10.939+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6929294f59a315a46ebabd7b",
+			"name": "KIDS SPACE PTE LTD",
+			"shortName": "KIDS SPACE",
+			"mccCode": "7832",
+			"mccDescription": "Amusement and Entertainment",
+			"brand": "KIDS SPACE",
+			"code": "KID",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3958387920683972-KidsSpace.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/18393997507949633-7339297453049445-KIDS%20SPACE%20APP%20BRAND%20IMAGE%20(750%20X%20540).jpg",
+			"websiteUrl": "https://www.kidsspace.sg/",
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "6B ORANGE GROVE ROAD",
+				"postalCode": "258332",
+				"streetName": "COMO HOUSE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Kids Space is a family club where curiosity, creativity, and connection come alive. A world where children explore, imagine, and play freely — celebrating the magic of childhood, discovery, and laughter. Through immersive spaces and thoughtful programmes, we spark wonder, growth, and joyful memories for every family.</span></p>",
+			"searchableKeywords": [
+				"Baby",
+				"Kids",
+				"Baby Gifts",
+				"Kidfriendly",
+				"Kids Friendly",
+				"Kid Parent Yoga",
+				"Kids Gift",
+				"Kids Restaurant",
+				"Child",
+				"Children",
+				"Art",
+				"Art Jamming",
+				"Art Class",
+				"Art Pieces",
+				"Creative Art",
+				"Creative Class",
+				"Classes",
+				"Fun",
+				"Fun Learning",
+				"Fun activities",
+				"Holiday Programme",
+				"Playground",
+				"Imaginative Play",
+				"Pretend Play",
+				"Cook",
+				"Cooking Culinary"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-28T04:47:11.444Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3958387920683972-KidsSpace.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18393997507949633-7339297453049445-KIDS%20SPACE%20APP%20BRAND%20IMAGE%20(750%20X%20540).jpg",
+			"createdAt": "2025-11-28T04:47:11.480Z",
+			"updatedAt": "2026-08-06T14:18:25.611Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18393997507949633-7339297453049445-KIDS%20SPACE%20APP%20BRAND%20IMAGE%20(750%20X%20540)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18393997507949633-7339297453049445-KIDS%20SPACE%20APP%20BRAND%20IMAGE%20(750%20X%20540)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18393997507949633-7339297453049445-KIDS%20SPACE%20APP%20BRAND%20IMAGE%20(750%20X%20540)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3958387920683972-KidsSpace_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3958387920683972-KidsSpace_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3958387920683972-KidsSpace_high.jpg"
+			},
+			"searchContent": "Kids Space is a family club where curiosity, creativity, and connection come alive. A world where children explore, imagine, and play freely — celebrating the magic of childhood, discovery, and laughter. Through immersive spaces and thoughtful programmes, we spark wonder, growth, and joyful memories for every family. Baby Kids Baby Gifts Kidfriendly Kids Friendly Kid Parent Yoga Kids Gift Kids Restaurant Child Children Art Art Jamming Art Class Art Pieces Creative Art Creative Class Classes Fun Fun Learning Fun activities Holiday Programme Playground Imaginative Play Pretend Play Cook Cooking Culinary Activities",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kids-space-6cad86ea",
+			"outlets": [
+				{
+					"_id": "69294051aad289a0c22f6277",
+					"name": "Dempsey Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Dempsey Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "KIDS SPACE",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

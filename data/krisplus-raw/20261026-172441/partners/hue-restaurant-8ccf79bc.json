@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/hue-restaurant-8ccf79bc",
+	"slug": "hue-restaurant-8ccf79bc",
+	"fetchedAt": "2026-10-26T17:32:27.943+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68b170c2ab5102046783f0e3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Thai",
+				"Bar",
+				"Happy Hour",
+				"Desserts",
+				"Drinks",
+				"Vegetarian",
+				"PetFriendly",
+				"Tom yum"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "HUE ORIGINAL PTE LTD",
+			"brand": "HUE Restaurant",
+			"code": "HUE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "HUE Restaurant",
+			"address": {
+				"line1": "334D KING GEORGE'S AVENUE",
+				"postalCode": "208571",
+				"streetName": "KING GEORGE'S BUILDING",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS",
+								"BD",
+								"ASI",
+								"CD",
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.hueoriginal.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">HUE Restaurant in Singapore offers a bold take on Thai cuisine, blending contemporary style with authentic flavors. By day, it offers inventive Thai cuisine; by night, it transforms into a lively bar, blending tradition and contemporary flair in every experience.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8569301221200476-HueRestaurant.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8033646401773298-6822386788346697-brand%20750.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8569301221200476-HueRestaurant.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8033646401773298-6822386788346697-brand%20750.png",
+			"createdAt": "2025-08-29T09:20:02.431Z",
+			"updatedAt": "2026-08-06T14:18:20.232Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8569301221200476-HueRestaurant_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8569301221200476-HueRestaurant_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8569301221200476-HueRestaurant_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:45:37.778Z",
+			"searchContent": "HUE Restaurant in Singapore offers a bold take on Thai cuisine, blending contemporary style with authentic flavors. By day, it offers inventive Thai cuisine; by night, it transforms into a lively bar, blending tradition and contemporary flair in every experience. Thai Bar Happy Hour Desserts Drinks Vegetarian PetFriendly Tom yum Dining Vegetarian-Friendly Quick Bites & Snacks Beverages & Desserts Asian Casual Dining Pubs & Bars",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "hue-restaurant-8ccf79bc",
+			"outlets": [
+				{
+					"_id": "68bfd8645dace30467eb59b1",
+					"name": "Tyrwhitt Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tyrwhitt Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "HUE Restaurant",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

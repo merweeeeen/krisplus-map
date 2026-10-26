@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tenya-singapore-b916bfaa",
+	"slug": "tenya-singapore-b916bfaa",
+	"fetchedAt": "2026-10-26T17:31:42.297+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68414bc2190d9504085b28f7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Tenya",
+				"Tempura",
+				"Tendon",
+				"Japanese Cuisine",
+				"Donburi",
+				"Soba",
+				"Udon"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "TENYA SINGAPORE PTE LTD",
+			"brand": "Tenya Singapore",
+			"code": "TNY",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Tenya Singapor",
+			"address": {
+				"line1": "50 CUSCADEN ROAD",
+				"postalCode": "249724",
+				"streetName": "HPL HOUSE  #08-01",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://tenya.com.sg/",
+			"descriptionHtml": "<p>Tenya, Japan’s No.1 tendon restaurant chain, is renowned for its crispy, high-quality tempura bowls at affordable prices. Using an advanced fryer that controls temperature and time, Tenya ensures consistent quality by frying up to 1,000 pieces of tempura per hour. Paired with its signature dontare sauce, Tenya is the go-to spot for fast and delicious meals.</p><p>Participating outlets:<br>- ION Orchard<br>- Orchard Central <br></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8378938197091002-Tenya.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6092276891998682-639899322995493-Brand%20image%20750%20x%20540%20(1).png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8378938197091002-Tenya.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6092276891998682-639899322995493-Brand%20image%20750%20x%20540%20(1).png",
+			"createdAt": "2025-06-05T07:48:18.442Z",
+			"updatedAt": "2026-08-06T14:18:15.227Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8378938197091002-Tenya_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8378938197091002-Tenya_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8378938197091002-Tenya_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-01T01:36:12.418Z",
+			"searchContent": "Tenya, Japan’s No.1 tendon restaurant chain, is renowned for its crispy, high-quality tempura bowls at affordable prices. Using an advanced fryer that controls temperature and time, Tenya ensures consistent quality by frying up to 1,000 pieces of tempura per hour. Paired with its signature dontare sauce, Tenya is the go-to spot for fast and delicious meals. Participating outlets: - ION Orchard - Orchard Central Tenya Tempura Tendon Japanese Cuisine Donburi Soba Udon Dining Japanese Asian",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tenya-singapore-b916bfaa",
+			"outlets": [
+				{
+					"_id": "6846a67d7d6fd00401f72b5c",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "6846a6be7752fc088661e5d2",
+					"name": "Orchard Central"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard",
+			"Orchard Central"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tenya Singapore",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

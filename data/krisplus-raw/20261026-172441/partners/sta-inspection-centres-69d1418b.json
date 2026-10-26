@@ -1,0 +1,168 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sta-inspection-centres-69d1418b",
+	"slug": "sta-inspection-centres-69d1418b",
+	"fetchedAt": "2026-10-26T17:33:15.237+08:00",
+	"payload": {
+		"partner": {
+			"_id": "692d54830e78e7109243b77d",
+			"name": "STA Inspection Pte Ltd",
+			"shortName": "STA Inspection",
+			"mccCode": "7399",
+			"mccDescription": "Business Services (Not Elsewhere Classified)",
+			"brand": "STA Inspection Centres",
+			"code": "STI",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7643897329646119-STAinspections.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9388021516863179-19988270882535453-2.png",
+			"websiteUrl": "https://stai.com.sg/",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "302 Sin Ming Road",
+				"postalCode": "575627",
+				"streetName": "302 Sin Ming Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p style=\"margin-bottom:16px;margin-top:0px;\"><span style=\"font-size:inherit;\">STA has been a trusted leader in vehicle inspection services for over 30 years. Licensed by Singapore’s Land Transport Authority (LTA), STA conducts roadworthiness inspections for all types of motorised vehicles, ensuring safety and reliability on the road. Choose STA for expertise you can depend on!</span></p><ul><li>Boon Lay</li><li>Sin Ming</li></ul>",
+			"searchableKeywords": [
+				"STA",
+				"STA Inspection",
+				"STA Inspection center",
+				"Cars",
+				"Inspections",
+				"Automotive",
+				"Vehicle inspection"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-01T08:40:35.209Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7643897329646119-STAinspections.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9388021516863179-19988270882535453-2.png",
+			"createdAt": "2025-12-01T08:40:35.217Z",
+			"updatedAt": "2026-09-01T01:50:27.344Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9388021516863179-19988270882535453-2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9388021516863179-19988270882535453-2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9388021516863179-19988270882535453-2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7643897329646119-STAinspections_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7643897329646119-STAinspections_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7643897329646119-STAinspections_high.png"
+			},
+			"searchContent": "STA has been a trusted leader in vehicle inspection services for over 30 years. Licensed by Singapore’s Land Transport Authority (LTA), STA conducts roadworthiness inspections for all types of motorised vehicles, ensuring safety and reliability on the road. Choose STA for expertise you can depend on! Boon LaySin Ming STA STA Inspection STA Inspection center Cars Inspections Automotive Vehicle inspection Services Automotive",
+			"newMerchantEndDate": "2026-03-12T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sta-inspection-centres-69d1418b",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "692d5a3f5acb7d498d183a3d",
+					"name": "Sin Ming Rd"
+				},
+				{
+					"_id": "692d5a6db75e7dd010391417",
+					"name": "Boon Lay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sin Ming Rd",
+			"Boon Lay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "STA Inspection Centres",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

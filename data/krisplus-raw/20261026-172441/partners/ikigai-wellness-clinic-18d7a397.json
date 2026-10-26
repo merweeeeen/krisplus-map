@@ -1,0 +1,168 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ikigai-wellness-clinic-18d7a397",
+	"slug": "ikigai-wellness-clinic-18d7a397",
+	"fetchedAt": "2026-10-26T17:34:07.191+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69bb791c1a1ebf3c01a40a9d",
+			"name": "IKIGAI MEDICAL PTE. LTD.",
+			"shortName": "IkigaiWellness",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "Ikigai Wellness Clinic",
+			"code": "IKG",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/33270603664343534-13590432797929752-1A%20-%20Kris%2B%20Design%20260%20x%20260%20px.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2813961570088661-5130785620238194-1B%20-%20Kris%2B%20Design%20750%20x%20540%20px.png",
+			"websiteUrl": "https://www.ikigaiwellnessclinic.com",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "111 Somerset Road, #02-27",
+				"postalCode": "238164",
+				"streetName": "111 Somerset Road, #02-27",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Ikigai Wellness Clinic (Skin · Body · Mind) is a modern sanctuary that blends science, artistry and mindful care. They offer personalised consultations, advanced facials, non-invasive lifting treatments, body sculpting and holistic therapies to support natural, long-lasting results for your skin, body and mind.</p>",
+			"searchableKeywords": [
+				"Facial",
+				"Wellness",
+				"Spa",
+				"Aesthetics",
+				"Health",
+				"Longevity",
+				"Weight Loss",
+				"Body",
+				"Cellulite",
+				"AntiAging",
+				"Preventive Care",
+				"Ikigai"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-05-31T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-03-19T04:18:36.357Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/33270603664343534-13590432797929752-1A%20-%20Kris%2B%20Design%20260%20x%20260%20px.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2813961570088661-5130785620238194-1B%20-%20Kris%2B%20Design%20750%20x%20540%20px.png",
+			"createdAt": "2026-03-19T04:18:36.365Z",
+			"updatedAt": "2026-08-06T14:18:30.269Z",
+			"searchContent": "Ikigai Wellness Clinic (Skin · Body · Mind) is a modern sanctuary that blends science, artistry and mindful care. They offer personalised consultations, advanced facials, non-invasive lifting treatments, body sculpting and holistic therapies to support natural, long-lasting results for your skin, body and mind. Facial Wellness Spa Aesthetics Health Longevity Weight Loss Body Cellulite AntiAging Preventive Care Ikigai Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2813961570088661-5130785620238194-1B%20-%20Kris%2B%20Design%20750%20x%20540%20px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2813961570088661-5130785620238194-1B%20-%20Kris%2B%20Design%20750%20x%20540%20px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2813961570088661-5130785620238194-1B%20-%20Kris%2B%20Design%20750%20x%20540%20px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/33270603664343534-13590432797929752-1A%20-%20Kris%2B%20Design%20260%20x%20260%20px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/33270603664343534-13590432797929752-1A%20-%20Kris%2B%20Design%20260%20x%20260%20px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/33270603664343534-13590432797929752-1A%20-%20Kris%2B%20Design%20260%20x%20260%20px_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ikigai-wellness-clinic-18d7a397",
+			"outlets": [
+				{
+					"_id": "69bb7a166c66f513ea1b1388",
+					"name": "TripleOne 111 Somerset"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"TripleOne 111 Somerset"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Ikigai Wellness Clinic",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

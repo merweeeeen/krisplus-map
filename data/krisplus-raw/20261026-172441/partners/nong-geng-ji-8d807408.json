@@ -1,0 +1,209 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/nong-geng-ji-8d807408",
+	"slug": "nong-geng-ji-8d807408",
+	"fetchedAt": "2026-10-26T17:32:40.933+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68e73c2c43dd040474eacb6d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Authentic Hunan cuisine",
+				"Chinese cuisine",
+				"Spicy Chinese food",
+				"Stirfried pork with chili",
+				"Family dining",
+				"Gathering dining",
+				"Group dining",
+				"mala",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "NONG GENG JI PTE LTD",
+			"brand": "Nong Geng Ji",
+			"code": "NGJ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Nong Geng Ji",
+			"address": {
+				"line1": "60 Trevose Crescent  #03-23",
+				"postalCode": "298090",
+				"streetName": "The Trevose",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.instagram.com/nonggengjisg",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Nong Geng Ji is the leading brand of Hunan Cuisine in China with over 100 direct operations stores worldwide. Want to enjoy Hunan Cuisine, come visit Nong Geng Ji!</span></p><p>Participating Outlets:<br>- Changi City Point<br>- City Square Mall<br>- Collyer Quay<br>- Great World<br>- Jewel<br>- Novena Square<br>- Orchard Gateway<br>- Vivo City</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8313500148945709-NongGengJi.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6092216946589553-8705865774305233-NGJ_Branding_Photo_2025%20Aug.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 8
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8313500148945709-NongGengJi.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6092216946589553-8705865774305233-NGJ_Branding_Photo_2025%20Aug.jpg",
+			"createdAt": "2025-10-09T04:38:04.342Z",
+			"updatedAt": "2026-08-06T14:18:22.680Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6092216946589553-8705865774305233-NGJ_Branding_Photo_2025%20Aug_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6092216946589553-8705865774305233-NGJ_Branding_Photo_2025%20Aug_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6092216946589553-8705865774305233-NGJ_Branding_Photo_2025%20Aug_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8313500148945709-NongGengJi_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8313500148945709-NongGengJi_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8313500148945709-NongGengJi_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-11-03T02:18:56.346Z",
+			"searchContent": "Nong Geng Ji is the leading brand of Hunan Cuisine in China with over 100 direct operations stores worldwide. Want to enjoy Hunan Cuisine, come visit Nong Geng Ji! Participating Outlets: - Changi City Point - City Square Mall - Collyer Quay - Great World - Jewel - Novena Square - Orchard Gateway - Vivo City Authentic Hunan cuisine Chinese cuisine Spicy Chinese food Stirfried pork with chili Family dining Gathering dining Group dining mala Dining Casual Dining Kid-Friendly Beverages & Desserts Chinese Asian",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "nong-geng-ji-8d807408",
+			"outlets": [
+				{
+					"_id": "68e754ef43dd040474eaecda",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "68e7568bfe8ffa046f65f636",
+					"name": "Collyer Quay"
+				},
+				{
+					"_id": "68e75801658c2c046cdd6276",
+					"name": "Great World City"
+				},
+				{
+					"_id": "68e75c20ecbbcd046ef7709b",
+					"name": "Novena Square"
+				},
+				{
+					"_id": "68e75db7f06dfd046e74118c",
+					"name": "Orchard Gateway"
+				},
+				{
+					"_id": "68e75f0c33d1e70467f1a4c5",
+					"name": "Vivo City"
+				},
+				{
+					"_id": "68f86de7f837d7046d66c368",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "690962f3725be519521661cf",
+					"name": "Jewel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"City Square Mall",
+			"Collyer Quay",
+			"Great World City",
+			"Novena Square",
+			"Orchard Gateway",
+			"Vivo City",
+			"Changi City Point",
+			"Jewel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Nong Geng Ji",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

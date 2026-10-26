@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bynd-artisan-e0cbf014",
+	"slug": "bynd-artisan-e0cbf014",
+	"fetchedAt": "2026-10-26T17:25:11.799+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e4228c98f9c323ee830ee1d",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Bynd Artisan Pte Ltd",
+			"brand": "BYND ARTISAN",
+			"code": "BA1",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": " 37 Jalan Pemimpin, Mapex #08-13",
+				"postalCode": "577177",
+				"streetName": "Jalan Pemimpin"
+			},
+			"categary": "Gifts and Souvenirs",
+			"regNumber": "201534339C",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6690325331902383-logoImage-94dd396d-04b2-4155-a11f-e2d4c393f046.jpg",
+			"createdAt": "2020-02-11T04:08:41.863Z",
+			"updatedAt": "2026-08-06T14:17:08.580Z",
+			"description": "",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"saleOfMilesPct": 2.5,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 2
+			},
+			"promotional": "Kris+ Exclusive Promotion: \nEnjoy 10% discount off all regular-priced items when you flash Kris+ at the point of purchase.\n\nTerms and Conditions:\n•\tPromotion cannot be used in conjunction with any other in-store promotions, vouchers, or existing Bynd Artisan membership privileges. \n•\tStrictly no exchange or refunds are allowed.\n•\tPromotion is not applicable for name personalisation.\n\nFind out more at: www.byndartisan.com",
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6117184197616621-21915913426972344-Bynd%20Artisan%20Brand%20750x540.jpg",
+			"participatingOutlets": "•\tHolland Village\n•\tION Orchard\n•\tRaffles City Shopping Centre",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.byndartisan.com/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "BA",
+			"descriptionHtml": "<p>Born from a rich heritage of craftsmanship, Bynd Artisan offers customised and personalised leather and paper gifts for any occasion. Bynd Artisan encourages its audience to immerse themselves in the process of creating the perfect gift and offers workshops to share the joy of craft. The brand also provides a platform for talents and creatives to celebrate innovation and design through collaborations.<br>\n<br>\nParticipating Outlets:<br>\n\n• Raffles City Shopping Centre</p>",
+			"searchableKeywords": [
+				"City Hall",
+				"Raffles Boulevard",
+				"Craft",
+				"Central",
+				"Diy",
+				"Hand Made",
+				"Handicraft",
+				"Personalised",
+				"Personalized",
+				"Wallet",
+				"Keychain",
+				"Birthdays",
+				"Remembrance",
+				"Gifts",
+				"Craftmanship",
+				"Raffles City Shopping Centre",
+				"Leather",
+				"Tourists",
+				"Rafflescity",
+				"Gift",
+				"Souvenirs",
+				"Notebook",
+				"Pouches"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e62f71c855d5496e65"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6117184197616621-21915913426972344-Bynd%20Artisan%20Brand%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6690325331902383-logoImage-94dd396d-04b2-4155-a11f-e2d4c393f046.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6117184197616621-21915913426972344-Bynd%20Artisan%20Brand%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6117184197616621-21915913426972344-Bynd%20Artisan%20Brand%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6117184197616621-21915913426972344-Bynd%20Artisan%20Brand%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6690325331902383-logoImage-94dd396d-04b2-4155-a11f-e2d4c393f046_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6690325331902383-logoImage-94dd396d-04b2-4155-a11f-e2d4c393f046_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6690325331902383-logoImage-94dd396d-04b2-4155-a11f-e2d4c393f046_high.jpg"
+			},
+			"searchContent": "Born from a rich heritage of craftsmanship, Bynd Artisan offers customised and personalised leather and paper gifts for any occasion. Bynd Artisan encourages its audience to immerse themselves in the process of creating the perfect gift and offers workshops to share the joy of craft. The brand also provides a platform for talents and creatives to celebrate innovation and design through collaborations. Participating Outlets: • Raffles City Shopping Centre City Hall Raffles Boulevard Craft Central Diy Hand Made Handicraft Personalised Personalized Wallet Keychain Birthdays Remembrance Gifts Craftmanship Raffles City Shopping Centre Leather Tourists Rafflescity Gift Souvenirs Notebook Pouches Retail Gifts & Souvenirs",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bynd-artisan-e0cbf014",
+			"outlets": [
+				{
+					"_id": "5e4230601d89122128b4aeea",
+					"name": "Raffles City Shopping Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Raffles City Shopping Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "BYND ARTISAN",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

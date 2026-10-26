@@ -1,0 +1,165 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/happie-15946d89",
+	"slug": "happie-15946d89",
+	"fetchedAt": "2026-10-26T17:30:56.614+08:00",
+	"payload": {
+		"partner": {
+			"_id": "678de81f62445d279d91d128",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Water Purifier",
+				"Water Dispenser",
+				"Water",
+				"Alkaline Water",
+				"Water Filtration"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "HAPPIE SG PTE. LTD",
+			"brand": "Happie",
+			"code": "HAP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "Happie",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Sims Ln, #01-05",
+				"postalCode": "387355",
+				"streetName": "1 Sims Ln"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.happie.sg/",
+			"descriptionHtml": "<p>Happie SG is a trusted homegrown brand with over 15 years of expertise in water purification. They offer top-tier solutions for homes and businesses, featuring their innovative Stealth Technology for clean and safe water. Their advanced filtration systems ensure the highest performance standards for both residential and commercial use.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/507960644965648-08759041709111548-Happie%20logo_Blue.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8173037524110729-9717186449745523-brand_750x540.png",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"createdAt": "2025-01-20T06:07:27.625Z",
+			"updatedAt": "2026-08-06T14:18:11.240Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8173037524110729-9717186449745523-brand_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8173037524110729-9717186449745523-brand_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8173037524110729-9717186449745523-brand_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/507960644965648-08759041709111548-Happie%20logo_Blue_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/507960644965648-08759041709111548-Happie%20logo_Blue_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/507960644965648-08759041709111548-Happie%20logo_Blue_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8173037524110729-9717186449745523-brand_750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/507960644965648-08759041709111548-Happie%20logo_Blue.png",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:27:52.570Z",
+			"searchContent": "Happie SG is a trusted homegrown brand with over 15 years of expertise in water purification. They offer top-tier solutions for homes and businesses, featuring their innovative Stealth Technology for clean and safe water. Their advanced filtration systems ensure the highest performance standards for both residential and commercial use. Water Purifier Water Dispenser Water Alkaline Water Water Filtration Retail Electrical & Electronics Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "happie-15946d89",
+			"outlets": [
+				{
+					"_id": "678de93fd37c49006d61979f",
+					"name": "1 Sims Lane"
+				},
+				{
+					"_id": "6916e736dc503012c91b0c71",
+					"name": "Tampines 1"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"1 Sims Lane",
+			"Tampines 1"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Happie",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

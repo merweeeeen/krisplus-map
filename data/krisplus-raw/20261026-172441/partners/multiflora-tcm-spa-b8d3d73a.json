@@ -1,0 +1,223 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/multiflora-tcm-spa-b8d3d73a",
+	"slug": "multiflora-tcm-spa-b8d3d73a",
+	"fetchedAt": "2026-10-26T17:28:23.617+08:00",
+	"payload": {
+		"partner": {
+			"_id": "636466b26d37fe2ab46ffe29",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Tcm",
+				"Wellness",
+				"Beauty",
+				"Multiflora",
+				"Spa",
+				"Treatment",
+				"Massage",
+				"Young",
+				"Parkway Parade",
+				"Bukit Timah Plaza",
+				"Century Square",
+				"United Square",
+				"Bukit Panjang Plaza",
+				"International Building",
+				"Tampines",
+				"Novena",
+				"Orchard",
+				"Services",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Multiflora Noibara Pte Ltd",
+			"brand": "Multiflora TCM Spa",
+			"code": "MNP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Multiflora TCM",
+			"address": {
+				"city": "Singapore",
+				"line1": "7030 Ang Mo Kio Ave 5 #09-56 Singapore 569880",
+				"streetName": "7030 Ang Mo Kio Ave 5",
+				"postalCode": "569880",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200206528H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2509160688059764-09688059710046071-Multiflora%20Noibara%20Pte%20Ltd%20product%20750%20540.png",
+			"websiteUrl": "https://www.multifloranoibara.com",
+			"descriptionHtml": "<p>Since its establishment in 2002, Multiflora TCM Spa hopes to combine the holistic approach that oriental eastern remedy offers with the latest scientific methods in western beauty technology. They aim to constantly provide their customers with the most effective health & beauty solutions by introducing new ‘Yang Sheng’ techniques, beauty products, treatments, and equipment.</p>\n\n<p> </p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>AMK Hub</li>\n\t<li>Bukit Panjang Plaza</li>\n\t<li>Century Square</li>\n\t<li>One Holland Village</li>\n\t<li>Parkway Parade</li>\n\t<li>Westgate</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9938733082747178-8145998202594129-Logo%201000x1000.png",
+			"promotional": "                           ",
+			"participatingOutlets": "                                                    ",
+			"createdAt": "2022-11-04T01:11:14.818Z",
+			"updatedAt": "2026-08-12T04:15:07.531Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef965fd404ac7a5ba3021"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2509160688059764-09688059710046071-Multiflora%20Noibara%20Pte%20Ltd%20product%20750%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9938733082747178-8145998202594129-Logo%201000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2509160688059764-09688059710046071-Multiflora%20Noibara%20Pte%20Ltd%20product%20750%20540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2509160688059764-09688059710046071-Multiflora%20Noibara%20Pte%20Ltd%20product%20750%20540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2509160688059764-09688059710046071-Multiflora%20Noibara%20Pte%20Ltd%20product%20750%20540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9938733082747178-8145998202594129-Logo%201000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9938733082747178-8145998202594129-Logo%201000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9938733082747178-8145998202594129-Logo%201000x1000_high.png"
+			},
+			"searchContent": "Since its establishment in 2002, Multiflora TCM Spa hopes to combine the holistic approach that oriental eastern remedy offers with the latest scientific methods in western beauty technology. They aim to constantly provide their customers with the most effective health & beauty solutions by introducing new ‘Yang Sheng’ techniques, beauty products, treatments, and equipment. Participating Outlets: AMK Hub Bukit Panjang Plaza Century Square One Holland Village Parkway Parade Westgate Tcm Wellness Beauty Multiflora Spa Treatment Massage Young Parkway Parade Bukit Timah Plaza Century Square United Square Bukit Panjang Plaza International Building Tampines Novena Orchard Services Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Guasha Foot Massage Body Massage Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:15:00.622Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "multiflora-tcm-spa-b8d3d73a",
+			"outlets": [
+				{
+					"_id": "636cde52a91ab23828a473a3",
+					"name": "Bukit Panjang Plaza"
+				},
+				{
+					"_id": "6371be9b763a6a39688aac6c",
+					"name": "Century Square"
+				},
+				{
+					"_id": "65fd44a076a1a2006a5417f9",
+					"name": "Westgate"
+				},
+				{
+					"_id": "65fd4578c89fa60070eb5120",
+					"name": "One Holland Village"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bukit Panjang Plaza",
+			"Century Square",
+			"Westgate",
+			"One Holland Village"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Multiflora TCM Spa",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

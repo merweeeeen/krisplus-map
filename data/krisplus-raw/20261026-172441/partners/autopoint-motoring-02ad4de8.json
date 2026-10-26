@@ -1,0 +1,158 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/autopoint-motoring-02ad4de8",
+	"slug": "autopoint-motoring-02ad4de8",
+	"fetchedAt": "2026-10-26T17:34:00.188+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69a001dcf10e781131217174",
+			"name": "Autopoint Motoring",
+			"shortName": "Autopoint Mtr",
+			"mccCode": "5511",
+			"mccDescription": "Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing",
+			"brand": "Autopoint Motoring",
+			"code": "APM",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9043949507560012-08479283195687892-APM%20LOGO.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/22346819893483305-AutopointMotoring.png",
+			"websiteUrl": "https://www.sgcarmart.com/directory/merchant.php?MID=16762",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 TAMPINES NORTH DRIVE 1,#01-23",
+				"postalCode": "528559",
+				"streetName": "T-SPACE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Autopoint Motoring offers a range of vehicles for both long-term leasing and short-term rental. Their long-term fleet mainly consists of newer vehicles for you to choose from.</p>",
+			"searchableKeywords": [
+				"Car",
+				"Car Rental",
+				"Automotive",
+				"Autopoint"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-26T08:18:36.516Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9043949507560012-08479283195687892-APM%20LOGO.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/22346819893483305-AutopointMotoring.png",
+			"createdAt": "2026-02-26T08:18:36.526Z",
+			"updatedAt": "2026-09-01T01:57:09.808Z",
+			"searchContent": "Autopoint Motoring offers a range of vehicles for both long-term leasing and short-term rental. Their long-term fleet mainly consists of newer vehicles for you to choose from. Car Car Rental Automotive Autopoint Services Automotive",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/22346819893483305-AutopointMotoring_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/22346819893483305-AutopointMotoring_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/22346819893483305-AutopointMotoring_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9043949507560012-08479283195687892-APM%20LOGO_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9043949507560012-08479283195687892-APM%20LOGO_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9043949507560012-08479283195687892-APM%20LOGO_high.jpg"
+			},
+			"newMerchantEndDate": "2026-05-16T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "autopoint-motoring-02ad4de8",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "69a0025d6cc9e15e4191c7c4",
+					"name": "T Space Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"T Space Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Autopoint Motoring",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

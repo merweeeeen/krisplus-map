@@ -1,0 +1,192 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/pacific-emporium-pan-pacific-singapore-691d0b0e",
+	"slug": "pacific-emporium-pan-pacific-singapore-691d0b0e",
+	"fetchedAt": "2026-10-26T17:26:18.919+08:00",
+	"payload": {
+		"partner": {
+			"_id": "608274d43a32f749fcc2bbc1",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Pacific Marketplace",
+			"brand": "Pacific Emporium (Pan Pacific Singapore)",
+			"code": "PMM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "PacificEmporiu",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "7 Raffles Boulevard, Pan Pacific Singapore",
+				"postalCode": "039595",
+				"streetName": "Raffles Boulevard"
+			},
+			"regNumber": "28631800L",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9349870413722361-pacific-emporium-restaurant-overview-image-750.jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pp-marina/dining/pacific-emporium.html",
+			"descriptionHtml": "<p><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>​​​​​​​</strong>Pacific Emporium is an innovative dining and retail destination that highlights Singapore’s unique culture and history through a vibrant showcase of local flavours and craftsmanship. The space features distinct areas, The Kitchen, The Bar and The Deli, each offering different experiences that encapsulate the Panache of Singapore. With a vibrant open space bedecked with fresh produce, plush and inviting seating choices, and elegant marble accents, Pacific Emporium combines a touch of luxury with warm comfort, creating a welcoming destination for all guests.​​​​​​​</span></span></p>\n\n<p> </p>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>The Kitchen</strong> – A gastronomic tour of Singaporean flavours awaits at The Kitchen, with a menu that celebrates Singapore’s diverse culinary heritage, conceptualised by award-winning Executive Chef Nicholas Shadbolt.</span></span></p>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>The Bar</strong> – Quench your thirst at The Bar with an assemblage of beverages from original blends with local twists, to freshly pressed juices, each named after colloquial ‘Singlish’ slang.</span></span></p>\n\n<p><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><strong>The Deli</strong> – A cornucopia of epicurean treasures adorns the counters at The Deli, with fine charcuterie and delights from the in-house Pan Pacific Butchery helmed by Master Butcher Haiko Mayer, gourmet cheeses, freshly baked pastries, and a selection of the finest patisserie.</span></span></p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9177155310098257-pacific-emporium-logo.png",
+			"createdAt": "2021-04-23T07:18:44.576Z",
+			"updatedAt": "2026-08-06T14:17:16.360Z",
+			"searchableKeywords": [
+				"Promenade",
+				"Western",
+				"Cafe",
+				"Salad",
+				"Wine",
+				"Sandwiches",
+				"Tea",
+				"Pastry",
+				"Smart Casual",
+				"Asian Delights",
+				"Celebration",
+				"Restaurant",
+				"Couples",
+				"First Dates",
+				"Dining",
+				"Pan Pacific",
+				"Valentines Day",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"saleOfMiles": 0.046,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "      ",
+			"promotional": "     ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9bf9d00b0a527865c29"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9349870413722361-pacific-emporium-restaurant-overview-image-750.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9177155310098257-pacific-emporium-logo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9349870413722361-pacific-emporium-restaurant-overview-image-750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9349870413722361-pacific-emporium-restaurant-overview-image-750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9349870413722361-pacific-emporium-restaurant-overview-image-750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9177155310098257-pacific-emporium-logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9177155310098257-pacific-emporium-logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9177155310098257-pacific-emporium-logo_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "$31",
+			"refundPeriodUpdatedAt": "2026-03-02T08:22:57.784Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "pacific-emporium-pan-pacific-singapore-691d0b0e",
+			"outlets": [
+				{
+					"_id": "60938d5dc898184b1c8a8871",
+					"name": "Pan Pacific Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pan Pacific Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Pacific Emporium (Pan Pacific Singapore)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

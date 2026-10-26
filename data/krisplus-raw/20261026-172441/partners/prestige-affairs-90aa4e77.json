@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/prestige-affairs-90aa4e77",
+	"slug": "prestige-affairs-90aa4e77",
+	"fetchedAt": "2026-10-26T17:25:44.835+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f8d5a3aec82d380544e2f8a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Prestige Affairs Pte Ltd",
+			"brand": "Prestige Affairs",
+			"code": "PAS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Prestige A",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "undefined",
+				"line1": "2 Alexandra Road, #05-03, Delta House",
+				"postalCode": "159919",
+				"streetName": "Alexandra Road"
+			},
+			"regNumber": "201129626H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/15727495287871496-App_BrandImage_750px-540px.jpg",
+			"websiteUrl": "https://www.prestige-affairs.com/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6364010336859791-App_PrestigeAffairsLogo_1000px-1000px-01.jpg",
+			"createdAt": "2020-10-19T09:19:54.616Z",
+			"updatedAt": "2026-08-06T14:17:11.591Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Delta House",
+			"promotional": "                ",
+			"descriptionHtml": "<p>Luxurious and convenient furniture without the usual designer price tag. Designed by a community of talented international designers across Italy, Denmark &amp; Australia. Prestige Affairs gives your space a touch of class, while you express your unique sense of style.</p>",
+			"searchableKeywords": [
+				"Redhill",
+				"Tiong Bahru",
+				"Alexandra Road",
+				"Home",
+				"Retail",
+				"Alexandra",
+				"Furniture",
+				"Artefacts",
+				"Zen",
+				"Living",
+				"Home Improvements",
+				"Designer",
+				"Design",
+				"Furniture",
+				"Luxurious",
+				"Convenient",
+				"Delta House",
+				"Styling",
+				"Prestige Affairs",
+				"Harvey Norman",
+				"Sealy",
+				"Simmons",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9d6595add249244647a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/15727495287871496-App_BrandImage_750px-540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6364010336859791-App_PrestigeAffairsLogo_1000px-1000px-01.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/15727495287871496-App_BrandImage_750px-540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/15727495287871496-App_BrandImage_750px-540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/15727495287871496-App_BrandImage_750px-540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6364010336859791-App_PrestigeAffairsLogo_1000px-1000px-01_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6364010336859791-App_PrestigeAffairsLogo_1000px-1000px-01_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6364010336859791-App_PrestigeAffairsLogo_1000px-1000px-01_high.jpg"
+			},
+			"searchContent": "Luxurious and convenient furniture without the usual designer price tag. Designed by a community of talented international designers across Italy, Denmark & Australia. Prestige Affairs gives your space a touch of class, while you express your unique sense of style. Redhill Tiong Bahru Alexandra Road Home Retail Alexandra Furniture Artefacts Zen Living Home Improvements Designer Design Furniture Luxurious Convenient Delta House Styling Prestige Affairs Harvey Norman Sealy Simmons Ruhens Grohe Hansgrohe Mayer Simmons Sealy Homefurnishing Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.138Z",
+			"slugId": "prestige-affairs-90aa4e77",
+			"outlets": [
+				{
+					"_id": "5f9655e1ab3ac74580cf0293",
+					"name": "Delta House"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Delta House"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Prestige Affairs",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

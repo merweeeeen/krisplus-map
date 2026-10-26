@@ -1,0 +1,195 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/nox-dine-in-the-dark-f0ceb925",
+	"slug": "nox-dine-in-the-dark-f0ceb925",
+	"fetchedAt": "2026-10-26T17:32:20.806+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68a6e9d4f1c74e0466d6ee57",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dining",
+				"Sensory",
+				"Experience",
+				"Western",
+				"European",
+				"Date",
+				"Blind",
+				"Romantic",
+				"Restaurant",
+				"Club Street",
+				"Unique",
+				"Immersive",
+				"Event",
+				"Couple",
+				"Dinner",
+				"Anniversary",
+				"Birthday",
+				"Tasting Menu",
+				"Experiential",
+				"Special Occasion",
+				"Gourmet",
+				"Fine Dining",
+				"Intimate",
+				"Multisensory",
+				"Dine In The Dark",
+				"Best Dinner",
+				"Hidden Gem",
+				"Famous Restaurant",
+				"Date Night",
+				"Must Try",
+				"Couple Activity",
+				"Activity",
+				"Special Dinner"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "SMART & INNOVATIVE SOLUTIONS PTE LTD",
+			"brand": "NOX - Dine in the Dark",
+			"code": "NOX",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "NOX Dine Dark",
+			"address": {
+				"line1": "1 GEORGE STREET  #10-01",
+				"postalCode": "049145",
+				"streetName": "ONE GEORGE STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"KID",
+								"EUR",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.noxdineinthedark.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=NOX%20-%20Dine%20in%20the%20Dark\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">NOX – Dine in the Dark will take you on a journey through tastes and textures, a multi-sensory dining experience that will tantalize your taste buds and open your mind. Inviting you to temporarily surrender one of your dominant senses, sight, in exchange for enhancing the other four, allowing you to completely re-evaluate your perception of the world.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9486195819957413-NoxDineinTheDark.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4347847833719505-40291087203896403-NOX-Dine-in-the-Dark-Brand-image%20(1).png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9486195819957413-NoxDineinTheDark.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4347847833719505-40291087203896403-NOX-Dine-in-the-Dark-Brand-image%20(1).png",
+			"createdAt": "2025-08-21T09:41:40.270Z",
+			"updatedAt": "2026-08-06T14:18:19.627Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9486195819957413-NoxDineinTheDark_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9486195819957413-NoxDineinTheDark_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9486195819957413-NoxDineinTheDark_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:41:43.896Z",
+			"searchContent": "*Click here to Reserve A Table. NOX – Dine in the Dark will take you on a journey through tastes and textures, a multi-sensory dining experience that will tantalize your taste buds and open your mind. Inviting you to temporarily surrender one of your dominant senses, sight, in exchange for enhancing the other four, allowing you to completely re-evaluate your perception of the world. Dining Sensory Experience Western European Date Blind Romantic Restaurant Club Street Unique Immersive Event Couple Dinner Anniversary Birthday Tasting Menu Experiential Special Occasion Gourmet Fine Dining Intimate Multisensory Dine In The Dark Best Dinner Hidden Gem Famous Restaurant Date Night Must Try Couple Activity Activity Special Dinner Dining Vegan-Friendly Vegetarian-Friendly Fine Dining Kid-Friendly European Western",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "nox-dine-in-the-dark-f0ceb925",
+			"outlets": [
+				{
+					"_id": "68a6ed7bf8e9330471a8727d",
+					"name": "Club Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Club Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "NOX - Dine in the Dark",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

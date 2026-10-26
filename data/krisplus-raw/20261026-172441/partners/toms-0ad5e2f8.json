@@ -1,0 +1,157 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/toms-0ad5e2f8",
+	"slug": "toms-0ad5e2f8",
+	"fetchedAt": "2026-10-26T17:31:50.747+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6865f01bf3e4880409108ed2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Shoes",
+				"Espadrilles",
+				"Footwear",
+				"Covered Shoes",
+				"Tom",
+				"Sandals",
+				"Sneakers"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "PRIMER UNIGLOBE SINGAPORE PTE LTD - TOMS",
+			"brand": "TOMS",
+			"code": "OMS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "TOMS",
+			"address": {
+				"city": "Singapore",
+				"line1": "221 Henderson Road #05-10 Henderson Building Singapore 159557",
+				"streetName": "221 Henderson Road",
+				"postalCode": "159557",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.toms.sg/",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">TOMS offers an array of new shoe styles for men, women, kids     and gear. Discover timeless style and unmatched comfort with TOMS Alpargata     Classic shoes. Perfect for any occasion, these shoes are designed for everyday     wear and effortless style.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/30647569320841095-TOMs.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8980885685699422-5794114790371518-3.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/30647569320841095-TOMs.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8980885685699422-5794114790371518-3.png",
+			"createdAt": "2025-07-03T02:51:07.373Z",
+			"updatedAt": "2026-08-06T14:18:16.193Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/30647569320841095-TOMs_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/30647569320841095-TOMs_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/30647569320841095-TOMs_high.png"
+			},
+			"searchContent": "TOMS offers an array of new shoe styles for men, women, kids and gear. Discover timeless style and unmatched comfort with TOMS Alpargata Classic shoes. Perfect for any occasion, these shoes are designed for everyday wear and effortless style. Shoes Espadrilles Footwear Covered Shoes Tom Sandals Sneakers Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:59:41.222Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "toms-0ad5e2f8",
+			"outlets": [
+				{
+					"_id": "6865f2ba09052e040ce07f6e",
+					"name": "Funan"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TOMS",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,185 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cheeselads-658b67a8",
+	"slug": "cheeselads-658b67a8",
+	"fetchedAt": "2026-10-26T17:28:42.729+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63db0915b8216908f4635fa4",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Cheese",
+				"Cheese Platters",
+				"Cheese Bar",
+				"Wine Bar",
+				"Dining",
+				"Retail",
+				"Jalan Besar",
+				"Bencoolen",
+				"Tyrwhitt",
+				"Dates",
+				"Artisanal",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "The Good Lads Pte Ltd",
+			"brand": "Cheeselads",
+			"code": "CHE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Cheeselads",
+			"address": {
+				"line1": "117 Tyrwhitt Road Singapore 207546",
+				"postalCode": "207546",
+				"streetName": "117 Tyrwhitt Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "202014333G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/08603112609439267-1205777348186281-cheeseplatter.jpg",
+			"websiteUrl": "https://www.cheeselads.com",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Cheeselads\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a></em></p>\n<p>\n    Cheeselads is a cheese shop by day, cheese bar by night. A restaurant that specialises in ageing artisanal cheeses themselves in a glass cold room filled with cheeses from around the world.</p>\n\n<p>Payment via Kris+ is not applicable for online purchases.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"promotional": "            ",
+			"participatingOutlets": "117 Tyrwhitt Road",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4972661249059578-39786432325724097-cheeselogoappbl.jpg",
+			"createdAt": "2023-02-02T00:51:33.081Z",
+			"updatedAt": "2026-08-06T14:17:41.090Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9582f71c855d5496e22"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/08603112609439267-1205777348186281-cheeseplatter.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4972661249059578-39786432325724097-cheeselogoappbl.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/08603112609439267-1205777348186281-cheeseplatter_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/08603112609439267-1205777348186281-cheeseplatter_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/08603112609439267-1205777348186281-cheeseplatter_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4972661249059578-39786432325724097-cheeselogoappbl_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4972661249059578-39786432325724097-cheeselogoappbl_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4972661249059578-39786432325724097-cheeselogoappbl_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Cheeselads is a cheese shop by day, cheese bar by night. A restaurant that specialises in ageing artisanal cheeses themselves in a glass cold room filled with cheeses from around the world. Payment via Kris+ is not applicable for online purchases. Cheese Cheese Platters Cheese Bar Wine Bar Dining Retail Jalan Besar Bencoolen Tyrwhitt Dates Artisanal Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-30T04:40:18.813Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cheeselads-658b67a8",
+			"outlets": [
+				{
+					"_id": "63db35a71b31d4152c53d7eb",
+					"name": "117 Tyrwhitt Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"117 Tyrwhitt Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cheeselads",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

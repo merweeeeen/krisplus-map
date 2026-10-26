@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-lobby-lounge-8bd938ad",
+	"slug": "the-lobby-lounge-8bd938ad",
+	"fetchedAt": "2026-10-26T17:34:56.213+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a433d3e8b2dbe52c36e78ea",
+			"name": "Frasers House, a Luxury Collection Hotel, Singapore (The Lobby Lounge)",
+			"shortName": "Lobby Lounge",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "The Lobby Lounge",
+			"code": "7LL",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9138387278396038-10901569643528797-TLL%20logo%20-%20260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/29735417707208067-9661474944199739-Brand%20privilege%20image_750x540.png",
+			"websiteUrl": "https://www.frasershousethelobbylounge.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "80 MIDDLE ROAD  SINGAPORE 188966",
+				"postalCode": "188966",
+				"streetName": "Frasers House",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Set within the cultural heart of the Bras Basah–Bugis precinct, The Lobby Lounge at Frasers House, a Luxury Collection Hotel, Singapore draws inspiration from a neighbourhood long known as a meeting point of cultures, ideas and traditions. Reflecting the spirit of the House, it is conceived as a communal gathering space where guests and locals come together through shared dining, afternoon tea and crafted cocktails. Guided by a deep respect for heritage, a celebration of diversity and a spirit of harmony, each experience becomes a moment of destination discovery—revealing the flavours, stories and cultural influences that shape Singapore. Contemporary in expression yet deeply rooted in heritage, The Lobby Lounge continues the legacy of Bras Basah–Bugis as a place where cultures connect, conversations unfold and memorable experiences are created.</span></p>",
+			"searchableKeywords": [
+				"Afternoon Tea",
+				"Cakes",
+				"Western",
+				"Cafe",
+				"Mocktail",
+				"Ala Carte",
+				"Asian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.044,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-10-25T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-30T03:51:26.128Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9138387278396038-10901569643528797-TLL%20logo%20-%20260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/29735417707208067-9661474944199739-Brand%20privilege%20image_750x540.png",
+			"createdAt": "2026-06-30T03:51:26.136Z",
+			"updatedAt": "2026-08-24T01:22:15.010Z",
+			"searchContent": "$31",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/29735417707208067-9661474944199739-Brand%20privilege%20image_750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/29735417707208067-9661474944199739-Brand%20privilege%20image_750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/29735417707208067-9661474944199739-Brand%20privilege%20image_750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9138387278396038-10901569643528797-TLL%20logo%20-%20260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9138387278396038-10901569643528797-TLL%20logo%20-%20260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9138387278396038-10901569643528797-TLL%20logo%20-%20260x260_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-lobby-lounge-8bd938ad",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6a433e89a9ba06dc7c38f059",
+					"name": "Frasers House"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Frasers House"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Lobby Lounge",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

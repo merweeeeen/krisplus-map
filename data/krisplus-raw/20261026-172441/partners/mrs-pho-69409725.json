@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mrs-pho-69409725",
+	"slug": "mrs-pho-69409725",
+	"fetchedAt": "2026-10-26T17:26:28.908+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60d14d4230d34460181f54e2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "MK Consulting Group Pte Ltd",
+			"brand": "Mrs Pho",
+			"code": "MPH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Mrs Pho",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "349 Beach Road, Singapore",
+				"postalCode": "199570",
+				"streetName": "Beach Road"
+			},
+			"regNumber": "201720674E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/24958011749193743-5234724718865633-Kris%2B%20Mrs%20Pho%20App%20Brand%20Image%20(750x540px).jpg",
+			"websiteUrl": "https://mrspho.com/",
+			"descriptionHtml": "<p>Mrs Pho is a chain of authentic, fast-casual Vietnamese restaurants in Singapore, serving up a slice of Vietnam in every bowl. It is a tribute to all Vietnamese mothers, grandmothers and aunties, who are said to be the best cooks in their culture.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>313@Somerset</li>\n\t\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4978254645711808-40266230561993566-Kris%2B%20Mrs%20Pho%20App%20Logo.png",
+			"createdAt": "2021-06-22T02:38:58.640Z",
+			"updatedAt": "2026-08-06T14:17:18.349Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"saleOfMilesPct": 2.7,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 4,
+				"saleOfMiles": 0.027,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "        ",
+			"promotional": "        ",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Somerset",
+				"Rangoon Road",
+				"Farrer Park",
+				"Vietnamese",
+				"Cuisine",
+				"Pho",
+				"Beef",
+				"Banhmi",
+				"Bun Rieu",
+				"Pho Dac Biet",
+				"Pho Sate Ga",
+				"Banhuo",
+				"Banh Beo Chen",
+				"Ban Huot",
+				"Mi Quang",
+				"Goi Cuon",
+				"Dining",
+				"Healthy",
+				"Soups",
+				"Leshrimp",
+				"Lenu"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef947b51c9781d82fd525"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/24958011749193743-5234724718865633-Kris%2B%20Mrs%20Pho%20App%20Brand%20Image%20(750x540px).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4978254645711808-40266230561993566-Kris%2B%20Mrs%20Pho%20App%20Logo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/24958011749193743-5234724718865633-Kris%2B%20Mrs%20Pho%20App%20Brand%20Image%20(750x540px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/24958011749193743-5234724718865633-Kris%2B%20Mrs%20Pho%20App%20Brand%20Image%20(750x540px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/24958011749193743-5234724718865633-Kris%2B%20Mrs%20Pho%20App%20Brand%20Image%20(750x540px)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4978254645711808-40266230561993566-Kris%2B%20Mrs%20Pho%20App%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4978254645711808-40266230561993566-Kris%2B%20Mrs%20Pho%20App%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4978254645711808-40266230561993566-Kris%2B%20Mrs%20Pho%20App%20Logo_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Mrs Pho is a chain of authentic, fast-casual Vietnamese restaurants in Singapore, serving up a slice of Vietnam in every bowl. It is a tribute to all Vietnamese mothers, grandmothers and aunties, who are said to be the best cooks in their culture. Participating Outlets: 313@Somerset Orchard Road Somerset Rangoon Road Farrer Park Vietnamese Cuisine Pho Beef Banhmi Bun Rieu Pho Dac Biet Pho Sate Ga Banhuo Banh Beo Chen Ban Huot Mi Quang Goi Cuon Dining Healthy Soups Leshrimp Lenu Dining Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mrs-pho-69409725",
+			"outlets": [
+				{
+					"_id": "60d2fb15134c6b5ac0adbb9c",
+					"name": "313@Somerset"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mrs Pho",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

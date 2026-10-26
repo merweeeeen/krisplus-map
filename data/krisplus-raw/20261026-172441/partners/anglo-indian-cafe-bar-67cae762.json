@@ -1,0 +1,238 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/anglo-indian-cafe-bar-67cae762",
+	"slug": "anglo-indian-cafe-bar-67cae762",
+	"fetchedAt": "2026-10-26T17:25:04.438+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5dd348eefb4fe0388cbbb669",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "UDC PTE.LTD.",
+			"brand": "Anglo Indian Café & Bar",
+			"code": "AIC",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Tannery Road, #06-05, , One Tannery Singapore",
+				"postalCode": "347719",
+				"streetName": "Tannery Road"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "201101430Z",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-721846f4-923e-4409-b717-afea4b087f88.png",
+			"createdAt": "2019-11-19T01:44:15.003Z",
+			"updatedAt": "2026-08-06T14:17:07.399Z",
+			"description": "Anglo Indian Café & Bar is a restaurant that serves Indian cuisine with colonial influence. Food that is equally popular in Delhi & London. They have curated recipes and added to the menu some of the most popular dishes from all over the Indian sub-continent. Butter chicken, chicken tikka masala, laal maas, dum biryani, butter paneer to name a few. \n\nParticipating Outlets: \n•\tChijmes\n•\tMarina One\n•\tShenton Way",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"saleOfMiles": 0.025,
+				"base": 4,
+				"calculatedMilesEarnRate": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "             ",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-06bd7743-ec28-432c-bb44-a966ecaa152c.png",
+			"participatingOutlets": "•\tChijmes\n•\tMarina One\n•\tShenton Way",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.angloindian.com.sg/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"countryCode": "SG",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Anglo%20Indian%20Cafe%20&%20Bar\"><u>Reserve A Table</u></a>.</em><br> <br> ​​​​​​​Anglo Indian Café & Bar is a restaurant that serves Indian cuisine with colonial influence. Food that is equally popular in Delhi & London. They have curated recipes and added to the menu some of the most popular dishes from all over the Indian sub-continent. Butter chicken, chicken tikka masala, laal maas, dum biryani, butter paneer to name a few. </p>  <p>Participating Outlets: <br> •    Chijmes<em> </em><br> •    Marina One<br> •    Shenton Way </p>",
+			"shortName": "AngloIndian",
+			"searchableKeywords": [
+				"City Hall",
+				"North Bridge Road",
+				"Robinson Road",
+				"Shenton Way",
+				"Central",
+				"City",
+				"Town",
+				"Raffles Place",
+				"Marina Bay",
+				"Indian",
+				"South Indian",
+				"North Indian",
+				"Butter Chicken",
+				"Chicken Tikka",
+				"Laal Maas",
+				"Dum Briyani",
+				"Butter Paneer",
+				"Madras Curry",
+				"Rogan Josh",
+				"Nann",
+				"Prata",
+				"Garlic Naan",
+				"Wine",
+				"Cafe",
+				"Coffee",
+				"Tea",
+				"Masala",
+				"Chijmes",
+				"Marina One",
+				"Couples",
+				"First Date",
+				"Dining",
+				"Café",
+				"Atlas Coffee House",
+				"PS Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Cakes",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"IND"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9eb5e6d0897746a1e7e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-06bd7743-ec28-432c-bb44-a966ecaa152c.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-721846f4-923e-4409-b717-afea4b087f88.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-06bd7743-ec28-432c-bb44-a966ecaa152c_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-06bd7743-ec28-432c-bb44-a966ecaa152c_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-06bd7743-ec28-432c-bb44-a966ecaa152c_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-721846f4-923e-4409-b717-afea4b087f88_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-721846f4-923e-4409-b717-afea4b087f88_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-721846f4-923e-4409-b717-afea4b087f88_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​Anglo Indian Café & Bar is a restaurant that serves Indian cuisine with colonial influence. Food that is equally popular in Delhi & London. They have curated recipes and added to the menu some of the most popular dishes from all over the Indian sub-continent. Butter chicken, chicken tikka masala, laal maas, dum biryani, butter paneer to name a few. Participating Outlets: • Chijmes • Marina One • Shenton Way City Hall North Bridge Road Robinson Road Shenton Way Central City Town Raffles Place Marina Bay Indian South Indian North Indian Butter Chicken Chicken Tikka Laal Maas Dum Briyani Butter Paneer Madras Curry Rogan Josh Nann Prata Garlic Naan Wine Cafe Coffee Tea Masala Chijmes Marina One Couples First Date Dining Café Atlas Coffee House PS Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Cakes Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Casual Dining Indian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-11T07:47:46.414Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "anglo-indian-cafe-bar-67cae762",
+			"outlets": [
+				{
+					"_id": "5dd7988c5aa86d03442f3c19",
+					"name": "Chijmes"
+				},
+				{
+					"_id": "5dd7997b98617c16145c41b6",
+					"name": "Marina One West Tower"
+				},
+				{
+					"_id": "5dd79b81e497e10298d3c4ad",
+					"name": "Shenton Way"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Chijmes",
+			"Marina One West Tower",
+			"Shenton Way"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Anglo Indian Café & Bar",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

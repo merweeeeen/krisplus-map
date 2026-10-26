@@ -1,1 +1,76 @@
 # krisplus-map
+
+A pipeline that collects Kris+ Singapore partner outlets into a map-ready dataset. The plan, source findings, and design notes are in [doc/](doc/README.md).
+
+The pipeline reads the public partner pages on krisplus.com and finds each outlet's building with the OneMap search API. It writes these files to `data/out/`:
+
+| File | Contents |
+| --- | --- |
+| `krisplus-outlets.json` | Every outlet, including online merchants and outlets without coordinates |
+| `krisplus-outlets.geojson` | Physical outlets with accepted coordinates, also copied to `public/data/` |
+| `krisplus-outlets.csv` | The JSON fields as a table, without promotions |
+| `krisplus-data-quality.md` | Coverage, geocoding results, and open issues for the last run |
+| `needs-review.csv` | Outlets that geocoding could not place, with the top OneMap candidates |
+
+## Set up
+
+You need Node 22.18 or later and pnpm.
+
+```bash
+pnpm install
+```
+
+## Refresh the data
+
+1. Run the whole pipeline. A full run fetches about 650 pages at one per second, so it takes about 11 minutes, plus the time for any OneMap lookups not yet in the cache.
+
+	```bash
+	pnpm data:refresh
+	```
+
+2. Read `data/out/krisplus-data-quality.md`. It states whether the crawl was complete and lists every failed page.
+3. Resolve new rows in `data/out/needs-review.csv`. See the next section.
+4. Read `git diff --stat data/`, then commit `data/`.
+
+To try the pipeline on a few pages, add `--limit 5`.
+
+## Rerun part of the pipeline
+
+The pipeline runs seven stages in order: `discover`, `fetch`, `parse`, `normalize`, `geocode`, `validate`, and `export`. Each stage reads the files the stage before it wrote. These flags let you rerun part of it:
+
+- `--from <stage>` runs that stage and every stage after it, on the latest crawl.
+- `--only <stage>` runs one stage.
+- `--run <run-id>` picks a crawl other than the latest. Run IDs are the folder names in `data/krisplus-raw/`.
+
+For example, to resume a crawl that stopped part way, run this. The fetch stage skips pages it already has.
+
+```bash
+pnpm data:refresh --from fetch --run 20261026-162326
+```
+
+## Resolve review rows
+
+Geocoding sends an outlet to `needs-review.csv` when OneMap finds no clear match. Fix it in `data/overrides/geocode.json`, then rerun from the geocode stage:
+
+```bash
+pnpm data:refresh --from geocode
+```
+
+The file has two parts:
+
+- `aliases` maps an outlet name, in capitals, to the name OneMap knows. One alias fixes every outlet with that name. For example, `"VIVO CITY": { "query": "VIVOCITY", "note": "..." }`. The new query must still pass the match rules.
+- `outlets` maps one `outlet_id` to coordinates, `{ "latitude": 1.3, "longitude": 103.8, "note": "..." }`, or removes it from the map, `{ "exclude": true, "note": "..." }`.
+
+Write the evidence in each `note`, so the next person can check it.
+
+## Run the checks
+
+```bash
+pnpm typecheck
+```
+
+```bash
+pnpm data:test
+```
+
+The HTTP client tests start a local server, so they need local port binding.

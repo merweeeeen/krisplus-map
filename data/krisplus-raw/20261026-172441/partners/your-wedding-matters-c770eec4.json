@@ -1,0 +1,151 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/your-wedding-matters-c770eec4",
+	"slug": "your-wedding-matters-c770eec4",
+	"fetchedAt": "2026-10-26T17:35:18.347+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a8ba93e02446bd01ed786fc",
+			"name": "YOUR WEDDING MATTERS",
+			"shortName": "Your Wedding M",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Your Wedding Matters",
+			"code": "YWM",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3938264929826567-0646454153337701-Logo_260_260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5221852818391837-8551461608180069-BrandImg_750_540.jpg",
+			"websiteUrl": "https://www.your-wedding-matters.com",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"address": {
+				"line1": "Link at AMK, 3 Ang Mo Kio Street 62, #02-11, Singapore 569139",
+				"postalCode": "569139",
+				"streetName": "Link at AMK, 3 Ang Mo Kio",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Your Wedding Matters is a wedding venue styling company     specialising in fresh florals and carefully curated décor. Having styled over     150 venues across Singapore, they blend timeless design, dependable service,     and transparent pricing to create seamless, beautifully styled celebrations.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">*Payment via Kris+ directly on Your Wedding Matters website     is not available. Email “hello@your-wedding-matters.com” and quote Kris+ to     receive the Kris+ QR code for payment/privilege redemption.</p>",
+			"searchableKeywords": [
+				"Wedding",
+				"Decoration",
+				"Deco",
+				"Styling",
+				"Flowers",
+				"Florist",
+				"Decor"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HOT",
+								"RES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": "2026-11-14T15:59:59.999Z",
+			"applicableCities": [],
+			"refundPeriodUpdatedAt": "2026-08-24T02:15:26.223Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3938264929826567-0646454153337701-Logo_260_260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5221852818391837-8551461608180069-BrandImg_750_540.jpg",
+			"createdAt": "2026-08-24T02:15:26.230Z",
+			"updatedAt": "2026-09-14T06:37:36.462Z",
+			"searchContent": "Your Wedding Matters is a wedding venue styling company specialising in fresh florals and carefully curated décor. Having styled over 150 venues across Singapore, they blend timeless design, dependable service, and transparent pricing to create seamless, beautifully styled celebrations. *Payment via Kris+ directly on Your Wedding Matters website is not available. Email “hello@your-wedding-matters.com” and quote Kris+ to receive the Kris+ QR code for payment/privilege redemption. Wedding Decoration Deco Styling Flowers Florist Decor Services Hotels Resorts",
+			"slugId": "your-wedding-matters-c770eec4",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5221852818391837-8551461608180069-BrandImg_750_540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5221852818391837-8551461608180069-BrandImg_750_540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5221852818391837-8551461608180069-BrandImg_750_540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3938264929826567-0646454153337701-Logo_260_260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3938264929826567-0646454153337701-Logo_260_260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3938264929826567-0646454153337701-Logo_260_260_high.png"
+			},
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Your Wedding Matters",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

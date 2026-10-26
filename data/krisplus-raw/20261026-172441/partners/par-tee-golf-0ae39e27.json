@@ -1,0 +1,167 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/par-tee-golf-0ae39e27",
+	"slug": "par-tee-golf-0ae39e27",
+	"fetchedAt": "2026-10-26T17:33:39.119+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69776d06ee765f03884f2026",
+			"name": "Par Tee Golf",
+			"shortName": "Par Tee Golf",
+			"mccCode": "7999",
+			"mccDescription": "Recreation Services (Not Elsewhere Classified)",
+			"brand": "Par Tee Golf",
+			"code": "PTG",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/06417179058315381-ParTeeGolf.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8466489576070564-5011579560378667-Brand%20Image%20(750%20x%20540%20px)%20(1).png",
+			"websiteUrl": "https://www.theparteegolf.com/",
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "87 Science Park Drive  #02-01/02",
+				"postalCode": "118260",
+				"streetName": "Oasis",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Par Tee Golf offers a refined indoor golf simulator and bistro experience, combining recreation, dining, and social engagement. With expert coaching, club fitting, and event hosting, it offers a versatile destination for both leisure and corporate gatherings.</span></p>",
+			"searchableKeywords": [
+				"bistro",
+				"café",
+				"recreation",
+				"dining",
+				"social",
+				"corporate events",
+				"social events",
+				"private events",
+				"event hosting",
+				"golf"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"ENT",
+								"INDR"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-26T13:32:54.876Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/06417179058315381-ParTeeGolf.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8466489576070564-5011579560378667-Brand%20Image%20(750%20x%20540%20px)%20(1).png",
+			"createdAt": "2026-01-26T13:32:54.888Z",
+			"updatedAt": "2026-09-01T02:05:15.294Z",
+			"searchContent": "Par Tee Golf offers a refined indoor golf simulator and bistro experience, combining recreation, dining, and social engagement. With expert coaching, club fitting, and event hosting, it offers a versatile destination for both leisure and corporate gatherings. bistro café recreation dining social corporate events social events private events event hosting golf Activities Entertainment Indoor",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8466489576070564-5011579560378667-Brand%20Image%20(750%20x%20540%20px)%20(1)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8466489576070564-5011579560378667-Brand%20Image%20(750%20x%20540%20px)%20(1)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8466489576070564-5011579560378667-Brand%20Image%20(750%20x%20540%20px)%20(1)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/06417179058315381-ParTeeGolf_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/06417179058315381-ParTeeGolf_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/06417179058315381-ParTeeGolf_high.png"
+			},
+			"newMerchantEndDate": "2026-04-20T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "par-tee-golf-0ae39e27",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "69776fb58fdb5f8aaa43b4f7",
+					"name": "Oasis Science Park"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Oasis Science Park"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Par Tee Golf",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

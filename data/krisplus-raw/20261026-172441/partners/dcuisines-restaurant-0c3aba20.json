@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/dcuisines-restaurant-0c3aba20",
+	"slug": "dcuisines-restaurant-0c3aba20",
+	"fetchedAt": "2026-10-26T17:28:15.587+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6323f18367036857802ae04a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Indian Food",
+				"Chinese Food",
+				"Western Food",
+				"Malay Local Food",
+				"Halal Food",
+				"Stc",
+				"Upper Changi Road",
+				"Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "DCuisines Pte Ltd",
+			"brand": "D'Cuisines Restaurant",
+			"code": "DCR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "DCuisines Pte ",
+			"address": {
+				"city": "Singapore",
+				"line1": "726, Upper Changi Road East, Singapore 486046",
+				"streetName": "Upper Changi Road East",
+				"postalCode": "486046",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200902933E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7933092486535491-9743949934185916-d%20cuisines%20image2%20(002).jpg.png",
+			"websiteUrl": "https://www.facebook.com/DCuisinesPteLtd/",
+			"descriptionHtml": "<p>A Halal certified restaurant with a swimming pool view offering wide varieties of Indian, Chinese, Western & Malay local cuisines. D'Cuisines serves up unpretentious food that's made with love and integrity. </p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/96374753217475-2624656707040953-D%27cuisines%20Logo%20(002).jpg.png",
+			"createdAt": "2022-09-16T03:46:11.349Z",
+			"updatedAt": "2026-08-06T14:17:36.169Z",
+			"participatingOutlets": "                                                                      ",
+			"promotional": "                                                  ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"IND",
+								"ASI",
+								"WES",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96a0108b03f047da578"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7933092486535491-9743949934185916-d%20cuisines%20image2%20(002).jpg.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/96374753217475-2624656707040953-D%27cuisines%20Logo%20(002).jpg.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7933092486535491-9743949934185916-d%20cuisines%20image2%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7933092486535491-9743949934185916-d%20cuisines%20image2%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7933092486535491-9743949934185916-d%20cuisines%20image2%20(002)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/96374753217475-2624656707040953-D%27cuisines%20Logo%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/96374753217475-2624656707040953-D%27cuisines%20Logo%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/96374753217475-2624656707040953-D%27cuisines%20Logo%20(002)_high.jpg"
+			},
+			"searchContent": "A Halal certified restaurant with a swimming pool view offering wide varieties of Indian, Chinese, Western & Malay local cuisines. D'Cuisines serves up unpretentious food that's made with love and integrity. Indian Food Chinese Food Western Food Malay Local Food Halal Food Stc Upper Changi Road Dining Dining Halal Vegetarian-Friendly Casual Dining Indian Asian Western Chinese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-04T02:30:02.877Z",
+			"slugId": "dcuisines-restaurant-0c3aba20",
+			"outlets": [
+				{
+					"_id": "6327cdfa4b83ca2a1c42abfd",
+					"name": "Upper Changi Road East"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Upper Changi Road East"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "D'Cuisines Restaurant",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

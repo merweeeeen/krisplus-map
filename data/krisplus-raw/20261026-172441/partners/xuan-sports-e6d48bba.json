@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/xuan-sports-e6d48bba",
+	"slug": "xuan-sports-e6d48bba",
+	"fetchedAt": "2026-10-26T17:32:28.873+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68b176d5ecc8a00465301a42",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Wushu",
+				"Martial Arts",
+				"Fitness",
+				"Fun",
+				"Activity",
+				"Taiji",
+				"Toddler Lessons",
+				"Flips And Jumps",
+				"Lion Dance",
+				"Activities",
+				"Holiday Programme",
+				"Children",
+				"Kids"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Xuan Sports and Wellness Pte Ltd",
+			"brand": "Xuan Sports",
+			"code": "XSW",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Xuan Sports",
+			"address": {
+				"line1": "1 Joo Koon Circle #03-21A FairPrice Hub",
+				"postalCode": "629117",
+				"streetName": "1 Joo Koon Circle",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"LEA",
+								"INDR"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.xuansports.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Xuan Sports is Singapore’s largest and most premium Wushu (Chinese Martial Arts) academy, offering a diverse range of martial arts programmes led by professional coaches. Programmes include Basic Wushu, Elite Wushu, Taiji, Flips & Jumps, and even Lion Dance. The academy also runs exciting holiday camps and seasonal programmes, making it a go-to destination for both fitness and cultural activities.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Participating Outlets:<br>- Joo Koon<br>- Kallang Wave Mall</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6877240312980735-XuanSports.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5689319542671396-06349098048933333-Xuan%20Brand%20Image_Kris%2B%20app.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6877240312980735-XuanSports.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5689319542671396-06349098048933333-Xuan%20Brand%20Image_Kris%2B%20app.jpg",
+			"createdAt": "2025-08-29T09:45:57.979Z",
+			"updatedAt": "2026-10-09T03:34:44.657Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6877240312980735-XuanSports_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6877240312980735-XuanSports_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6877240312980735-XuanSports_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-12-01T01:37:44.820Z",
+			"searchContent": "Xuan Sports is Singapore’s largest and most premium Wushu (Chinese Martial Arts) academy, offering a diverse range of martial arts programmes led by professional coaches. Programmes include Basic Wushu, Elite Wushu, Taiji, Flips & Jumps, and even Lion Dance. The academy also runs exciting holiday camps and seasonal programmes, making it a go-to destination for both fitness and cultural activities. Participating Outlets: - Joo Koon - Kallang Wave Mall Wushu Martial Arts Fitness Fun Activity Taiji Toddler Lessons Flips And Jumps Lion Dance Activities Holiday Programme Children Kids Activities Learning Indoor",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "xuan-sports-e6d48bba",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "68bfaf814e6255046e3e407b",
+					"name": "Joo Koon"
+				},
+				{
+					"_id": "68bfb005ceb25404657542a0",
+					"name": "Kallang Wave Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Joo Koon",
+			"Kallang Wave Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Xuan Sports",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/chens-kitchen-1909782d",
+	"slug": "chens-kitchen-1909782d",
+	"fetchedAt": "2026-10-26T17:35:26.272+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6ab385e68c63a27c3c503b91",
+			"name": "CHENEXPRESS PTE LTD",
+			"shortName": "Chens Kitchen",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Chen's Kitchen",
+			"code": "CKE",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6239499080496034-3123981948862804-Brand%20logo%20260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5154120971854246-23637707072435732-Brand%20Image%20750x540.png",
+			"websiteUrl": "https://chens.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "50 COLLYER QUAY  #18-01/02",
+				"postalCode": "049321",
+				"streetName": "OUE BAYFRONT",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Chen’s Kitchen, serving bold Japanese-Szechwan flavours, is the sister concept of MICHELIN-starred Shisen Hanten by Chef Chen Kentaro. Offering a family-friendly dining experience, its menu is designed for sharing, with a wide variety of dishes including four distinctive types of Mapo Tofu.</span></p>",
+			"searchableKeywords": [
+				"Chinese",
+				"Sichuan",
+				"mapo tofu",
+				"la zi ji",
+				"Chinese food",
+				"Sichuan food",
+				"Chinese restaurant",
+				"Sichuan restaurant",
+				"spicy food",
+				"family restaurant",
+				"family dining",
+				"vegetarian",
+				"rice",
+				"noodles",
+				"Japanese"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 12
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"CHI",
+								"JAP",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 0,
+			"newMerchantEndDate": "2026-12-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-09-23T07:55:18.139Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6239499080496034-3123981948862804-Brand%20logo%20260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5154120971854246-23637707072435732-Brand%20Image%20750x540.png",
+			"createdAt": "2026-09-23T07:55:18.153Z",
+			"updatedAt": "2026-10-15T12:22:06.902Z",
+			"searchContent": "Chen’s Kitchen, serving bold Japanese-Szechwan flavours, is the sister concept of MICHELIN-starred Shisen Hanten by Chef Chen Kentaro. Offering a family-friendly dining experience, its menu is designed for sharing, with a wide variety of dishes including four distinctive types of Mapo Tofu. Chinese Sichuan mapo tofu la zi ji Chinese food Sichuan food Chinese restaurant Sichuan restaurant spicy food family restaurant family dining vegetarian rice noodles Japanese Dining Vegetarian-Friendly Casual Dining Kid-Friendly Beverages & Desserts Chinese Japanese Asian",
+			"slugId": "chens-kitchen-1909782d",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5154120971854246-23637707072435732-Brand%20Image%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5154120971854246-23637707072435732-Brand%20Image%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5154120971854246-23637707072435732-Brand%20Image%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6239499080496034-3123981948862804-Brand%20logo%20260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6239499080496034-3123981948862804-Brand%20logo%20260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6239499080496034-3123981948862804-Brand%20logo%20260x260_high.png"
+			},
+			"outlets": [
+				{
+					"_id": "6ab4eef61ce5577b6df93858",
+					"name": "Paragon"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Paragon"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Chen's Kitchen",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/eden-restaurant-8d03a4b5",
+	"slug": "eden-restaurant-8d03a4b5",
+	"fetchedAt": "2026-10-26T17:29:31.615+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6552f0b435843f0056971388",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 12.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Asian",
+				"Restaurant",
+				"Orchard Road",
+				"Modern",
+				"Contemporary",
+				"Beef",
+				"Al Fresco",
+				"Dining",
+				"Casual",
+				"Birthday",
+				"Celebration",
+				"Glasshouse",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"6552f0bd1b61729286eab43f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Eden Restaurant",
+			"brand": "Eden Restaurant",
+			"code": "EDR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Eden Restauran",
+			"address": {
+				"line1": "270 Orchard Road Singapore 238857",
+				"postalCode": "238857",
+				"streetName": "270 Orchard Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"FD",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "53453749M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/23295501272805197-43452239148587-Kris%20Plus%20-%20Eden%20Restaurant%20Brand%20Image%20(App).jpg",
+			"websiteUrl": "https://www.edenrestaurant.sg/",
+			"descriptionHtml": "<p>Prepare to be captivated the moment you step into Eden Restaurant, a breathtaking glasshouse sanctuary nestled on Singapore's iconic Orchard Road. Sunlight streams through soaring glass roof, lush greenery envelops every corner, and the intoxicating aromas of modern Asian cuisine fill the air — setting the stage for a meal you won't forget.</p><p><br></p><p>Expect classics, but not as you know them. Expect premium ingredients, layered craftsmanship, and unexpected twists that turn every course into a reveal. From Corn-Fed “Chicken Rice” and Cantonese Honey Char Siew Iberico Pork Collar to Rendang Australian Wagyu Beef Cheeks and Chendol Crème Brûlée, each dish hints at something familiar — yet promises something entirely new. </p><p><br></p><p>Note: ALL points from Accor Live Limitless Loyalty programme can be utilized/earned in conjunction with payments via Kris+. All Accor Plus Explorer (paid membership) discounts and vouchers cannot be utilized in conjunction with Kris+ payments.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9461004087794658-eden1.jpg",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2023-11-14T03:59:48.544Z",
+			"updatedAt": "2026-10-12T03:07:51.195Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/23295501272805197-43452239148587-Kris%20Plus%20-%20Eden%20Restaurant%20Brand%20Image%20(App).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9461004087794658-eden1.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/23295501272805197-43452239148587-Kris%20Plus%20-%20Eden%20Restaurant%20Brand%20Image%20(App)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/23295501272805197-43452239148587-Kris%20Plus%20-%20Eden%20Restaurant%20Brand%20Image%20(App)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/23295501272805197-43452239148587-Kris%20Plus%20-%20Eden%20Restaurant%20Brand%20Image%20(App)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9461004087794658-eden1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9461004087794658-eden1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9461004087794658-eden1_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-08T08:38:07.614Z",
+			"searchContent": "Prepare to be captivated the moment you step into Eden Restaurant, a breathtaking glasshouse sanctuary nestled on Singapore's iconic Orchard Road. Sunlight streams through soaring glass roof, lush greenery envelops every corner, and the intoxicating aromas of modern Asian cuisine fill the air — setting the stage for a meal you won't forget. Expect classics, but not as you know them. Expect premium ingredients, layered craftsmanship, and unexpected twists that turn every course into a reveal. From Corn-Fed “Chicken Rice” and Cantonese Honey Char Siew Iberico Pork Collar to Rendang Australian Wagyu Beef Cheeks and Chendol Crème Brûlée, each dish hints at something familiar — yet promises something entirely new. Note: ALL points from Accor Live Limitless Loyalty programme can be utilized/earned in conjunction with payments via Kris+. All Accor Plus Explorer (paid membership) discounts and vouchers cannot be utilized in conjunction with Kris+ payments. Asian Restaurant Orchard Road Modern Contemporary Beef Al Fresco Dining Casual Birthday Celebration Glasshouse FortuneFeast Dining Casual Dining Fine Dining Beverages & Desserts Chinese Asian",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "eden-restaurant-8d03a4b5",
+			"outlets": [
+				{
+					"_id": "655b6d97df5a190054ebc0e2",
+					"name": "Pullman Singapore Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pullman Singapore Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Eden Restaurant",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/island-run-club-5fd5fef5",
+	"slug": "island-run-club-5fd5fef5",
+	"fetchedAt": "2026-10-26T17:33:38.089+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6969a6533023b34a9bbfd454",
+			"name": "CURRENT COLLECTIVE PTE LTD",
+			"shortName": "Island Run Clu",
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"brand": "Island Run Club",
+			"code": "ISL",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8215528758816952-IslandRunClub.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/10186472121615342-27728907417019366-Kris%2B%20Brand%20Image%20750x540.png",
+			"websiteUrl": "https://islandrunclub.com/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 Tanjong Pagar Plaza 01-29 Singapore 082001",
+				"postalCode": "082001",
+				"streetName": "1 Tanjong Pagar Plaza",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Island Run Club is a premium athletic retailer fueled by the     power of movement. It is redefining Singapore’s sports lifestyle by seamlessly     blending running and functional training with a vibrant community spirit.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>i12 Katong</li><li>Great World</li></ul>",
+			"searchableKeywords": [
+				"Running",
+				"Training",
+				"Shoes",
+				"HOKA",
+				"On",
+				"ASICS",
+				"New Balance",
+				"OOFOS"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 5,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 180,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-19T09:02:08.287Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8215528758816952-IslandRunClub.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10186472121615342-27728907417019366-Kris%2B%20Brand%20Image%20750x540.png",
+			"createdAt": "2026-01-16T02:45:39.862Z",
+			"updatedAt": "2026-10-16T03:23:22.527Z",
+			"searchContent": "Island Run Club is a premium athletic retailer fueled by the power of movement. It is redefining Singapore’s sports lifestyle by seamlessly blending running and functional training with a vibrant community spirit. Participating outlets: i12 KatongGreat World Running Training Shoes HOKA On ASICS New Balance OOFOS Retail Fashion",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10186472121615342-27728907417019366-Kris%2B%20Brand%20Image%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10186472121615342-27728907417019366-Kris%2B%20Brand%20Image%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10186472121615342-27728907417019366-Kris%2B%20Brand%20Image%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8215528758816952-IslandRunClub_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8215528758816952-IslandRunClub_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8215528758816952-IslandRunClub_high.png"
+			},
+			"newMerchantEndDate": "2026-04-05T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "island-run-club-5fd5fef5",
+			"outlets": [
+				{
+					"_id": "6969a7a87bc57c10e8d2237e",
+					"name": "Great World"
+				},
+				{
+					"_id": "6969a7f8048a8f25dcd241b9",
+					"name": "i12 Katong"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Great World",
+			"i12 Katong"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Island Run Club",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

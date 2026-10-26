@@ -114,6 +114,7 @@ export function outletsFromPartner(page: ParsedPartner): Outlet[] {
 			categories,
 			geocode_postal_code: null,
 			geocode_building: null,
+			validation_notes: null,
 		});
 	});
 }
@@ -128,11 +129,14 @@ const RegistryEntry = z.object({
 export const Registry = z.object({ outlets: z.record(z.string(), RegistryEntry) });
 export type Registry = z.infer<typeof Registry>;
 
-export type IdentityReviewItem =
-	| { kind: "name_changed"; outlet_id: string; merchant_id: string; previous: string; current: string }
-	| { kind: "merchant_changed"; outlet_id: string; previous: string; current: string }
-	| { kind: "duplicate_name"; merchant_id: string; outlet_name: string; outlet_ids: string[] }
-	| { kind: "not_seen"; outlet_id: string; merchant_id: string; last_seen_at: string; partner_checked: boolean };
+export const IdentityReviewItem = z.discriminatedUnion("kind", [
+	z.object({ kind: z.literal("name_changed"), outlet_id: z.string(), merchant_id: z.string(), previous: z.string(), current: z.string() }),
+	z.object({ kind: z.literal("merchant_changed"), outlet_id: z.string(), previous: z.string(), current: z.string() }),
+	z.object({ kind: z.literal("duplicate_name"), merchant_id: z.string(), outlet_name: z.string(), outlet_ids: z.array(z.string()) }),
+	z.object({ kind: z.literal("not_seen"), outlet_id: z.string(), merchant_id: z.string(), last_seen_at: z.string(), partner_checked: z.boolean() }),
+]);
+export type IdentityReviewItem = z.infer<typeof IdentityReviewItem>;
+export const IdentityReviewFile = z.object({ crawlComplete: z.boolean(), review: z.array(IdentityReviewItem) });
 
 export function updateRegistry(options: { registry: Registry; outlets: Outlet[]; runId: string; checkedMerchantIds: Set<string> }) {
 	const { outlets, runId } = options;

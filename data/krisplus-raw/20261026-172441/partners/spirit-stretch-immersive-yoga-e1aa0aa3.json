@@ -1,0 +1,166 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/spirit-stretch-immersive-yoga-e1aa0aa3",
+	"slug": "spirit-stretch-immersive-yoga-e1aa0aa3",
+	"fetchedAt": "2026-10-26T17:31:17.766+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67e3ac72fda3b507d31e3cbf",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Yoga",
+				"Fitness",
+				"Wellness",
+				"Lifestyle",
+				"Immersive Yoga",
+				"Immersive Projections",
+				"Immersive Experience",
+				"Yin Yoga with Sound Bath",
+				"Sound Bath",
+				"Yogalates",
+				"Hatha Yoga",
+				"Kid Parent Yoga",
+				"Wheel Yoga"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Spirit Stretch Pte. Ltd.",
+			"brand": "Spirit Stretch Immersive Yoga",
+			"code": "RIT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Spirit Stretch",
+			"address": {
+				"city": "Singapore",
+				"line1": "238A THOMSON ROAD #25-07 NOVENA SQUARE SINGAPORE 307684",
+				"streetName": "238A THOMSON ROAD",
+				"postalCode": "307684",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.spiritstretch.com",
+			"descriptionHtml": "<p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"box-sizing: border-box; font-weight: 300; color: var(--primary-darker); font-size: 11pt;\"><span style=\"box-sizing: border-box; font-weight: 300; color: var(--primary-darker); font-family: Aptos, sans-serif;\">Spirit Stretch is Singapore's first immersive yoga studio, offering both traditional practices and innovative, unique classes led by experienced instructors. Surrounded by stunning projections of nature and cityscapes, soothing scent, and curated music, yoga practice is elevated in a breathtaking, distraction-free setting.</span></span></p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"box-sizing: border-box; font-weight: 300; color: var(--primary-darker); font-size: 11pt;\"><span style=\"box-sizing: border-box; font-weight: 300; color: var(--primary-darker); font-family: Aptos, sans-serif;\">From Yin with Sound Bath to Kid-Parent Yoga, Spirit Stretch has inclusive classes for all levels, fostering wellness and mindfulness in a welcoming, distraction-free environment.</span></span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5220774028382826-spiritstretch.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7874673343900835-5610502669101849-Brand%20Image.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5220774028382826-spiritstretch.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7874673343900835-5610502669101849-Brand%20Image.jpg",
+			"createdAt": "2025-03-26T07:27:46.082Z",
+			"updatedAt": "2026-08-06T14:18:13.222Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7874673343900835-5610502669101849-Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7874673343900835-5610502669101849-Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7874673343900835-5610502669101849-Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5220774028382826-spiritstretch_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5220774028382826-spiritstretch_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5220774028382826-spiritstretch_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Spirit Stretch is Singapore's first immersive yoga studio, offering both traditional practices and innovative, unique classes led by experienced instructors. Surrounded by stunning projections of nature and cityscapes, soothing scent, and curated music, yoga practice is elevated in a breathtaking, distraction-free setting. From Yin with Sound Bath to Kid-Parent Yoga, Spirit Stretch has inclusive classes for all levels, fostering wellness and mindfulness in a welcoming, distraction-free environment. Yoga Fitness Wellness Lifestyle Immersive Yoga Immersive Projections Immersive Experience Yin Yoga with Sound Bath Sound Bath Yogalates Hatha Yoga Kid Parent Yoga Wheel Yoga Wellness",
+			"refundPeriodUpdatedAt": "2026-03-03T02:37:51.537Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "spirit-stretch-immersive-yoga-e1aa0aa3",
+			"outlets": [
+				{
+					"_id": "681c1d1b4873c03eabda0943",
+					"name": "Forum The Shopping Mall "
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Forum The Shopping Mall "
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Spirit Stretch Immersive Yoga",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

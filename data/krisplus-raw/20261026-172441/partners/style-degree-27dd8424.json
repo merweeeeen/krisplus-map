@@ -1,0 +1,197 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/style-degree-27dd8424",
+	"slug": "style-degree-27dd8424",
+	"fetchedAt": "2026-10-26T17:29:45.788+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65d6b0d9f1917d00536ab425",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Styledegree",
+				"Styledegree",
+				"Gifts",
+				"Gifting",
+				"Home",
+				"Products",
+				"Gifting",
+				"Birthday",
+				"Style",
+				"Living",
+				"Housewarming",
+				"Organize",
+				"Organise",
+				"Organizers",
+				"Organisers",
+				"Furnishing",
+				"Kitchen",
+				"Bathroom",
+				"Drawer",
+				"Travel",
+				"Lifestyle Products",
+				"E Commerce",
+				"Mum",
+				"Kids",
+				"Baby",
+				"Storage",
+				"Food",
+				"Pantry",
+				"Food Containers",
+				"Cookin",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65d6b0e2977de401dc0e540f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "GALLERIE PTE. LTD.",
+			"brand": "Style Degree",
+			"code": "RIE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Style Degree",
+			"address": {
+				"city": "Singapore",
+				"line1": "25 HILLVIEW AVE #06-01 SINGAPORE 669558",
+				"streetName": "25 HILLVIEW AVE",
+				"postalCode": "669558",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.styledegree.sg",
+			"descriptionHtml": "<p>Style Degree is a home & living brand that creates and curates designs to help homeowners stay organized, maximise space, and be efficient.</p>  <p><br> Discover functional and stylish home essentials at www.styledegree.sg for kitchen, closet, bathroom, living room, cleaning and more.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/44433771142383716-Style%20Degree%20new%20logo%20-%201000x1000.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/742437385947385-850623810514411-Brand%20App%20Image%20-%20750%20x%20540%20(Style%20Degree).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-02-22T02:26:33.596Z",
+			"updatedAt": "2026-08-06T14:17:59.479Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/742437385947385-850623810514411-Brand%20App%20Image%20-%20750%20x%20540%20(Style%20Degree).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/44433771142383716-Style%20Degree%20new%20logo%20-%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/742437385947385-850623810514411-Brand%20App%20Image%20-%20750%20x%20540%20(Style%20Degree)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/742437385947385-850623810514411-Brand%20App%20Image%20-%20750%20x%20540%20(Style%20Degree)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/742437385947385-850623810514411-Brand%20App%20Image%20-%20750%20x%20540%20(Style%20Degree)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/44433771142383716-Style%20Degree%20new%20logo%20-%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/44433771142383716-Style%20Degree%20new%20logo%20-%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/44433771142383716-Style%20Degree%20new%20logo%20-%201000x1000_high.jpg"
+			},
+			"searchContent": "Style Degree is a home & living brand that creates and curates designs to help homeowners stay organized, maximise space, and be efficient. Discover functional and stylish home essentials at www.styledegree.sg for kitchen, closet, bathroom, living room, cleaning and more. Styledegree Styledegree Gifts Gifting Home Products Gifting Birthday Style Living Housewarming Organize Organise Organizers Organisers Furnishing Kitchen Bathroom Drawer Travel Lifestyle Products E Commerce Mum Kids Baby Storage Food Pantry Food Containers Cookin Homefurnishing Retail Home & Lifestyle",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:56:33.418Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "style-degree-27dd8424",
+			"outlets": [
+				{
+					"_id": "65d6b5073bf211005afd3c17",
+					"name": "2 Gambas Crescent Nordcom 2"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"2 Gambas Crescent Nordcom 2"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Style Degree",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

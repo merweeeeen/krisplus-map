@@ -1,0 +1,206 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ginger-parkroyal-on-beach-road-271d41f6",
+	"slug": "ginger-parkroyal-on-beach-road-271d41f6",
+	"fetchedAt": "2026-10-26T17:26:22.828+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6098980448f83e10fcacc709",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Ginger (PARKROYAL on Beach Road)",
+			"brand": "Ginger (PARKROYAL on Beach Road)",
+			"code": "GIN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Ginger",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "7500 Beach Road, PARKROYAL on Beach Road",
+				"postalCode": "199591",
+				"streetName": "Beach Road"
+			},
+			"regNumber": "196800248D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5488141920437155-6990238051735844-Webp.net-resizeimage%20(8).jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pr-beach-road/dining/ginger.html",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"></em>Helmed by resident culinary master Executive Chef Vincent Aw, the spacious dining space of tropical-style elegance celebrates the rich diversity of local culinary heritage, with a refined twist on traditional recipes. Their irresistible á la carte buffet showcases the best of Singaporean flavours.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7600800611407716-46542169302297043-App%20-%20Logo%201000px%20-%20Ginger%2C%20PARKROYAL%20on%20Beach%20Road.jpg",
+			"createdAt": "2021-05-10T02:18:44.597Z",
+			"updatedAt": "2026-10-15T12:22:12.803Z",
+			"searchableKeywords": [
+				"Bugis",
+				"Beach Road",
+				"Nicoll Highway",
+				"International",
+				"Halal",
+				"City",
+				"Holiday Inn",
+				"Buffet",
+				"Dining",
+				"Western",
+				"Chinese",
+				"Japanese",
+				"Korean",
+				"Peranakan",
+				"Indian",
+				"Cuisine",
+				"Seafood",
+				"Malay",
+				"Occasions",
+				"Gatherings",
+				"Celebrations",
+				"Parkroyal",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar"
+			],
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 18.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "     ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9befd404ac7a5ba3037"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5488141920437155-6990238051735844-Webp.net-resizeimage%20(8).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7600800611407716-46542169302297043-App%20-%20Logo%201000px%20-%20Ginger%2C%20PARKROYAL%20on%20Beach%20Road.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5488141920437155-6990238051735844-Webp_low.net-resizeimage%20(8)",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5488141920437155-6990238051735844-Webp_med.net-resizeimage%20(8)",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5488141920437155-6990238051735844-Webp_high.net-resizeimage%20(8)"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7600800611407716-46542169302297043-App%20-%20Logo%201000px%20-%20Ginger%2C%20PARKROYAL%20on%20Beach%20Road_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7600800611407716-46542169302297043-App%20-%20Logo%201000px%20-%20Ginger%2C%20PARKROYAL%20on%20Beach%20Road_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7600800611407716-46542169302297043-App%20-%20Logo%201000px%20-%20Ginger%2C%20PARKROYAL%20on%20Beach%20Road_high.jpg"
+			},
+			"searchContent": "Helmed by resident culinary master Executive Chef Vincent Aw, the spacious dining space of tropical-style elegance celebrates the rich diversity of local culinary heritage, with a refined twist on traditional recipes. Their irresistible á la carte buffet showcases the best of Singaporean flavours. Bugis Beach Road Nicoll Highway International Halal City Holiday Inn Buffet Dining Western Chinese Japanese Korean Peranakan Indian Cuisine Seafood Malay Occasions Gatherings Celebrations Parkroyal Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Dining Halal Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:21:14.952Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ginger-parkroyal-on-beach-road-271d41f6",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "60d2cc02fb669a646ca293a3",
+					"name": "PARKROYAL on Beach Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL on Beach Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Ginger (PARKROYAL on Beach Road)",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

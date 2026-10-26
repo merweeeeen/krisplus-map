@@ -1,0 +1,265 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mayer-a7243165",
+	"slug": "mayer-a7243165",
+	"fetchedAt": "2026-10-26T17:26:12.686+08:00",
+	"payload": {
+		"partner": {
+			"_id": "607d3626fe9fbc475cac52e6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Mayer Marketing Pte Ltd",
+			"brand": "Mayer",
+			"code": "MAY",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "Mayer",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "71 Ubi Crescent, Excalibur Centre , #06-02",
+				"postalCode": "408571",
+				"streetName": "Ubi Crescent "
+			},
+			"regNumber": "198701251D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8915160678013936-Collaboration-with-SIA-Kris%2B_Brand-lmage-750-x-540.jpg",
+			"websiteUrl": "https://www.mayer.sg/",
+			"descriptionHtml": "<p>Mayer is a trusted brand and leading distributor of quality home and kitchen appliances. Bringing fun, innovation and excitement back to kitchens, and aspiring to make cooking accessible to everyday-cooks and professional chefs!</p>\n\n<p>Participating Outlets: </p>\n\n<ul>\n\t<li>Causeway Point</li>\n\t<li>Century Square</li>\n\t<li>Chinatown Point</li>\n\t\n\t<li>IMM Building</li>\n\t<li>Pasir Ris Mall</li><li>Plantation Plaza</li>\n\t<li>Sengkang Grand Mall</li>\n\t<li>SingPost Centre</li>\n\t<li>Ubi Crescent Excalibur Centre</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8912557228186275-Collaboration-with-SIA-Kris%2B_Brand-logo-1000-x-1000.jpg",
+			"createdAt": "2021-04-19T07:49:58.313Z",
+			"updatedAt": "2026-09-30T16:00:05.935Z",
+			"searchableKeywords": [
+				"Jurong East",
+				"Woodlands 11",
+				"Paya Lebar",
+				"Ubi",
+				"Home Appliances",
+				"Electronics",
+				"Kitchen Appliances",
+				"Ovens",
+				"Cookers",
+				"Washing Machines",
+				"Home",
+				"Retail",
+				"Causeway Point",
+				"Imm",
+				"Singpost Centre",
+				"Ubi Crescent Excalibur Centre",
+				"Woodlands Close",
+				"Kitchen",
+				"Baking",
+				"Air Fryer",
+				"Homeware",
+				"House",
+				"Fan",
+				"Oven",
+				"Steamer",
+				"Microwave",
+				"Kettle",
+				"Pressure Cooker",
+				"Cooker",
+				"Household",
+				"Food Processor",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electrical Components",
+				"Electronical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Hairdryer",
+				"Airconditioner",
+				"Washing Machine",
+				"Hair Straightener",
+				"Lifestyle Appliances",
+				"Fans",
+				"Samsung",
+				"Mayer",
+				"The Expert Sound",
+				"Technology",
+				"Tech Gadgets",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"saleOfMilesPct": 6.4,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 6,
+				"saleOfMiles": 0.032,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "          ",
+			"promotional": "                            ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL",
+								"EE"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9c245578ca5d7f0b3bd"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8915160678013936-Collaboration-with-SIA-Kris%2B_Brand-lmage-750-x-540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8912557228186275-Collaboration-with-SIA-Kris%2B_Brand-logo-1000-x-1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8915160678013936-Collaboration-with-SIA-Kris%2B_Brand-lmage-750-x-540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8915160678013936-Collaboration-with-SIA-Kris%2B_Brand-lmage-750-x-540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8915160678013936-Collaboration-with-SIA-Kris%2B_Brand-lmage-750-x-540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8912557228186275-Collaboration-with-SIA-Kris%2B_Brand-logo-1000-x-1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8912557228186275-Collaboration-with-SIA-Kris%2B_Brand-logo-1000-x-1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8912557228186275-Collaboration-with-SIA-Kris%2B_Brand-logo-1000-x-1000_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Mayer is a trusted brand and leading distributor of quality home and kitchen appliances. Bringing fun, innovation and excitement back to kitchens, and aspiring to make cooking accessible to everyday-cooks and professional chefs! Participating Outlets: Causeway Point Century Square Chinatown Point IMM Building Pasir Ris MallPlantation Plaza Sengkang Grand Mall SingPost Centre Ubi Crescent Excalibur Centre Jurong East Woodlands 11 Paya Lebar Ubi Home Appliances Electronics Kitchen Appliances Ovens Cookers Washing Machines Home Retail Causeway Point Imm Singpost Centre Ubi Crescent Excalibur Centre Woodlands Close Kitchen Baking Air Fryer Homeware House Fan Oven Steamer Microwave Kettle Pressure Cooker Cooker Household Food Processor Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electrical Components Electronical Components Audio Television Headphones Cables Plug Travel Accessories Hairdryer Airconditioner Washing Machine Hair Straightener Lifestyle Appliances Fans Samsung Mayer The Expert Sound Technology Tech Gadgets Ruhens Grohe Hansgrohe Simmons Sealy Homefurnishing Retail Home & Lifestyle Electrical & Electronics",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.143Z",
+			"slugId": "mayer-a7243165",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6091f7f884bbb71e78319b26",
+					"name": "Ubi"
+				},
+				{
+					"_id": "6091fb2784bbb71e78319b29",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "6091fcd684bbb71e78319b2b",
+					"name": "IMM"
+				},
+				{
+					"_id": "6091fd1645ba573ee44dadb9",
+					"name": "SingPost Centre"
+				},
+				{
+					"_id": "65d2fdac9d4da10054421cfc",
+					"name": "Chinatown Point"
+				},
+				{
+					"_id": "65d2fe0875441800549647d8",
+					"name": "Sengkang Grand Mall"
+				},
+				{
+					"_id": "66544c00a7573000693721da",
+					"name": "Pasir Ris Mall"
+				},
+				{
+					"_id": "66a1b3469d4ef1006b664b53",
+					"name": "Century Square"
+				},
+				{
+					"_id": "6752626fd7fa700074fdb407",
+					"name": "Plantation Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Ubi",
+			"Causeway Point",
+			"IMM",
+			"SingPost Centre",
+			"Chinatown Point",
+			"Sengkang Grand Mall",
+			"Pasir Ris Mall",
+			"Century Square",
+			"Plantation Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mayer",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,218 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/li-bai-cantonese-restaurant-sheraton-towers-d94cfe0c",
+	"slug": "li-bai-cantonese-restaurant-sheraton-towers-d94cfe0c",
+	"fetchedAt": "2026-10-26T17:26:54.677+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6180adddf3d7133e047d5f40",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Cantonese",
+				"Chinese",
+				"Abalone",
+				"Lobster",
+				"Birds Nest",
+				"Dim Sum",
+				"Dimsum",
+				"Marriott",
+				"Newton",
+				"Dining",
+				"Chinese New Year",
+				"Celebrations",
+				"Family",
+				"Gatherings",
+				"Gourmet",
+				"Sheraton Towers",
+				"Scotts Rd",
+				"Business",
+				"Reunion",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiang-Nan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Sheraton Towers Singapore Hotel - Li Bai",
+			"brand": "Li Bai Cantonese Restaurant (Sheraton Towers)",
+			"code": "LBC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "LiBaiCantonese",
+			"address": {
+				"city": "Singapore",
+				"line1": "39, Scotts Road",
+				"streetName": "39 Scotts Road",
+				"postalCode": "228230",
+				"cityCode": "SIN"
+			},
+			"regNumber": "34053800K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8923492955929726-863736849720439-LiBai.png%20750%20x%20540.png",
+			"websiteUrl": "https://www.marriott.com/hotels/hotel-information/restaurant/details/sinsi-sheraton-towers-singapore/5960354/",
+			"descriptionHtml": "<p>Li Bai is renowned for its Cantonese cuisine served in the tradition of emperors, amidst grand decor and table settings of jade, silver and fine bone china. Drawing inspiration from the famous Tang Dynasty poet's lyrical poems, Executive Chinese Chef Chung Yiu Ming whips up exquisite Chinese cuisine to create a divine gourmet experience.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/09760114928472374-3784896135018001-Li%20Bai.png%201000%20x%201000.png",
+			"participatingOutlets": "      ",
+			"createdAt": "2021-11-02T03:17:49.343Z",
+			"updatedAt": "2026-08-06T14:17:22.670Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "      ",
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef99a2f71c855d5496e3d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8923492955929726-863736849720439-LiBai.png%20750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/09760114928472374-3784896135018001-Li%20Bai.png%201000%20x%201000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8923492955929726-863736849720439-LiBai_low.png%20750%20x%20540",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8923492955929726-863736849720439-LiBai_med.png%20750%20x%20540",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8923492955929726-863736849720439-LiBai_high.png%20750%20x%20540"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/09760114928472374-3784896135018001-Li%20Bai_low.png%201000%20x%201000",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/09760114928472374-3784896135018001-Li%20Bai_med.png%201000%20x%201000",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/09760114928472374-3784896135018001-Li%20Bai_high.png%201000%20x%201000"
+			},
+			"searchContent": "Li Bai is renowned for its Cantonese cuisine served in the tradition of emperors, amidst grand decor and table settings of jade, silver and fine bone china. Drawing inspiration from the famous Tang Dynasty poet's lyrical poems, Executive Chinese Chef Chung Yiu Ming whips up exquisite Chinese cuisine to create a divine gourmet experience. Cantonese Chinese Abalone Lobster Birds Nest Dim Sum Dimsum Marriott Newton Dining Chinese New Year Celebrations Family Gatherings Gourmet Sheraton Towers Scotts Rd Business Reunion Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiang-Nan Chun Honolulu Tai Cheong Bakery FortuneFeast Dining Chinese Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:45:28.701Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "li-bai-cantonese-restaurant-sheraton-towers-d94cfe0c",
+			"outlets": [
+				{
+					"_id": "618c87b49e8fb5468caa2f76",
+					"name": "Sheraton Towers"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sheraton Towers"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Li Bai Cantonese Restaurant (Sheraton Towers)",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

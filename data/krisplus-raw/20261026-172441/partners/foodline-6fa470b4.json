@@ -1,0 +1,158 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/foodline-6fa470b4",
+	"slug": "foodline-6fa470b4",
+	"fetchedAt": "2026-10-26T17:32:31.926+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68c27ca9a303990465ab354f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Catering",
+				"Halal",
+				"Gift Cards",
+				"Promo Code",
+				"Tingkat",
+				"Vouchers"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "FoodLine.sg Pte Ltd",
+			"brand": "FoodLine",
+			"code": "FLS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "FoodLine",
+			"address": {
+				"line1": "60 Paya Lebar Road",
+				"postalCode": "409051",
+				"streetName": "Paya Lebar Square  #09-41",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"QBS",
+								"BD",
+								"ASI",
+								"WES",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.foodline.sg/",
+			"descriptionHtml": "<p><span data-teams=\"true\"><p>FoodLine is Singapore’s largest one‑stop platform for catering, tingkat, cakes, and vouchers. FoodLine vouchers are usable at over 118 brands—think Fragrance, Duke Bakery, and Dunkin’ Donuts—and explore 495+ caterers and cake shops trusted by 447,000+ households and organizations.</p><p>Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only.</p></span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/37067081370878663-Foodline.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8720672462728418-Brand%20Image.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/37067081370878663-Foodline.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8720672462728418-Brand%20Image.jpg",
+			"createdAt": "2025-09-11T07:39:21.247Z",
+			"updatedAt": "2026-08-06T14:18:20.572Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/37067081370878663-Foodline_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/37067081370878663-Foodline_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/37067081370878663-Foodline_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:49:06.945Z",
+			"searchContent": "FoodLine is Singapore’s largest one‑stop platform for catering, tingkat, cakes, and vouchers. FoodLine vouchers are usable at over 118 brands—think Fragrance, Duke Bakery, and Dunkin’ Donuts—and explore 495+ caterers and cake shops trusted by 447,000+ households and organizations. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. Catering Halal Gift Cards Promo Code Tingkat Vouchers Dining Casual Dining Quick Bites & Snacks Beverages & Desserts Asian Western Buffet",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8720672462728418-Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8720672462728418-Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8720672462728418-Brand%20Image_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "foodline-6fa470b4",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "FoodLine",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

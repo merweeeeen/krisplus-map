@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/alaturka-turkish-mediterranean-restaurant-53ee3797",
+	"slug": "alaturka-turkish-mediterranean-restaurant-53ee3797",
+	"fetchedAt": "2026-10-26T17:31:27.647+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6805ed26c60446040f5857e8",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 7,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 22.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Istanbul Grill",
+				"Turkish",
+				"Mediterranean",
+				"Fresh"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Alaturka International Pte Ltd",
+			"brand": "Alaturka Turkish & Mediterranean Restaurant",
+			"code": "ATU",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Alaturka Turki",
+			"address": {
+				"line1": "15 Bussorah Street Singapore 199436",
+				"postalCode": "199436",
+				"streetName": "15 Bussorah Street",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.alaturka.com.sg/",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Alaturka%20Turkish%20&%20Mediterranean%20Restaurant\">Reserve A Table</a>.<br><br>Alaturka Turkish & Mediterranean Restaurant's ethos is to serve food of an unstinting standard by freshly preparing dishes from scratch. They grind their blend of meats, smoke eggplants, freshly prepare dough everyday, and even make their own yoghurt. These are but some of the many tasks their kitchen tirelessly performs to create that perfect bite.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6685690370124153-Alaturka.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4516090282247245-023016198183517078-brand%20t.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6685690370124153-Alaturka.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4516090282247245-023016198183517078-brand%20t.jpg",
+			"createdAt": "2025-04-21T07:00:54.502Z",
+			"updatedAt": "2026-10-15T12:22:02.408Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4516090282247245-023016198183517078-brand%20t_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4516090282247245-023016198183517078-brand%20t_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4516090282247245-023016198183517078-brand%20t_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6685690370124153-Alaturka_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6685690370124153-Alaturka_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6685690370124153-Alaturka_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:58:39.292Z",
+			"searchContent": "*Click here to Reserve A Table. Alaturka Turkish & Mediterranean Restaurant's ethos is to serve food of an unstinting standard by freshly preparing dishes from scratch. They grind their blend of meats, smoke eggplants, freshly prepare dough everyday, and even make their own yoghurt. These are but some of the many tasks their kitchen tirelessly performs to create that perfect bite. Istanbul Grill Turkish Mediterranean Fresh Dining Vegetarian-Friendly Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "alaturka-turkish-mediterranean-restaurant-53ee3797",
+			"outlets": [
+				{
+					"_id": "6805ee958b06b904140359cb",
+					"name": "Bussorah Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bussorah Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Alaturka Turkish & Mediterranean Restaurant",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

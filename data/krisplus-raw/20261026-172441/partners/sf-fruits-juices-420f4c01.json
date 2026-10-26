@@ -1,0 +1,275 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sf-fruits-juices-420f4c01",
+	"slug": "sf-fruits-juices-420f4c01",
+	"fetchedAt": "2026-10-26T17:33:30.156+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69523d7e78c4a47a9621942c",
+			"name": "SF FOOD BEVERAGE PTE LTD",
+			"shortName": "SF FruitsJuice",
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"brand": "SF Fruits & Juices",
+			"code": "SFJ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/43970939676115917-SFfarm.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9001338762296329-9121047422840862-Brand%20Image%207.png",
+			"websiteUrl": "https://sfsingapore.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "63 HILLVIEW AVENUE #01-009  LAM SOON INDUSTRIAL BUILDING",
+				"postalCode": "669569",
+				"streetName": "LAM SOON INDUSTRIAL BUILD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>SF Fruits and Juices offers fresh juice and cut fruits at a convenient takeaway concept counter. Committed to providing fresh quality fruits and juices to all, SF's fruits are carefully sourced from trusted farms & growers around the world and delivered by land, sea & air periodically. Freshness is their guarantee!<br><br>Outlets:</p>\n<ul>\n    <li class=\"pf0\">63 Hillview </li>\n    <li class=\"pf0\">AMK Hub </li>\n    <li class=\"pf0\">Bedok Mall </li>\n    <li class=\"pf0\">Causeway Point </li>\n    <li class=\"pf0\">Changi City Point</li><li class=\"pf0\">Choa Chu Kang </li>\n    <li class=\"pf0\">Clementi Mall </li>\n    <li class=\"pf0\">Hillion Mall</li>\n    <li class=\"pf0\">IMM</li>\n    <li class=\"pf0\">Jewel Changi Airport </li>\n    <li class=\"pf0\">Junction 8</li>\n    <li class=\"pf0\">Nex (Serangoon) </li>\n    <li class=\"pf0\">North Point City</li>\n    <li class=\"pf0\">Novena Square</li>\n    <li class=\"pf0\">One Raffles Places </li>\n    <li class=\"pf0\">Paya Lebar MRT station</li>\n    <li class=\"pf0\">Raffles Place MRT</li>\n    <li class=\"pf0\">Tampines MRT station </li>\n    <li class=\"pf0\">VivoCity </li>\n    <li class=\"pf0\">White Sands</li>\n    <li class=\"pf0\">Yew Tee Point</li>\n</ul>\n<!--EndFragment -->",
+			"searchableKeywords": [
+				"Fruit",
+				"Healthy",
+				"Drinks",
+				"Juice",
+				"Fruit Juice",
+				"Smoothie",
+				"Yoghurt",
+				"Boost",
+				"Natural"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS",
+								"BD",
+								"HEAL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 21
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-29T08:36:14.202Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/43970939676115917-SFfarm.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9001338762296329-9121047422840862-Brand%20Image%207.png",
+			"createdAt": "2025-12-29T08:36:14.210Z",
+			"updatedAt": "2026-08-06T14:18:27.309Z",
+			"searchContent": "SF Fruits and Juices offers fresh juice and cut fruits at a convenient takeaway concept counter. Committed to providing fresh quality fruits and juices to all, SF's fruits are carefully sourced from trusted farms & growers around the world and delivered by land, sea & air periodically. Freshness is their guarantee! Outlets: 63 Hillview AMK Hub Bedok Mall Causeway Point Changi City PointChoa Chu Kang Clementi Mall Hillion Mall IMM Jewel Changi Airport Junction 8 Nex (Serangoon) North Point City Novena Square One Raffles Places Paya Lebar MRT station Raffles Place MRT Tampines MRT station VivoCity White Sands Yew Tee Point Fruit Healthy Drinks Juice Fruit Juice Smoothie Yoghurt Boost Natural Dining Vegetarian-Friendly Quick Bites & Snacks Beverages & Desserts Healthy",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9001338762296329-9121047422840862-Brand%20Image%207_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9001338762296329-9121047422840862-Brand%20Image%207_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9001338762296329-9121047422840862-Brand%20Image%207_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/43970939676115917-SFfarm_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/43970939676115917-SFfarm_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/43970939676115917-SFfarm_high.png"
+			},
+			"newMerchantEndDate": "2026-04-12T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sf-fruits-juices-420f4c01",
+			"outlets": [
+				{
+					"_id": "69524078090cb9c058812ad7",
+					"name": "Lam Soon"
+				},
+				{
+					"_id": "695241c29d6da1402ae69b33",
+					"name": "One Raffles Place"
+				},
+				{
+					"_id": "695242112b54b67cf336ff6d",
+					"name": "Raffles MRT"
+				},
+				{
+					"_id": "6952433813313ac3097cc144",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "695345eb78c4a47a96226f6c",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "695347714a5096e087fb2cdb",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "6953493ba92c9a5637c1b3a5",
+					"name": "Jewel"
+				},
+				{
+					"_id": "69534acc2bef9c0eef411eac",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "69534c1a61cad521861da576",
+					"name": "JUNCTION 8"
+				},
+				{
+					"_id": "69534d54f74971abc3594f7b",
+					"name": "NEX"
+				},
+				{
+					"_id": "69534e55f1330a9ba7e445de",
+					"name": "Northpoint"
+				},
+				{
+					"_id": "69534f562a99e46e78922fa2",
+					"name": "IMM"
+				},
+				{
+					"_id": "69536bf19d6da1402ae7b114",
+					"name": "CCK Mrt"
+				},
+				{
+					"_id": "69536e78f74971abc3597fef",
+					"name": "Tampines Mrt"
+				},
+				{
+					"_id": "69537052f1330a9ba7e487b2",
+					"name": "Clementi Mall"
+				},
+				{
+					"_id": "69538e472b54b67cf3384772",
+					"name": "Vivo City"
+				},
+				{
+					"_id": "6953900bc38852658587a3d4",
+					"name": "Paya Lebar Mrt"
+				},
+				{
+					"_id": "695391d5d06050978e541734",
+					"name": "White Sands"
+				},
+				{
+					"_id": "69539456f1330a9ba7e4b4f4",
+					"name": "Yew Tee Pt"
+				},
+				{
+					"_id": "6954a0962bef9c0eef4288ec",
+					"name": "Hillion Mall"
+				},
+				{
+					"_id": "6954a1f03bac6b3edcffcb9d",
+					"name": "Novena Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Lam Soon",
+			"One Raffles Place",
+			"Raffles MRT",
+			"Bedok Mall",
+			"Causeway Point",
+			"Changi City Point",
+			"Jewel",
+			"AMK Hub",
+			"JUNCTION 8",
+			"NEX",
+			"Northpoint",
+			"IMM",
+			"CCK Mrt",
+			"Tampines Mrt",
+			"Clementi Mall",
+			"Vivo City",
+			"Paya Lebar Mrt",
+			"White Sands",
+			"Yew Tee Pt",
+			"Hillion Mall",
+			"Novena Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SF Fruits & Juices",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

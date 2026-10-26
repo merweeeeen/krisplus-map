@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/city-chain-1d72685a",
+	"slug": "city-chain-1d72685a",
+	"fetchedAt": "2026-10-26T17:30:36.505+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6746f966d4244900724b7f7b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Watch",
+				"Luxury Watch",
+				"City Chain",
+				"Limited Edition",
+				"Watch Retailer"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "City Chain Stores (S) Pte Ltd",
+			"brand": "CITY CHAIN",
+			"code": "ITY",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "CITY CHAIN",
+			"address": {
+				"line1": "31 UBI ROAD 1 #02-08 MAIN BUILDING SINGAPORE 408694",
+				"postalCode": "408694",
+				"streetName": "31 UBI ROAD 1",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.citychain.com.sg",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\"><span style=\"line-height: 107%; font-size: 16px;\">Since 1985,         City Chain has been a leading retailer of stylish and high-quality watches         across Asia. Their stores feature a wide array of watches from top         international brands.</span></p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\"><span style=\"line-height: 107%; font-size: 16px;\">Participating         outlets:</span></p>  <ul style=\"list-style-type: circle;\"><li><span style=\"line-height: 107%; font-size: 16px;\">Bugis         Junction </span></li><li><span style=\"line-height: 107%; font-size: 16px;\">IMM</span></li><li><span style=\"line-height: 107%; font-size: 16px;\">Jurong Point</span></li><li><span style=\"line-height: 107%; font-size: 16px;\">NEX</span></li><li><span style=\"line-height: 107%; font-size: 16px;\">Northpoint</span></li></ul>          ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7257304841604286-668541161545086-CC%20Logo%202_260%20x%20260%20(002).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6307820444209618-29954674023436056-Brand%20Image%20750%20x%20540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 7
+				}
+			],
+			"createdAt": "2024-11-27T10:50:14.941Z",
+			"updatedAt": "2026-10-12T03:29:34.108Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6307820444209618-29954674023436056-Brand%20Image%20750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6307820444209618-29954674023436056-Brand%20Image%20750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6307820444209618-29954674023436056-Brand%20Image%20750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7257304841604286-668541161545086-CC%20Logo%202_260%20x%20260%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7257304841604286-668541161545086-CC%20Logo%202_260%20x%20260%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7257304841604286-668541161545086-CC%20Logo%202_260%20x%20260%20(002)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6307820444209618-29954674023436056-Brand%20Image%20750%20x%20540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7257304841604286-668541161545086-CC%20Logo%202_260%20x%20260%20(002).jpg",
+			"refundPeriodInDays": 60,
+			"searchContent": "Since 1985, City Chain has been a leading retailer of stylish and high-quality watches across Asia. Their stores feature a wide array of watches from top international brands. Participating outlets: Bugis Junction IMMJurong PointNEXNorthpoint Watch Luxury Watch City Chain Limited Edition Watch Retailer Retail Accessories, Jewellery & Watches",
+			"refundPeriodUpdatedAt": "2026-05-13T01:28:06.207Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "city-chain-1d72685a",
+			"outlets": [
+				{
+					"_id": "6746fbd27d59210063942348",
+					"name": " Bugis Junction"
+				},
+				{
+					"_id": "6746fc436dec3e006aa1ffbe",
+					"name": "IMM "
+				},
+				{
+					"_id": "6746fd36269b47006b98b7c8",
+					"name": "NEX"
+				},
+				{
+					"_id": "6746fdc3591b22006b9fe0a5",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "69c9e532c6f37b4703a6b39d",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "6a3362811fa554bc6b3e57cf",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "6acc5416b0c21082e08cdad1",
+					"name": "Tampines Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			" Bugis Junction",
+			"IMM ",
+			"NEX",
+			"Northpoint City",
+			"Jurong Point",
+			"Jewel Changi Airport",
+			"Tampines Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "CITY CHAIN",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,159 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/reward-laundry-d7779327",
+	"slug": "reward-laundry-d7779327",
+	"fetchedAt": "2026-10-26T17:30:30.664+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6721fb9703a367007edec7d0",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Laundry",
+				"Dry Cleaning",
+				"Wash",
+				"Stainremoval",
+				"Ironing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Reward Laundry",
+			"brand": "Reward Laundry",
+			"code": "1RL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7210",
+			"shortName": "RLY",
+			"address": {
+				"line1": "1 Raffles Link #B1-06",
+				"postalCode": "039393",
+				"streetName": "Citylink Mall",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.rewardlaundry.com",
+			"descriptionHtml": "<p>Reward Laundry in Singapore offers premium dry cleaning with unmatched convenience. Enjoy expertly cleaned garments using latest technology, and experience their doorstep delivery service for a hassle-free solution to your laundry needs.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/13881667393566466-7937760185665148-Reward%20Laundry%20260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/44230573203243195-26431352824478105-Dry%20Cleaning.png",
+			"countryCode": "SG",
+			"mccDescription": "Laundry, Cleaning, and Garment Services",
+			"partnershipGroup": "GR6",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-10-30T09:25:43.629Z",
+			"updatedAt": "2026-09-01T02:00:26.256Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/44230573203243195-26431352824478105-Dry%20Cleaning_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/44230573203243195-26431352824478105-Dry%20Cleaning_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/44230573203243195-26431352824478105-Dry%20Cleaning_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13881667393566466-7937760185665148-Reward%20Laundry%20260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13881667393566466-7937760185665148-Reward%20Laundry%20260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13881667393566466-7937760185665148-Reward%20Laundry%20260_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/44230573203243195-26431352824478105-Dry%20Cleaning.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13881667393566466-7937760185665148-Reward%20Laundry%20260.png",
+			"searchContent": "Reward Laundry in Singapore offers premium dry cleaning with unmatched convenience. Enjoy expertly cleaned garments using latest technology, and experience their doorstep delivery service for a hassle-free solution to your laundry needs. Laundry Dry Cleaning Wash Stainremoval Ironing Services",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-04-16T03:02:40.266Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "reward-laundry-d7779327",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "672200cf8215de0073fcb89f",
+					"name": "Citylink Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Citylink Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Reward Laundry",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

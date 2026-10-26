@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lentrecote-the-steak-fries-bistro-cc0d965d",
+	"slug": "lentrecote-the-steak-fries-bistro-cc0d965d",
+	"fetchedAt": "2026-10-26T17:29:33.733+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6568048d2ea4290055dba311",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.023,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dinner",
+				"Lunch",
+				"Steak",
+				"French Cuisine",
+				"French",
+				"Parisian",
+				"Bistro",
+				"Fries",
+				"Salad",
+				"Meat Lovers",
+				"Steakhouse",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"656804957833ecba6bfcbaa3"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Deliciae Hospitality Management Pte Ltd (L'Entrecote)",
+			"brand": "L'Entrecôte The Steak & Fries Bistro",
+			"code": "LET",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "L'Entrecôte",
+			"address": {
+				"line1": "5 Duxton Hill Singapore 089591",
+				"postalCode": "089591",
+				"streetName": "5 Duxton Hill",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"WES",
+								"FRE",
+								"EUR"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "201009428C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6429810172841997-steak2.png",
+			"websiteUrl": "https://www.lentrecote.com.sg/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u></a>.</em><br>\n<br>\n​​​​​​​L'Entrecôte The Steak and Fries Bistro is renowned for its succulent steak, unlimited crispy fries, and fresh green salad. With a wide range of starters and desserts, along with an exclusive wine collection, it offers an unforgettable dining experience.</p>\n\n\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t\n\t<li>Duxton Hill</li><li>River Valley</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5242953762366982-steak1.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"createdAt": "2023-11-30T03:42:05.341Z",
+			"updatedAt": "2026-08-06T14:17:56.430Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6429810172841997-steak2.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5242953762366982-steak1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6429810172841997-steak2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6429810172841997-steak2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6429810172841997-steak2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5242953762366982-steak1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5242953762366982-steak1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5242953762366982-steak1_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-05T09:47:29.389Z",
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​L'Entrecôte The Steak and Fries Bistro is renowned for its succulent steak, unlimited crispy fries, and fresh green salad. With a wide range of starters and desserts, along with an exclusive wine collection, it offers an unforgettable dining experience. Participating Outlets: Duxton HillRiver Valley Dinner Lunch Steak French Cuisine French Parisian Bistro Fries Salad Meat Lovers Steakhouse Business Corporate Dining Working Lunch Networking Dining Western French European",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lentrecote-the-steak-fries-bistro-cc0d965d",
+			"outlets": [
+				{
+					"_id": "6569870cbb595f00531235a8",
+					"name": "River Valley"
+				},
+				{
+					"_id": "6569876147efde005087c793",
+					"name": "DUXTON HILL"
+				},
+				{
+					"_id": "69d70b9e7bd83146fb53857e",
+					"name": "693 East Coast Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"River Valley",
+			"DUXTON HILL",
+			"693 East Coast Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "L'Entrecôte The Steak & Fries Bistro",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/billabong-d09b9f9f",
+	"slug": "billabong-d09b9f9f",
+	"fetchedAt": "2026-10-26T17:32:50.988+08:00",
+	"payload": {
+		"partner": {
+			"_id": "690849f1371b5291afff22c0",
+			"name": "STREAM ENTERPRISE (SG) PTE LTD",
+			"shortName": "Billabong",
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"brand": "Billabong",
+			"code": "BLB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/0381834405919117-Billabong.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16576108046367133-2730098436159374-Bilabong.png",
+			"websiteUrl": "https://www.billabong.com.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "3791 JALAN BUKIT MERAH   #10-18",
+				"postalCode": "159471",
+				"streetName": "E-CENTRE at REDHILL",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Billabong embarked on its extraordinary journey in 1973 on the stunning Gold Coast of Australia. It all began with just one humble pair of boardshorts and a hand-crocheted bikini, lovingly crafted on founder Gordon Merchant’s kitchen table. Fast forward to today, and Billabong has become a global leader in surf-inspired apparel and accessories for men and women. Driven by a bold mission, Billabong aims to inspire youth through the essence of progressive surf culture where passion for the ocean meets cutting-edge style. Dive into the adventure with them!</p>",
+			"searchableKeywords": [
+				"Surf",
+				"Beach",
+				"Paradise",
+				"Swim",
+				"Boardshorts",
+				"Rash guard",
+				"Rashvest",
+				"Bikini",
+				"Sandals",
+				"FlipFlops",
+				"Quiksilver",
+				"Roxy",
+				"Billabong",
+				"DC Shoes",
+				"Skate"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-06T09:16:44.989Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0381834405919117-Billabong.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16576108046367133-2730098436159374-Bilabong.png",
+			"createdAt": "2025-11-03T06:21:37.489Z",
+			"updatedAt": "2026-08-06T14:18:24.282Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16576108046367133-2730098436159374-Bilabong_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16576108046367133-2730098436159374-Bilabong_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16576108046367133-2730098436159374-Bilabong_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0381834405919117-Billabong_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0381834405919117-Billabong_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0381834405919117-Billabong_high.png"
+			},
+			"searchContent": "Billabong embarked on its extraordinary journey in 1973 on the stunning Gold Coast of Australia. It all began with just one humble pair of boardshorts and a hand-crocheted bikini, lovingly crafted on founder Gordon Merchant’s kitchen table. Fast forward to today, and Billabong has become a global leader in surf-inspired apparel and accessories for men and women. Driven by a bold mission, Billabong aims to inspire youth through the essence of progressive surf culture where passion for the ocean meets cutting-edge style. Dive into the adventure with them! Surf Beach Paradise Swim Boardshorts Rash guard Rashvest Bikini Sandals FlipFlops Quiksilver Roxy Billabong DC Shoes Skate Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "billabong-d09b9f9f",
+			"outlets": [
+				{
+					"_id": "69153ea370592888583a22a6",
+					"name": "VivoCity"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"VivoCity"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Billabong",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/risis-390719f7",
+	"slug": "risis-390719f7",
+	"fetchedAt": "2026-10-26T17:26:02.722+08:00",
+	"payload": {
+		"partner": {
+			"_id": "605bfed28e98914edc05cf25",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "RISIS PRIVATE LIMITED",
+			"brand": "RISIS",
+			"code": "RIS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "RISIS",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "14 Kung Chong Road #05-01 , Lum Chang Building",
+				"postalCode": "159150",
+				"streetName": "Kung Chong Road"
+			},
+			"regNumber": "197902516H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8345558914676017-Slider-on-forehead_750x540.jpg",
+			"websiteUrl": "https://www.risis.com/",
+			"descriptionHtml": "<p>RISIS started its roots in Singapore since 1976 and was renowned as the brand which encapsulated Natural Orchids in 24K Swiss Gold and other precious materials. Producing collections of Jewellery and Home and Lifestyle, all of RISIS’ products are fully handcrafted and based on Nature-inspired and Asian Heritage themes that display the nature of its artistry with fine craftsmanship.</p>  <p>Participating Outlet:</p>  <ul> \t<li>ION Orchard</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/90507253504411-1.RISIS-Logo_1000x1000.jpg",
+			"createdAt": "2021-03-25T03:09:06.514Z",
+			"updatedAt": "2026-10-06T09:20:04.981Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "     ",
+			"searchableKeywords": [
+				"Ion Orchard",
+				"Orchard",
+				"Town",
+				"Fashion",
+				"Retail",
+				"Jewellery",
+				"Fashion Jewellery",
+				"Metal Arts",
+				"Gem",
+				"Handcrafted",
+				"Artistry",
+				"Craftsmanship",
+				"Gifts",
+				"Premium",
+				"Local",
+				"Orchid",
+				"Singapore",
+				"Gold",
+				"Souvenir",
+				"Newclothes"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR7",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c745578ca5d7f0b3c0"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8345558914676017-Slider-on-forehead_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/90507253504411-1.RISIS-Logo_1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8345558914676017-Slider-on-forehead_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8345558914676017-Slider-on-forehead_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8345558914676017-Slider-on-forehead_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/90507253504411-1_low.RISIS-Logo_1000x1000",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/90507253504411-1_med.RISIS-Logo_1000x1000",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/90507253504411-1_high.RISIS-Logo_1000x1000"
+			},
+			"searchContent": "RISIS started its roots in Singapore since 1976 and was renowned as the brand which encapsulated Natural Orchids in 24K Swiss Gold and other precious materials. Producing collections of Jewellery and Home and Lifestyle, all of RISIS’ products are fully handcrafted and based on Nature-inspired and Asian Heritage themes that display the nature of its artistry with fine craftsmanship. Participating Outlet: ION Orchard Ion Orchard Orchard Town Fashion Retail Jewellery Fashion Jewellery Metal Arts Gem Handcrafted Artistry Craftsmanship Gifts Premium Local Orchid Singapore Gold Souvenir Newclothes Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:50:36.457Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "risis-390719f7",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "612d8ba5698db43e74593288",
+					"name": "ION Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "RISIS",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

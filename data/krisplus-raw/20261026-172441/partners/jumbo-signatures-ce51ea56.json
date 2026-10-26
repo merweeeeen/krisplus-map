@@ -1,0 +1,188 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jumbo-signatures-ce51ea56",
+	"slug": "jumbo-signatures-ce51ea56",
+	"fetchedAt": "2026-10-26T17:29:40.647+08:00",
+	"payload": {
+		"partner": {
+			"_id": "659ccd4b63f5d6004d33af40",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Jumbo Signatures",
+				"Chili Crab",
+				"Chilli Crab",
+				"Fussfree Crab",
+				"Crab",
+				"Fine Dining",
+				"Marina Bay Sands",
+				"Mbs",
+				"Marina Bay",
+				"Live Seafood Restaurant",
+				"Chinese Restaurant",
+				"Restaurant",
+				"Fine Dining",
+				"Seafood",
+				"Jumbo Seafood",
+				"Jumbo",
+				"Celebrations",
+				"Wine",
+				"Wine Pairing",
+				"Christmas Celebrations",
+				"Private Room",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"659ccd541c214957f36a0466"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "JUMBO GROUP OF RESTAURANTS PTE LTD (JUMBO Signatures)",
+			"brand": "JUMBO Signatures",
+			"code": "JSR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "JUMBO Signatur",
+			"address": {
+				"city": "Singapore",
+				"line1": "4 Kaki Bukit Avenue 1  #03-08  Singapore 417939",
+				"streetName": "4 Kaki Bukit Avenue 1",
+				"postalCode": "417939",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "199403639K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/40693755840146917-JS2.jpg",
+			"websiteUrl": "https://www.jumbosignatures.com.sg",
+			"descriptionHtml": "<p>JUMBO Signatures, the flagship dining concept of JUMBO Group, takes your dining experience to greater heights through their meticulously curated tasting menu and sommelier wine pairing. Its Signature Menu presents Singapore's iconic flavours by their Singapore chef for local cuisine-loving gourmands.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/46444804298177544-SSMB%20Logo%20464%20x%20270.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-01-09T04:36:27.133Z",
+			"updatedAt": "2026-09-23T06:27:06.600Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/40693755840146917-JS2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/46444804298177544-SSMB%20Logo%20464%20x%20270.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/40693755840146917-JS2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/40693755840146917-JS2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/40693755840146917-JS2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/46444804298177544-SSMB%20Logo%20464%20x%20270_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/46444804298177544-SSMB%20Logo%20464%20x%20270_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/46444804298177544-SSMB%20Logo%20464%20x%20270_high.png"
+			},
+			"searchContent": "JUMBO Signatures, the flagship dining concept of JUMBO Group, takes your dining experience to greater heights through their meticulously curated tasting menu and sommelier wine pairing. Its Signature Menu presents Singapore's iconic flavours by their Singapore chef for local cuisine-loving gourmands. Jumbo Signatures Chili Crab Chilli Crab Fussfree Crab Crab Fine Dining Marina Bay Sands Mbs Marina Bay Live Seafood Restaurant Chinese Restaurant Restaurant Fine Dining Seafood Jumbo Seafood Jumbo Celebrations Wine Wine Pairing Christmas Celebrations Private Room FortuneFeast Dining Fine Dining Chinese Asian",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-09-23T06:27:06.600Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jumbo-signatures-ce51ea56",
+			"outlets": [
+				{
+					"_id": "659cce92b71ae80053e66108",
+					"name": "Marina Bay Sands"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Bay Sands"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "JUMBO Signatures",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

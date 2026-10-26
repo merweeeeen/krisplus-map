@@ -1,0 +1,201 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/asa-holidays-329e36d5",
+	"slug": "asa-holidays-329e36d5",
+	"fetchedAt": "2026-10-26T17:28:29.730+08:00",
+	"payload": {
+		"partner": {
+			"_id": "636a28c81a44801908f061e3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Tour Packages",
+				"Incentive Packages",
+				"Corporate Packages",
+				"Group Tours",
+				"Mice",
+				"Free",
+				"Easy Tours",
+				"Cruises",
+				"Visa Applications",
+				"Travel Insurances",
+				"Long Haul",
+				"Short Haul",
+				"Asa Holidays",
+				"Japan Tours",
+				"Korea Tours",
+				"Europe Tours",
+				"Asia Tours",
+				"China Tours",
+				"Taiwan Tours",
+				"Australia Tours",
+				"America Tours",
+				"New Zealand Tours",
+				"Africa Tours",
+				"South America Tours",
+				"Northern Europe Tours",
+				"Northern Lights Tours",
+				"Chinatown",
+				"People’S Park Complex",
+				"Services",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Air Sino-Euro Associates Travel Pte Ltd",
+			"brand": "ASA Holidays",
+			"code": "ASA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "ASAHolidays",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "No.1 Park Road, #03-43, #03-57-59 Peoples Park complex Singapore 059108",
+				"postalCode": "059108",
+				"streetName": "No.1 Park Road"
+			},
+			"regNumber": "198000935C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7882207922038105-47540125655956555-Kris%2B_v2.jpg",
+			"websiteUrl": "https://asaholiday.com/",
+			"descriptionHtml": "<p>ASA Holidays is one of Singapore's largest retail home-grown agency that offers extensive outbound travel services to destinations worldwide. Their services includes Specialised Tours, Incentive & Corporate Packages, Group Packages, Free & Easy Tours, Ticketing & Hotels Reservations, Cruise Packages, Visa Applications, and Travel Insurances.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"promotional": "                ",
+			"participatingOutlets": "                ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9826082270189143-9662881800474474-1000%20x%201000.png",
+			"createdAt": "2022-11-08T10:00:40.203Z",
+			"updatedAt": "2026-08-06T14:17:38.142Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9629d00b0a527865c0b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7882207922038105-47540125655956555-Kris%2B_v2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9826082270189143-9662881800474474-1000%20x%201000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7882207922038105-47540125655956555-Kris%2B_v2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7882207922038105-47540125655956555-Kris%2B_v2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7882207922038105-47540125655956555-Kris%2B_v2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9826082270189143-9662881800474474-1000%20x%201000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9826082270189143-9662881800474474-1000%20x%201000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9826082270189143-9662881800474474-1000%20x%201000_high.png"
+			},
+			"searchContent": "ASA Holidays is one of Singapore's largest retail home-grown agency that offers extensive outbound travel services to destinations worldwide. Their services includes Specialised Tours, Incentive & Corporate Packages, Group Packages, Free & Easy Tours, Ticketing & Hotels Reservations, Cruise Packages, Visa Applications, and Travel Insurances. Tour Packages Incentive Packages Corporate Packages Group Tours Mice Free Easy Tours Cruises Visa Applications Travel Insurances Long Haul Short Haul Asa Holidays Japan Tours Korea Tours Europe Tours Asia Tours China Tours Taiwan Tours Australia Tours America Tours New Zealand Tours Africa Tours South America Tours Northern Europe Tours Northern Lights Tours Chinatown People’S Park Complex Services Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Services",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-30T02:24:25.261Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "asa-holidays-329e36d5",
+			"outlets": [
+				{
+					"_id": "636a299b9ed8f126506be76b",
+					"name": "People's Park Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"People's Park Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ASA Holidays",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

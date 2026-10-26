@@ -1,0 +1,165 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-eight-f5ed84cc",
+	"slug": "the-eight-f5ed84cc",
+	"fetchedAt": "2026-10-26T17:30:21.510+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66ed20e416faca144333a17e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Poolside",
+				"Restaurant",
+				"Cocktails",
+				"Hotel"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "RC Hotels (Pte.) Ltd. - THE EIGHT",
+			"brand": "THE EIGHT",
+			"code": "TEG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "THE EIGHT",
+			"address": {
+				"line1": "2 Stamford Road, Singapore 178882",
+				"postalCode": "178882",
+				"streetName": "2 Stamford Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.fairmont-singapore.com/dining/the-eight/",
+			"descriptionHtml": "<p>Relish in the perfect combination of gourmet delights, fresh juices and artisanal cocktails in a casual tropical setting. Located on the eight level of the hotel, the poolside restaurant provides the idlyllic backdrop to unwind and relax. Enjoy the summer night breeze as you lounge under the starry sky.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7127888999696816-3069342916781179-The-Eight-Logo-Final.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/40901461592409394-5274651023257428-The%20Eight.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-09-20T07:14:44.593Z",
+			"updatedAt": "2026-08-06T14:18:07.561Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/40901461592409394-5274651023257428-The%20Eight_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/40901461592409394-5274651023257428-The%20Eight_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/40901461592409394-5274651023257428-The%20Eight_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7127888999696816-3069342916781179-The-Eight-Logo-Final_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7127888999696816-3069342916781179-The-Eight-Logo-Final_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7127888999696816-3069342916781179-The-Eight-Logo-Final_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/40901461592409394-5274651023257428-The%20Eight.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7127888999696816-3069342916781179-The-Eight-Logo-Final.jpg",
+			"searchContent": "Relish in the perfect combination of gourmet delights, fresh juices and artisanal cocktails in a casual tropical setting. Located on the eight level of the hotel, the poolside restaurant provides the idlyllic backdrop to unwind and relax. Enjoy the summer night breeze as you lounge under the starry sky. Poolside Restaurant Cocktails Hotel Dining Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-20T09:44:52.618Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-eight-f5ed84cc",
+			"outlets": [
+				{
+					"_id": "66f0d6b2d216c10079178011",
+					"name": "Fairmont Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fairmont Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "THE EIGHT",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,152 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/eternal-red-bonds-6d4ea081",
+	"slug": "eternal-red-bonds-6d4ea081",
+	"fetchedAt": "2026-10-26T17:32:06.898+08:00",
+	"payload": {
+		"partner": {
+			"_id": "688c3c61939ba10453acc3c5",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Wedding Accessories",
+				"Traditional Chinese Wedding Services"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Double N Pte Ltd",
+			"brand": "Eternal Red Bonds",
+			"code": "ERB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Eternal Red Bo",
+			"address": {
+				"line1": "183, Jalan Pelikat, B1-01 Singapore 537643",
+				"postalCode": "537643",
+				"streetName": "183, Jalan Pelikat",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.eternalredbonds.com",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Offering more than wedding services, Eternal Red Bonds act as cultural guides, transforming traditional Chinese wedding ceremonies into extraordinary experiences. They make traditions accessible, exciting, and deeply personal for modern couples, creating meaningful and lasting memories. Start your forever journey with Eternal Red Bonds.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Note: Kindly note that visits are strictly by appointment only.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4330792160231218-EternalRedBonds.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6537403684521834-49429306181942034-B_Brand%20Image_(750%20x%20540%20px).png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4330792160231218-EternalRedBonds.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6537403684521834-49429306181942034-B_Brand%20Image_(750%20x%20540%20px).png",
+			"createdAt": "2025-08-01T04:02:41.385Z",
+			"updatedAt": "2026-08-06T14:18:18.158Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4330792160231218-EternalRedBonds_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4330792160231218-EternalRedBonds_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4330792160231218-EternalRedBonds_high.png"
+			},
+			"searchContent": "Offering more than wedding services, Eternal Red Bonds act as cultural guides, transforming traditional Chinese wedding ceremonies into extraordinary experiences. They make traditions accessible, exciting, and deeply personal for modern couples, creating meaningful and lasting memories. Start your forever journey with Eternal Red Bonds. Note: Kindly note that visits are strictly by appointment only. Wedding Accessories Traditional Chinese Wedding Services Retail Gifts & Souvenirs",
+			"refundPeriodUpdatedAt": "2026-04-29T01:27:22.217Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "eternal-red-bonds-6d4ea081",
+			"outlets": [
+				{
+					"_id": "688c3d8c08db95044c820e5c",
+					"name": "183 Jln Pelikat"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"183 Jln Pelikat"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Eternal Red Bonds",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

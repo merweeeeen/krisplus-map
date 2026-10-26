@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/wokdeg15-kitchen-27f17e68",
+	"slug": "wokdeg15-kitchen-27f17e68",
+	"fetchedAt": "2026-10-26T17:33:32.134+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6954dffb3bac6b3edc004322",
+			"name": "SUTL MARINA DEVELOPMENT PTE LTD (WOK°15 Kitchen)",
+			"shortName": "WOK 15 Kitchen",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "WOK°15 Kitchen",
+			"code": "W15",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/854193366100052-Wok15.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/32162167308161527-774285693977834-Brand%20Image%20(750%20x%20540).png",
+			"websiteUrl": "https://club.one15marina.com/wok15",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "11 Cove Drive",
+				"postalCode": "098497",
+				"streetName": "Sentosa Cove",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Lauded as     “Singapore’s Top Restaurant” by Wine & Dine, WOK°15 Kitchen radiates the     spirit of the sea by featuring fresh live seafood for selection from the     aquarium. Savour classic Cantonese dishes prepared using fresh seasonal     produce, presented with modern artistic flair.</p>",
+			"searchableKeywords": [
+				"Dim sum",
+				"buffet",
+				"Chinese",
+				"seafood",
+				"cantonese",
+				"sentosa"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"FD",
+								"KID",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-31T08:34:03.475Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/854193366100052-Wok15.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/32162167308161527-774285693977834-Brand%20Image%20(750%20x%20540).png",
+			"createdAt": "2025-12-31T08:34:03.481Z",
+			"updatedAt": "2026-08-06T14:18:27.416Z",
+			"searchContent": "Lauded as “Singapore’s Top Restaurant” by Wine & Dine, WOK°15 Kitchen radiates the spirit of the sea by featuring fresh live seafood for selection from the aquarium. Savour classic Cantonese dishes prepared using fresh seasonal produce, presented with modern artistic flair. Dim sum buffet Chinese seafood cantonese sentosa Dining Vegetarian-Friendly Buffet Casual Dining Fine Dining Kid-Friendly Chinese Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/32162167308161527-774285693977834-Brand%20Image%20(750%20x%20540)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/32162167308161527-774285693977834-Brand%20Image%20(750%20x%20540)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/32162167308161527-774285693977834-Brand%20Image%20(750%20x%20540)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/854193366100052-Wok15_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/854193366100052-Wok15_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/854193366100052-Wok15_high.png"
+			},
+			"newMerchantEndDate": "2026-03-26T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "wokdeg15-kitchen-27f17e68",
+			"outlets": [
+				{
+					"_id": "6954e4ae9d6da1402ae95876",
+					"name": "Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "WOK°15 Kitchen",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

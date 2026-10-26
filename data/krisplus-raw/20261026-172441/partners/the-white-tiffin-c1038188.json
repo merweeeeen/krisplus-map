@@ -1,0 +1,204 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-white-tiffin-c1038188",
+	"slug": "the-white-tiffin-c1038188",
+	"fetchedAt": "2026-10-26T17:27:33.175+08:00",
+	"payload": {
+		"partner": {
+			"_id": "627c83b782d45a3e2c561629",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Peranakan",
+				"Nyonya",
+				"Local",
+				"Changi City Point",
+				"Expo",
+				"Woods Square",
+				"Traditional",
+				"Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "The White Tiffin Pte Ltd (The White Tiffin)",
+			"brand": "The White Tiffin",
+			"code": "TWT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "The White Tiff",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1550 Bedok North Avenue 4, #04-09 JTC Bedok Food City, Singapore 489950",
+				"postalCode": "489950",
+				"streetName": "1550 Bedok North Avenue 4"
+			},
+			"regNumber": "202108276G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2759050058508883-8133515588353157-C%20%26%20D%20Grp%20dishes.jpg",
+			"websiteUrl": "https://www.thewhitetiffin.com/",
+			"descriptionHtml": "<p>The White Tiffin serves up traditional local delicacies with a modern twist and hint of Peranakan influence. Every bite brings you the warmth and satisfaction of eating home-cooked food like grandma's cooking - so simple, yet so good.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Changi City Point</li>\n\t<li>Esplanade Xchange</li>\n\t\n\t<li>Hotel Faber Park</li>\n\t<li>Toa Payoh HDB Hub</li><li>Woods Square</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"participatingOutlets": "Changi City Point\nWoods Square\n",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7395663175302647-024217342235962613-A%20The%20White%20Tiffin%20Logo.jpg",
+			"createdAt": "2022-05-12T03:49:11.648Z",
+			"updatedAt": "2026-08-06T14:17:30.206Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.015,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"partnershipGroup": "GR2",
+			"promotional": "     ",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"ASI",
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9825e6d0897746a1e64"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2759050058508883-8133515588353157-C%20%26%20D%20Grp%20dishes.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7395663175302647-024217342235962613-A%20The%20White%20Tiffin%20Logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2759050058508883-8133515588353157-C%20%26%20D%20Grp%20dishes_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2759050058508883-8133515588353157-C%20%26%20D%20Grp%20dishes_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2759050058508883-8133515588353157-C%20%26%20D%20Grp%20dishes_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7395663175302647-024217342235962613-A%20The%20White%20Tiffin%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7395663175302647-024217342235962613-A%20The%20White%20Tiffin%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7395663175302647-024217342235962613-A%20The%20White%20Tiffin%20Logo_high.jpg"
+			},
+			"searchContent": "The White Tiffin serves up traditional local delicacies with a modern twist and hint of Peranakan influence. Every bite brings you the warmth and satisfaction of eating home-cooked food like grandma's cooking - so simple, yet so good. Participating Outlets: Changi City Point Esplanade Xchange Hotel Faber Park Toa Payoh HDB HubWoods Square Peranakan Nyonya Local Changi City Point Expo Woods Square Traditional Dining Dining Asian Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-01T04:26:09.780Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-white-tiffin-c1038188",
+			"outlets": [
+				{
+					"_id": "62835b1f1b71533ae8cb6f2b",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "6286dd8a1b71533ae8cb70e9",
+					"name": "Woods Square"
+				},
+				{
+					"_id": "6451f58a88fde5005cb1e6e0",
+					"name": "Esplanade Xchange"
+				},
+				{
+					"_id": "654264815aa9660059ecbc9e",
+					"name": "Hotel Faber Park"
+				},
+				{
+					"_id": "66c43f71b4dd77006934ff0d",
+					"name": "Toa Payoh HDB Hub"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi City Point",
+			"Woods Square",
+			"Esplanade Xchange",
+			"Hotel Faber Park",
+			"Toa Payoh HDB Hub"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The White Tiffin",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}
