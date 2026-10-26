@@ -1,6 +1,8 @@
 # krisplus-map
 
-A pipeline that collects Kris+ Singapore partner outlets into a map-ready dataset. The plan, source findings, and design notes are in [doc/](doc/README.md).
+A mobile web app that maps Kris+ Singapore partner outlets and finds the ones near you, plus the pipeline that collects the data. The plan, source findings, and design notes are in [doc/](doc/README.md).
+
+The app is a static TanStack Start site in `src/`. It loads `public/data/krisplus-outlets.geojson` and does all search, filtering, and distance math in the browser. Searches, filters, the chosen location, and the selected outlet live in the URL, so a link reopens the same view.
 
 The pipeline reads the public partner pages on krisplus.com and finds each outlet's building with the OneMap search API. It writes these files to `data/out/`:
 
@@ -19,6 +21,22 @@ You need Node 22.18 or later and pnpm.
 ```bash
 pnpm install
 ```
+
+## Run the app
+
+Start the dev server on `http://localhost:3000`:
+
+```bash
+pnpm dev
+```
+
+Build the static site into `dist/client/`, which any static host can serve:
+
+```bash
+pnpm build
+```
+
+"Near me" needs a secure context. It works on `localhost` and on HTTPS, but not on a plain-HTTP address from your phone. Without location access, the app asks for a postal code or address and looks it up with OneMap.
 
 ## Refresh the data
 
@@ -70,7 +88,7 @@ pnpm typecheck
 ```
 
 ```bash
-pnpm data:test
+pnpm test
 ```
 
-The HTTP client tests start a local server, so they need local port binding.
+`pnpm test` runs the pipeline and app tests. The HTTP client tests start a local server, so they need local port binding. `pnpm build` also starts a local server, to pre-render the page.

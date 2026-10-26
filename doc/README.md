@@ -37,7 +37,7 @@ On 2026-10-26 the repo holds a one-line `README.md` and a Node `.gitignore`. The
 - **Source fields stay source-only.** Kris+ gives no outlet address, so `address_raw`, `postal_code`, and `building_name` stay `null`. Values from OneMap go into `geocode_*` fields, and the app labels them as OneMap data.
 - **TypeScript end to end.** The pipeline and the app share one Zod schema in `shared/schema.ts`. A field rename then fails to compile in both places.
 - **The app is static.** The dataset is small. The Kris+ site states "over 1,800 outlets" in Singapore. The app loads the whole GeoJSON file and filters it in the browser. Typed-location lookups call OneMap straight from the browser, which OneMap allows (`Access-Control-Allow-Origin: *`, measured).
-- **Leaflet for the map.** OneMap serves raster tiles. Leaflet 1.9.4 renders raster tiles with a small bundle, and `react-leaflet` 5 supports React 19.
+- **Leaflet for the map.** OneMap serves raster tiles. Leaflet 1.9.4 renders raster tiles with a 43 KB gzipped bundle, and `leaflet.markercluster` groups the pins. The app drives both directly, without `react-leaflet`.
 - **Promotions wait.** The first export sets `promotions: null`, which the brief defines as "not checked". [Phase 6](tasks/phase-6-later.md) adds them.
 
 ## Open questions for you

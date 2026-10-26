@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { test } from "node:test";
 import { z } from "zod";
-import { Candidate, parseSearchPage } from "../lib/onemap.ts";
+import { Candidate, parseSearchPage } from "../../shared/onemap.ts";
 import { buildQueries, cleanOutletName, matchCandidates, tokens } from "./geocode.ts";
 
 const FIXTURES = join(import.meta.dirname, "..", "test", "fixtures", "onemap");

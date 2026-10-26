@@ -152,3 +152,6 @@ vite.config.ts.timestamp-*
 data/raw-html/
 data/work/
 !data/out/
+
+# TanStack Start
+.tanstack/

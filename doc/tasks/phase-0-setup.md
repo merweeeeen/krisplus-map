@@ -6,6 +6,8 @@ This phase produces a repo that builds, runs an empty pipeline, and serves an em
 
 ### 0.1 Scaffold the TanStack Start app
 
+Done on 2026-10-26 with `@tanstack/create-start` 0.59.45 and `--blank`, merged into the existing repo. The app pins `@tanstack/react-start` 1.168.61 and `@tanstack/react-router` 1.170.42. `tsconfig.json` covers the app, and `tsconfig.pipeline.json` covers the pipeline. The scaffolder writes to `~/.config/tanstack`, so set `XDG_CONFIG_HOME` when a sandbox blocks that folder.
+
 1. Run `pnpm create @tanstack/start@latest` in the repo root. Choose React, TypeScript, and no add-ons. Pin `@tanstack/react-start` to a release at least two weeks old. 1.169.4 was current on 2026-10-26.
 2. Keep the existing `.gitignore` and add `data/raw-html/`.
 3. Add Node 22 to `package.json` `engines` and an `.nvmrc`.

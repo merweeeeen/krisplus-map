@@ -4,6 +4,23 @@ This phase builds a mobile web app that shows every mapped outlet and finds outl
 
 The app reads only `public/data/krisplus-outlets.geojson`. You can start this phase with a partial export.
 
+Status on 2026-10-26: tasks 4.1 to 4.9 are built, and Phase 0 task 0.1 is done. Checked in the desktop app's browser pane at 375 by 812 and at 1280 by 800:
+
+- Search finds "cedele guoco" and "bengawan". Filter counts match counts computed separately from the GeoJSON: dining 676, 4+ miles per SGD 397, and 37 for dining, 4+ miles, and pay with miles within 1 km of Raffles Place.
+- Tapping the Suntec City cluster opens "40 outlets at SUNTEC CITY MALL".
+- A postal code, 238895, sets the origin to 313 @ Somerset and lists 163 outlets within 1 km. A denied location request opens the postal code box with an explanation. The success path was tested with a stubbed `navigator.geolocation`, not a real device.
+- A copied link restores the search, the filters, the origin, and the selected outlet.
+
+Not done: task 4.10 on a real iPhone and Android phone over HTTPS, and the Lighthouse audit. The built `dist/client/` has not been loaded in a browser yet. Its files and references were checked on disk.
+
+How the build differs from the tasks below:
+
+- The map uses Leaflet and `leaflet.markercluster` directly, without `react-leaflet`. The map is one imperative component, so the wrapper added nothing.
+- Selecting an outlet zooms to street level and draws a ring. It does not split the cluster, because up to 40 outlets share one building.
+- The scaffold's Nitro server adapter is left out. `vite.config.ts` sets `spa.enabled` and pre-renders the shell to `dist/client/index.html`.
+- "Pay with miles" removes nothing today. Every mapped outlet accepts miles payment. The one partner that does not, Singapore Airlines Academy, lists no outlet.
+- The OneMap attribution text is a best guess until Phase 0 task 0.3 confirms it.
+
 ## Tasks
 
 ### 4.1 Load and type the data

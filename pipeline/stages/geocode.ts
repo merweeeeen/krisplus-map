@@ -6,7 +6,8 @@ import { Outlet } from "../../shared/schema.ts";
 import type { createHttpClient } from "../lib/http.ts";
 import { readJsonOr, writeJson } from "../lib/json.ts";
 import { log } from "../lib/log.ts";
-import { type Candidate, SearchResult, searchOneMap } from "../lib/onemap.ts";
+import type { Candidate } from "../../shared/onemap.ts";
+import { SearchResult, searchOneMap } from "../lib/onemap.ts";
 import { STATE_PATHS, type RunPaths } from "../lib/paths.ts";
 import { toSgtIso } from "../lib/time.ts";
 

@@ -1,16 +1,20 @@
 {
 	"compilerOptions": {
 		"target": "es2024",
-		"module": "nodenext",
-		"moduleResolution": "nodenext",
+		"module": "esnext",
+		"moduleResolution": "bundler",
+		"jsx": "react-jsx",
+		"lib": ["es2024", "dom", "dom.iterable"],
+		"types": ["vite/client"],
 		"strict": true,
 		"noUncheckedIndexedAccess": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noFallthroughCasesInSwitch": true,
 		"allowImportingTsExtensions": true,
-		"erasableSyntaxOnly": true,
 		"verbatimModuleSyntax": true,
 		"noEmit": true,
-		"skipLibCheck": true,
-		"types": ["node"]
+		"skipLibCheck": true
 	},
-	"include": ["pipeline", "shared"]
+	"include": ["src", "shared", "vite.config.ts"]
 }
