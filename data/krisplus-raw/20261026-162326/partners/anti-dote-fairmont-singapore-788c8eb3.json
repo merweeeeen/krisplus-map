@@ -1,0 +1,208 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/anti-dote-fairmont-singapore-788c8eb3",
+	"slug": "anti-dote-fairmont-singapore-788c8eb3",
+	"fetchedAt": "2026-10-26T16:25:42.296+08:00",
+	"payload": {
+		"partner": {
+			"_id": "618c9107bb241c5b80b2735f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Fairmont Singapore",
+				"Antidote",
+				"Cocktails",
+				"Central",
+				"Raffles City",
+				"High Tea",
+				"Afternoon Tea",
+				"City Hall",
+				"Esplanade",
+				"Bras Basah",
+				"Dining",
+				"Bar",
+				"Drinks",
+				"Valentines Day",
+				"Dates",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "RC Hotels (Pte.) Ltd. - Anti:dote ",
+			"brand": "ANTI:DOTE (Fairmont Singapore)",
+			"code": "ANT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "ANTIDOTE",
+			"address": {
+				"city": "Singapore",
+				"line1": "2 Stamford Road ",
+				"streetName": "Stamford Road ",
+				"postalCode": "178882",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198904859N ",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16372691786089622-ANTIDOTE2025Interior.jpg",
+			"websiteUrl": "https://www.fairmont-singapore.com/dining/antidote/",
+			"descriptionHtml": "<p>ANTI:DOTE offers creative cocktails inspired by ancient and modern remedies. Alongside their drinks menu are tapas offerings which include Joselito Paleta Ham, Hokkaido Scallop Dumpling and Smoked Baby Aubergine which complement and elevate your experience at ANTI:DOTE. Known for serving afternoon tea in their iconic chest of drawers, diners can also indulge in monthly-themed sweet treats and bite-sized sandwiches.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8764281357154666-5338069598466764-Antidote%20-%20BRAND%20LOGO%201000%20x%201000.png",
+			"createdAt": "2021-11-11T03:41:59.101Z",
+			"updatedAt": "2026-08-06T14:17:22.825Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "                ",
+			"promotional": "             ",
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef99a3d10e34df66b471d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16372691786089622-ANTIDOTE2025Interior_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16372691786089622-ANTIDOTE2025Interior_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16372691786089622-ANTIDOTE2025Interior_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16372691786089622-ANTIDOTE2025Interior.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8764281357154666-5338069598466764-Antidote%20-%20BRAND%20LOGO%201000%20x%201000.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8764281357154666-5338069598466764-Antidote%20-%20BRAND%20LOGO%201000%20x%201000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8764281357154666-5338069598466764-Antidote%20-%20BRAND%20LOGO%201000%20x%201000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8764281357154666-5338069598466764-Antidote%20-%20BRAND%20LOGO%201000%20x%201000_high.png"
+			},
+			"searchContent": "ANTI:DOTE offers creative cocktails inspired by ancient and modern remedies. Alongside their drinks menu are tapas offerings which include Joselito Paleta Ham, Hokkaido Scallop Dumpling and Smoked Baby Aubergine which complement and elevate your experience at ANTI:DOTE. Known for serving afternoon tea in their iconic chest of drawers, diners can also indulge in monthly-themed sweet treats and bite-sized sandwiches. Fairmont Singapore Antidote Cocktails Central Raffles City High Tea Afternoon Tea City Hall Esplanade Bras Basah Dining Bar Drinks Valentines Day Dates Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T06:49:53.954Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "anti-dote-fairmont-singapore-788c8eb3",
+			"outlets": [
+				{
+					"_id": "619dd64a8b4827582cdfc557",
+					"name": "Antidote"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Antidote"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ANTI:DOTE (Fairmont Singapore)",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

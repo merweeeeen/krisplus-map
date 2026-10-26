@@ -1,0 +1,208 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/hai-tien-lo-pan-pacific-singapore-9cd1f140",
+	"slug": "hai-tien-lo-pan-pacific-singapore-9cd1f140",
+	"fetchedAt": "2026-10-26T16:25:02.104+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60826e2fb389d63404563173",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Hai Tien Lo Pan Pacific Singapore",
+			"brand": "Hai Tien Lo (Pan Pacific Singapore)",
+			"code": "HTL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Hai Tien Lo",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "7 Raffles Boulevard, Pan Pacific Singapore",
+				"postalCode": "039595",
+				"streetName": "Raffles Boulevard"
+			},
+			"regNumber": "28631800L",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9688858905535533-21032676530256333-Brand%20Image%20(750%20x%20540px)%5B1%5D.jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pp-marina/dining/hai-tien-lo.html",
+			"descriptionHtml": "<p>Hai Tien Lo offers exquisite dim sum, double boiled soups, roast meats and classic braised dishes. Enjoy traditional Cantonese dining with modern interpretations like the Australian Abalone with Japanese Mushrooms and Black Truffles.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7853452802481606-6650600268680489-Brand%20Logo%20(1000%20x%201000px)%5B1%5D.jpg",
+			"createdAt": "2021-04-23T06:50:23.038Z",
+			"updatedAt": "2026-08-06T14:17:16.307Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "     ",
+			"searchableKeywords": [
+				"Promenade",
+				"Chinese",
+				"Contemporary",
+				"Award Winning",
+				"Cantonese",
+				"Celebration",
+				"Dim Sum",
+				"Buffet",
+				"Top Restaurants",
+				"Best Restaurants",
+				"Dining",
+				"Pan Pacific",
+				"Business",
+				"Reunion",
+				"Buffet",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiang-Nan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"FortuneFeast"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c00108b03f047da5a4"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9688858905535533-21032676530256333-Brand%20Image%20(750%20x%20540px)%5B1%5D.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7853452802481606-6650600268680489-Brand%20Logo%20(1000%20x%201000px)%5B1%5D.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9688858905535533-21032676530256333-Brand%20Image%20(750%20x%20540px)%5B1%5D_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9688858905535533-21032676530256333-Brand%20Image%20(750%20x%20540px)%5B1%5D_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9688858905535533-21032676530256333-Brand%20Image%20(750%20x%20540px)%5B1%5D_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7853452802481606-6650600268680489-Brand%20Logo%20(1000%20x%201000px)%5B1%5D_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7853452802481606-6650600268680489-Brand%20Logo%20(1000%20x%201000px)%5B1%5D_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7853452802481606-6650600268680489-Brand%20Logo%20(1000%20x%201000px)%5B1%5D_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:02:44.728Z",
+			"searchContent": "Hai Tien Lo offers exquisite dim sum, double boiled soups, roast meats and classic braised dishes. Enjoy traditional Cantonese dining with modern interpretations like the Australian Abalone with Japanese Mushrooms and Black Truffles. Promenade Chinese Contemporary Award Winning Cantonese Celebration Dim Sum Buffet Top Restaurants Best Restaurants Dining Pan Pacific Business Reunion Buffet Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiang-Nan Chun Honolulu Tai Cheong Bakery Dining Chinese Buffet",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "hai-tien-lo-pan-pacific-singapore-9cd1f140",
+			"outlets": [
+				{
+					"_id": "6093936348f83e10fcacc629",
+					"name": "Pan Pacific Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pan Pacific Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Hai Tien Lo (Pan Pacific Singapore)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

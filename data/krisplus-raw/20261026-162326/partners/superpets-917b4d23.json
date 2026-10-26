@@ -1,0 +1,193 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/superpets-917b4d23",
+	"slug": "superpets-917b4d23",
+	"fetchedAt": "2026-10-26T16:31:23.788+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68db419f1dbd5504659b520a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"pet food",
+				"cat food",
+				"dog food",
+				"pet shop",
+				"pet store",
+				"pet supplies",
+				"superpets",
+				"dog treats",
+				"cat treats",
+				"grooming"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "SUPERPETS TRADING PTE LTD",
+			"brand": "Superpets",
+			"code": "PET",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Superpets",
+			"address": {
+				"line1": "31 woodlands close #04-08  Singapore 737855",
+				"postalCode": "737855",
+				"streetName": "31 woodlands close",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.superpets.sg",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Superpets, a top pet supplies retail chain in Singapore, provides a wide selection of high-quality pet food, accessories, and essentials. With more than a decade of experience, Superpets is a trusted choice for pet owners, known for its affordable prices, expert support, and dedication to the health and happiness of pets.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">•\t204 Bedok North Street 1<br>•\t263 Jalan Kayu<br>•\t371 Bukit Batok Street<br>•\t720 Ang Mo Kio Ave 6<br>•\t642 Senja Close <br>•\tBoon Lay Shopping Centre<br>•\tTampines GreenCourt<br>•\tVista Point<br>•\tYishun Chong Pang City (Shopping Belt)</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/911988831951072-SuperPets.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8171062742378932-Boon%20Lay%20Store%20Front%20Superpets.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 7
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/911988831951072-SuperPets.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8171062742378932-Boon%20Lay%20Store%20Front%20Superpets.jpg",
+			"createdAt": "2025-09-30T02:34:07.555Z",
+			"updatedAt": "2026-10-13T06:42:50.140Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8171062742378932-Boon%20Lay%20Store%20Front%20Superpets_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8171062742378932-Boon%20Lay%20Store%20Front%20Superpets_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8171062742378932-Boon%20Lay%20Store%20Front%20Superpets_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/911988831951072-SuperPets_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/911988831951072-SuperPets_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/911988831951072-SuperPets_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-12-02T02:43:27.496Z",
+			"searchContent": "Superpets, a top pet supplies retail chain in Singapore, provides a wide selection of high-quality pet food, accessories, and essentials. With more than a decade of experience, Superpets is a trusted choice for pet owners, known for its affordable prices, expert support, and dedication to the health and happiness of pets. • 204 Bedok North Street 1 • 263 Jalan Kayu • 371 Bukit Batok Street • 720 Ang Mo Kio Ave 6 • 642 Senja Close • Boon Lay Shopping Centre • Tampines GreenCourt • Vista Point • Yishun Chong Pang City (Shopping Belt) pet food cat food dog food pet shop pet store pet supplies superpets dog treats cat treats grooming Retail",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "superpets-917b4d23",
+			"outlets": [
+				{
+					"_id": "68db453fe34bfe046ddcbcb1",
+					"name": "371 Bukit Batok Street 31"
+				},
+				{
+					"_id": "68db45df13da0d046626a3d5",
+					"name": "Blk 642 Senja Close"
+				},
+				{
+					"_id": "68db4988397af9047508d8e0",
+					"name": "Vista Point"
+				},
+				{
+					"_id": "692d489b1dc3334a64dc7e88",
+					"name": "Chong Pang"
+				},
+				{
+					"_id": "692d4d5db1e0e6e0b0bc63e2",
+					"name": "Jalan Kayu"
+				},
+				{
+					"_id": "692d4ea1690241da8a194448",
+					"name": "Bedok Central"
+				},
+				{
+					"_id": "692d4ff0d7d9d385a1db56b9",
+					"name": "Boon Lay Shopping Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"371 Bukit Batok Street 31",
+			"Blk 642 Senja Close",
+			"Vista Point",
+			"Chong Pang",
+			"Jalan Kayu",
+			"Bedok Central",
+			"Boon Lay Shopping Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Superpets",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/le-congee-noodle-house-caa1ad58",
+	"slug": "le-congee-noodle-house-caa1ad58",
+	"fetchedAt": "2026-10-26T16:26:45.687+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7af879737c23198263dc3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Congee",
+				"Noodle",
+				"Cantonese Fare",
+				"Roast Meat",
+				"Hong Kong Style",
+				"Dining",
+				"Changi Airport T3",
+				"Westgate",
+				"Paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Canton Noodle & Congee House",
+			"brand": "Le Congee & Noodle House",
+			"code": "CNC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Le Congee",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane 10",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201010317N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7967977100827615-Canton%20Noodle.png",
+			"websiteUrl": "https://www.paradisegp.com/brand-canton-paradise/",
+			"descriptionHtml": "<p>\nCanton Noodle & Congee House has a wide assortment of traditional favourites, fragrant roasted fares, velvety smooth congees and flavourful noodles. </p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t\n\t<li>Changi Airport T3 (Transit)</li>\n\t<li>Westgate</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "                ",
+			"participatingOutlets": "•\tChangi Airport T3 #B2-49\n•\tChangi Airport T3 (Transit Area) #02-28\n•\tWestgate #02-13",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9560005078942828-LeCongee.jpg",
+			"createdAt": "2022-08-13T14:04:55.392Z",
+			"updatedAt": "2026-08-27T09:30:53.398Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef971034603c33892998a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7967977100827615-Canton%20Noodle.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9560005078942828-LeCongee.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7967977100827615-Canton%20Noodle_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7967977100827615-Canton%20Noodle_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7967977100827615-Canton%20Noodle_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9560005078942828-LeCongee_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9560005078942828-LeCongee_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9560005078942828-LeCongee_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-04T01:04:02.478Z",
+			"searchContent": "Canton Noodle & Congee House has a wide assortment of traditional favourites, fragrant roasted fares, velvety smooth congees and flavourful noodles. Participating Outlets: Changi Airport T3 (Transit) Westgate Congee Noodle Cantonese Fare Roast Meat Hong Kong Style Dining Changi Airport T3 Westgate Paradise FortuneFeast Dining Casual Dining Chinese",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "le-congee-noodle-house-caa1ad58",
+			"outlets": [
+				{
+					"_id": "62f91b972fd51d0548ce0051",
+					"name": "Westgate"
+				},
+				{
+					"_id": "62f91bcd2fd51d0548ce0055",
+					"name": "Changi Airport T3 (Transit)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Westgate",
+			"Changi Airport T3 (Transit)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Le Congee & Noodle House",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

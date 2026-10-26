@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-mad-sailors-e8304cb5",
+	"slug": "the-mad-sailors-e8304cb5",
+	"fetchedAt": "2026-10-26T16:33:44.358+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a45c059badc2766ed48a5a2",
+			"name": "THE MAD SAILORS PRIVATE LIMITED (TMS)",
+			"shortName": "The Mad Sailor",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "The Mad Sailors",
+			"code": "7MS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/925014903331163-9266869220776532-TMS%20KRIS%2B%20Logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/12986927523999414-8855643893325911-TMS%20KRIS%2B%20750x540.jpg",
+			"websiteUrl": "https://www.madsailors.sg",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "10 GENTING LANE #06-01",
+				"postalCode": "349583",
+				"streetName": "JAY GEE MELWANI HOUSE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Singapore's authentic halal British fish and chips. Crispy battered fish and proper home made chips.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"></span>The Mad Sailors is a Muslim owned establishment.</p>",
+			"searchableKeywords": [
+				"Halal",
+				"Muslim",
+				"fish and chips",
+				"Brunch",
+				"western",
+				"dinner"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-16T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-02T01:35:21.634Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/925014903331163-9266869220776532-TMS%20KRIS%2B%20Logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12986927523999414-8855643893325911-TMS%20KRIS%2B%20750x540.jpg",
+			"createdAt": "2026-07-02T01:35:21.642Z",
+			"updatedAt": "2026-09-04T05:33:15.504Z",
+			"searchContent": "Singapore's authentic halal British fish and chips. Crispy battered fish and proper home made chips. The Mad Sailors is a Muslim owned establishment. Halal Muslim fish and chips Brunch western dinner Dining Halal Cafe Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12986927523999414-8855643893325911-TMS%20KRIS%2B%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12986927523999414-8855643893325911-TMS%20KRIS%2B%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12986927523999414-8855643893325911-TMS%20KRIS%2B%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/925014903331163-9266869220776532-TMS%20KRIS%2B%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/925014903331163-9266869220776532-TMS%20KRIS%2B%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/925014903331163-9266869220776532-TMS%20KRIS%2B%20Logo_high.jpg"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-mad-sailors-e8304cb5",
+			"outlets": [
+				{
+					"_id": "6a45c4520264e18a36136b34",
+					"name": "North Bridge Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"North Bridge Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Mad Sailors",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

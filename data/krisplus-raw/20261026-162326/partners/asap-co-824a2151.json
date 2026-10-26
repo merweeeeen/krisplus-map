@@ -1,0 +1,185 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/asap-co-824a2151",
+	"slug": "asap-co-824a2151",
+	"fetchedAt": "2026-10-26T16:27:45.877+08:00",
+	"payload": {
+		"partner": {
+			"_id": "644fd19845c717005c3e3197",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Smokehouse",
+				"Steakhouse",
+				"Dryaged Porterhouse",
+				"Tomahawk",
+				"Mocktail",
+				"Halal",
+				"Muslim Owned",
+				"Grilled",
+				"Vegetarian",
+				"Dining",
+				"Telok Ayer",
+				"Meats",
+				"Woodfire",
+				"Burger",
+				"Pasta",
+				"Wagyu"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "THE SMOK HOUS PTE LTD",
+			"brand": "ASAP & Co.",
+			"code": "ACO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "ASAP & Co.",
+			"address": {
+				"line1": "70 Telok Ayer Street #01-01",
+				"postalCode": "048458",
+				"streetName": "Far East Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "202019392N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8418364839201027-03602452886543839-Brand_750.jpg",
+			"websiteUrl": "https://www.asapnco.sg/",
+			"descriptionHtml": "<p>Asap & Co. is a brand that celebrates woodfire and smoking cuisine. Their restaurant in Far East Square showcases a carefully curated menu of bold, flavourful dishes infused with rich, complex flavours. They use only the finest ingredients and innovative techniques to create unforgettable woodfired meats and smoked vegetarian options. Their dedication to pushing the boundaries of cuisine while honouring tradition sets them apart. Experience the magic of woodfire cuisine at Asap & Co.</p>  <p>Advance orders are highly recommended. Asap & Co. smokes all their meats and does not grill them. The smoking process takes between 45 min to 1 hour.</p><p>ASAP & Co. <span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">is a Muslim owned establishment.</span></p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4027166035055951-5581982394890348-A%20-%20asap-kris%20-%201000x1000.png",
+			"createdAt": "2023-05-01T14:50:00.993Z",
+			"updatedAt": "2026-09-04T07:03:37.372Z",
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94aa3718718842dd936"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8418364839201027-03602452886543839-Brand_750.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4027166035055951-5581982394890348-A%20-%20asap-kris%20-%201000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8418364839201027-03602452886543839-Brand_750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8418364839201027-03602452886543839-Brand_750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8418364839201027-03602452886543839-Brand_750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4027166035055951-5581982394890348-A%20-%20asap-kris%20-%201000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4027166035055951-5581982394890348-A%20-%20asap-kris%20-%201000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4027166035055951-5581982394890348-A%20-%20asap-kris%20-%201000x1000_high.png"
+			},
+			"searchContent": "Asap & Co. is a brand that celebrates woodfire and smoking cuisine. Their restaurant in Far East Square showcases a carefully curated menu of bold, flavourful dishes infused with rich, complex flavours. They use only the finest ingredients and innovative techniques to create unforgettable woodfired meats and smoked vegetarian options. Their dedication to pushing the boundaries of cuisine while honouring tradition sets them apart. Experience the magic of woodfire cuisine at Asap & Co. Advance orders are highly recommended. Asap & Co. smokes all their meats and does not grill them. The smoking process takes between 45 min to 1 hour. ASAP & Co. is a Muslim owned establishment. Smokehouse Steakhouse Dryaged Porterhouse Tomahawk Mocktail Halal Muslim Owned Grilled Vegetarian Dining Telok Ayer Meats Woodfire Burger Pasta Wagyu Dining Halal Vegetarian-Friendly Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "asap-co-824a2151",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-09-04T07:03:16.640Z",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "64674b6451f941005633a680",
+					"name": "Telok Ayer St"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Telok Ayer St"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ASAP & Co.",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

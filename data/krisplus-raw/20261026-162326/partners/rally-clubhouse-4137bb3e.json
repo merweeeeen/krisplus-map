@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/rally-clubhouse-4137bb3e",
+	"slug": "rally-clubhouse-4137bb3e",
+	"fetchedAt": "2026-10-26T16:33:50.343+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a59df3386bcb8c595d82eb7",
+			"name": "ZOUK CLARKE QUAY PTE LTD - Rally Clubhouse",
+			"shortName": "Rally Clubhse",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Rally Clubhouse",
+			"code": "RLY",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8640309811326425-4285575006457223-Rally%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/10854425691755121-5876080510833066-750x540%20(16).png",
+			"websiteUrl": "https://www.instagram.com/rallyclubhousesg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "3C RIVER VALLEY ROAD  #02-02",
+				"postalCode": "179022",
+				"streetName": "CQ CLARKE QUAY",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Rally Clubhouse is a contemporary day-to-night social destination by the Zouk Group that blends café, bar, dining, music, and community experiences under one roof. Designed as a flexible lifestyle hub, it hosts curated events ranging from live music and creative workshops to networking sessions and cultural activations, creating an inclusive space where people can connect, collaborate, and unwind throughout the day.</span></p>",
+			"searchableKeywords": [
+				"Bar",
+				"club",
+				"predrink",
+				"activities",
+				"booth",
+				"Dining",
+				"Casual"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.03,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"PB",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-27T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-17T07:52:19.145Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8640309811326425-4285575006457223-Rally%20Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10854425691755121-5876080510833066-750x540%20(16).png",
+			"createdAt": "2026-07-17T07:52:19.153Z",
+			"updatedAt": "2026-08-06T14:18:33.487Z",
+			"searchContent": "Rally Clubhouse is a contemporary day-to-night social destination by the Zouk Group that blends café, bar, dining, music, and community experiences under one roof. Designed as a flexible lifestyle hub, it hosts curated events ranging from live music and creative workshops to networking sessions and cultural activations, creating an inclusive space where people can connect, collaborate, and unwind throughout the day. Bar club predrink activities booth Dining Casual Dining Casual Dining Pubs & Bars Beverages & Desserts",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10854425691755121-5876080510833066-750x540%20(16)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10854425691755121-5876080510833066-750x540%20(16)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10854425691755121-5876080510833066-750x540%20(16)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8640309811326425-4285575006457223-Rally%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8640309811326425-4285575006457223-Rally%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8640309811326425-4285575006457223-Rally%20Logo_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "rally-clubhouse-4137bb3e",
+			"outlets": [
+				{
+					"_id": "6a59e1fe6f3366cf14e8cb35",
+					"name": "Clarke Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Rally Clubhouse",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

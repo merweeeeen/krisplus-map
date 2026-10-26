@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kele-singapore-54769797",
+	"slug": "kele-singapore-54769797",
+	"fetchedAt": "2026-10-26T16:27:48.786+08:00",
+	"payload": {
+		"partner": {
+			"_id": "645c4c032187b5005c3bc212",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Pineapple",
+				"Tarts",
+				"Roll",
+				"Cake",
+				"Durian",
+				"Japanese",
+				"Chinatown",
+				"Retail",
+				"Gatherings",
+				"Festive",
+				"Treats",
+				"Singaporean",
+				"Jewel Changi Airport",
+				"Cnysnacks",
+				"Chinese New Year"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Capen Marketing Pte. Ltd. ",
+			"brand": "Kele Singapore",
+			"code": "KEL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Kele",
+			"address": {
+				"city": "Singapore",
+				"line1": "15 Jalan Tepong #06-16 Jurong Food Hub Building, S619336",
+				"streetName": "15 Jalan Tepong ",
+				"postalCode": "619336",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201027214Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6644648117645775-8054998777547133-BRAND%20IMAGE%20750X540.png",
+			"websiteUrl": "https://www.kele.sg/",
+			"descriptionHtml": "<p>In their quest to be the Singapore brand for pineapple tarts, Kele&nbsp;continuously worked on their craft and family recipe.</p>\n\n<p>Voted best pineapple tarts in Singapore, Kele&rsquo;s handmade Traditional Pineapple Tarts has been winning the hearts of many for more than 30 years! Their secret family recipe gives it its signature milky flavour, soft buttery crust and perfect pineapple-to-tart ratio.<br />\n​​​​</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Chinatown</li>\n\t<li>Jewel Changi Airport</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4238053369074537-5427153804879399-LOGO_B_1000X1000.png",
+			"createdAt": "2023-05-11T01:59:31.528Z",
+			"updatedAt": "2026-08-06T14:17:44.959Z",
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9492f71c855d5496e1c"
+			],
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6644648117645775-8054998777547133-BRAND%20IMAGE%20750X540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4238053369074537-5427153804879399-LOGO_B_1000X1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6644648117645775-8054998777547133-BRAND%20IMAGE%20750X540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6644648117645775-8054998777547133-BRAND%20IMAGE%20750X540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6644648117645775-8054998777547133-BRAND%20IMAGE%20750X540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4238053369074537-5427153804879399-LOGO_B_1000X1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4238053369074537-5427153804879399-LOGO_B_1000X1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4238053369074537-5427153804879399-LOGO_B_1000X1000_high.png"
+			},
+			"searchContent": "In their quest to be the Singapore brand for pineapple tarts, Kele continuously worked on their craft and family recipe. Voted best pineapple tarts in Singapore, Kele’s handmade Traditional Pineapple Tarts has been winning the hearts of many for more than 30 years! Their secret family recipe gives it its signature milky flavour, soft buttery crust and perfect pineapple-to-tart ratio. ​​​​ Participating Outlets: Chinatown Jewel Changi Airport Pineapple Tarts Roll Cake Durian Japanese Chinatown Retail Gatherings Festive Treats Singaporean Jewel Changi Airport Cnysnacks Chinese New Year Retail",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kele-singapore-54769797",
+			"outlets": [
+				{
+					"_id": "645c93c32187b5005c3c4a88",
+					"name": "2 Smith St"
+				},
+				{
+					"_id": "6549b4f3298d050050e5f795",
+					"name": "Jewel Changi Airport"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"2 Smith St",
+			"Jewel Changi Airport"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kele Singapore",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

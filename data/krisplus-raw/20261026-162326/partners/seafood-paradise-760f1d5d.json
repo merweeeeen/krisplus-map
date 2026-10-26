@@ -1,0 +1,188 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/seafood-paradise-760f1d5d",
+	"slug": "seafood-paradise-760f1d5d",
+	"fetchedAt": "2026-10-26T16:26:53.492+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7c1f49737c23198263df7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese Cuisine Local",
+				"Dining",
+				"Vivocity",
+				"Harbourfront",
+				"Seafood Paradise",
+				"Crab",
+				"Gathering",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Mooncake",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Seafood Paradise",
+			"brand": "Seafood Paradise",
+			"code": "SEP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "SeafoodParadis",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201010333R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3989354216649561-0066594148652081575-Creamy%20butter%20crab%20for%20Kris%2B%20750x540.jpg",
+			"websiteUrl": "https://www.paradisegp.com/brand-seafood-paradise/",
+			"descriptionHtml": "<p>At Seafood Paradise, tradition meets innovation. The restaurant takes popular and classic seafood dishes up a notch by making tweaks to create exceptional taste and visual presentation.</p>  <p>Not forgetting the innovative creations truly unique to Seafood Paradise, our Signature Creamy Butter Crab topped with Coconut Crumbs are a must-order.</p>  <p>Participating Outlets:<br><span style=\"color: rgb(61, 73, 105); letter-spacing: 0px;\">- Clarke Quay</span><br>- Scotts Square</p>   \t \t ",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "              ",
+			"participatingOutlets": "•\tVivoCity",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2731491758589939-1000x1000%20Seafood%20Paradise.jpg",
+			"createdAt": "2022-08-13T15:23:32.197Z",
+			"updatedAt": "2026-08-24T10:36:07.152Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94408272955cb5b8b83"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3989354216649561-0066594148652081575-Creamy%20butter%20crab%20for%20Kris%2B%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2731491758589939-1000x1000%20Seafood%20Paradise.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3989354216649561-0066594148652081575-Creamy%20butter%20crab%20for%20Kris%2B%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3989354216649561-0066594148652081575-Creamy%20butter%20crab%20for%20Kris%2B%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3989354216649561-0066594148652081575-Creamy%20butter%20crab%20for%20Kris%2B%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2731491758589939-1000x1000%20Seafood%20Paradise_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2731491758589939-1000x1000%20Seafood%20Paradise_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2731491758589939-1000x1000%20Seafood%20Paradise_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:04:42.745Z",
+			"searchContent": "At Seafood Paradise, tradition meets innovation. The restaurant takes popular and classic seafood dishes up a notch by making tweaks to create exceptional taste and visual presentation. Not forgetting the innovative creations truly unique to Seafood Paradise, our Signature Creamy Butter Crab topped with Coconut Crumbs are a must-order. Participating Outlets: - Clarke Quay - Scotts Square Chinese Cuisine Local Dining Vivocity Harbourfront Seafood Paradise Crab Gathering Reunion Business Corporate Dining Working Lunch Networking Mooncake paradise FortuneFeast Dining Chinese",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "seafood-paradise-760f1d5d",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "648c1b5d3467c60055fea17f",
+					"name": "Clarke Quay, Blk A"
+				},
+				{
+					"_id": "6a6b12e64871171a12198641",
+					"name": "Scotts Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay, Blk A",
+			"Scotts Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Seafood Paradise",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

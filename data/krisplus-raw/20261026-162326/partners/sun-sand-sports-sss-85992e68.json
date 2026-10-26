@@ -1,0 +1,222 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sun-sand-sports-sss-85992e68",
+	"slug": "sun-sand-sports-sss-85992e68",
+	"fetchedAt": "2026-10-26T16:27:50.735+08:00",
+	"payload": {
+		"partner": {
+			"_id": "646f6108f92f62005c04fbd8",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.015,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Sports",
+				"Running",
+				"Training",
+				"Sss",
+				"Tennis",
+				"Swimming",
+				"Swim",
+				"Swimwear",
+				"Nike",
+				"Adidas",
+				"Puma",
+				"Asics",
+				"New Balance",
+				"Under Armour",
+				"Columbia",
+				"Wilson",
+				"Speedo",
+				"Sportswear",
+				"Footwear",
+				"Activewear",
+				"Sports Equipment",
+				"Sports Gear",
+				"Newclothes",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts",
+				"Skechers"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "GMG Sports SEA Pte Ltd (Sun & Sand Sports (SSS))",
+			"brand": "Sun & Sand Sports (SSS)",
+			"code": "SAN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Sun and Sand ",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "16 Raffles Quay, #16-02, Hong Leong Building",
+				"postalCode": "048581",
+				"streetName": "16 Raffles QuaY"
+			},
+			"regNumber": "199409417M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2869048161969181-08542280115284351-BRAND%20IMAGE_750x540.jpg",
+			"websiteUrl": "https://www.instagram.com/sssportssg/",
+			"descriptionHtml": "<p>Since 1979, Sun & Sand Sports has grown leaps and bounds to become the largest sports retailer and distributor in the Middle East, with more than 200 stores across the region. Having established as a market leader, they’re bringing their vast portfolio of over 20 powerhouse brands to South-East Asia.</p>  <p>Participating Outlets:</p>  <ul> \t \t<li>Raffles City Shopping Centre</li> \t<li>Westgate</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7965495714982478-13434899341525508-BRAND%20LOGO_1000x1000.jpg",
+			"createdAt": "2023-05-25T13:22:16.616Z",
+			"updatedAt": "2026-08-06T14:17:45.308Z",
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"translations": [
+				"64eef942595add249244642e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2869048161969181-08542280115284351-BRAND%20IMAGE_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7965495714982478-13434899341525508-BRAND%20LOGO_1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2869048161969181-08542280115284351-BRAND%20IMAGE_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2869048161969181-08542280115284351-BRAND%20IMAGE_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2869048161969181-08542280115284351-BRAND%20IMAGE_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7965495714982478-13434899341525508-BRAND%20LOGO_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7965495714982478-13434899341525508-BRAND%20LOGO_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7965495714982478-13434899341525508-BRAND%20LOGO_1000x1000_high.jpg"
+			},
+			"searchContent": "Since 1979, Sun & Sand Sports has grown leaps and bounds to become the largest sports retailer and distributor in the Middle East, with more than 200 stores across the region. Having established as a market leader, they’re bringing their vast portfolio of over 20 powerhouse brands to South-East Asia. Participating Outlets: Raffles City Shopping Centre Westgate Sports Running Training Sss Tennis Swimming Swim Swimwear Nike Adidas Puma Asics New Balance Under Armour Columbia Wilson Speedo Sportswear Footwear Activewear Sports Equipment Sports Gear Newclothes Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shoes Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Skechers Retail Fashion",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-25T02:40:23.223Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sun-sand-sports-sss-85992e68",
+			"outlets": [
+				{
+					"_id": "64866da9ed81630055ea3fbf",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "65814cdbcaf413004f4cb2a7",
+					"name": "Westgate"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Raffles City Shopping Centre",
+			"Westgate"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sun & Sand Sports (SSS)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

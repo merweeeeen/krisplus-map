@@ -1,0 +1,192 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/club-5-parkroyal-on-beach-road-52504213",
+	"slug": "club-5-parkroyal-on-beach-road-52504213",
+	"fetchedAt": "2026-10-26T16:25:06.115+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60988f7048f83e10fcacc704",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Club 5 (PARKROYAL on Beach Road)",
+			"brand": "Club 5 (PARKROYAL on Beach Road)",
+			"code": "CL5",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Club 5 PRB",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "7500 Beach Road, Singapore",
+				"postalCode": "199591",
+				"streetName": "Beach Road"
+			},
+			"regNumber": "196800248D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8908090300315448-9077108624186081-Club%205%20brand%20750x540.jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pr-beach-road/dining/club-5.html",
+			"descriptionHtml": "<p>Inspired by the rich flavours and spices of Southeast Asia, Club 5 is the new social place to hit for great music, craft cocktails and delectable bar nibbles. Explore past and present cultures through a selection of craft cocktails inspired by the diverse history of Kampong Glam.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8061970215075109-741828916059788-Club%205%20logo%201000x1000.jpg",
+			"createdAt": "2021-05-10T01:42:08.076Z",
+			"updatedAt": "2026-08-06T14:17:17.113Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "     ",
+			"searchableKeywords": [
+				"Bugis",
+				"Beach Road",
+				"Nicoll Highway",
+				"Western",
+				"City",
+				"East",
+				"Pub",
+				"Finger Food",
+				"Dining",
+				"American",
+				"Diner",
+				"Water",
+				"Fries",
+				"Soda",
+				"Drinks",
+				"Alcohol",
+				"Beer",
+				"Wine",
+				"Steak",
+				"Pasta",
+				"Oglio",
+				"Pizza",
+				"Dates",
+				"Valentines Day",
+				"Parkroyal",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9bf3d10e34df66b4736"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8908090300315448-9077108624186081-Club%205%20brand%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8061970215075109-741828916059788-Club%205%20logo%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8908090300315448-9077108624186081-Club%205%20brand%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8908090300315448-9077108624186081-Club%205%20brand%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8908090300315448-9077108624186081-Club%205%20brand%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8061970215075109-741828916059788-Club%205%20logo%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8061970215075109-741828916059788-Club%205%20logo%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8061970215075109-741828916059788-Club%205%20logo%201000x1000_high.jpg"
+			},
+			"searchContent": "Inspired by the rich flavours and spices of Southeast Asia, Club 5 is the new social place to hit for great music, craft cocktails and delectable bar nibbles. Explore past and present cultures through a selection of craft cocktails inspired by the diverse history of Kampong Glam. Bugis Beach Road Nicoll Highway Western City East Pub Finger Food Dining American Diner Water Fries Soda Drinks Alcohol Beer Wine Steak Pasta Oglio Pizza Dates Valentines Day Parkroyal Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T06:58:18.173Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "club-5-parkroyal-on-beach-road-52504213",
+			"outlets": [
+				{
+					"_id": "60c1b26f6ebca12b8c12cfe4",
+					"name": "PARKROYAL on Beach Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL on Beach Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Club 5 (PARKROYAL on Beach Road)",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

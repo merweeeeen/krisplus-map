@@ -1,0 +1,250 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kenko-wellness-spa-reflexology-92f4340c",
+	"slug": "kenko-wellness-spa-reflexology-92f4340c",
+	"fetchedAt": "2026-10-26T16:23:41.866+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5cfa29f0ddd4632ed8447088",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "KENKO HOLDING PTE LTD",
+			"brand": "Kenko Wellness Spa & Reflexology",
+			"code": "KKO",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "6 RAFFLES BOULEVARD, #02-167/168 MARINA SQUARE ",
+				"postalCode": "039594",
+				"streetName": "RAFFLES BOULEVARD"
+			},
+			"categary": "Others",
+			"regNumber": "200207669C",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-e0db89d5-9650-4e30-b749-65576ca636bf.png",
+			"createdAt": "2019-06-07T09:10:08.455Z",
+			"updatedAt": "2026-08-06T14:17:06.899Z",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Kris+ Exclusive Promotions:\n1) Enjoy 10% Off Services when you flash the Kris+ app at the point of payment\n2) IWA Hot Spa At SGD 48 only! (u.p SGD 88) when you flash the Kris+ app at the point of payment\n\nTerms & Conditions:\n•\tNot applicable for miles redemption together with other discounts, offer promotional items, purchases of vouchers, treatment packages & spa packages memberships\n•\tTreatments are non-refundable, non-exchangeable and non-accumulative\n\nFind out more: http://kenko.com.sg/",
+			"category": "WELLNESS",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-bd93bbd7-c904-4866-aa54-3d3a2d86bfa4.jpg",
+			"participatingOutlets": "•\t313@somerset \n•\tMarina Square \n•\tParagon Shopping Centre\n•\tSouth Bridge Rd\n•\tTanglin Shopping Centre \n•\tVivoCity",
+			"physicalShop": true,
+			"privilege": true,
+			"websiteUrl": "https://kenko.com.sg/",
+			"categories": [
+				"WELLNESS"
+			],
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Kenko",
+			"descriptionHtml": "<p>​​​​​​​KENKO Wellness is one of the largest Foot Reflexology and Spa chains in Singapore. Founded in 1991 and with over 28 years of experience in the Foot Reflexology and Wellness Spa industry, it has become a signature icon as the best Foot Reflexology and Massage services in Singapore.</p>\n\n<p>Participating Outlets:<br>\n•    Marina Square<br>\n•    Paragon Shopping Centre<br>\n•    South Bridge Road<br></p>",
+			"searchableKeywords": [
+				"Orchard",
+				"Raffles Boulevard",
+				"Esplanade",
+				"Promenade",
+				"Telok Blangah Road",
+				"Harbourfront",
+				"South Bridge Road",
+				"Chinatown",
+				"Orchard Road",
+				"Somerset",
+				"Wellness",
+				"Retail",
+				"Telok Blangah",
+				"Japanese",
+				"Medical",
+				"Rehabilitation",
+				"Beauty",
+				"Lifestyle",
+				"Body",
+				"Touch",
+				"Treatments",
+				"Spa",
+				"Massage",
+				"Tension",
+				"Stress Release",
+				"Immunity",
+				"Circulatory",
+				"Pain Management",
+				"Facial",
+				"Adjustment",
+				"Zen",
+				"Therapy",
+				"Acupuncture",
+				"Marina Square",
+				"Paragon",
+				"Tanglin Shopping Center",
+				"Vivocity",
+				"Couple",
+				"Tcm",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Cleanser",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f1b35256c5b2c9bf2b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-bd93bbd7-c904-4866-aa54-3d3a2d86bfa4.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-e0db89d5-9650-4e30-b749-65576ca636bf.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-bd93bbd7-c904-4866-aa54-3d3a2d86bfa4_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-bd93bbd7-c904-4866-aa54-3d3a2d86bfa4_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-bd93bbd7-c904-4866-aa54-3d3a2d86bfa4_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-e0db89d5-9650-4e30-b749-65576ca636bf_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-e0db89d5-9650-4e30-b749-65576ca636bf_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-e0db89d5-9650-4e30-b749-65576ca636bf_high.png"
+			},
+			"searchContent": "​​​​​​​KENKO Wellness is one of the largest Foot Reflexology and Spa chains in Singapore. Founded in 1991 and with over 28 years of experience in the Foot Reflexology and Wellness Spa industry, it has become a signature icon as the best Foot Reflexology and Massage services in Singapore. Participating Outlets: • Marina Square • Paragon Shopping Centre • South Bridge Road Orchard Raffles Boulevard Esplanade Promenade Telok Blangah Road Harbourfront South Bridge Road Chinatown Orchard Road Somerset Wellness Retail Telok Blangah Japanese Medical Rehabilitation Beauty Lifestyle Body Touch Treatments Spa Massage Tension Stress Release Immunity Circulatory Pain Management Facial Adjustment Zen Therapy Acupuncture Marina Square Paragon Tanglin Shopping Center Vivocity Couple Tcm Dermalogica Elemis Spa Natureland Clarins Aesop Cleanser Guasha Foot Massage Body Massage Treatment Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-16T06:51:47.858Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kenko-wellness-spa-reflexology-92f4340c",
+			"outlets": [
+				{
+					"_id": "5cff13b7b672d52db49608b1",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "5cff14cdb672d52db49608b3",
+					"name": "Paragon"
+				},
+				{
+					"_id": "5cff150c337fa524e877b39d",
+					"name": "South Bridge Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Square",
+			"Paragon",
+			"South Bridge Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kenko Wellness Spa & Reflexology",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

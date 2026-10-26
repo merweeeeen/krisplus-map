@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bublotte-f1a2b25f",
+	"slug": "bublotte-f1a2b25f",
+	"fetchedAt": "2026-10-26T16:33:23.144+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a0ebf45d6af27400ed2ec13",
+			"name": "BUBLOTTE",
+			"shortName": "Bublotte",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Bublotte",
+			"code": "BUB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7130982208254382-6993604508986713-Bublotte%20Logo_260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/13854682055553802-3072003472016862-Banner_750x540.png",
+			"websiteUrl": "https://www.bublotte.com",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"address": {
+				"line1": "72 EUNOS AVENUE 7, #04-06 SINGAPORE HANDICRAFTS BUILDING, SINGAPORE 409570",
+				"postalCode": "409570",
+				"streetName": "72 EUNOS AVENUE 7",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin: 0px 0px 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 16.05px; font-size: 15px; font-family: Aptos, sans-serif;\">Bublotte is a baby sleepwear brand created to make everyday life softer and simpler for both babies and parents.</p><p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin: 0px 0px 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 16.05px; font-size: 15px; font-family: Aptos, sans-serif;\">Loved for its signature Magnetic Sleepsuits, Bublotte pairs ultra-soft bamboo fabric with clever, parent-friendly features that make dressing quicker, soothe little ones more easily, and bring a sense of calm and confidence to those early days of parenthood.</p>",
+			"searchableKeywords": [
+				"baby gift",
+				"newborn gift",
+				"baby clothes",
+				"baby sleepwear",
+				"baby pyjamas",
+				"baby romper",
+				"bamboo baby clothes",
+				"newborn essentials",
+				"baby shower gift",
+				"baby gift set",
+				"premium baby clothes",
+				"baby essentials singapore",
+				"magnetic sleepsuit",
+				"magnetic baby clothes",
+				"baby nightwear",
+				"baby accessories",
+				"baby brand singapore",
+				"baby boutique",
+				"baby lifestyle",
+				"baby comfort wear",
+				"maternity gift",
+				"gift for new mum",
+				"baby bundle",
+				"baby hamper",
+				"nursery essentials",
+				"baby bedding",
+				"bamboo fabric baby",
+				"soft baby clothes",
+				"baby shower present",
+				"baby fashion",
+				"kids boutique",
+				"toddler pyjamas",
+				"baby essentials gift"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BK"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-16T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-21T08:16:05.243Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7130982208254382-6993604508986713-Bublotte%20Logo_260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13854682055553802-3072003472016862-Banner_750x540.png",
+			"createdAt": "2026-05-21T08:16:05.251Z",
+			"updatedAt": "2026-08-06T14:18:31.802Z",
+			"searchContent": "Bublotte is a baby sleepwear brand created to make everyday life softer and simpler for both babies and parents. Loved for its signature Magnetic Sleepsuits, Bublotte pairs ultra-soft bamboo fabric with clever, parent-friendly features that make dressing quicker, soothe little ones more easily, and bring a sense of calm and confidence to those early days of parenthood. baby gift newborn gift baby clothes baby sleepwear baby pyjamas baby romper bamboo baby clothes newborn essentials baby shower gift baby gift set premium baby clothes baby essentials singapore magnetic sleepsuit magnetic baby clothes baby nightwear baby accessories baby brand singapore baby boutique baby lifestyle baby comfort wear maternity gift gift for new mum baby bundle baby hamper nursery essentials baby bedding bamboo fabric baby soft baby clothes baby shower present baby fashion kids boutique toddler pyjamas baby essentials gift Retail Baby & Kids",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13854682055553802-3072003472016862-Banner_750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13854682055553802-3072003472016862-Banner_750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13854682055553802-3072003472016862-Banner_750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7130982208254382-6993604508986713-Bublotte%20Logo_260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7130982208254382-6993604508986713-Bublotte%20Logo_260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7130982208254382-6993604508986713-Bublotte%20Logo_260x260_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bublotte-f1a2b25f",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bublotte",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-butchers-table-ebc66bc0",
+	"slug": "the-butchers-table-ebc66bc0",
+	"fetchedAt": "2026-10-26T16:32:38.150+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6984524339226e803591f0ee",
+			"name": "SARAPAN PTE LTD",
+			"shortName": "Butchers Table",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "The Butcher's Table",
+			"code": "BCT",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/38407573893101166-TheButchersTable.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/0808520505689938-2774570812630266-The%20Butchers%20Table%20Brand%20Image%20PNG.png",
+			"websiteUrl": "https://thebutcherstable.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "8 JALAN KLAPA #01-01",
+				"postalCode": "199320",
+				"streetName": "8 JALAN KLAPA #01-01",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Serving up legendary hero cuts and dry-aged meat, The Butcher's Table is a bold dining concept which serves Ribeyes, Hanger Steak to Picanha and Speciality Aged Steaks, every dish is crafted with passion and designed to impress.</span><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\"></span></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">The Butcher's Table<span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105);\"> </span></span><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">is a Muslim owned establishment.</span></span></p>",
+			"searchableKeywords": [
+				"Halal steak",
+				"butchery",
+				"western",
+				"halal"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"QBS",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-05T08:18:11.955Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/38407573893101166-TheButchersTable.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0808520505689938-2774570812630266-The%20Butchers%20Table%20Brand%20Image%20PNG.png",
+			"createdAt": "2026-02-05T08:18:11.962Z",
+			"updatedAt": "2026-09-04T06:53:16.447Z",
+			"searchContent": "Serving up legendary hero cuts and dry-aged meat, The Butcher's Table is a bold dining concept which serves Ribeyes, Hanger Steak to Picanha and Speciality Aged Steaks, every dish is crafted with passion and designed to impress. The Butcher's Table is a Muslim owned establishment. Halal steak butchery western halal Dining Halal Fine Dining Quick Bites & Snacks Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0808520505689938-2774570812630266-The%20Butchers%20Table%20Brand%20Image%20PNG_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0808520505689938-2774570812630266-The%20Butchers%20Table%20Brand%20Image%20PNG_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0808520505689938-2774570812630266-The%20Butchers%20Table%20Brand%20Image%20PNG_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/38407573893101166-TheButchersTable_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/38407573893101166-TheButchersTable_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/38407573893101166-TheButchersTable_high.png"
+			},
+			"newMerchantEndDate": "2026-05-03T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-butchers-table-ebc66bc0",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "698454ae9017853ad84804cf",
+					"name": "Jalan Klapa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jalan Klapa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Butcher's Table",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

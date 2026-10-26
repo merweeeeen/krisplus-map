@@ -1,0 +1,208 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tp-tea-dbdde3c1",
+	"slug": "tp-tea-dbdde3c1",
+	"fetchedAt": "2026-10-26T16:23:46.968+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5d64f1b5786a2e7c341258aa",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "TP Tea",
+			"brand": "TP Tea",
+			"code": "TPT",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "119 Genting Lane, #02-01, HB 119 Genting",
+				"postalCode": "349570",
+				"streetName": "Genting Lane"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "201220834E",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-ed5d4f0f-661e-4815-a544-1bda5372d3ec.png",
+			"createdAt": "2019-08-27T09:02:45.393Z",
+			"updatedAt": "2026-10-06T06:44:46.838Z",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Terms and Conditions: \n•\tTP Tea reserves all rights to amend, withdraw all or any terms / promotional offers without prior notice\n\nFind out more: https://en.tp-tea.com/",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-0f46ea30-9b2d-42e0-af90-757d25d7428f.jpg",
+			"participatingOutlets": "•\tChangi Airport T2\n•\tSuntec City (L1)",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://en.tp-tea.com/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "TP Tea",
+			"descriptionHtml": "<p>With more than 30 years of experience in Taiwan, TP Tea has now expanded across Southeast Asia to bring its brand of high quality tea to even more tea lovers. TP Tea selects only tea leaves of the finest quality in the creation of its brew. It is also committed to innovating its products, bringing fresh ways of enjoying tea.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Changi Airport T3 (Public)</li> </ul>",
+			"searchableKeywords": [
+				"Dessert",
+				"Tea",
+				"Leaves",
+				"Green Tea",
+				"Ceylon",
+				"Japanese",
+				"Himalayan",
+				"Saffron",
+				"Red",
+				"Chinese",
+				"Black",
+				"Gift",
+				"Dining",
+				"Bubble Tea",
+				"Taiwan",
+				"Boba",
+				"Changi Airport",
+				"Terminal 3",
+				"Bites",
+				"Snacks",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9ef595add2492446484"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-0f46ea30-9b2d-42e0-af90-757d25d7428f.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-ed5d4f0f-661e-4815-a544-1bda5372d3ec.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-0f46ea30-9b2d-42e0-af90-757d25d7428f_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-0f46ea30-9b2d-42e0-af90-757d25d7428f_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-0f46ea30-9b2d-42e0-af90-757d25d7428f_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-ed5d4f0f-661e-4815-a544-1bda5372d3ec_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-ed5d4f0f-661e-4815-a544-1bda5372d3ec_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-ed5d4f0f-661e-4815-a544-1bda5372d3ec_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "With more than 30 years of experience in Taiwan, TP Tea has now expanded across Southeast Asia to bring its brand of high quality tea to even more tea lovers. TP Tea selects only tea leaves of the finest quality in the creation of its brew. It is also committed to innovating its products, bringing fresh ways of enjoying tea. Participating Outlets: Changi Airport T3 (Public) Dessert Tea Leaves Green Tea Ceylon Japanese Himalayan Saffron Red Chinese Black Gift Dining Bubble Tea Taiwan Boba Changi Airport Terminal 3 Bites Snacks Koi Dunkin Donuts Boost The Muffinry Delifrance Twelve Cupcakes Four Leaves Prima Deli Starbucks Old Chang Kee Finger Food Nibbles Light Bites Fast Food Refreshments Tidbits Dining Beverages & Desserts Quick Bites & Snacks",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tp-tea-dbdde3c1",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-10-03T05:12:07.940Z",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "6286eeeab53dd615348ba7d8",
+					"name": "Changi Airport T3 (Public)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi Airport T3 (Public)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TP Tea",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

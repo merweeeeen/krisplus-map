@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/claudine-restaurant-c963278c",
+	"slug": "claudine-restaurant-c963278c",
+	"fetchedAt": "2026-10-26T16:28:35.593+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65f93a8efd4f5e00691cdb2a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.019,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"French",
+				"Bar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65f93a984e671b1fd44c041b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "CLAUDINE PTE LTD",
+			"brand": "CLAUDINE RESTAURANT",
+			"code": "CRR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "CLAUDINE",
+			"address": {
+				"line1": "267 BEACH ROAD SINGAPORE 199545",
+				"postalCode": "199545",
+				"streetName": "267 BEACH ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"BD",
+								"FRE"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.claudinerestaurant.com/",
+			"descriptionHtml": "<p>Claudine is a French neo-brasserie inspired by the joys of home. Set in a 1930s colonial chapel on Dempsey Hill, Claudine celebrates life around good food and wine, and glorious company. Award-winning Chef-Patron Julien Royer explores an intimate side of French cuisine, with a refreshing perspective on genuine hospitality.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5367335152531203-claudine1.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5112117092223258-claudine2.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-03-19T07:11:10.841Z",
+			"updatedAt": "2026-08-20T02:32:48.994Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5112117092223258-claudine2.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5367335152531203-claudine1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5112117092223258-claudine2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5112117092223258-claudine2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5112117092223258-claudine2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5367335152531203-claudine1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5367335152531203-claudine1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5367335152531203-claudine1_high.png"
+			},
+			"searchContent": "Claudine is a French neo-brasserie inspired by the joys of home. Set in a 1930s colonial chapel on Dempsey Hill, Claudine celebrates life around good food and wine, and glorious company. Award-winning Chef-Patron Julien Royer explores an intimate side of French cuisine, with a refreshing perspective on genuine hospitality. French Bar Dining Fine Dining Beverages & Desserts French",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-04-01T01:56:56.425Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "claudine-restaurant-c963278c",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "65f942bba490e5006fdff158",
+					"name": "Harding Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Harding Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "CLAUDINE RESTAURANT",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,185 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/carrie-k-00e43b66",
+	"slug": "carrie-k-00e43b66",
+	"fetchedAt": "2026-10-26T16:28:19.758+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65695383030968004f5e0ead",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Fine Jewellery",
+				"Jewellery",
+				"Gold Jewellery",
+				"Diamond Jewellery",
+				"Gifting",
+				"Earring",
+				"Bracelet",
+				"Bangle",
+				"Necklace",
+				"Ring",
+				"Engagement Ring",
+				"Singapore Designer",
+				"Unique Gift",
+				"Pearls",
+				"Mother Of Pearl",
+				"Jade",
+				"Diamond",
+				"Modern",
+				"Si Dian Jin",
+				"Bridal",
+				"Wedding Jewellery",
+				"Milestone Gifting",
+				"Anniversary Gifting",
+				"Push Present",
+				"Birthday",
+				"National Design Centre"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"6569538d7833ecba6bfcbab5"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "The Good Life Club Pte Ltd",
+			"brand": "Carrie K.",
+			"code": "TGK",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Carrie K.",
+			"address": {
+				"line1": "48 Poole Road Singapore 437535",
+				"postalCode": "437535",
+				"streetName": "48 Poole Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "200815015N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/040311490141222484-750x540%20Krisplus%20Miles.jpg",
+			"websiteUrl": "https://www.carriekrocks.com",
+			"descriptionHtml": "<p>Carrie K. is an award-winning Singapore Designer Jeweller that creates meaningful, versatile, wearable wishes inspired by our Asian heritage. We craft everything from ready-to-wear pieces to engagement rings, wedding rings, and milestone celebration jewelry. Each creation is thoughtfully designed as a beautiful reminder to capture life's most precious moments</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/22095790292296336-38404265884469924-CK%20Brand%20%2B%20Icon%20-%20Black%20Coloured%20-%201000x1000px.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2023-12-01T03:31:15.846Z",
+			"updatedAt": "2026-08-06T14:17:56.530Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/040311490141222484-750x540%20Krisplus%20Miles.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/22095790292296336-38404265884469924-CK%20Brand%20%2B%20Icon%20-%20Black%20Coloured%20-%201000x1000px.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/040311490141222484-750x540%20Krisplus%20Miles_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/040311490141222484-750x540%20Krisplus%20Miles_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/040311490141222484-750x540%20Krisplus%20Miles_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/22095790292296336-38404265884469924-CK%20Brand%20%2B%20Icon%20-%20Black%20Coloured%20-%201000x1000px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/22095790292296336-38404265884469924-CK%20Brand%20%2B%20Icon%20-%20Black%20Coloured%20-%201000x1000px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/22095790292296336-38404265884469924-CK%20Brand%20%2B%20Icon%20-%20Black%20Coloured%20-%201000x1000px_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-21T08:39:20.676Z",
+			"searchContent": "Carrie K. is an award-winning Singapore Designer Jeweller that creates meaningful, versatile, wearable wishes inspired by our Asian heritage. We craft everything from ready-to-wear pieces to engagement rings, wedding rings, and milestone celebration jewelry. Each creation is thoughtfully designed as a beautiful reminder to capture life's most precious moments Fine Jewellery Jewellery Gold Jewellery Diamond Jewellery Gifting Earring Bracelet Bangle Necklace Ring Engagement Ring Singapore Designer Unique Gift Pearls Mother Of Pearl Jade Diamond Modern Si Dian Jin Bridal Wedding Jewellery Milestone Gifting Anniversary Gifting Push Present Birthday National Design Centre Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "carrie-k-00e43b66",
+			"outlets": [
+				{
+					"_id": "656955c4030968004f5e1376",
+					"name": "77B Neil Rd"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"77B Neil Rd"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Carrie K.",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

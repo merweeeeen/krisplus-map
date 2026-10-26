@@ -1,0 +1,202 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/665degf-andaz-singapore-54979478",
+	"slug": "665degf-andaz-singapore-54979478",
+	"fetchedAt": "2026-10-26T16:26:03.049+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6237446361e8ec1214ba41f7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Andaz Singapore",
+				"Steak",
+				"Prime Cuts",
+				"Seafood",
+				"Restaurant",
+				"Wine",
+				"Bugis",
+				"Friends",
+				"Colleagues",
+				"Couple",
+				"Business",
+				"Special Occasion",
+				"Premium",
+				"View",
+				"Dining",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "665F",
+			"brand": "665°F - Andaz Singapore",
+			"code": "665",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "665F",
+			"address": {
+				"city": "Singapore",
+				"line1": "5 Fraser Street",
+				"streetName": "Fraser Street",
+				"postalCode": "189354",
+				"cityCode": "SIN"
+			},
+			"regNumber": "53333587J",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/485475810296933-665F%20(750%20x%20540)-01.jpg",
+			"websiteUrl": "https://www.hyatt.com/andaz/sinaz-andaz-singapore/dining/665-degrees-fahrenheit",
+			"descriptionHtml": "<p>Sitting at the top of Andaz Singapore at Level 38, 665°F is the hotel’s premium steakhouse that specialises in prime cuts and sustainable seafood. Take in the rich interior inspired by classic Savile-Row tailor shops while admiring stunning views of the Singapore skyline.</p>",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "A premium steakhouse specialising in prime cuts and sustainable seafood. ",
+			"participatingOutlets": "Andaz Singapore",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5443091640072217-665F%20app%20brand%20logo.png",
+			"createdAt": "2022-03-20T15:12:35.098Z",
+			"updatedAt": "2026-10-15T12:22:00.259Z",
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"WES",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef98ab3267e313a36e154"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/485475810296933-665F%20(750%20x%20540)-01.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5443091640072217-665F%20app%20brand%20logo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/485475810296933-665F%20(750%20x%20540)-01_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/485475810296933-665F%20(750%20x%20540)-01_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/485475810296933-665F%20(750%20x%20540)-01_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5443091640072217-665F%20app%20brand%20logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5443091640072217-665F%20app%20brand%20logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5443091640072217-665F%20app%20brand%20logo_high.png"
+			},
+			"searchContent": "Sitting at the top of Andaz Singapore at Level 38, 665°F is the hotel’s premium steakhouse that specialises in prime cuts and sustainable seafood. Take in the rich interior inspired by classic Savile-Row tailor shops while admiring stunning views of the Singapore skyline. Andaz Singapore Steak Prime Cuts Seafood Restaurant Wine Bugis Friends Colleagues Couple Business Special Occasion Premium View Dining Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Dining Western Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:40:51.848Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "665degf-andaz-singapore-54979478",
+			"outlets": [
+				{
+					"_id": "623980c7540cf7816c37ef23",
+					"name": "Andaz Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Andaz Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "665°F - Andaz Singapore",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,229 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jr-fitness-9cf278db",
+	"slug": "jr-fitness-9cf278db",
+	"fetchedAt": "2026-10-26T16:24:20.000+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f3239a7800ea063f0c6c068",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "JR Fitness and Dance Pte Ltd",
+			"brand": "JR Fitness",
+			"code": "JRF",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Coleman Street, B1-19, The Adelphi",
+				"postalCode": "179803",
+				"streetName": "Coleman Street"
+			},
+			"category": "WELLNESS",
+			"regNumber": "201610717N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-6a188b93-f1e5-4ca0-b15a-e9ed4d68e0f7.jpg",
+			"websiteUrl": "https://www.jrfitness.com.sg/",
+			"description": "JR Fitness, Yoga and Dance is a one-stop fitness, yoga and dance studio offering a variety of classes. JR Fitness is one of the top fitness studio in Singapore, offering quality and affordable classes daily for all gender, ages and fitness background. Professional instructors are hand-picked to ensure a high quality and safe workout experience for all. ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/0692891362812671-2860180481845198-Lockup%20White%20vertical_Black%20BG3%20(002).png",
+			"createdAt": "2020-08-11T06:24:39.939Z",
+			"updatedAt": "2026-08-17T01:13:00.257Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.026,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tThe Adelphi\n•\tTan Quee Lan Street",
+			"promotional": "             ",
+			"mccCode": "7298",
+			"mccDescription": "undefined",
+			"countryCode": "SG",
+			"payByCard": true,
+			"shortName": "JR Fitness",
+			"descriptionHtml": "<p><em>J</em>R Fitness is a one stop fitness, yoga and dance studio offering a variety of classes. JR Fitness is one of the top fitness studio in Singapore, offering quality and affordable classes daily for all gender, ages and fitness background. Professional instructors are hand-picked to ensure a high quality and safe workout experience for all.</p>  <p>Participating outlets:</p>  <ul> \t<li><span style=\"font-size:11.0pt\"><span style=\"font-family:\">Havelock 2 Mall</span></span></li> \t<li>Novena</li> \t<li>The Adelphi</li> </ul>",
+			"searchableKeywords": [
+				"City Hall",
+				"Clarke Quay",
+				"Tan Quee Lan Street",
+				"Bugis",
+				"Coleman Street",
+				"Wellness",
+				"Retail",
+				"Bugis",
+				"Central",
+				"City",
+				"Strength",
+				"Health",
+				"Yoga",
+				"Pilates",
+				"Workout",
+				"Exercise",
+				"Stretching",
+				"Heat",
+				"Aerial",
+				"Wheel",
+				"Yin",
+				"Mat",
+				"Ballet Barre",
+				"Aerial",
+				"Ropes",
+				"Packages",
+				"Zumba",
+				"Spin",
+				"Fitness",
+				"Health",
+				"The Adelphi",
+				"Novena",
+				"Medical",
+				"Doctor",
+				"General Practioner",
+				"Healthcare",
+				"Medical Package",
+				"Mc",
+				"Medical Certificate",
+				"Vaccinations",
+				"Fitness",
+				"Healthspan",
+				"Holland  Barrett",
+				"Green People",
+				"Organixx",
+				"Juice Plus",
+				"Whey Protein",
+				"Gym",
+				"Fitness",
+				"Dance",
+				"Boxing"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9da0108b03f047da5b6"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-6a188b93-f1e5-4ca0-b15a-e9ed4d68e0f7.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0692891362812671-2860180481845198-Lockup%20White%20vertical_Black%20BG3%20(002).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-6a188b93-f1e5-4ca0-b15a-e9ed4d68e0f7_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-6a188b93-f1e5-4ca0-b15a-e9ed4d68e0f7_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-6a188b93-f1e5-4ca0-b15a-e9ed4d68e0f7_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0692891362812671-2860180481845198-Lockup%20White%20vertical_Black%20BG3%20(002)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0692891362812671-2860180481845198-Lockup%20White%20vertical_Black%20BG3%20(002)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0692891362812671-2860180481845198-Lockup%20White%20vertical_Black%20BG3%20(002)_high.png"
+			},
+			"searchContent": "JR Fitness is a one stop fitness, yoga and dance studio offering a variety of classes. JR Fitness is one of the top fitness studio in Singapore, offering quality and affordable classes daily for all gender, ages and fitness background. Professional instructors are hand-picked to ensure a high quality and safe workout experience for all. Participating outlets: Havelock 2 Mall Novena The Adelphi City Hall Clarke Quay Tan Quee Lan Street Bugis Coleman Street Wellness Retail Bugis Central City Strength Health Yoga Pilates Workout Exercise Stretching Heat Aerial Wheel Yin Mat Ballet Barre Aerial Ropes Packages Zumba Spin Fitness Health The Adelphi Novena Medical Doctor General Practioner Healthcare Medical Package Mc Medical Certificate Vaccinations Fitness Healthspan Holland  Barrett Green People Organixx Juice Plus Whey Protein Gym Fitness Dance Boxing Wellness Health & Fitness",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:41:21.665Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jr-fitness-9cf278db",
+			"outlets": [
+				{
+					"_id": "5f325840800ea063f0c6c06c",
+					"name": "The Adelphi"
+				},
+				{
+					"_id": "5f325870b7e0ef643ce9fdf6",
+					"name": "Havelock 2"
+				},
+				{
+					"_id": "62982e7e31db5e17c8e55587",
+					"name": "Revenue House - Novena"
+				},
+				{
+					"_id": "66bdb94cb140fa006a59bbf0",
+					"name": "Bras Basah"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Adelphi",
+			"Havelock 2",
+			"Revenue House - Novena",
+			"Bras Basah"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "JR Fitness",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

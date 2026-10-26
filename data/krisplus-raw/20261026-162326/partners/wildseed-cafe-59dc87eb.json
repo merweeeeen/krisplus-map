@@ -1,0 +1,188 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/wildseed-cafe-59dc87eb",
+	"slug": "wildseed-cafe-59dc87eb",
+	"fetchedAt": "2026-10-26T16:33:35.367+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a361b85132b86a93f1e287e",
+			"name": "1-Harvest Pte Ltd (Wildseed Cafe)",
+			"shortName": "Wildseed Cafe",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Wildseed Cafe",
+			"code": "WSC",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8484246660869972-1549273129327129-Brand%20Logo%20(260%20x%20260).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/46633136364655914-08475731889404714-Brand%20Image%20(750%20x%20540).png",
+			"websiteUrl": "https://www.wildseedcafe.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "211 HENDERSON ROAD #04-03",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON ROAD #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Heritage-inspired garden café serving brunch favourites and freshly baked cakes.</p><p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">Cafe in the day, <span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">Bar & Grill* in the evening. </span></span></span><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\"><br>*Note: Wildseed Bar & Grill does not accept payments by Kris+</span>.</span></span></span><br style=\"font-weight: 300; box-sizing: border-box;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\"><br>Operating hours of Wildseed Cafe:<br></span><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">- Botanic Gardens: 7:30am – 5pm</span><br style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">- Sentosa: Tuesday to Friday (11am – 5pm); Weekends, eve of PH and PH (9am – 5pm) </span><br style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">- The Alkaff Mansion: 8am – 5pm</span><br style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">- The Summerhouse<span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">:<span> </span></span><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">8am – 4:30pm</span></span></p>",
+			"searchableKeywords": [
+				"Café",
+				"lunch",
+				"coffee",
+				"tea",
+				"cakes",
+				"brunch",
+				"cafe"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-13T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-20T04:48:05.060Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8484246660869972-1549273129327129-Brand%20Logo%20(260%20x%20260).png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/46633136364655914-08475731889404714-Brand%20Image%20(750%20x%20540).png",
+			"createdAt": "2026-06-20T04:48:05.066Z",
+			"updatedAt": "2026-09-30T16:00:06.643Z",
+			"searchContent": "Heritage-inspired garden café serving brunch favourites and freshly baked cakes. Cafe in the day, Bar & Grill* in the evening. *Note: Wildseed Bar & Grill does not accept payments by Kris+. Operating hours of Wildseed Cafe: - Botanic Gardens: 7:30am – 5pm - Sentosa: Tuesday to Friday (11am – 5pm); Weekends, eve of PH and PH (9am – 5pm) - The Alkaff Mansion: 8am – 5pm - The Summerhouse: 8am – 4:30pm Café lunch coffee tea cakes brunch cafe Dining Cafe Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/46633136364655914-08475731889404714-Brand%20Image%20(750%20x%20540)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/46633136364655914-08475731889404714-Brand%20Image%20(750%20x%20540)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/46633136364655914-08475731889404714-Brand%20Image%20(750%20x%20540)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8484246660869972-1549273129327129-Brand%20Logo%20(260%20x%20260)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8484246660869972-1549273129327129-Brand%20Logo%20(260%20x%20260)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8484246660869972-1549273129327129-Brand%20Logo%20(260%20x%20260)_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "wildseed-cafe-59dc87eb",
+			"outlets": [
+				{
+					"_id": "6a361f683d2b5d1d250faaa4",
+					"name": "Sentosa"
+				},
+				{
+					"_id": "6a3634d17f488fae62f44c87",
+					"name": "Botanic Gardens"
+				},
+				{
+					"_id": "6a3636d44ddb2995c35c14d5",
+					"name": "The Alkaff Mansion"
+				},
+				{
+					"_id": "6a363a844ddb2995c35c24ae",
+					"name": "The Summerhouse"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sentosa",
+			"Botanic Gardens",
+			"The Alkaff Mansion",
+			"The Summerhouse"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Wildseed Cafe",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

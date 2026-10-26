@@ -1,0 +1,179 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/flnt-f2d4dbc1",
+	"slug": "flnt-f2d4dbc1",
+	"fetchedAt": "2026-10-26T16:27:33.664+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6412799925dfae00528da772",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Peruvianjapanese",
+				"Nikkei",
+				"Artofplating",
+				"Peruvian",
+				"Japanese",
+				"Lunch",
+				"Dinner",
+				"Sashimi",
+				"Dining",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "1 Atico Pte Ltd",
+			"brand": "FLNT",
+			"code": "AF1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "FLNT",
+			"address": {
+				"line1": "211 Henderson Rd, #04-03, Singapore 159552",
+				"postalCode": "159552",
+				"streetName": "211 Henderson Rd",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201907382W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16449091493736612-021726418641223155-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px).png",
+			"websiteUrl": "https://www.flnt.sg/",
+			"descriptionHtml": "<p>FLNT is a charming, high-energy restaurant, serving a combination of Japanese Peruvian items (heavily inspired by Nikkei cuisine from Peru) and a fine selection of world-class sakes and Nikkei-inspired cocktails in an upbeat space.  </p>  <p>They take a light-hearted approach to finding a humble harmony of flavours, while preserving the principles and precision of Japanese culinary traditions with the depth of exotic Peruvian ingredients. The chic and luxurious rooftop space, with dramatic city views and lush natural lights flooding in from the lofty windows, is a multi-sensory experience.  </p>  <p>An open galley treats guests to the chefs at work in the kitchen, where a plethora of sharing plates is prepared with immaculate precision over a binchotan-fuelled grill. </p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/32113428332254923-790327662993416-Logo%20(1000%20x%201000px)%20(1).png",
+			"createdAt": "2023-03-16T02:06:17.488Z",
+			"updatedAt": "2026-09-18T08:27:41.953Z",
+			"participatingOutlets": "            ",
+			"promotional": "          ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef952a3718718842dd93c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16449091493736612-021726418641223155-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/32113428332254923-790327662993416-Logo%20(1000%20x%201000px)%20(1).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16449091493736612-021726418641223155-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16449091493736612-021726418641223155-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16449091493736612-021726418641223155-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/32113428332254923-790327662993416-Logo%20(1000%20x%201000px)%20(1)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/32113428332254923-790327662993416-Logo%20(1000%20x%201000px)%20(1)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/32113428332254923-790327662993416-Logo%20(1000%20x%201000px)%20(1)_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-10T09:35:23.741Z",
+			"searchContent": "FLNT is a charming, high-energy restaurant, serving a combination of Japanese Peruvian items (heavily inspired by Nikkei cuisine from Peru) and a fine selection of world-class sakes and Nikkei-inspired cocktails in an upbeat space. They take a light-hearted approach to finding a humble harmony of flavours, while preserving the principles and precision of Japanese culinary traditions with the depth of exotic Peruvian ingredients. The chic and luxurious rooftop space, with dramatic city views and lush natural lights flooding in from the lofty windows, is a multi-sensory experience. An open galley treats guests to the chefs at work in the kitchen, where a plethora of sharing plates is prepared with immaculate precision over a binchotan-fuelled grill. Peruvianjapanese Nikkei Artofplating Peruvian Japanese Lunch Dinner Sashimi Dining Business Corporate Dining Working Lunch Networking Dining",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "flnt-f2d4dbc1",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "64192fb2f600ea00528045d8",
+					"name": "ION Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "FLNT",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

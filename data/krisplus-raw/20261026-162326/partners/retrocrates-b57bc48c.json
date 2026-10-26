@@ -1,0 +1,166 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/retrocrates-b57bc48c",
+	"slug": "retrocrates-b57bc48c",
+	"fetchedAt": "2026-10-26T16:31:43.258+08:00",
+	"payload": {
+		"partner": {
+			"_id": "690dbbd7137a3db5a1bbc666",
+			"name": "RetroCrates Pte Ltd",
+			"shortName": "RetroCrates",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "RetroCrates",
+			"code": "RCS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8284534880377628-RetroCrates.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/18369572261790923-14773074454594637-brandimage.jpg",
+			"websiteUrl": "https://www.retrocrates.com",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "450A Joo Chiat Road S427663",
+				"postalCode": "427663",
+				"streetName": "450A Joo Chiat Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>RetroCrates is the ultimate destination for music lovers seeking timeless vinyl and premium audio gear. From iconic classics to modern pressings, every crate holds a unique story. Perfect for collectors, casual listeners, and anyone who cherishes the warm analog sound. RetroCrates keeps the music alive.</p>",
+			"searchableKeywords": [
+				"Vinyl records",
+				"record store",
+				"turntable",
+				"record player",
+				"vinyl online",
+				"LPs",
+				"new vinyl releases",
+				"used vinyl",
+				"limited edition vinyl",
+				"speakers hifi audio",
+				"rega"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-07T09:28:55.906Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8284534880377628-RetroCrates.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18369572261790923-14773074454594637-brandimage.jpg",
+			"createdAt": "2025-11-07T09:28:55.920Z",
+			"updatedAt": "2026-08-06T14:18:24.558Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18369572261790923-14773074454594637-brandimage_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18369572261790923-14773074454594637-brandimage_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18369572261790923-14773074454594637-brandimage_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8284534880377628-RetroCrates_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8284534880377628-RetroCrates_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8284534880377628-RetroCrates_high.png"
+			},
+			"searchContent": "RetroCrates is the ultimate destination for music lovers seeking timeless vinyl and premium audio gear. From iconic classics to modern pressings, every crate holds a unique story. Perfect for collectors, casual listeners, and anyone who cherishes the warm analog sound. RetroCrates keeps the music alive. Vinyl records record store turntable record player vinyl online LPs new vinyl releases used vinyl limited edition vinyl speakers hifi audio rega Retail Electrical & Electronics Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "retrocrates-b57bc48c",
+			"outlets": [
+				{
+					"_id": "69144554137a3db5a1c18f92",
+					"name": "450a Joo Chiat Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"450a Joo Chiat Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "RetroCrates",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

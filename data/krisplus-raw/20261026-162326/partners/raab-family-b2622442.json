@@ -1,0 +1,180 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/raab-family-b2622442",
+	"slug": "raab-family-b2622442",
+	"fetchedAt": "2026-10-26T16:33:39.218+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a38ef8a4ddb2995c363bf9c",
+			"name": "RAAB HOLDINGS PTE LTD",
+			"shortName": "RaaB Family",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "RaaB Family",
+			"code": "RHP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/43629082114390805-4912570305223367-Kris%20%2B%20Logo%20260%20x%20260%20px.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7142074042482796-10355895171792051-Kris%20%2B%20Brand%20Image%20750%20x%20540%20px.png",
+			"websiteUrl": "https://www.raab.com.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "31 WOODLANDS CLOSE #03-18 WOODLANDS HORIZON SINGAPORE 737855",
+				"postalCode": "737855",
+				"streetName": "31 WOODLANDS CLOSE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">RaaB Family was created by a loving mother with a simple     dream: to help parents care for their little ones with love, ease, and     confidence. Guided by her passion for nurturing and her insistence on quality,     RaaB Family offers one of the widest ranges of eco-friendly, non-toxic playpens     and playmats so you can create a safe, comfortable space for your child to     grow, play, and explore.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>Leisure Park Kallang Mall</li><li>Woodlands Horizon</li></ul>",
+			"searchableKeywords": [
+				"Playpen",
+				"raab",
+				"raab family",
+				"playmat",
+				"baby",
+				"furniture",
+				"kids",
+				"toddler",
+				"baby cot",
+				"cot",
+				"diaper changing cart",
+				"diaper changing station",
+				"uv sterilizer",
+				"slide",
+				"bookshelf",
+				"toy storage",
+				"play yard",
+				"playard",
+				"play fence"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL",
+								"BK"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-03T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-22T08:17:14.934Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/43629082114390805-4912570305223367-Kris%20%2B%20Logo%20260%20x%20260%20px.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7142074042482796-10355895171792051-Kris%20%2B%20Brand%20Image%20750%20x%20540%20px.png",
+			"createdAt": "2026-06-22T08:17:14.943Z",
+			"updatedAt": "2026-08-06T14:18:32.895Z",
+			"searchContent": "RaaB Family was created by a loving mother with a simple dream: to help parents care for their little ones with love, ease, and confidence. Guided by her passion for nurturing and her insistence on quality, RaaB Family offers one of the widest ranges of eco-friendly, non-toxic playpens and playmats so you can create a safe, comfortable space for your child to grow, play, and explore. Participating outlets: Leisure Park Kallang MallWoodlands Horizon Playpen raab raab family playmat baby furniture kids toddler baby cot cot diaper changing cart diaper changing station uv sterilizer slide bookshelf toy storage play yard playard play fence Retail Home & Lifestyle Baby & Kids",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7142074042482796-10355895171792051-Kris%20%2B%20Brand%20Image%20750%20x%20540%20px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7142074042482796-10355895171792051-Kris%20%2B%20Brand%20Image%20750%20x%20540%20px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7142074042482796-10355895171792051-Kris%20%2B%20Brand%20Image%20750%20x%20540%20px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/43629082114390805-4912570305223367-Kris%20%2B%20Logo%20260%20x%20260%20px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/43629082114390805-4912570305223367-Kris%20%2B%20Logo%20260%20x%20260%20px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/43629082114390805-4912570305223367-Kris%20%2B%20Logo%20260%20x%20260%20px_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "raab-family-b2622442",
+			"outlets": [
+				{
+					"_id": "6a38f0eb132b86a93f265bc7",
+					"name": "Leisure Park Kallang Mall"
+				},
+				{
+					"_id": "6a38f1351a8cdcdf1a030af5",
+					"name": "Woodlands Horizon"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Leisure Park Kallang Mall",
+			"Woodlands Horizon"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "RaaB Family",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

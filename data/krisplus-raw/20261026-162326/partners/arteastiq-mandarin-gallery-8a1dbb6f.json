@@ -1,0 +1,235 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/arteastiq-mandarin-gallery-8a1dbb6f",
+	"slug": "arteastiq-mandarin-gallery-8a1dbb6f",
+	"fetchedAt": "2026-10-26T16:23:54.912+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e0d5bd6ad7bd936103fb2fd",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Arteastiq Pte Ltd",
+			"brand": "Arteastiq (Mandarin Gallery)",
+			"code": "ASP",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "333A Orchard Road , #04-14/15 Mandarin Gallery Singapore ",
+				"postalCode": "238897",
+				"streetName": "Orchard Road"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "201202807R",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-4ebefa4f-7f5b-42da-b261-d158934e1246.jpg",
+			"createdAt": "2020-01-02T02:56:22.536Z",
+			"updatedAt": "2026-08-06T14:17:07.990Z",
+			"description": "Arteastiq is a premium tea lounge cum social painting studio concept established in 2010. With a name that combines Art and Tea, Arteastiq tease senses through inducing creativity and tantalizing taste buds.\n\nParticipating Outlet:\n•\tMandarin Gallery",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "KrisPay Exclusive Promotions:\n1) Enjoy 15% off 3-hour art jamming sessions when you flash the KrisPay app at the point of payment \n2) Enjoy 10% off dining when you flash the KrisPay app at the point of payment\n\nTerms and Conditions:\n•\tDining promotion is only applicable from 11am to 2pm and 6pm to closing.\n•\tNot applicable in conjunction with other promotions, privileges, discounts, sets and retail merchandise. \n•\tNot applicable on public holidays and eve of public holidays, as well as Valentine’s Day and Mother’s Day.\n•\tArteastiq  reserves the right to amend the promotions at any time.\n\nFind out more at: www.arteastiq.com",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-5ca06bbc-f732-4974-896c-7a07496dee8c.jpg",
+			"participatingOutlets": "Mandarin Gallery",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.arteastiq.com/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Arteastiq is a premium tea lounge cum social painting studio concept established in 2010. With a name that combines Art and Tea, Arteastiq tease senses through inducing creativity and tantalizing taste buds.</p>\n\n<p>&nbsp;</p>\n\n<p>Participating Outlet:<br />\n&bull;&nbsp;&nbsp; Arteastiq Tea Lounge @ Mandarin Gallery</p>",
+			"shortName": "Arteastiq MG",
+			"searchableKeywords": [
+				"Orchard",
+				"City",
+				"Town",
+				"Central",
+				"Orchard Road",
+				"Western",
+				"Asian",
+				"Chinatown",
+				"Restaurant",
+				"Cafe",
+				"Trending",
+				"Cappucinos",
+				"Latte",
+				"Food",
+				"Foodie",
+				"Artisan",
+				"Bakery",
+				"Bread",
+				"Sourdough",
+				"Cakes",
+				"Baguette",
+				"Sandwiches",
+				"Salads",
+				"Kombucha",
+				"Tea",
+				"Coffee",
+				"Tapas",
+				"Art",
+				"Artwork",
+				"Pasta",
+				"Spaghetti",
+				"Mandarin Gallery",
+				"Orchard Mandarin",
+				"Somerset",
+				"Couples",
+				"First Dates",
+				"Kids",
+				"Dining",
+				"Valentines Day",
+				"Art Jamming",
+				"Cafe",
+				"Café",
+				"Atlas Coffee House",
+				"P.S. Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Coffee",
+				"Tea",
+				"Cakes",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e9b35256c5b2c9bf24"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-5ca06bbc-f732-4974-896c-7a07496dee8c.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-4ebefa4f-7f5b-42da-b261-d158934e1246.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-5ca06bbc-f732-4974-896c-7a07496dee8c_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-5ca06bbc-f732-4974-896c-7a07496dee8c_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-5ca06bbc-f732-4974-896c-7a07496dee8c_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-4ebefa4f-7f5b-42da-b261-d158934e1246_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-4ebefa4f-7f5b-42da-b261-d158934e1246_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-4ebefa4f-7f5b-42da-b261-d158934e1246_high.jpg"
+			},
+			"searchContent": "Arteastiq is a premium tea lounge cum social painting studio concept established in 2010. With a name that combines Art and Tea, Arteastiq tease senses through inducing creativity and tantalizing taste buds. Participating Outlet: &bull; Arteastiq Tea Lounge @ Mandarin Gallery Orchard City Town Central Orchard Road Western Asian Chinatown Restaurant Cafe Trending Cappucinos Latte Food Foodie Artisan Bakery Bread Sourdough Cakes Baguette Sandwiches Salads Kombucha Tea Coffee Tapas Art Artwork Pasta Spaghetti Mandarin Gallery Orchard Mandarin Somerset Couples First Dates Kids Dining Valentines Day Art Jamming Cafe Café Atlas Coffee House P.S. Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Coffee Tea Cakes Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Cafe Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "arteastiq-mandarin-gallery-8a1dbb6f",
+			"outlets": [
+				{
+					"_id": "5e1ebbf5b95b9f2320d6b51d",
+					"name": "Mandarin Gallery "
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Mandarin Gallery "
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Arteastiq (Mandarin Gallery)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

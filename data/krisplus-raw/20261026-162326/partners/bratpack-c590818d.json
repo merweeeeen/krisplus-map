@@ -1,0 +1,205 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bratpack-c590818d",
+	"slug": "bratpack-c590818d",
+	"fetchedAt": "2026-10-26T16:25:53.011+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61fb93b6b4bd4e4768b23363",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Backpack",
+				"Laptop Sleeve",
+				"Wallet",
+				"Luggage",
+				"Funan",
+				"City Hall",
+				"Clarke Quay",
+				"Marina Square",
+				"Esplanade",
+				"Accessories",
+				"Retail",
+				"Wheelock Place",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles & Keith",
+				"H &M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"T-Shirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Trousers",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Hats",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Primer Uniglobe Singapore Pte Ltd - Bratpack",
+			"brand": "Bratpack",
+			"code": "BRT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Bratpack",
+			"address": {
+				"city": "Singapore",
+				"line1": "221 Henderson Road, #05-10, Henderson Building",
+				"streetName": "Henderson Road",
+				"postalCode": "159557",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200609311N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/18326491415675283-Kris%2B-%20750x540%20(2).png",
+			"websiteUrl": "https://www.bratpackstore.com.sg/",
+			"descriptionHtml": "<p>Bratpack is a specialty store that offers backpacks and lifestyle footwear catering to the lifestyles of today’s youth with a taste for adventure and an eye for design.</p>  <p>Over the years, Bratpack has grown from being an alternative lifestyle store to a brand that inspires togetherness between friends. While celebrating individuality, the brand brings together unique individuals who share the same interests and beliefs.</p>  <p>Participating Outlets: </p>  <ul> \t<li>Bugis Junction</li> \t<li>The Centrepoint</li> \t<li>Wheelock Place</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 5,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "     ",
+			"participatingOutlets": "Bugis Junction\nThe Centrepoint",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8674785764756439-5370819659343982-Bratpack%20Logo%201000x1000.jpg",
+			"createdAt": "2022-02-03T08:35:02.154Z",
+			"updatedAt": "2026-09-30T16:00:01.265Z",
+			"partnershipGroup": "GR7",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef992a3718718842dd955"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18326491415675283-Kris%2B-%20750x540%20(2).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8674785764756439-5370819659343982-Bratpack%20Logo%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18326491415675283-Kris%2B-%20750x540%20(2)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18326491415675283-Kris%2B-%20750x540%20(2)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18326491415675283-Kris%2B-%20750x540%20(2)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8674785764756439-5370819659343982-Bratpack%20Logo%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8674785764756439-5370819659343982-Bratpack%20Logo%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8674785764756439-5370819659343982-Bratpack%20Logo%201000x1000_high.jpg"
+			},
+			"searchContent": "Bratpack is a specialty store that offers backpacks and lifestyle footwear catering to the lifestyles of today’s youth with a taste for adventure and an eye for design. Over the years, Bratpack has grown from being an alternative lifestyle store to a brand that inspires togetherness between friends. While celebrating individuality, the brand brings together unique individuals who share the same interests and beliefs. Participating Outlets: Bugis Junction The Centrepoint Wheelock Place Backpack Laptop Sleeve Wallet Luggage Funan City Hall Clarke Quay Marina Square Esplanade Accessories Retail Wheelock Place Fashion Zara Uniqlo Charles & Keith H &M Love Bonito Mens Womans Shirts Pants Blouse Trousers T-Shirt Shoes Shorts Leggings Trousers Suits Accessories Hats Caps Garments Scarves Jewellery Bags Hats Belts Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:33:50.304Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bratpack-c590818d",
+			"outlets": [
+				{
+					"_id": "6205c8ae1519fc3d184021b1",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "6205cb0ba81e8e3fb0a03990",
+					"name": "The Centrepoint"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis Junction",
+			"The Centrepoint"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bratpack",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,159 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/his-travel-3036f511",
+	"slug": "his-travel-3036f511",
+	"fetchedAt": "2026-10-26T16:31:56.346+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6927c6521dc3334a64d61ad9",
+			"name": "H.I.S. INTERNATIONAL TRAVEL PTE LTD",
+			"shortName": "HIS TRAVEL",
+			"mccCode": "4722",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"brand": "HIS TRAVEL",
+			"code": "HIS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/08971590001944141-HISTravel.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/041428892081517565-3409086466130449-Kris%2B%20App%20Banner%20750%20x%20540%20px.png",
+			"websiteUrl": "https://his.com.sg/",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "100 TRAS STREET  #17-01",
+				"postalCode": "079027",
+				"streetName": "100 AM",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>HIS Travel is a global travel agency headquartered in Tokyo, Japan. Founded in Japan, it boasts a large network of offices throughout the country, ensuring access to diverse travel options. The agency has expanded internationally to over 160 locations, providing assistance to travelers worldwide.</p>",
+			"searchableKeywords": [
+				"Travel",
+				"Japan",
+				"Tour Package",
+				"SelfDrive",
+				"Free  Easy",
+				"Japan Tours"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR3",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HOT",
+								"RES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 180,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-20T08:09:32.997Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/08971590001944141-HISTravel.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/041428892081517565-3409086466130449-Kris%2B%20App%20Banner%20750%20x%20540%20px.png",
+			"createdAt": "2025-11-27T03:32:34.909Z",
+			"updatedAt": "2026-08-06T14:18:25.504Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/041428892081517565-3409086466130449-Kris%2B%20App%20Banner%20750%20x%20540%20px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/041428892081517565-3409086466130449-Kris%2B%20App%20Banner%20750%20x%20540%20px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/041428892081517565-3409086466130449-Kris%2B%20App%20Banner%20750%20x%20540%20px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/08971590001944141-HISTravel_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/08971590001944141-HISTravel_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/08971590001944141-HISTravel_high.png"
+			},
+			"searchContent": "HIS Travel is a global travel agency headquartered in Tokyo, Japan. Founded in Japan, it boasts a large network of offices throughout the country, ensuring access to diverse travel options. The agency has expanded internationally to over 160 locations, providing assistance to travelers worldwide. Travel Japan Tour Package SelfDrive Free  Easy Japan Tours Services Hotels Resorts",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "his-travel-3036f511",
+			"outlets": [
+				{
+					"_id": "69290f2f690241da8a13e068",
+					"name": "100 AM"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"100 AM"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "HIS TRAVEL",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

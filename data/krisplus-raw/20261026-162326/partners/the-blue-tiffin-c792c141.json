@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-blue-tiffin-c792c141",
+	"slug": "the-blue-tiffin-c792c141",
+	"fetchedAt": "2026-10-26T16:29:39.783+08:00",
+	"payload": {
+		"partner": {
+			"_id": "677b6034b92e23548651ed31",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 4,
+				"saleOfMiles": 0.032,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Buffet",
+				"Halal",
+				"Asian",
+				"Peranakan",
+				"Local Cuisine",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "The Blue Tiffin Pte Ltd",
+			"brand": "The Blue Tiffin",
+			"code": "TBT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Blue Tiffin",
+			"address": {
+				"line1": "1550 BEDOK NORTH AVENUE 4",
+				"postalCode": "489950",
+				"streetName": "JTC BEDOK FOOD CITY #04-16",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"PB",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.thebluetiffinsg.com/",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=The%20Blue%20Tiffin\">Reserve A Table</a>.</p><p>The Blue Tiffin reimagines the flavours of Singapore with a fresh, contemporary approach. As a mod-sin restaurant, they blend time-honoured recipes with modern techniques, creating dishes that are both nostalgic and exciting.<br><br><em>*Kris+ payment for buffet is not available</em></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3009108997756125-The%20Blue%20Tiffin%20Logo_whiteBG.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/46782233529248574-21099957321444696-TBT%20-%20Brand.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2025-01-06T04:46:44.739Z",
+			"updatedAt": "2026-08-06T14:18:11.094Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/46782233529248574-21099957321444696-TBT%20-%20Brand_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/46782233529248574-21099957321444696-TBT%20-%20Brand_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/46782233529248574-21099957321444696-TBT%20-%20Brand_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3009108997756125-The%20Blue%20Tiffin%20Logo_whiteBG_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3009108997756125-The%20Blue%20Tiffin%20Logo_whiteBG_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3009108997756125-The%20Blue%20Tiffin%20Logo_whiteBG_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/46782233529248574-21099957321444696-TBT%20-%20Brand.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3009108997756125-The%20Blue%20Tiffin%20Logo_whiteBG.jpg",
+			"searchContent": "*Click here to Reserve A Table. The Blue Tiffin reimagines the flavours of Singapore with a fresh, contemporary approach. As a mod-sin restaurant, they blend time-honoured recipes with modern techniques, creating dishes that are both nostalgic and exciting. *Kris+ payment for buffet is not available Buffet Halal Asian Peranakan Local Cuisine FortuneFeast Dining Halal Buffet Pubs & Bars Beverages & Desserts Chinese Asian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:19:01.773Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-blue-tiffin-c792c141",
+			"outlets": [
+				{
+					"_id": "677b6286fc883b55e122a28f",
+					"name": "Changi Village Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi Village Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Blue Tiffin",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

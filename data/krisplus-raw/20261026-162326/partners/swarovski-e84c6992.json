@@ -1,0 +1,237 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/swarovski-e84c6992",
+	"slug": "swarovski-e84c6992",
+	"fetchedAt": "2026-10-26T16:28:45.726+08:00",
+	"payload": {
+		"partner": {
+			"_id": "665f06483e63270067767f26",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 0,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 1,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Jewelry",
+				"Fashion",
+				"Rings",
+				"Earrings",
+				"Crystals",
+				"Home Décor",
+				"Bracelets",
+				"Watches",
+				"Gifting",
+				"Pendants",
+				"Bangles",
+				"Pens"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "SWAROVSKI SINGAPORE TRADING PTE LTD",
+			"brand": "SWAROVSKI",
+			"code": "SST",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "SWAROVSKI",
+			"address": {
+				"city": "Singapore",
+				"line1": "2 Alexandra Road, Delta House,#03-01,Singapore 159919",
+				"streetName": "2 Alexandra Road",
+				"postalCode": "159919",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.swarovski.com/en-SG/",
+			"descriptionHtml": "<p>Founded in 1895 in Austria, Swarovski designs, creates and markets high-quality crystal glass product collections such as jewellery, accessories, decorative items for home, ornaments and figurines. Swarovski crystals makes for an exceptional gift, from timeless daywear to bold, glamorous and fashion jewellery with impeccable craftsmanship.</p>  <p>Participating outlets:<br> •    Changi Airport T2 <br> •    IMM <br> •    Jem<br> •    Marina Bay Sands<br> •    NEX<br> •    Paragon <br> •    Plaza Singapura<br> •    Parkway Parade<br> •    Raffles City<br> •    Suntec City <br> •    Tampines Mall<br> •    VivoCity<br> •    Wisma Atria</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9218143893250332-6874565417834291-Kris%2B%20-%20Brand%20Logo%20-%201000x1000%20(003).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5543797398858605-030880838719062442-Kris%2B%20-%20Brand%20Image%20-%20750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 15
+				}
+			],
+			"createdAt": "2024-06-04T12:19:20.235Z",
+			"updatedAt": "2026-08-06T14:18:03.710Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5543797398858605-030880838719062442-Kris%2B%20-%20Brand%20Image%20-%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9218143893250332-6874565417834291-Kris%2B%20-%20Brand%20Logo%20-%201000x1000%20(003).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5543797398858605-030880838719062442-Kris%2B%20-%20Brand%20Image%20-%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5543797398858605-030880838719062442-Kris%2B%20-%20Brand%20Image%20-%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5543797398858605-030880838719062442-Kris%2B%20-%20Brand%20Image%20-%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9218143893250332-6874565417834291-Kris%2B%20-%20Brand%20Logo%20-%201000x1000%20(003)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9218143893250332-6874565417834291-Kris%2B%20-%20Brand%20Logo%20-%201000x1000%20(003)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9218143893250332-6874565417834291-Kris%2B%20-%20Brand%20Logo%20-%201000x1000%20(003)_high.jpg"
+			},
+			"searchContent": "Founded in 1895 in Austria, Swarovski designs, creates and markets high-quality crystal glass product collections such as jewellery, accessories, decorative items for home, ornaments and figurines. Swarovski crystals makes for an exceptional gift, from timeless daywear to bold, glamorous and fashion jewellery with impeccable craftsmanship. Participating outlets: • Changi Airport T2 • IMM • Jem • Marina Bay Sands • NEX • Paragon • Plaza Singapura • Parkway Parade • Raffles City • Suntec City • Tampines Mall • VivoCity • Wisma Atria Jewelry Fashion Rings Earrings Crystals Home Décor Bracelets Watches Gifting Pendants Bangles Pens Retail Accessories, Jewellery & Watches",
+			"refundPeriodUpdatedAt": "2026-07-09T03:39:45.644Z",
+			"refundPeriodInDays": 180,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "swarovski-e84c6992",
+			"outlets": [
+				{
+					"_id": "666115fe9355fe00665072a8",
+					"name": "IMM"
+				},
+				{
+					"_id": "666117aa067add00684b9292",
+					"name": "Jem"
+				},
+				{
+					"_id": "6661186be85cab0068150dc4",
+					"name": "Marina Bay Sands"
+				},
+				{
+					"_id": "6661191a9355fe00665076e8",
+					"name": "NEX"
+				},
+				{
+					"_id": "66611aa6442aa800521bb024",
+					"name": "Paragon"
+				},
+				{
+					"_id": "66611b09281e6f0053671145",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "66611b8d281e6f00536711d0",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "66611bf5e85cab0068151234",
+					"name": "Raffles City"
+				},
+				{
+					"_id": "66611d65b3d6d30068eaa6d2",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "66611dd3dc997f0068447b92",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "66611e1db3d6d30068eaa832",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "66611e77067add00684bae14",
+					"name": "Wisma Atria"
+				},
+				{
+					"_id": "666282c85f9a98005cce13e5",
+					"name": "Changi Airport T2 (02-202)"
+				},
+				{
+					"_id": "67e4d14a02d1b134a037fa0d",
+					"name": "Changi Airport T1 (02-31)"
+				},
+				{
+					"_id": "6878970aa1ec9a12152db8f0",
+					"name": "Changi Airport T3 (02-56)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"IMM",
+			"Jem",
+			"Marina Bay Sands",
+			"NEX",
+			"Paragon",
+			"Plaza Singapura",
+			"Parkway Parade",
+			"Raffles City",
+			"Suntec City",
+			"Tampines Mall",
+			"VivoCity",
+			"Wisma Atria",
+			"Changi Airport T2 (02-202)",
+			"Changi Airport T1 (02-31)",
+			"Changi Airport T3 (02-56)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SWAROVSKI",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

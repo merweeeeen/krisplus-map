@@ -1,0 +1,229 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-1872-clipper-tea-co-d9f9d1f0",
+	"slug": "the-1872-clipper-tea-co-d9f9d1f0",
+	"fetchedAt": "2026-10-26T16:24:50.089+08:00",
+	"payload": {
+		"partner": {
+			"_id": "606e9fb013c1171648e52248",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "NAVA 1872 PTE LTD.",
+			"brand": "The 1872 Clipper Tea Co.",
+			"code": "1CT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "1872ClipperTea",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "14 Kung Chong Road, #05-01 Lum Chang Building",
+				"postalCode": "159150",
+				"streetName": "Kung Chong Road"
+			},
+			"regNumber": "198804128Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9809418445120117-4766930942185805-Banner%20image.jpg",
+			"websiteUrl": "https://www.clippertea.com.sg/",
+			"descriptionHtml": "<p>The 1872 Clipper Tea Co., pays homage to the historic Clipper ships that raced to carry the freshest teas around the world. The 1872 Clipper Tea blends are widely appreciated for consistency in quality, signature aroma and refined taste.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>ION Orchard</li>\n\t<li>IOI Central Boulevard</li><li>Jewel</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/21464798988413136-07863837946667873-Logo%20image%20(1).jpg",
+			"createdAt": "2021-04-08T06:16:16.138Z",
+			"updatedAt": "2026-08-06T14:17:15.226Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 4,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "     ",
+			"promotional": "     ",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Ion Orchard",
+				"Paterson Road",
+				"Changi Airport",
+				"Airport Boulevard",
+				"Wellness",
+				"Retail",
+				"East",
+				"Terminal",
+				"Cleansing",
+				"Cold Pressed",
+				"Immune",
+				"Strengthen",
+				"Inflmmation",
+				"Metabolism",
+				"Health Benefits",
+				"Tumeric Essence",
+				"Organic",
+				"Wild Raw Honey",
+				"Dates",
+				"Figs",
+				"Luxury",
+				"Exquisite",
+				"Tea Gastronomy",
+				"Macarons",
+				"Singleestate",
+				"Tea Harvest",
+				"Birthday",
+				"Food  Beverage",
+				"Fresh",
+				"Aroma",
+				"Refined",
+				"Jewel",
+				"Sri Lanka",
+				"Artisan",
+				"Leave",
+				"Flower",
+				"Floral",
+				"Ginger",
+				"Matcha",
+				"Cakes",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"GS"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9c63d10e34df66b473a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9809418445120117-4766930942185805-Banner%20image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/21464798988413136-07863837946667873-Logo%20image%20(1).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9809418445120117-4766930942185805-Banner%20image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9809418445120117-4766930942185805-Banner%20image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9809418445120117-4766930942185805-Banner%20image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/21464798988413136-07863837946667873-Logo%20image%20(1)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/21464798988413136-07863837946667873-Logo%20image%20(1)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/21464798988413136-07863837946667873-Logo%20image%20(1)_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "The 1872 Clipper Tea Co., pays homage to the historic Clipper ships that raced to carry the freshest teas around the world. The 1872 Clipper Tea blends are widely appreciated for consistency in quality, signature aroma and refined taste. Participating Outlets: ION Orchard IOI Central BoulevardJewel Orchard Road Ion Orchard Paterson Road Changi Airport Airport Boulevard Wellness Retail East Terminal Cleansing Cold Pressed Immune Strengthen Inflmmation Metabolism Health Benefits Tumeric Essence Organic Wild Raw Honey Dates Figs Luxury Exquisite Tea Gastronomy Macarons Singleestate Tea Harvest Birthday Food  Beverage Fresh Aroma Refined Jewel Sri Lanka Artisan Leave Flower Floral Ginger Matcha Cakes Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Art Braci Origin Nobu 665 Solo Restaurant Romantic Retail Gifts & Souvenirs",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-1872-clipper-tea-co-d9f9d1f0",
+			"outlets": [
+				{
+					"_id": "608b77ab45ba573ee44dabda",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "66820e9e3725e9006a12709c",
+					"name": "IOI Central Boulevard Towers"
+				},
+				{
+					"_id": "6848359a0ff99804094b66fc",
+					"name": "Jewel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard",
+			"IOI Central Boulevard Towers",
+			"Jewel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The 1872 Clipper Tea Co.",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

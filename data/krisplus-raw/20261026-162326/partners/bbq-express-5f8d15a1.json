@@ -1,0 +1,228 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bbq-express-5f8d15a1",
+	"slug": "bbq-express-5f8d15a1",
+	"fetchedAt": "2026-10-26T16:25:34.019+08:00",
+	"payload": {
+		"partner": {
+			"_id": "615d3ce652c72d98d40f46a7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Bishan",
+				"Junction 8",
+				"J8",
+				"Bishan Place",
+				"Bukit Panjang",
+				"Jelebu Road",
+				"Bukit Panjang Plaza",
+				"Lot One Shoppers Mall",
+				"Choa Chu Kang",
+				"Choa Chu Kang Avenue 4",
+				"Cck",
+				"Poultry",
+				"Corn",
+				"Bbq",
+				"Charcoal",
+				"Grilled",
+				"Chicken",
+				"Yakitori",
+				"Cheese",
+				"Pork Belly",
+				"Katsu",
+				"Rib Eye Steak",
+				"Wings",
+				"Thighs",
+				"Honey Pork Ribs",
+				"Sausages",
+				"Lemon Chicken",
+				"Tempura",
+				"Minced Meat",
+				"Mentaiko",
+				"Sweet Corn",
+				"Cob",
+				"Teriyaki",
+				"Asian",
+				"Dining",
+				"Barbequeue",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Bites",
+				"Snacks",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Snacks",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "C S Tay Foods Pte Ltd - BBQ Express",
+			"brand": "BBQ Express",
+			"code": "BBQ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "BBQ Express",
+			"address": {
+				"city": "Singapore",
+				"line1": "64 Woodlands Terrace ",
+				"streetName": "Woodlands Terrace ",
+				"postalCode": "738468",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198103313Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9299410966684005-Brand%20Image%20-%20BBQ%20Express%20-%20Honey%20Pork%20Ribs.png",
+			"websiteUrl": "https://www.cstay.com/",
+			"descriptionHtml": "<p>BBQ Express is a takeaway joint that offers affordable yet premium quality ribs and roast, with an Asian twist. They specialize in gourmet BBQ meats, including delicious barbequed chicken and pork ribs.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Bukit Panjang Plaza</li>\n\t<li>Junction 8</li>\n\t<li>Lot One Shoppers Mall</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/37590634108221277-App%20brand%20logo%20-%20BBQ%20Express.png",
+			"createdAt": "2021-10-06T06:06:30.859Z",
+			"updatedAt": "2026-08-06T14:17:22.015Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"saleOfMiles": 0.032,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "C S TAY FOODS PTE LTD - BBQ EXPRESS",
+			"promotional": "C S TAY FOODS PTE LTD - BBQ EXPRESS",
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9a1b35256c5b2c9bef5"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9299410966684005-Brand%20Image%20-%20BBQ%20Express%20-%20Honey%20Pork%20Ribs.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/37590634108221277-App%20brand%20logo%20-%20BBQ%20Express.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9299410966684005-Brand%20Image%20-%20BBQ%20Express%20-%20Honey%20Pork%20Ribs_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9299410966684005-Brand%20Image%20-%20BBQ%20Express%20-%20Honey%20Pork%20Ribs_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9299410966684005-Brand%20Image%20-%20BBQ%20Express%20-%20Honey%20Pork%20Ribs_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/37590634108221277-App%20brand%20logo%20-%20BBQ%20Express_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/37590634108221277-App%20brand%20logo%20-%20BBQ%20Express_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/37590634108221277-App%20brand%20logo%20-%20BBQ%20Express_high.png"
+			},
+			"searchContent": "BBQ Express is a takeaway joint that offers affordable yet premium quality ribs and roast, with an Asian twist. They specialize in gourmet BBQ meats, including delicious barbequed chicken and pork ribs. Participating Outlets: Bukit Panjang Plaza Junction 8 Lot One Shoppers Mall Bishan Junction 8 J8 Bishan Place Bukit Panjang Jelebu Road Bukit Panjang Plaza Lot One Shoppers Mall Choa Chu Kang Choa Chu Kang Avenue 4 Cck Poultry Corn Bbq Charcoal Grilled Chicken Yakitori Cheese Pork Belly Katsu Rib Eye Steak Wings Thighs Honey Pork Ribs Sausages Lemon Chicken Tempura Minced Meat Mentaiko Sweet Corn Cob Teriyaki Asian Dining Barbequeue Cnysnacks Chinese New Year Bites Snacks Koi Dunkin Donuts Boost The Muffinry Delifrance Twelve Cupcakes Four Leaves Prima Deli Starbucks Old Chang Kee Snacks Finger Food Nibbles Light Bites Fast Food Refreshments Tidbits Dining Quick Bites & Snacks",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:20:17.976Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bbq-express-5f8d15a1",
+			"outlets": [
+				{
+					"_id": "6163a703d2e7ae16dc2e1181",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "6163a751c0dd9b16c4597215",
+					"name": "Lot One Shoppers' Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Junction 8",
+			"Lot One Shoppers' Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "BBQ Express",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

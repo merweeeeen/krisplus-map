@@ -1,0 +1,194 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kim-choo-kueh-chang-ace43353",
+	"slug": "kim-choo-kueh-chang-ace43353",
+	"fetchedAt": "2026-10-26T16:24:42.927+08:00",
+	"payload": {
+		"partner": {
+			"_id": "602a2664155ef2169c6e64d5",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Kim Choo Kueh Chang Pte Ltd",
+			"brand": "Kim Choo Kueh Chang",
+			"code": "KCH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Kim Choo",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "111 East Coast Road,  ",
+				"postalCode": "428801",
+				"streetName": "East Coast Road"
+			},
+			"regNumber": "200308634H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/10304092468114412-App-Brand%20Image%20-%20750x540.jpg",
+			"websiteUrl": "https://www.kimchoo.com",
+			"descriptionHtml": "<p>Kim Choo Nyonya rice dumplings have been a mainstay in Singapore&rsquo;s diverse epicurean tapestry since 1945. Many covet its rich taste, finely woven around the humble delicacy. Today, Kim Choo offers a wide variety of products and services, which seeks to strengthen the Peranakan heritage.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>111 East Coast Road</li>\n\t<li>60 Joo Chiat Place</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/527433272069334-App-Brand%20Logo%20-%201000x1000.jpg",
+			"createdAt": "2021-02-15T07:44:36.234Z",
+			"updatedAt": "2026-08-06T14:17:13.896Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "111 East Coast Road\nSingapore 428801",
+			"promotional": "A taste of culture, borne from traditions",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"searchableKeywords": [
+				"Katong",
+				"Upper East Coast Road",
+				"Joo Chiat Place",
+				"Eunos",
+				"Peranakan",
+				"Marine Parade",
+				"East Coast Road",
+				"East",
+				"Dumplings",
+				"Ba Zhang",
+				"Kee Chang",
+				"Kuehs",
+				"Nonya",
+				"Nyonya",
+				"Kimchoo",
+				"Rainbow Kueh",
+				"Nyonya Silat",
+				"Retail",
+				"Chinese",
+				"Food",
+				"Snacks",
+				"Delicacy",
+				"Original",
+				"Cnysnacks",
+				"Chinese New Year"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9cb595add2492446470"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10304092468114412-App-Brand%20Image%20-%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/527433272069334-App-Brand%20Logo%20-%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10304092468114412-App-Brand%20Image%20-%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10304092468114412-App-Brand%20Image%20-%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10304092468114412-App-Brand%20Image%20-%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/527433272069334-App-Brand%20Logo%20-%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/527433272069334-App-Brand%20Logo%20-%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/527433272069334-App-Brand%20Logo%20-%201000x1000_high.jpg"
+			},
+			"searchContent": "Kim Choo Nyonya rice dumplings have been a mainstay in Singapore’s diverse epicurean tapestry since 1945. Many covet its rich taste, finely woven around the humble delicacy. Today, Kim Choo offers a wide variety of products and services, which seeks to strengthen the Peranakan heritage. Participating Outlets: 111 East Coast Road 60 Joo Chiat Place Katong Upper East Coast Road Joo Chiat Place Eunos Peranakan Marine Parade East Coast Road East Dumplings Ba Zhang Kee Chang Kuehs Nonya Nyonya Kimchoo Rainbow Kueh Nyonya Silat Retail Chinese Food Snacks Delicacy Original Cnysnacks Chinese New Year Retail",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kim-choo-kueh-chang-ace43353",
+			"outlets": [
+				{
+					"_id": "602dbd254293c646449d89fa",
+					"name": "109 East Coast Road"
+				},
+				{
+					"_id": "6163acbd8f9a0d17fc8d577b",
+					"name": "60 Joo Chiat Place"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"109 East Coast Road",
+			"60 Joo Chiat Place"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kim Choo Kueh Chang",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

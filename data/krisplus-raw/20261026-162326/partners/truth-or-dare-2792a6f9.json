@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/truth-or-dare-2792a6f9",
+	"slug": "truth-or-dare-2792a6f9",
+	"fetchedAt": "2026-10-26T16:34:10.425+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a9e24f2e1b0e8ff470636ff",
+			"name": "Lume Rooftop Pte Ltd (Truth or Dare)",
+			"shortName": "Truth or Dare",
+			"mccCode": "5813",
+			"mccDescription": "Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques",
+			"brand": "Truth or Dare Rooftop Bar",
+			"code": "TOD",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/48985312008415516-4139339455942441-LOGO%20TOD%20BLACK%20260%20x%20260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/07308865770669226-9772162800675943-BRAND%20IMG%20750%20x%20540.png",
+			"websiteUrl": "https://www.truthordare.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 Kim Seng Promenade  #09-09",
+				"postalCode": "237994",
+				"streetName": "Great World City",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Truth or Dare is Singapore's rooftop social playground for adults, where every night begins with a choice.</p><p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Inspired by the classic game of Truth or Dare, the venue is built around the idea of duality—whether you're here for honest conversations over cocktails or ready to embrace the energy of live music, dancing, and spontaneous adventures.</p><p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">As Singapore's only rooftop bar featuring live bands every night, Truth or Dare is designed to bring people together. From after-work drinks and date nights to birthdays, celebrations, and unforgettable nights out, every visit offers a different experience yet always leaves you with a story to tell.</p><p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Because every great night begins with a question... Truth or Dare?</p>",
+			"searchableKeywords": [
+				"Live music",
+				"live band singapore",
+				"cocktails",
+				"nightlife",
+				"party singapore",
+				"rooftop bar",
+				"happy hour",
+				"date night",
+				"birthdays",
+				"raffles place bar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 0,
+			"newMerchantEndDate": "2026-12-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-09-07T02:44:02.306Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/48985312008415516-4139339455942441-LOGO%20TOD%20BLACK%20260%20x%20260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07308865770669226-9772162800675943-BRAND%20IMG%20750%20x%20540.png",
+			"createdAt": "2026-09-07T02:44:02.318Z",
+			"updatedAt": "2026-10-02T01:30:06.906Z",
+			"searchContent": "Truth or Dare is Singapore's rooftop social playground for adults, where every night begins with a choice. Inspired by the classic game of Truth or Dare, the venue is built around the idea of duality—whether you're here for honest conversations over cocktails or ready to embrace the energy of live music, dancing, and spontaneous adventures. As Singapore's only rooftop bar featuring live bands every night, Truth or Dare is designed to bring people together. From after-work drinks and date nights to birthdays, celebrations, and unforgettable nights out, every visit offers a different experience yet always leaves you with a story to tell. Because every great night begins with a question... Truth or Dare? Live music live band singapore cocktails nightlife party singapore rooftop bar happy hour date night birthdays raffles place bar Dining Pubs & Bars Asian Western",
+			"slugId": "truth-or-dare-2792a6f9",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07308865770669226-9772162800675943-BRAND%20IMG%20750%20x%20540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07308865770669226-9772162800675943-BRAND%20IMG%20750%20x%20540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07308865770669226-9772162800675943-BRAND%20IMG%20750%20x%20540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/48985312008415516-4139339455942441-LOGO%20TOD%20BLACK%20260%20x%20260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/48985312008415516-4139339455942441-LOGO%20TOD%20BLACK%20260%20x%20260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/48985312008415516-4139339455942441-LOGO%20TOD%20BLACK%20260%20x%20260_high.png"
+			},
+			"outlets": [
+				{
+					"_id": "6a9e2802d41de8f2802df4cc",
+					"name": "Boat Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Boat Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Truth or Dare Rooftop Bar",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

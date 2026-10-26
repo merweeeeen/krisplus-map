@@ -1,0 +1,164 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/morsels-c0af338d",
+	"slug": "morsels-c0af338d",
+	"fetchedAt": "2026-10-26T16:30:31.932+08:00",
+	"payload": {
+		"partner": {
+			"_id": "685ba5a33ee54b040721fd5b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Asian",
+				"Confort",
+				"Vegan",
+				"Vegetarian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "RH THEORY DINING CONCEPTS PRIVATE LIMITED",
+			"brand": "Morsels",
+			"code": "MOR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Morsels",
+			"address": {
+				"line1": "3 LEEDON HEIGHTS #10-05",
+				"postalCode": "267951",
+				"streetName": "3 LEEDON HEIGHTS #10-05",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.morsels.com.sg/",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Morsels\">Reserve A Table</a>.</p><p>Elevated comfort food delivered with a creative twist – nourishing your senses.<br>Morsels continue to feed and nourish customers with their comforting Asian inspired dishes, noodles and set lunch menus. Be nourished with their house ferments and sauces delectable with wines and sakes.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/18369236422319246-morsels.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6574744289641934-5355670827507464-brand%20image%20750.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18369236422319246-morsels.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6574744289641934-5355670827507464-brand%20image%20750.png",
+			"createdAt": "2025-06-25T07:30:43.503Z",
+			"updatedAt": "2026-08-06T14:18:15.824Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18369236422319246-morsels_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18369236422319246-morsels_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18369236422319246-morsels_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Elevated comfort food delivered with a creative twist – nourishing your senses. Morsels continue to feed and nourish customers with their comforting Asian inspired dishes, noodles and set lunch menus. Be nourished with their house ferments and sauces delectable with wines and sakes. Asian Confort Vegan Vegetarian Dining Vegan-Friendly Vegetarian-Friendly Asian Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:11:57.901Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "morsels-c0af338d",
+			"outlets": [
+				{
+					"_id": "685baa72f1fe07040197a5a3",
+					"name": "Dempsey Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Dempsey Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Morsels",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

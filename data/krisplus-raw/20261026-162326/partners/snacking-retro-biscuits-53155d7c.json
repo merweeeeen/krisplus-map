@@ -1,0 +1,192 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/snacking-retro-biscuits-53155d7c",
+	"slug": "snacking-retro-biscuits-53155d7c",
+	"fetchedAt": "2026-10-26T16:32:43.272+08:00",
+	"payload": {
+		"partner": {
+			"_id": "699675bdfb4bcef42eee8b72",
+			"name": "SNACKING FIRST PTE LTD",
+			"shortName": "snacKING Retro",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "snacKING Retro Biscuits",
+			"code": "KRB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/14792548460488653-7787630320726131-snacKING%20LOGO%20FINAL%20(260%20x%20260%20px).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7661389091489472-5767585838010967-Brand%20Image%20(750%20x%20540%20px).png",
+			"websiteUrl": "https://snackingretrobiscuits.com.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "8A ADMIRALTY STREET #04-15 SINGAPORE 757437",
+				"postalCode": "757437",
+				"streetName": "8A ADMIRALTY STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">snacKING Retro Biscuits Singapore is a nostalgic tribute to\n    the golden era of childhood snacks, reimagined for today’s generation. Rooted\n    in Singaporean heritage, the brand curates a delightful assortment of\n    old-school biscuits that transports you back to simpler times.</p><p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>City Square Mall</li><li>Jurong Point</li><li>Northpoint City</li><li>Pasir Ris Mall</li><li>Waterway Point</li></ul>\n\n\n\n\n",
+			"searchableKeywords": [
+				"Snacks",
+				"Biscuits",
+				"Kids",
+				"Sweets",
+				"Chips",
+				"Wafer",
+				"Toys",
+				"Nostalgic",
+				"Goodie Bags",
+				"Games",
+				"Retro",
+				"old school",
+				"Cookies",
+				"Rolls",
+				"Keropok",
+				"Candy"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FS",
+								"GROC"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-19T02:30:21.024Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14792548460488653-7787630320726131-snacKING%20LOGO%20FINAL%20(260%20x%20260%20px).png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7661389091489472-5767585838010967-Brand%20Image%20(750%20x%20540%20px).png",
+			"createdAt": "2026-02-19T02:30:21.031Z",
+			"updatedAt": "2026-08-06T14:18:29.605Z",
+			"searchContent": "snacKING Retro Biscuits Singapore is a nostalgic tribute to the golden era of childhood snacks, reimagined for today’s generation. Rooted in Singaporean heritage, the brand curates a delightful assortment of old-school biscuits that transports you back to simpler times. Participating outlets: City Square MallJurong PointNorthpoint CityPasir Ris MallWaterway Point Snacks Biscuits Kids Sweets Chips Wafer Toys Nostalgic Goodie Bags Games Retro old school Cookies Rolls Keropok Candy Retail Food Specialities Groceries",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7661389091489472-5767585838010967-Brand%20Image%20(750%20x%20540%20px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7661389091489472-5767585838010967-Brand%20Image%20(750%20x%20540%20px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7661389091489472-5767585838010967-Brand%20Image%20(750%20x%20540%20px)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14792548460488653-7787630320726131-snacKING%20LOGO%20FINAL%20(260%20x%20260%20px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14792548460488653-7787630320726131-snacKING%20LOGO%20FINAL%20(260%20x%20260%20px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14792548460488653-7787630320726131-snacKING%20LOGO%20FINAL%20(260%20x%20260%20px)_high.png"
+			},
+			"newMerchantEndDate": "2026-06-20T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "snacking-retro-biscuits-53155d7c",
+			"outlets": [
+				{
+					"_id": "699fa317ab52b137c3551dcf",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "699fa36b13d4b841bf268c67",
+					"name": "Northpoint City South Wing"
+				},
+				{
+					"_id": "699fa3f0e1e0e732bd2fe1e8",
+					"name": "Pasir Ris Mall"
+				},
+				{
+					"_id": "699fa45d3af754a880d15c04",
+					"name": "Waterway Point"
+				},
+				{
+					"_id": "699fa4c8f8099afcf456b401",
+					"name": "City Square Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jurong Point",
+			"Northpoint City South Wing",
+			"Pasir Ris Mall",
+			"Waterway Point",
+			"City Square Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "snacKING Retro Biscuits",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,226 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-straits-wine-company-190cfdff",
+	"slug": "the-straits-wine-company-190cfdff",
+	"fetchedAt": "2026-10-26T16:32:45.445+08:00",
+	"payload": {
+		"partner": {
+			"_id": "699fbc926f46d5b959d7b08b",
+			"name": "SINGAPORE STRAITS WINE COMPANY PTE. LTD.",
+			"shortName": "The Straits Wi",
+			"mccCode": "5921",
+			"mccDescription": "Package Stores - Beer, Wine, and Liquor",
+			"brand": "The Straits Wine Company",
+			"code": "SSW",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2573224425486005-download.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6408882774463713-44539301845511603-Brand%20Image%20(750x540).png",
+			"websiteUrl": "https://straitswine.com/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "6 HARPER ROAD #01-02 LEONG HUAT BUILDING SINGAPORE 369674",
+				"postalCode": "369674",
+				"streetName": "6 HARPER ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">The Straits Wine Company champions quality artisanal wines     by sourcing exquisite, handcrafted selections from passionate, innovative     winemakers around the world.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\"><span lang=\"EN-US\">Participating         outlets:</span></p>  <ul style=\"list-style-type: circle;\"><li><span lang=\"EN-US\">Quayside         Isle Sentosa</span></li><li><span lang=\"EN-US\">Regency         House</span></li><li><span lang=\"EN-US\">UE Square</span></li></ul>   ",
+			"searchableKeywords": [
+				"Straits Wine",
+				"wine shop Singapore",
+				"wine retailer",
+				"wine merchant",
+				"premium wines",
+				"fine wine Singapore",
+				"boutique wine store",
+				"wine importer",
+				"artisanal wines",
+				"wine tasting",
+				"wine events Singapore",
+				"wine workshop",
+				"wine education",
+				"wine masterclass",
+				"art and wine",
+				"paint and wine",
+				"wine discovery",
+				"guided wine tasting",
+				"wine appreciation",
+				"date night ideas",
+				"after work drinks",
+				"things to do in Singapore",
+				"social experiences",
+				"weekend activities",
+				"group activities",
+				"casual wine bar",
+				"relaxed wine experience",
+				"wine gifts",
+				"wine gift ideas",
+				"corporate wine gifts",
+				"wine bundles",
+				"wine promotions",
+				"wine deals Singapore",
+				"wine discounts",
+				"special wine offers",
+				"red wine",
+				"white wine",
+				"sparkling wine",
+				"natural wine",
+				"organic wine",
+				"smallbatch wine",
+				"boutique wineries",
+				"Old World wine",
+				"New World wine",
+				"wine near me",
+				"wine shop near me",
+				"Singapore wine store",
+				"wine delivery Singapore",
+				"wine retail Singapore",
+				"UE Square wine",
+				"Balmoral Plaza wine",
+				"Kris earn miles",
+				"earn miles shopping",
+				"miles dining",
+				"KrisFlyer miles",
+				"earn miles Singapore",
+				"lifestyle rewards",
+				"miles and dining",
+				"miles experiences"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS",
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-26T03:22:58.681Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2573224425486005-download.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6408882774463713-44539301845511603-Brand%20Image%20(750x540).png",
+			"createdAt": "2026-02-26T03:22:58.688Z",
+			"updatedAt": "2026-10-09T09:03:53.813Z",
+			"searchContent": "The Straits Wine Company champions quality artisanal wines by sourcing exquisite, handcrafted selections from passionate, innovative winemakers around the world. Participating outlets: Quayside Isle SentosaRegency HouseUE Square Straits Wine wine shop Singapore wine retailer wine merchant premium wines fine wine Singapore boutique wine store wine importer artisanal wines wine tasting wine events Singapore wine workshop wine education wine masterclass art and wine paint and wine wine discovery guided wine tasting wine appreciation date night ideas after work drinks things to do in Singapore social experiences weekend activities group activities casual wine bar relaxed wine experience wine gifts wine gift ideas corporate wine gifts wine bundles wine promotions wine deals Singapore wine discounts special wine offers red wine white wine sparkling wine natural wine organic wine smallbatch wine boutique wineries Old World wine New World wine wine near me wine shop near me Singapore wine store wine delivery Singapore wine retail Singapore UE Square wine Balmoral Plaza wine Kris earn miles earn miles shopping miles dining KrisFlyer miles earn miles Singapore lifestyle rewards miles and dining miles experiences Retail Gifts & Souvenirs Food Specialities",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6408882774463713-44539301845511603-Brand%20Image%20(750x540)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6408882774463713-44539301845511603-Brand%20Image%20(750x540)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6408882774463713-44539301845511603-Brand%20Image%20(750x540)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2573224425486005-download_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2573224425486005-download_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2573224425486005-download_high.png"
+			},
+			"newMerchantEndDate": "2026-05-16T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-straits-wine-company-190cfdff",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "69b0de4e07893b7037c0c284",
+					"name": "Icon Village"
+				},
+				{
+					"_id": "69b0ded1766204dffb03570f",
+					"name": "Quayside Isle"
+				},
+				{
+					"_id": "69b0df1c9d6eae69cb66bc6d",
+					"name": "UE Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Icon Village",
+			"Quayside Isle",
+			"UE Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Straits Wine Company",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

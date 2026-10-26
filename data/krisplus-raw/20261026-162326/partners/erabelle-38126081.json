@@ -1,0 +1,222 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/erabelle-38126081",
+	"slug": "erabelle-38126081",
+	"fetchedAt": "2026-10-26T16:24:26.936+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f7e91edaf3d3d7e289518c6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Erabelle Pte Ltd",
+			"brand": "Erabelle",
+			"code": "ERA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Erabelle",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "5 Upper Aljunied Link #08-01/02, Quartz Industrial Building",
+				"postalCode": "367903",
+				"streetName": "Upper Aljunied Link"
+			},
+			"regNumber": "200409751R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8076961592392853-2.%20APP%20Brand%20Image_2.jpg",
+			"websiteUrl": "https://erabelle.com/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/24737110084535607-Erabelle%20Logo%202023%201000%20x%201000%2096dpi.jpg",
+			"createdAt": "2020-10-08T04:13:33.064Z",
+			"updatedAt": "2026-08-06T14:17:11.441Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.33,
+				"saleOfMiles": 0.03,
+				"amountBlock": 3,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tOrchard VisionCrest\n•\tVivocity\n•\tEastpoint Mall\n•\tThe Seletar Mall",
+			"promotional": "                   ",
+			"descriptionHtml": "<p>​​​​​​Classic, timeless and elegant - that is how Erabelle perceives beauty. Erabelle’s philosophy 'Beauty In An Instant' impels their commitment to provide solutions that renders you the ability to put your best face forward anytime, anywhere.<br>\n<br>\nParticipating Outlets: </p>\n\n<ul>\n\t<li>Eastpoint Mall</li>\n\t<li>Marina One - The Heart</li>\n\t<li>The Cathay</li>\n</ul>",
+			"searchableKeywords": [
+				"Harbourfront",
+				"Telok Blangah Road",
+				"Penang Road",
+				"Dhoby Ghaut",
+				"Sengkang West Avenue",
+				"Layar",
+				"Simei",
+				"Simei Street 6",
+				"Wellness",
+				"Retail",
+				"East",
+				"Beauty",
+				"Facial",
+				"Makeover",
+				"Brow",
+				"Tonic",
+				"Skin Mask",
+				"Flawless",
+				"Cosmetic Artistry",
+				"Lip Embroidery",
+				"Eye Embroidery",
+				"Experts",
+				"Design",
+				"Japanese Sake Facial",
+				"Japanese",
+				"Services",
+				"Orchard Visioncrest",
+				"Town",
+				"Vivocity",
+				"Eastpoint Mall",
+				"Nex",
+				"Serangoon",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d7595add249244647b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8076961592392853-2.%20APP%20Brand%20Image_2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/24737110084535607-Erabelle%20Logo%202023%201000%20x%201000%2096dpi.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8076961592392853-2_low.%20APP%20Brand%20Image_2",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8076961592392853-2_med.%20APP%20Brand%20Image_2",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8076961592392853-2_high.%20APP%20Brand%20Image_2"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/24737110084535607-Erabelle%20Logo%202023%201000%20x%201000%2096dpi_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/24737110084535607-Erabelle%20Logo%202023%201000%20x%201000%2096dpi_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/24737110084535607-Erabelle%20Logo%202023%201000%20x%201000%2096dpi_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-10-31T15:56:39.886Z",
+			"searchContent": "​​​​​​Classic, timeless and elegant - that is how Erabelle perceives beauty. Erabelle’s philosophy 'Beauty In An Instant' impels their commitment to provide solutions that renders you the ability to put your best face forward anytime, anywhere. Participating Outlets: Eastpoint Mall Marina One - The Heart The Cathay Harbourfront Telok Blangah Road Penang Road Dhoby Ghaut Sengkang West Avenue Layar Simei Simei Street 6 Wellness Retail East Beauty Facial Makeover Brow Tonic Skin Mask Flawless Cosmetic Artistry Lip Embroidery Eye Embroidery Experts Design Japanese Sake Facial Japanese Services Orchard Visioncrest Town Vivocity Eastpoint Mall Nex Serangoon Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Services Personal Care",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "erabelle-38126081",
+			"outlets": [
+				{
+					"_id": "5f84fe26ec82d380544e2d97",
+					"name": "The Cathay "
+				},
+				{
+					"_id": "5f8503472b5d965048355a7a",
+					"name": "Eastpoint Mall"
+				},
+				{
+					"_id": "65a4c02e3bc31200535593cf",
+					"name": "Marina One"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Cathay ",
+			"Eastpoint Mall",
+			"Marina One"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 3,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Erabelle",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 3 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

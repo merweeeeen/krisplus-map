@@ -1,0 +1,206 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/edge-pan-pacific-singapore-61005472",
+	"slug": "edge-pan-pacific-singapore-61005472",
+	"fetchedAt": "2026-10-26T16:25:01.221+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60826b783a32f749fcc2bbb9",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Edge Pan Pacific Singapore",
+			"brand": "Edge (Pan Pacific Singapore)",
+			"code": "EDG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Edge",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "7 Raffles Boulevard , Pan Pacific Singapore",
+				"postalCode": "039595",
+				"streetName": "Raffles Boulevard"
+			},
+			"regNumber": "28631800L",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3109397788735164-4696501019755972-Brand%20Image%20(750%20x%20540px).jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pp-marina/dining/edge.html",
+			"descriptionHtml": "<p>Be treated to a theatrical dining experience, featuring the authentic tastes of Singapore and the Pacific Rim. Watch the master chefs in action at the seven open kitchens as they create a range of delicious cuisines.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/12801385600667992-7331576278153136-Brand%20Logo%20(1000%20x%201000px).jpg",
+			"createdAt": "2021-04-23T06:38:48.636Z",
+			"updatedAt": "2026-08-06T14:17:16.280Z",
+			"searchableKeywords": [
+				"Promenade",
+				"Chinese",
+				"Fine Dining",
+				"Asian",
+				"Fusion",
+				"Buffet",
+				"Champagne",
+				"Brunch",
+				"Singapore",
+				"Malay",
+				"Indian",
+				"Japanese",
+				"Top Restaurants",
+				"Best Restaurants",
+				"Dining",
+				"Pan Pacific",
+				"Buffet",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar"
+			],
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.046,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "      ",
+			"promotional": "     ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c008272955cb5b8b96"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3109397788735164-4696501019755972-Brand%20Image%20(750%20x%20540px).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12801385600667992-7331576278153136-Brand%20Logo%20(1000%20x%201000px).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3109397788735164-4696501019755972-Brand%20Image%20(750%20x%20540px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3109397788735164-4696501019755972-Brand%20Image%20(750%20x%20540px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3109397788735164-4696501019755972-Brand%20Image%20(750%20x%20540px)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12801385600667992-7331576278153136-Brand%20Logo%20(1000%20x%201000px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12801385600667992-7331576278153136-Brand%20Logo%20(1000%20x%201000px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12801385600667992-7331576278153136-Brand%20Logo%20(1000%20x%201000px)_high.jpg"
+			},
+			"searchContent": "Be treated to a theatrical dining experience, featuring the authentic tastes of Singapore and the Pacific Rim. Watch the master chefs in action at the seven open kitchens as they create a range of delicious cuisines. Promenade Chinese Fine Dining Asian Fusion Buffet Champagne Brunch Singapore Malay Indian Japanese Top Restaurants Best Restaurants Dining Pan Pacific Buffet Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Dining Casual Dining Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T06:58:57.735Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "edge-pan-pacific-singapore-61005472",
+			"outlets": [
+				{
+					"_id": "609393cac898184b1c8a887c",
+					"name": "Pan Pacific Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pan Pacific Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Edge (Pan Pacific Singapore)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,157 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-alteration-studio-3c18568b",
+	"slug": "the-alteration-studio-3c18568b",
+	"fetchedAt": "2026-10-26T16:29:16.766+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67297f65883f290073e2a586",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Alterationservices",
+				"Sleeveshortening",
+				"Resizeclothes",
+				"Jeansrepair"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "The Alteration Studio",
+			"brand": "The Alteration Studio",
+			"code": "ITA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5621",
+			"shortName": "The Alteration",
+			"address": {
+				"line1": "1 Raffles Link, #B1-06A Citylink Mall, Singapore 039393",
+				"postalCode": "039393",
+				"streetName": "1 Raffles Link",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://alterationstudio.sg/",
+			"descriptionHtml": "<p>At The Alteration Studio, they specialise in premium alteration services that ensure a perfect fit and refined finish. </p>\n\n<p>Their skilled tailors meticulously handle all requests from intricate adjustments to complete transformations, ensuring utmost attention to detail and craftsmanship for each garment.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5676386291329678-1716359822597231-The%20Alteration%20Studio%20Logo%20260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9891212924831405-06617561611358624-Suit%20Alteration%20Service_Priv.png",
+			"countryCode": "SG",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"partnershipGroup": "GR6",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-11-05T02:13:57.809Z",
+			"updatedAt": "2026-08-06T14:18:08.660Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9891212924831405-06617561611358624-Suit%20Alteration%20Service_Priv_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9891212924831405-06617561611358624-Suit%20Alteration%20Service_Priv_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9891212924831405-06617561611358624-Suit%20Alteration%20Service_Priv_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5676386291329678-1716359822597231-The%20Alteration%20Studio%20Logo%20260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5676386291329678-1716359822597231-The%20Alteration%20Studio%20Logo%20260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5676386291329678-1716359822597231-The%20Alteration%20Studio%20Logo%20260_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9891212924831405-06617561611358624-Suit%20Alteration%20Service_Priv.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5676386291329678-1716359822597231-The%20Alteration%20Studio%20Logo%20260.png",
+			"searchContent": "At The Alteration Studio, they specialise in premium alteration services that ensure a perfect fit and refined finish. Their skilled tailors meticulously handle all requests from intricate adjustments to complete transformations, ensuring utmost attention to detail and craftsmanship for each garment. Alterationservices Sleeveshortening Resizeclothes Jeansrepair Services",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:46:14.648Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-alteration-studio-3c18568b",
+			"outlets": [
+				{
+					"_id": "6729833a4263f6007416514a",
+					"name": "CityLink Mall "
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"CityLink Mall "
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Alteration Studio",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

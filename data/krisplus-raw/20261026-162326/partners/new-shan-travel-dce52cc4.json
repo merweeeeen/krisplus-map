@@ -1,0 +1,162 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/new-shan-travel-dce52cc4",
+	"slug": "new-shan-travel-dce52cc4",
+	"fetchedAt": "2026-10-26T16:29:12.802+08:00",
+	"payload": {
+		"partner": {
+			"_id": "670f155f461f9600743f621c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 0,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 1,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Travel",
+				"Travel Agent",
+				"Tour Packages",
+				"Cruise",
+				"Holiday",
+				"Japan",
+				"Korea",
+				"China",
+				"Taiwan"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "NEW SHAN  TRAVEL SERVICE PTE LTD",
+			"brand": "New Shan Travel",
+			"code": "NST",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "New Shan Trave",
+			"address": {
+				"city": "Singapore",
+				"line1": "133 NEW BRIDGE ROAD, #22-03 CHINATOWN POINT, SINGAPORE 059413",
+				"streetName": "133 NEW BRIDGE ROAD",
+				"postalCode": "059413",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HOT",
+								"RES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.newshan.com",
+			"descriptionHtml": "<p>New Shan Travel is one of Singapore's leading travel agencies, established in 1972. They offer a variety of leisure, cruise and bespoke holiday packages with an aim to transform ordinary trips into extraordinary adventures.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1651025354436877-4969350896680862-New-Shan-Logo-260x260-px.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/680716916759232-6323350329996231-New%20Shan%20Brand%20Image.png",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-10-16T01:22:39.747Z",
+			"updatedAt": "2026-08-06T14:18:08.212Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/680716916759232-6323350329996231-New%20Shan%20Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/680716916759232-6323350329996231-New%20Shan%20Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/680716916759232-6323350329996231-New%20Shan%20Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1651025354436877-4969350896680862-New-Shan-Logo-260x260-px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1651025354436877-4969350896680862-New-Shan-Logo-260x260-px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1651025354436877-4969350896680862-New-Shan-Logo-260x260-px_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/680716916759232-6323350329996231-New%20Shan%20Brand%20Image.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1651025354436877-4969350896680862-New-Shan-Logo-260x260-px.jpg",
+			"searchContent": "New Shan Travel is one of Singapore's leading travel agencies, established in 1972. They offer a variety of leisure, cruise and bespoke holiday packages with an aim to transform ordinary trips into extraordinary adventures. Travel Travel Agent Tour Packages Cruise Holiday Japan Korea China Taiwan Services Hotels Resorts",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-17T08:46:19.957Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "new-shan-travel-dce52cc4",
+			"outlets": [
+				{
+					"_id": "670f16e6509e6c006dba8fbd",
+					"name": "Chinatown Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Chinatown Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "New Shan Travel",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

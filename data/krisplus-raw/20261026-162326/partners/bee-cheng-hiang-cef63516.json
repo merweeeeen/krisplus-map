@@ -1,0 +1,411 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bee-cheng-hiang-cef63516",
+	"slug": "bee-cheng-hiang-cef63516",
+	"fetchedAt": "2026-10-26T16:25:25.884+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61442a0f4611506488dd6b74",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Bch",
+				"Bak Kwa",
+				"Bak Hu",
+				"Pork",
+				"Charcoal",
+				"Grilled",
+				"Chargrill",
+				"Harbourfront Center",
+				"Maritime Square",
+				"Tiong Bahru",
+				"Tiong Bahru Plaza",
+				"Kim Seng Road",
+				"Zion Road",
+				"Great World City",
+				"Tiong Bahru Road",
+				"Takashimaya",
+				"Orchard Road",
+				"New Bridge Road",
+				"Chinatown",
+				"Paragon",
+				"Pagoda Street",
+				"Raffles City",
+				"North Bridge Road",
+				"Serangoon Road",
+				"Toa Payoh Lorong 6",
+				"Jellicoe Road",
+				"Victoria Street",
+				"Bugis",
+				"Clementi Mall",
+				"Commonwealth Avenue West",
+				"Sengkang Square",
+				"Compass Point",
+				"Clementi Avenue 3",
+				"Sims Avenue",
+				"Clementi",
+				"Nex",
+				"Serangoon Central",
+				"Parkway Parade",
+				"Paya Lebar Quarter",
+				"Marine Parade Road",
+				"East Coast Road",
+				"Hougang",
+				"Hougang Mall",
+				"Hougang Avenue 10",
+				"Jelebu Road",
+				"Bukit Panjang",
+				"Jurong Point",
+				"Jurong West Central 2",
+				"Woodlands Square",
+				"Bedok Mall",
+				"New Upper Changi Road",
+				"Lot 1",
+				"Choa Chu Kang Avenue 4",
+				"West Mall",
+				"Bukit Batok Central Link",
+				"Bukit Batok",
+				"Pl",
+				"Retail",
+				"Snacks",
+				"Tourists",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Gift",
+				"Souvenirs",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions",
+				"Mooncake"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Bee Cheng Hiang",
+			"brand": "Bee Cheng Hiang",
+			"code": "BCH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Bee Cheng Hian",
+			"address": {
+				"line1": "1359 Serangoon Road ",
+				"postalCode": "328241",
+				"streetName": "1359 Serangoon Road ",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9978169796306102-4523339128501134-20210825_BCH_Kris_BrandImage_750x540px.jpg",
+			"websiteUrl": "https://www.beechenghiang.com.sg/",
+			"descriptionHtml": "<p>Bee Cheng Hiang has been passionately committed to making the best bakkwa since 1933. The home-grown brand uses the most natural and premium ingredients possible and maintains an unyielding position on rejecting the use of MSG, artificial preservatives, meat-tenderiser, colouring and flavouring.</p>  <p>Known for its enterprising and innovative spirit, Bee Cheng Hiang has pioneered various products that have redefined the bakkwa industry, such as the Mini EZ Series (vacuum-packed bakkwa) and the EZ Mini Crunchies series (crunchy floss). Today, with more than 360 stores in 11 regions, Bee Cheng Hiang is the largest bakkwa retailer globally.</p>  <p>Non-participating outlets: Jewel Changi Airport and Changi Airport terminals </p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/05919804624345604-599628943655786-20210825_BCH_Kris_1000x1000px.jpg",
+			"createdAt": "2021-09-17T05:39:27.224Z",
+			"updatedAt": "2026-09-30T16:00:01.172Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0.8,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"saleOfMiles": 0.027,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "Bee Cheng Hiang",
+			"promotional": "Bee Cheng Hiang",
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9465e6d0897746a1e56"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 38
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9978169796306102-4523339128501134-20210825_BCH_Kris_BrandImage_750x540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/05919804624345604-599628943655786-20210825_BCH_Kris_1000x1000px.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9978169796306102-4523339128501134-20210825_BCH_Kris_BrandImage_750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9978169796306102-4523339128501134-20210825_BCH_Kris_BrandImage_750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9978169796306102-4523339128501134-20210825_BCH_Kris_BrandImage_750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/05919804624345604-599628943655786-20210825_BCH_Kris_1000x1000px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/05919804624345604-599628943655786-20210825_BCH_Kris_1000x1000px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/05919804624345604-599628943655786-20210825_BCH_Kris_1000x1000px_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Bee Cheng Hiang has been passionately committed to making the best bakkwa since 1933. The home-grown brand uses the most natural and premium ingredients possible and maintains an unyielding position on rejecting the use of MSG, artificial preservatives, meat-tenderiser, colouring and flavouring. Known for its enterprising and innovative spirit, Bee Cheng Hiang has pioneered various products that have redefined the bakkwa industry, such as the Mini EZ Series (vacuum-packed bakkwa) and the EZ Mini Crunchies series (crunchy floss). Today, with more than 360 stores in 11 regions, Bee Cheng Hiang is the largest bakkwa retailer globally. Non-participating outlets: Jewel Changi Airport and Changi Airport terminals Bch Bak Kwa Bak Hu Pork Charcoal Grilled Chargrill Harbourfront Center Maritime Square Tiong Bahru Tiong Bahru Plaza Kim Seng Road Zion Road Great World City Tiong Bahru Road Takashimaya Orchard Road New Bridge Road Chinatown Paragon Pagoda Street Raffles City North Bridge Road Serangoon Road Toa Payoh Lorong 6 Jellicoe Road Victoria Street Bugis Clementi Mall Commonwealth Avenue West Sengkang Square Compass Point Clementi Avenue 3 Sims Avenue Clementi Nex Serangoon Central Parkway Parade Paya Lebar Quarter Marine Parade Road East Coast Road Hougang Hougang Mall Hougang Avenue 10 Jelebu Road Bukit Panjang Jurong Point Jurong West Central 2 Woodlands Square Bedok Mall New Upper Changi Road Lot 1 Choa Chu Kang Avenue 4 West Mall Bukit Batok Central Link Bukit Batok Pl Retail Snacks Tourists Cnysnacks Chinese New Year Gift Souvenirs Gifts Birthdays Holidays Anniversary Special Occasions Mooncake Retail Gifts & Souvenirs",
+			"refundPeriodUpdatedAt": "2026-01-29T08:24:15.588Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bee-cheng-hiang-cef63516",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "614c0ca3e6eef976585cf408",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "614c0d048633434f54a6357c",
+					"name": "Waterway Point"
+				},
+				{
+					"_id": "614c0d3be6eef976585cf40a",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "614c0d78e6eef976585cf40c",
+					"name": "Compass One"
+				},
+				{
+					"_id": "614c0db1e6eef976585cf40e",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "614c0e4ce6eef976585cf412",
+					"name": "Bukit Panjang Plaza"
+				},
+				{
+					"_id": "614c0ea2e6eef976585cf414",
+					"name": "NEX"
+				},
+				{
+					"_id": "614c0f878633434f54a63584",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "614c0fe1e6eef976585cf41a",
+					"name": "V Hotel"
+				},
+				{
+					"_id": "614c10138633434f54a63587",
+					"name": "JEM"
+				},
+				{
+					"_id": "614c10f38633434f54a6358a",
+					"name": "Bugis Village"
+				},
+				{
+					"_id": "614c11c8e6eef976585cf420",
+					"name": "1359 Serangoon Road"
+				},
+				{
+					"_id": "614c12a98633434f54a63590",
+					"name": "Geylang Road"
+				},
+				{
+					"_id": "614c12fae6eef976585cf425",
+					"name": "Bedok North"
+				},
+				{
+					"_id": "614c13308633434f54a63592",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "614c13738633434f54a63594",
+					"name": "Sims Avenue"
+				},
+				{
+					"_id": "614c13cde6eef976585cf427",
+					"name": "Ang Mo Kio Ave 8"
+				},
+				{
+					"_id": "614c1402e6eef976585cf429",
+					"name": "Hougang Mall"
+				},
+				{
+					"_id": "614c142fe6eef976585cf42b",
+					"name": "Toa Payoh Central"
+				},
+				{
+					"_id": "614c14668633434f54a63596",
+					"name": "Lot One Shoppers' Mall"
+				},
+				{
+					"_id": "614c14ebe6eef976585cf42d",
+					"name": "Great World"
+				},
+				{
+					"_id": "614c151e8633434f54a6359a",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "614c154a8633434f54a6359c",
+					"name": "Tiong Bahru Plaza"
+				},
+				{
+					"_id": "614c15fce6eef976585cf435",
+					"name": "West Mall"
+				},
+				{
+					"_id": "614c16bde6eef976585cf439",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "614c16f48633434f54a635a1",
+					"name": "Paragon"
+				},
+				{
+					"_id": "614c1825e6eef976585cf43c",
+					"name": "The Clementi Mall"
+				},
+				{
+					"_id": "614c1868e6eef976585cf43f",
+					"name": "Clementi Central"
+				},
+				{
+					"_id": "614c18a7e6eef976585cf441",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "614c18d9e6eef976585cf443",
+					"name": "Tampines Central"
+				},
+				{
+					"_id": "614c19068633434f54a635a5",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "614c1949e6eef976585cf445",
+					"name": "White Sands"
+				},
+				{
+					"_id": "614c1978e6eef976585cf447",
+					"name": "Pagoda Street"
+				},
+				{
+					"_id": "614c19afe6eef976585cf449",
+					"name": "New Bridge Road"
+				},
+				{
+					"_id": "64abb25f0511d200558d708b",
+					"name": "The Woodleigh Mall"
+				},
+				{
+					"_id": "6a1e9ca380d9c81b67f75f3f",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "6aa91870ff393a7407f4e714",
+					"name": "Vivo City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Parkway Parade",
+			"Waterway Point",
+			"Junction 8",
+			"Compass One",
+			"Raffles City Shopping Centre",
+			"Bukit Panjang Plaza",
+			"NEX",
+			"Causeway Point",
+			"V Hotel",
+			"JEM",
+			"Bugis Village",
+			"1359 Serangoon Road",
+			"Geylang Road",
+			"Bedok North",
+			"Bedok Mall",
+			"Sims Avenue",
+			"Ang Mo Kio Ave 8",
+			"Hougang Mall",
+			"Toa Payoh Central",
+			"Lot One Shoppers' Mall",
+			"Great World",
+			"Jurong Point",
+			"Tiong Bahru Plaza",
+			"West Mall",
+			"PLQ Mall",
+			"Paragon",
+			"The Clementi Mall",
+			"Clementi Central",
+			"Northpoint City",
+			"Tampines Central",
+			"Tampines Mall",
+			"White Sands",
+			"Pagoda Street",
+			"New Bridge Road",
+			"The Woodleigh Mall",
+			"AMK Hub",
+			"Vivo City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bee Cheng Hiang",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

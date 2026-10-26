@@ -1,0 +1,240 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/simmons-911aeed9",
+	"slug": "simmons-911aeed9",
+	"fetchedAt": "2026-10-26T16:24:29.167+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f8d4f142b5d965048355c70",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "SIMMONS (SEA) PTE LTD",
+			"brand": "Simmons",
+			"code": "SIM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Simmons",
+			"address": {
+				"line1": "16 Collyer Quay #13-01",
+				"postalCode": "049318",
+				"streetName": "Collyer Quay Centre",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "199303272D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7501177885059087-Simmons%20Partner%20Page%20(750x540px).png",
+			"websiteUrl": "https://www.simmons.com.sg/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7451978151014196-6804891094205074-167162554786755-Brand%20Logo%20(1000%20x%201000%20px).jpg",
+			"createdAt": "2020-10-19T08:32:20.760Z",
+			"updatedAt": "2026-10-15T02:27:17.625Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 300000,
+				"minTokens": 60000,
+				"cardMerchantFees": {
+					"refundable": 1.45,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "All SIMMONS Gallery and SIMMONS Studio outlets",
+			"promotional": "        ",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Simmons, a leading luxury mattress brand, redefining the art     of sleep for centuries, to bring every individual a well-deserved night rest.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Every mattress is made to last, with premium design, quality     and craftsmanship in Simmons ® Original Pocketed     Coils® technology, to provide the best ultimate comfort and support     throughout your sleep.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Simmons is available in 140 countries, trusted by many     consumers till today with unwavering loyalty, and a preferred mattress     brand for top renowned five-star hotels worldwide.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>Simmons Gallery @ Capitol Singapore</li><li>Simmons Gallery @ Changi City Point</li><li>Simmons Gallery @ IMM Building</li><li>Simmons Gallery @ Nassim</li><li>Simmons Studio @ Plaza Singapura</li><li>Simmons Gallery @ United Square</li><li>Simmons Gallery<span> </span>@ PLQ Mall</li><li>Simmons Gallery<span> </span>@ Raffles     City Shopping Centre</li></ul>             ",
+			"searchableKeywords": [
+				"Nassim Road",
+				"Orchard",
+				"Jurong East",
+				"Jurong East Street 21",
+				"Upper Thomson Road",
+				"Marymount",
+				"Dhoby Ghuat",
+				"Handy Road",
+				"Stamford Road",
+				"City Hall",
+				"Home",
+				"Retail",
+				"Central",
+				"City",
+				"Bed",
+				"Pillows",
+				"Duvet",
+				"Mattress",
+				"Topper",
+				"Duvant",
+				"Bolster",
+				"Sleep",
+				"Luxurious",
+				"Capitol Singapore",
+				"Imm",
+				"Nassim",
+				"Plaza Singapura",
+				"Plq Mall",
+				"Thomson Plaza",
+				"Upscale",
+				"Comfort",
+				"Pocketed Springs",
+				"Hotel",
+				"Luxury",
+				"Furniture",
+				"Simmons",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR3",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d645578ca5d7f0b3c9"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 8
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7501177885059087-Simmons%20Partner%20Page%20(750x540px).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7451978151014196-6804891094205074-167162554786755-Brand%20Logo%20(1000%20x%201000%20px).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7501177885059087-Simmons%20Partner%20Page%20(750x540px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7501177885059087-Simmons%20Partner%20Page%20(750x540px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7501177885059087-Simmons%20Partner%20Page%20(750x540px)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7451978151014196-6804891094205074-167162554786755-Brand%20Logo%20(1000%20x%201000%20px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7451978151014196-6804891094205074-167162554786755-Brand%20Logo%20(1000%20x%201000%20px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7451978151014196-6804891094205074-167162554786755-Brand%20Logo%20(1000%20x%201000%20px)_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-14T20:23:15.164Z",
+			"searchContent": "$31",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "simmons-911aeed9",
+			"outlets": [
+				{
+					"_id": "5f8e8ec90141c5436c088b57",
+					"name": "Capitol Singapore"
+				},
+				{
+					"_id": "5f8e8f8eed5a2c41103d5e9a",
+					"name": "One Nassim"
+				},
+				{
+					"_id": "5f8e9093ed5a2c41103d5e9d",
+					"name": "IMM"
+				},
+				{
+					"_id": "601b931a63232c25c057644f",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "61947cc6dc077340108d399a",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "63496bacc5b93a29d02412db",
+					"name": "Raffles City"
+				},
+				{
+					"_id": "6758f22bc60103006c4aeebf",
+					"name": "United Square"
+				},
+				{
+					"_id": "6a2a5438c99b3ff6798c59e9",
+					"name": "Changi City Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Capitol Singapore",
+			"One Nassim",
+			"IMM",
+			"Plaza Singapura",
+			"PLQ Mall",
+			"Raffles City",
+			"United Square",
+			"Changi City Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Simmons",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

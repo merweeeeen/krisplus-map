@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/vineyard-2e0b6e9a",
+	"slug": "vineyard-2e0b6e9a",
+	"fetchedAt": "2026-10-26T16:26:40.616+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e9e5ce5eae3716fce5e957",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Duck Confit",
+				"Herbs",
+				"European",
+				"Romantic",
+				"Wine",
+				"Dining",
+				"Hortpark",
+				"Vineyard",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "VINEYARD BISTRO PTE LTD",
+			"brand": "Vineyard",
+			"code": "VIN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Vineyard",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "211 HENDERSON ROAD, #05-03",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON ROAD"
+			},
+			"regNumber": "201723803D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/016000195824844354-7824830514733783-750540Interior.jpg",
+			"websiteUrl": "https://www.vineyardhortpark.com.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Vineyard\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Nestled amid the lush greenscape of HortPark, Vineyard is a charming “garden-to-table” French-Italian restaurant where every visit warrants a feast for the senses. Vineyard recreates the provincial experience with its beautifully aged-wood tables, overhung foliage and edible garden taking you on a journey away from the bustling city.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "                ",
+			"participatingOutlets": "•\tHortpark",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2301276779126995-14253249490120878-VINEYARD%20LOGO%201000x1000%20(1).png",
+			"createdAt": "2022-08-03T03:04:46.172Z",
+			"updatedAt": "2026-08-06T14:17:34.148Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9732f71c855d5496e2d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/016000195824844354-7824830514733783-750540Interior.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2301276779126995-14253249490120878-VINEYARD%20LOGO%201000x1000%20(1).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/016000195824844354-7824830514733783-750540Interior_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/016000195824844354-7824830514733783-750540Interior_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/016000195824844354-7824830514733783-750540Interior_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2301276779126995-14253249490120878-VINEYARD%20LOGO%201000x1000%20(1)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2301276779126995-14253249490120878-VINEYARD%20LOGO%201000x1000%20(1)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2301276779126995-14253249490120878-VINEYARD%20LOGO%201000x1000%20(1)_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Nestled amid the lush greenscape of HortPark, Vineyard is a charming “garden-to-table” French-Italian restaurant where every visit warrants a feast for the senses. Vineyard recreates the provincial experience with its beautifully aged-wood tables, overhung foliage and edible garden taking you on a journey away from the bustling city. Duck Confit Herbs European Romantic Wine Dining Hortpark Vineyard Business Corporate Dining Working Lunch Networking Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-12T07:24:14.885Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "vineyard-2e0b6e9a",
+			"outlets": [
+				{
+					"_id": "62eb91685d083825b010c2e0",
+					"name": "HortPark"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"HortPark"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Vineyard",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

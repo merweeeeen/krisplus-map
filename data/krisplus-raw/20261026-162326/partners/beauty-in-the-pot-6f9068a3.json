@@ -1,0 +1,233 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/beauty-in-the-pot-6f9068a3",
+	"slug": "beauty-in-the-pot-6f9068a3",
+	"fetchedAt": "2026-10-26T16:26:44.584+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7a3879737c23198263daf",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese",
+				"Hotpot",
+				"Steamboat",
+				"Dining",
+				"Wellness",
+				"Beauty In The Pot",
+				"Nex",
+				"Jewel",
+				"Kinex",
+				"Vivocity",
+				"Westgate",
+				"The Centre Point",
+				"The Star Vista",
+				"Serangoon",
+				"Changi Airport",
+				"Harbourfront",
+				"Jurong East",
+				"Orchard",
+				"Buona Vista",
+				"Tourists",
+				"Paradise",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume",
+				"Supper",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Beauty in The Pot",
+			"brand": "Beauty in The Pot",
+			"code": "BIP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "BeautyInThePot",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane 10",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201014375N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7507241817067958-0007232044038409935-750x540.jpg",
+			"websiteUrl": "https://www.paradisegp.com/brand-beauty-in-the-pot/",
+			"descriptionHtml": "<p>Savour the essence of health and beauty with every steaming pot of soup at Beauty in The Pot. Inspired by the culture of food for health, their hotpot concept offers six nourishing soup bases that promises rich flavours coupled with abundant benefits; with an array of ingredients artfully made by their team of chefs to match seamlessly with the rich and flavourful soup bases for maximum enjoyment.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Jewel Changi Airport</li>\n\t<li>NEX</li>\n\t<li>The Centrepoint</li>\n\t<li>The Star Vista</li>\n\t\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/14389913326854598-7981379126868822-1000x1000.jpg",
+			"createdAt": "2022-08-13T13:13:43.156Z",
+			"updatedAt": "2026-08-06T14:17:34.479Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tNEX\n•\tJewel\n•\tKinex\n•\tVivoCity\n•\tWestgate\n•\tThe Centrepoint\n•\tThe Star Vista",
+			"promotional": "                  ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef972034603c33892998b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7507241817067958-0007232044038409935-750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14389913326854598-7981379126868822-1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7507241817067958-0007232044038409935-750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7507241817067958-0007232044038409935-750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7507241817067958-0007232044038409935-750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14389913326854598-7981379126868822-1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14389913326854598-7981379126868822-1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14389913326854598-7981379126868822-1000x1000_high.jpg"
+			},
+			"searchContent": "Savour the essence of health and beauty with every steaming pot of soup at Beauty in The Pot. Inspired by the culture of food for health, their hotpot concept offers six nourishing soup bases that promises rich flavours coupled with abundant benefits; with an array of ingredients artfully made by their team of chefs to match seamlessly with the rich and flavourful soup bases for maximum enjoyment. Participating Outlets: Jewel Changi Airport NEX The Centrepoint The Star Vista Chinese Hotpot Steamboat Dining Wellness Beauty In The Pot Nex Jewel Kinex Vivocity Westgate The Centre Point The Star Vista Serangoon Changi Airport Harbourfront Jurong East Orchard Buona Vista Tourists Paradise Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Supper Dining Casual Dining Chinese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-15T06:36:22.562Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "beauty-in-the-pot-6f9068a3",
+			"outlets": [
+				{
+					"_id": "62f916072fd51d0548ce0023",
+					"name": "The Centrepoint"
+				},
+				{
+					"_id": "62f916fd42de063c902ea216",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "62f917342fd51d0548ce0026",
+					"name": "NEX"
+				},
+				{
+					"_id": "62f918312fd51d0548ce0030",
+					"name": "The Star Vista"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Centrepoint",
+			"Jewel Changi Airport",
+			"NEX",
+			"The Star Vista"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Beauty in The Pot",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

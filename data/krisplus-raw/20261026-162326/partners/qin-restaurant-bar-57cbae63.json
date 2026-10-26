@@ -1,0 +1,193 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/qin-restaurant-bar-57cbae63",
+	"slug": "qin-restaurant-bar-57cbae63",
+	"fetchedAt": "2026-10-26T16:26:31.548+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e8999e5eae3716fce5e810",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Local Food",
+				"Local Cuisine",
+				"Asian Food",
+				"Asian Cuisine",
+				"Breakfast",
+				"Lunch Sets",
+				"Dinner Sets",
+				"Bar",
+				"Wine",
+				"Cocktails",
+				"Afternoon Tea",
+				"Happy Hour",
+				"Dining",
+				"The Clan Hotel",
+				"Qin",
+				"Chinatown",
+				"Telok Ayer",
+				"Tunglok",
+				"Tung Lok",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "QIN Restaurant & Bar",
+			"brand": "QIN Restaurant & Bar",
+			"code": "QIN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "QĪN",
+			"address": {
+				"line1": "26 Tai Seng St, #02-01, Singapore 534057 ",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng St",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200610494N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6408370762365503-QIN.png",
+			"websiteUrl": "https://www.qin.com.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=QiN%20Restaurant%20&%20Bar\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em>​​​​​​​<strong><em>​​​​​​​​​​​​​​</em></strong><br></p><p>Bask in nostalgia as you take pleasure in distinctive creations that give you a peek into the culinary culture of the past, while boasting exemplary cooking method.  As you dine,  cosy up to an Asian rustic adorned interior that exudes class and elegance.  </p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "                 ",
+			"participatingOutlets": "The Clan Hotel, Level 4&5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5772689481774762-3172007310924274-Brand%20Logo8.jpg",
+			"createdAt": "2022-08-02T03:27:26.467Z",
+			"updatedAt": "2026-08-06T14:17:33.768Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97745578ca5d7f0b39a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6408370762365503-QIN_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6408370762365503-QIN_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6408370762365503-QIN_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6408370762365503-QIN.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5772689481774762-3172007310924274-Brand%20Logo8.jpg",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5772689481774762-3172007310924274-Brand%20Logo8_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5772689481774762-3172007310924274-Brand%20Logo8_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5772689481774762-3172007310924274-Brand%20Logo8_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table.​​​​​​​​​​​​​​​​​​​​​ Bask in nostalgia as you take pleasure in distinctive creations that give you a peek into the culinary culture of the past, while boasting exemplary cooking method. As you dine, cosy up to an Asian rustic adorned interior that exudes class and elegance. Local Food Local Cuisine Asian Food Asian Cuisine Breakfast Lunch Sets Dinner Sets Bar Wine Cocktails Afternoon Tea Happy Hour Dining The Clan Hotel Qin Chinatown Telok Ayer Tunglok Tung Lok Reunion Business Corporate Dining Working Lunch Networking FortuneFeast Dining Chinese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-27T09:59:59.634Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "qin-restaurant-bar-57cbae63",
+			"outlets": [
+				{
+					"_id": "62e8bb37e82b3a02c48df51b",
+					"name": "The Clan Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Clan Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "QIN Restaurant & Bar",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

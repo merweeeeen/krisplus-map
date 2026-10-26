@@ -1,0 +1,232 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/parisilk-9c3880ef",
+	"slug": "parisilk-9c3880ef",
+	"fetchedAt": "2026-10-26T16:26:59.717+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6322c101fcd88f38ec4419c1",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.02,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.6,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Electronics",
+				"Audio",
+				"Visual",
+				"Kitchen",
+				"Appliances",
+				"Televisions",
+				"Gadgets",
+				"Fridges",
+				"Washing Machines",
+				"Dryers",
+				"Dishwashers",
+				"Cookers",
+				"Aircons",
+				"Fans",
+				"Wine Chillers",
+				"Cameras",
+				"Smart Watches",
+				"Laptops",
+				"Computers",
+				"Projectors",
+				"Blenders",
+				"Toasters",
+				"Kettles",
+				"Air Purifiers",
+				"Dehumidifiers",
+				"Home Appliances",
+				"Changi South",
+				"Hong Heng Mansion",
+				"Sembawang",
+				"Katong Shopping Centre",
+				"Holland Village",
+				"Home Electronics",
+				"Gadgets",
+				"Washing Machine",
+				"Retail",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electrical Components",
+				"Electronical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Hairdryer",
+				"Airconditioner",
+				"Washing Machine",
+				"Kettle",
+				"Hair Straightener",
+				"Lifestyle Appliances",
+				"Fans",
+				"Samsung",
+				"The Expert Sound",
+				"Technology",
+				"Tech Gadgets",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "PARISILK ELECTRONICS & COMPUTERS PTE LTD",
+			"brand": "Parisilk ",
+			"code": "PRS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "Parisilk ",
+			"address": {
+				"city": "Singapore",
+				"line1": "17B LORONG LIPUT, #01-01, PARISILK BUILDING, SINGAPORE 277747 ",
+				"streetName": "17B LORONG LIPUT",
+				"postalCode": "277747",
+				"cityCode": "SIN"
+			},
+			"regNumber": "199901675D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5868521254184522-Parisilk750x540.jpg",
+			"websiteUrl": "https://www.parisilk.com/",
+			"descriptionHtml": "<p>Parisilk is a family business built on family values. Currently in its third generation, this family-owned retailer has grown since 1952 to become the premier consumer electronics store in Singapore. It prides itself in offering the lowest prices coupled with exceptional customer service. From gadgets to home electronics, they provide the best for much less.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/13481688431558037-6682609981904055-Parisilklogo_1000x1000.jpg",
+			"createdAt": "2022-09-15T06:06:57.282Z",
+			"updatedAt": "2026-10-19T08:32:48.094Z",
+			"participatingOutlets": "                    ",
+			"promotional": "                    ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96a5e6d0897746a1e5d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5868521254184522-Parisilk750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5868521254184522-Parisilk750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5868521254184522-Parisilk750x540_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5868521254184522-Parisilk750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13481688431558037-6682609981904055-Parisilklogo_1000x1000.jpg",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13481688431558037-6682609981904055-Parisilklogo_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13481688431558037-6682609981904055-Parisilklogo_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13481688431558037-6682609981904055-Parisilklogo_1000x1000_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-10-19T08:32:48.093Z",
+			"searchContent": "Parisilk is a family business built on family values. Currently in its third generation, this family-owned retailer has grown since 1952 to become the premier consumer electronics store in Singapore. It prides itself in offering the lowest prices coupled with exceptional customer service. From gadgets to home electronics, they provide the best for much less. Electronics Audio Visual Kitchen Appliances Televisions Gadgets Fridges Washing Machines Dryers Dishwashers Cookers Aircons Fans Wine Chillers Cameras Smart Watches Laptops Computers Projectors Blenders Toasters Kettles Air Purifiers Dehumidifiers Home Appliances Changi South Hong Heng Mansion Sembawang Katong Shopping Centre Holland Village Home Electronics Gadgets Washing Machine Retail Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electrical Components Electronical Components Audio Television Headphones Cables Plug Travel Accessories Hairdryer Airconditioner Washing Machine Kettle Hair Straightener Lifestyle Appliances Fans Samsung The Expert Sound Technology Tech Gadgets Homefurnishing Retail Electrical & Electronics",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "parisilk-9c3880ef",
+			"outlets": [
+				{
+					"_id": "632964adee2dad0838178f31",
+					"name": "Katong Shopping Centre"
+				},
+				{
+					"_id": "6329651dee2dad0838178f70",
+					"name": "Hong Heng Mansion"
+				},
+				{
+					"_id": "63296569ee2dad0838178f95",
+					"name": "Parisilk Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Katong Shopping Centre",
+			"Hong Heng Mansion",
+			"Parisilk Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Parisilk",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

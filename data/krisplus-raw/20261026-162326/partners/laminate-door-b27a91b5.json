@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/laminate-door-b27a91b5",
+	"slug": "laminate-door-b27a91b5",
+	"fetchedAt": "2026-10-26T16:32:55.295+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69d31f34ad123a61d95a7ffa",
+			"name": "Laminate Door Pte ltd",
+			"shortName": "Laminate Door",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Laminate Door",
+			"code": "DOO",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7121690579353988-7802045434302336-ld%20260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/874693557133114-5324656526434643-ld%20750%20x%20540px.png",
+			"websiteUrl": "https://www.laminatedoor.com.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "8 Boon Lay Way, #01-16, Singapore 609964",
+				"postalCode": "609964",
+				"streetName": "8 Boon Lay Way",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Laminate Door is your trusted partner for high-quality,\n    durable, and stylish doors, gates, toilet doors, and digital locks. They\n    transform spaces with innovative, reliable products that seamlessly blend\n    modern design with functionality. Offering a range of customisable solutions,\n    they meet diverse architectural and security needs while ensuring safety,\n    privacy, and aesthetic appeal at every entrance. Committed to excellence and\n    customer satisfaction, Laminate Door elevates every space with sophistication\n    and reliability.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>8 Boon Lay Way, #01-16</li><li>151 Ang Mo Kio Ave 5, #01-3040</li></ul>",
+			"searchableKeywords": [
+				"Laminate door",
+				"fire rated door",
+				"mild steel gate",
+				"digital lock",
+				"bedroom door",
+				"Main door",
+				"Bosch",
+				"solity",
+				"Zigbang",
+				"Iglohome",
+				"Aqara",
+				"Xeno",
+				"Hafele",
+				"fire rated digital lock",
+				"landed door"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-17T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-04-06T02:49:24.190Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7121690579353988-7802045434302336-ld%20260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/874693557133114-5324656526434643-ld%20750%20x%20540px.png",
+			"createdAt": "2026-04-06T02:49:24.200Z",
+			"updatedAt": "2026-08-06T14:18:30.524Z",
+			"searchContent": "Laminate Door is your trusted partner for high-quality, durable, and stylish doors, gates, toilet doors, and digital locks. They transform spaces with innovative, reliable products that seamlessly blend modern design with functionality. Offering a range of customisable solutions, they meet diverse architectural and security needs while ensuring safety, privacy, and aesthetic appeal at every entrance. Committed to excellence and customer satisfaction, Laminate Door elevates every space with sophistication and reliability. Participating outlets: 8 Boon Lay Way, #01-16151 Ang Mo Kio Ave 5, #01-3040 Laminate door fire rated door mild steel gate digital lock bedroom door Main door Bosch solity Zigbang Iglohome Aqara Xeno Hafele fire rated digital lock landed door Retail Electrical & Electronics Home & Lifestyle",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/874693557133114-5324656526434643-ld%20750%20x%20540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/874693557133114-5324656526434643-ld%20750%20x%20540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/874693557133114-5324656526434643-ld%20750%20x%20540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7121690579353988-7802045434302336-ld%20260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7121690579353988-7802045434302336-ld%20260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7121690579353988-7802045434302336-ld%20260x260_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "laminate-door-b27a91b5",
+			"outlets": [
+				{
+					"_id": "69d45f3aafabec2a1dc01d69",
+					"name": "8 @ TradeHub 21"
+				},
+				{
+					"_id": "69d45f904e690a3a0b0dd777",
+					"name": "151 Ang Mo Kio Ave 5"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"8 @ TradeHub 21",
+			"151 Ang Mo Kio Ave 5"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Laminate Door",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

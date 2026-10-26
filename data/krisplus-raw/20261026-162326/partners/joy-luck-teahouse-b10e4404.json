@@ -1,0 +1,226 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/joy-luck-teahouse-b10e4404",
+	"slug": "joy-luck-teahouse-b10e4404",
+	"fetchedAt": "2026-10-26T16:25:59.143+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62255e81e0ad5844b0ea660c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING",
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Egg Tart",
+				"Bolo Bao",
+				"Milk Tea",
+				"Dessert",
+				"Snacks",
+				"Drinks",
+				"Hong Kong",
+				"Chee Cheong Fun",
+				"Bugis Junction",
+				"Chinatown",
+				"Ion Orchard",
+				"Tea",
+				"Dim Sum",
+				"Wife Cake",
+				"Retail",
+				"Dining",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Bites",
+				"Snacks",
+				"Koi",
+				"Dunkin Donuts",
+				"Boost",
+				"The Muffinry",
+				"Delifrance",
+				"Twelve Cupcakes",
+				"Four Leaves",
+				"Prima Deli",
+				"Starbucks",
+				"Old Chang Kee",
+				"Snacks",
+				"Finger Food",
+				"Nibbles",
+				"Light Bites",
+				"Fast Food",
+				"Refreshments",
+				"Tidbits",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "JLT SG PTE LTD",
+			"brand": "Joy Luck Teahouse",
+			"code": "JLT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5814",
+			"shortName": "JoyLuckTea",
+			"address": {
+				"city": "Singapore",
+				"line1": "274 South Bridge Road, Singapore 058823",
+				"streetName": "South Bridge Road",
+				"postalCode": "058823",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201941645W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/06700776414377074-6736398544274125-Brand%20750x540.jpg",
+			"websiteUrl": "https://joyluckteahouse.com/",
+			"descriptionHtml": "<p>Joy Luck Teahouse brings to Singapore the best iconic Hong Kong brands for snacks. At Joy Luck, you can find traditional and authentic Hong Kong snacks of the finest quality from renowned Hong Kong brands, such as: Hoover Cake Shop’s Egg Tarts, Kam Kee Cafe's Pineapple Buns, Kam Kee Cafe's Hong Kong style Milk Tea, Tak Hing’s Hong Kong Fishballs with curry sauce, Hong Kong style Wife Cake & Hong Kong style Chee Cheong Fun.</p>\n\n<p> </p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Bugis Junction</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Fast Food Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/23690873111664423-05619969842148165-1000x1000logo.jpg",
+			"createdAt": "2022-03-07T01:23:13.038Z",
+			"updatedAt": "2026-08-06T14:17:27.411Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 2.5,
+					"saleOfMilesPct": 0
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": false,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "     ",
+			"promotional": "   ",
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"QBS",
+								"BD"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				},
+				{
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef98c595add249244645a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/06700776414377074-6736398544274125-Brand%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/23690873111664423-05619969842148165-1000x1000logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/06700776414377074-6736398544274125-Brand%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/06700776414377074-6736398544274125-Brand%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/06700776414377074-6736398544274125-Brand%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/23690873111664423-05619969842148165-1000x1000logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/23690873111664423-05619969842148165-1000x1000logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/23690873111664423-05619969842148165-1000x1000logo_high.jpg"
+			},
+			"searchContent": "Joy Luck Teahouse brings to Singapore the best iconic Hong Kong brands for snacks. At Joy Luck, you can find traditional and authentic Hong Kong snacks of the finest quality from renowned Hong Kong brands, such as: Hoover Cake Shop’s Egg Tarts, Kam Kee Cafe's Pineapple Buns, Kam Kee Cafe's Hong Kong style Milk Tea, Tak Hing’s Hong Kong Fishballs with curry sauce, Hong Kong style Wife Cake & Hong Kong style Chee Cheong Fun. Participating Outlets: Bugis Junction Egg Tart Bolo Bao Milk Tea Dessert Snacks Drinks Hong Kong Chee Cheong Fun Bugis Junction Chinatown Ion Orchard Tea Dim Sum Wife Cake Retail Dining Cnysnacks Chinese New Year Bites Snacks Koi Dunkin Donuts Boost The Muffinry Delifrance Twelve Cupcakes Four Leaves Prima Deli Starbucks Old Chang Kee Snacks Finger Food Nibbles Light Bites Fast Food Refreshments Tidbits Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery Dining Quick Bites & Snacks Beverages & Desserts Retail",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "joy-luck-teahouse-b10e4404",
+			"outlets": [
+				{
+					"_id": "6229ad0aa3d9910cf46824a5",
+					"name": "Bugis Junction"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis Junction"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Joy Luck Teahouse",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

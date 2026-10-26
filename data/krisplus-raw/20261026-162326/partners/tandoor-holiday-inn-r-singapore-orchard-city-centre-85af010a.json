@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tandoor-holiday-inn-r-singapore-orchard-city-centre-85af010a",
+	"slug": "tandoor-holiday-inn-r-singapore-orchard-city-centre-85af010a",
+	"fetchedAt": "2026-10-26T16:24:01.039+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e5df028f41dfc342c99378d",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Tandoor",
+			"brand": "Tandoor (Holiday Inn® Singapore Orchard City Centre)",
+			"code": "TAN",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "11 Cavenagh Road,  ",
+				"postalCode": "229616",
+				"streetName": "Cavenagh Road"
+			},
+			"category": "DINING",
+			"regNumber": "198002635K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-a5bf28f7-fb6e-487a-b270-cc02c07995e1.jpg",
+			"websiteUrl": "https://singaporeorchard.holidayinn.com/wine-dine/tandoor-indian-restaurant",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-2ada4f8c-e4f0-416f-a22b-1e258ef56d4e.jpg",
+			"description": "",
+			"participatingOutlets": "Holiday Inn® Singapore Orchard City Centre",
+			"createdAt": "2020-03-03T05:50:32.899Z",
+			"updatedAt": "2026-08-06T14:17:08.980Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "                 ",
+			"categary": "Food and Beverage",
+			"hideFromCustomer": false,
+			"categories": [
+				"DINING"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Established in 1985, Tandoor, Singapore’s most awarded Indian restaurant, takes diners on a journey with authentic North Indian dishes that pay homage to India's rich culinary heritage. Each dish in the gourmet menu is carefully handcrafted by a team of talented chefs using classic recipes and time honoured methods.</p>\n\n<p>Tandoor is open every Wednesday to Sunday.</p>\n\n<p>Participating Outlet:<br />\n•    Holiday Inn® Singapore Orchard City Centre</p>",
+			"payByCard": true,
+			"shortName": "Tandoor",
+			"searchableKeywords": [
+				"Tandoor",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"IND",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9489d00b0a527865c02"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-a5bf28f7-fb6e-487a-b270-cc02c07995e1.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-2ada4f8c-e4f0-416f-a22b-1e258ef56d4e.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-a5bf28f7-fb6e-487a-b270-cc02c07995e1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-a5bf28f7-fb6e-487a-b270-cc02c07995e1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-a5bf28f7-fb6e-487a-b270-cc02c07995e1_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-2ada4f8c-e4f0-416f-a22b-1e258ef56d4e_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-2ada4f8c-e4f0-416f-a22b-1e258ef56d4e_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-2ada4f8c-e4f0-416f-a22b-1e258ef56d4e_high.jpg"
+			},
+			"searchContent": "Established in 1985, Tandoor, Singapore’s most awarded Indian restaurant, takes diners on a journey with authentic North Indian dishes that pay homage to India's rich culinary heritage. Each dish in the gourmet menu is carefully handcrafted by a team of talented chefs using classic recipes and time honoured methods. Tandoor is open every Wednesday to Sunday. Participating Outlet: • Holiday Inn® Singapore Orchard City Centre Tandoor Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Dining Indian Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T06:42:31.832Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tandoor-holiday-inn-r-singapore-orchard-city-centre-85af010a",
+			"outlets": [
+				{
+					"_id": "5e5f7428901d0a40389787c3",
+					"name": "Tandoor"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tandoor"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tandoor (Holiday Inn® Singapore Orchard City Centre)",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jdmis-da36cdb1",
+	"slug": "jdmis-da36cdb1",
+	"fetchedAt": "2026-10-26T16:24:40.042+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60124f4c59336359f477434f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Jewellery Design and Management International School Pte. Ltd.",
+			"brand": "JDMIS",
+			"code": "JDM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "JDMIS",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "Sunshine Plaza, #03-01",
+				"postalCode": "189652",
+				"streetName": "91 Bencoolen St"
+			},
+			"regNumber": "200723821C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/38327999955810776-16612210294793628-JDMIS_APP_BRAND_IMAGE.png",
+			"websiteUrl": "https://jdmis.edu.sg",
+			"descriptionHtml": "<p>JDMIS, the region’s largest jewellery school, inspires jewellery artists & entrepreneurs through expert skill-based training in fine jewellery design, fashion jewellery, metal arts, gem knowledge & business. Professional, accessible & fun, JDMIS courses are internationally recognized by industry, academia & enthusiasts.</p>\n\n<p>Redemption and earn of miles for enrolment at JDMIS is available for in-store as well as online enrolment. <br />\n<br />\n<strong>For online enrolment</strong></p>\n\n<ul>\n\t<li>Email JDMIS to request for the Kris+ QR code to make payment.</li>\n</ul>\n\n<p>JDMIS' email address: <a href=\"mailto:registrar@jdmis.edu.sg\">registrar@jdmis.edu.sg</a></p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6097608751886543-44809042625668827-JDMIS_APP_BRAND_LOGO.png",
+			"createdAt": "2021-01-28T05:44:44.428Z",
+			"updatedAt": "2026-08-06T14:17:13.429Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "     ",
+			"promotional": "            ",
+			"searchableKeywords": [
+				"Queenstown",
+				"Stirling Road",
+				"Fashion",
+				"Retail",
+				"Jewellery",
+				"Jdmis",
+				"Artists",
+				"Entrepreneurs",
+				"Fashion Jewellery",
+				"Metal Arts",
+				"Gem",
+				"Courses",
+				"10 Off",
+				"Certifications",
+				"Workshops",
+				"Diploma",
+				"Services",
+				"Mdis",
+				"Enchrichment",
+				"Activities",
+				"Fine Jewellery"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9cc595add2492446474"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/38327999955810776-16612210294793628-JDMIS_APP_BRAND_IMAGE.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6097608751886543-44809042625668827-JDMIS_APP_BRAND_LOGO.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/38327999955810776-16612210294793628-JDMIS_APP_BRAND_IMAGE_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/38327999955810776-16612210294793628-JDMIS_APP_BRAND_IMAGE_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/38327999955810776-16612210294793628-JDMIS_APP_BRAND_IMAGE_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6097608751886543-44809042625668827-JDMIS_APP_BRAND_LOGO_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6097608751886543-44809042625668827-JDMIS_APP_BRAND_LOGO_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6097608751886543-44809042625668827-JDMIS_APP_BRAND_LOGO_high.png"
+			},
+			"searchContent": "JDMIS, the region’s largest jewellery school, inspires jewellery artists & entrepreneurs through expert skill-based training in fine jewellery design, fashion jewellery, metal arts, gem knowledge & business. Professional, accessible & fun, JDMIS courses are internationally recognized by industry, academia & enthusiasts. Redemption and earn of miles for enrolment at JDMIS is available for in-store as well as online enrolment. For online enrolment Email JDMIS to request for the Kris+ QR code to make payment. JDMIS' email address: registrar@jdmis.edu.sg Queenstown Stirling Road Fashion Retail Jewellery Jdmis Artists Entrepreneurs Fashion Jewellery Metal Arts Gem Courses 10 Off Certifications Workshops Diploma Services Mdis Enchrichment Activities Fine Jewellery Services Personal Care",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:42:01.934Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jdmis-da36cdb1",
+			"outlets": [
+				{
+					"_id": "6013d3430a03530d04f6ce84",
+					"name": "Sunshine Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sunshine Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "JDMIS",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

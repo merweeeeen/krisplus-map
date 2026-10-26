@@ -1,0 +1,180 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/rang-mahal-restaurant-bar-f246d90d",
+	"slug": "rang-mahal-restaurant-bar-f246d90d",
+	"fetchedAt": "2026-10-26T16:33:06.245+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69f32f6176aebd2ce58d22f7",
+			"name": "RANG MAHAL PTE LTD",
+			"shortName": "Rang Mahal",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Rang Mahal Restaurant & Bar",
+			"code": "RMR",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9363768884625563-34349843585501105-RM%20logo%20260Wx260H.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/14318249847059117-7147819615975524-RM%20Main%20Entrance%20750Wx540H.png",
+			"websiteUrl": "https://www.rangmahal.com.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "91 BENCOOLEN STREET  #07-01",
+				"postalCode": "189652",
+				"streetName": "Sunshine Plaza",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Rang%20Mahal\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a></em><br><br>Established in 1971, Rang Mahal has long been a name in Indian fine dining. What began with starched linen and elegant restraint has evolved into something more vibrant. Today, Rang Mahal brings together bold Indian flavours, expressive plating, and cocktails with spirit, all while staying true to their roots. From street-style bites to fire-kissed classics, the dishes bring bold Indian flavour to the table. Made to share, easy to crave, and unforgettable from the first dip to the last spoonful.</span></p>",
+			"searchableKeywords": [
+				"Indian restaurant",
+				"modern Indian cuisine",
+				"North Indian",
+				"North Indian restaurant",
+				"vegetarian",
+				"Indian thali",
+				"CBD",
+				"set meal",
+				"business lunch",
+				"romantic dinner",
+				"Diwali dining",
+				"Indian festive dining",
+				"corporate dining",
+				"contemporary Indian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"BD",
+								"IND"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-07-12T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-04-30T10:30:57.915Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9363768884625563-34349843585501105-RM%20logo%20260Wx260H.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14318249847059117-7147819615975524-RM%20Main%20Entrance%20750Wx540H.png",
+			"createdAt": "2026-04-30T10:30:57.925Z",
+			"updatedAt": "2026-08-06T14:18:31.156Z",
+			"searchContent": "*Click here to Reserve A Table. Established in 1971, Rang Mahal has long been a name in Indian fine dining. What began with starched linen and elegant restraint has evolved into something more vibrant. Today, Rang Mahal brings together bold Indian flavours, expressive plating, and cocktails with spirit, all while staying true to their roots. From street-style bites to fire-kissed classics, the dishes bring bold Indian flavour to the table. Made to share, easy to crave, and unforgettable from the first dip to the last spoonful. Indian restaurant modern Indian cuisine North Indian North Indian restaurant vegetarian Indian thali CBD set meal business lunch romantic dinner Diwali dining Indian festive dining corporate dining contemporary Indian Dining Vegetarian-Friendly Fine Dining Beverages & Desserts Indian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14318249847059117-7147819615975524-RM%20Main%20Entrance%20750Wx540H_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14318249847059117-7147819615975524-RM%20Main%20Entrance%20750Wx540H_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14318249847059117-7147819615975524-RM%20Main%20Entrance%20750Wx540H_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9363768884625563-34349843585501105-RM%20logo%20260Wx260H_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9363768884625563-34349843585501105-RM%20logo%20260Wx260H_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9363768884625563-34349843585501105-RM%20logo%20260Wx260H_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "rang-mahal-restaurant-bar-f246d90d",
+			"outlets": [
+				{
+					"_id": "69f335091f0daf9b1f68eead",
+					"name": "Naumi Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Naumi Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Rang Mahal Restaurant & Bar",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

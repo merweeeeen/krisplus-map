@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kai-garden-898dbad4",
+	"slug": "kai-garden-898dbad4",
+	"fetchedAt": "2026-10-26T16:30:38.836+08:00",
+	"payload": {
+		"partner": {
+			"_id": "686f415d9344b40409e953a0",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dim Sum",
+				"Cantonese",
+				"Peking Duck",
+				"Duck",
+				"Chinese",
+				"Marina",
+				"Mbs",
+				"Kai Garden",
+				"Garden",
+				"Kai Duck",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "KAI GARDEN PRIVATE LIMITED",
+			"brand": "Kai Garden",
+			"code": "KGA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Kai Garden",
+			"address": {
+				"line1": "6 Raffles Boulevard",
+				"postalCode": "039594",
+				"streetName": "Marina Square  #03-128A",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.kaigarden.com.sg/",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Kai%20Garden\">Reserve A Table</a>. <br></p><p>Kai Garden is showcased in its exquisite Cantonese dishes and dim sum, delivered with the signature twists of the highly acclaimed Chef Fung, while still remaining true to the rich heritage of Cantonese cuisine.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/950701422095529-Kai%20Garden.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6372085942141255-3964746452623529-Kai%20Garden%20-%20Brand%20Image%20Sea%20Cucumber.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/950701422095529-Kai%20Garden.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6372085942141255-3964746452623529-Kai%20Garden%20-%20Brand%20Image%20Sea%20Cucumber.jpg",
+			"createdAt": "2025-07-10T04:28:13.147Z",
+			"updatedAt": "2026-08-06T14:18:16.766Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/950701422095529-Kai%20Garden_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/950701422095529-Kai%20Garden_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/950701422095529-Kai%20Garden_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Kai Garden is showcased in its exquisite Cantonese dishes and dim sum, delivered with the signature twists of the highly acclaimed Chef Fung, while still remaining true to the rich heritage of Cantonese cuisine. Dim Sum Cantonese Peking Duck Duck Chinese Marina Mbs Kai Garden Garden Kai Duck FortuneFeast Dining Vegetarian-Friendly Fine Dining Beverages & Desserts Chinese Asian",
+			"refundPeriodUpdatedAt": "2026-01-31T10:05:54.592Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kai-garden-898dbad4",
+			"outlets": [
+				{
+					"_id": "686f4af75e014c0407a1bdd2",
+					"name": "Marina Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kai Garden",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,278 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/canadian-pizza-a423dc6b",
+	"slug": "canadian-pizza-a423dc6b",
+	"fetchedAt": "2026-10-26T16:27:57.658+08:00",
+	"payload": {
+		"partner": {
+			"_id": "649bd31fcccf1400550b8b38",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Pizza",
+				"Halal Pizza",
+				"Sides",
+				"Kids Meal",
+				"Meat Free",
+				"Vegetarian",
+				"Kids Friendly",
+				"Desserts And Cakes",
+				"Pizzas",
+				"Northshore",
+				"Punggol",
+				"Marina Country Club",
+				"Serangoon Garden",
+				"Kovan",
+				"Ang Mo Kio",
+				"Amk",
+				"Geylang",
+				"Bukit Batok",
+				"Pasir Ris",
+				"Elias Community Club",
+				"Kim Keat",
+				"Jurong West",
+				"Boon Lay",
+				"Kampong Bahru",
+				"Orchard",
+				"111 Somerset",
+				"Somerset",
+				"Woodlands",
+				"Buona Vista",
+				"Fusionopolis",
+				"Galaxis",
+				"Bukit Timah",
+				"King Albert Park",
+				"Siglap",
+				"Joo Chiat",
+				"Yishun",
+				"Sembawang",
+				"Parties",
+				"Gatherings",
+				"Family",
+				"Friends",
+				"Festive",
+				"Christmas",
+				"Chinesenewyear",
+				"Cheese",
+				"Newyear",
+				"Hariraya",
+				"Nationalday",
+				"Deepavali"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Hobbs Holdings Pte Ltd",
+			"brand": "Canadian Pizza",
+			"code": "CAD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Canadian Pizza",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Jalan Kilang Timor, #06-01/02 Pacific Tech Center, Singapore",
+				"postalCode": "159303",
+				"streetName": "1 Jalan Kilang Timor"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"regNumber": "199805035G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8825282602979456-609752063375002-Kris%20Plus%20x%20CP%20-%20Brand%20Image%20-%20App.jpg",
+			"websiteUrl": "https://www.canadian-pizza.com",
+			"descriptionHtml": "<p>Canadian Pizza is one of the top pizza brands in Singapore. With island-wide coverage, Canadian Pizza offers a wide selection of pizzas and sides that are crafted to suit local tastebuds with unique flavours which include the Singapura special, butter chicken and BBQ chicken.</p>  <p>With the introduction of meat-free pizzas to their menu in 2021, Canadian Pizza took its first step towards sustainability. At Canadian Pizza there’s a slice for everyone.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9263205943506128-006704231249794468-Kris%20Plus%20x%20CP%20-%20Brand%20Logo%20-%20App.jpg",
+			"createdAt": "2023-06-28T06:28:47.316Z",
+			"updatedAt": "2026-09-19T11:10:40.129Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"translations": [
+				"64eef9f80108b03f047da5c7"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 14
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8825282602979456-609752063375002-Kris%20Plus%20x%20CP%20-%20Brand%20Image%20-%20App.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9263205943506128-006704231249794468-Kris%20Plus%20x%20CP%20-%20Brand%20Logo%20-%20App.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8825282602979456-609752063375002-Kris%20Plus%20x%20CP%20-%20Brand%20Image%20-%20App_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8825282602979456-609752063375002-Kris%20Plus%20x%20CP%20-%20Brand%20Image%20-%20App_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8825282602979456-609752063375002-Kris%20Plus%20x%20CP%20-%20Brand%20Image%20-%20App_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9263205943506128-006704231249794468-Kris%20Plus%20x%20CP%20-%20Brand%20Logo%20-%20App_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9263205943506128-006704231249794468-Kris%20Plus%20x%20CP%20-%20Brand%20Logo%20-%20App_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9263205943506128-006704231249794468-Kris%20Plus%20x%20CP%20-%20Brand%20Logo%20-%20App_high.jpg"
+			},
+			"searchContent": "Canadian Pizza is one of the top pizza brands in Singapore. With island-wide coverage, Canadian Pizza offers a wide selection of pizzas and sides that are crafted to suit local tastebuds with unique flavours which include the Singapura special, butter chicken and BBQ chicken. With the introduction of meat-free pizzas to their menu in 2021, Canadian Pizza took its first step towards sustainability. At Canadian Pizza there’s a slice for everyone. Pizza Halal Pizza Sides Kids Meal Meat Free Vegetarian Kids Friendly Desserts And Cakes Pizzas Northshore Punggol Marina Country Club Serangoon Garden Kovan Ang Mo Kio Amk Geylang Bukit Batok Pasir Ris Elias Community Club Kim Keat Jurong West Boon Lay Kampong Bahru Orchard 111 Somerset Somerset Woodlands Buona Vista Fusionopolis Galaxis Bukit Timah King Albert Park Siglap Joo Chiat Yishun Sembawang Parties Gatherings Family Friends Festive Christmas Chinesenewyear Cheese Newyear Hariraya Nationalday Deepavali Dining Halal Vegetarian-Friendly",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-08T08:58:40.890Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "canadian-pizza-a423dc6b",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "649bda4f9b84c000563c6487",
+					"name": "Kim Keat"
+				},
+				{
+					"_id": "649bdaef1d489b00544af558",
+					"name": "Bedok North"
+				},
+				{
+					"_id": "649bdc5ab55d69004e4c908b",
+					"name": "Kampong Bahru"
+				},
+				{
+					"_id": "649bdee34eef81004e7c167b",
+					"name": "Ang Mo Kio"
+				},
+				{
+					"_id": "649bdf72cccf1400550ba4cc",
+					"name": "Yishun"
+				},
+				{
+					"_id": "649be26cb55d69004e4c9caa",
+					"name": "Kovan"
+				},
+				{
+					"_id": "649be3521d489b00544b0673",
+					"name": "Woodlands"
+				},
+				{
+					"_id": "649be3c4a2c36b004ee6b89c",
+					"name": "Choa Chu Kang"
+				},
+				{
+					"_id": "649be45bb55d69004e4ca07a",
+					"name": "Pasir Ris"
+				},
+				{
+					"_id": "649be4c7b55d69004e4ca141",
+					"name": "Tampines"
+				},
+				{
+					"_id": "649be51ecccf1400550bb007",
+					"name": "King Albert Park"
+				},
+				{
+					"_id": "649be5651d489b00544b0a62",
+					"name": "Punggol"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Kim Keat",
+			"Bedok North",
+			"Kampong Bahru",
+			"Ang Mo Kio",
+			"Yishun",
+			"Kovan",
+			"Woodlands",
+			"Choa Chu Kang",
+			"Pasir Ris",
+			"Tampines",
+			"King Albert Park",
+			"Punggol"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Canadian Pizza",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

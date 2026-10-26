@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/social-place-e7fd4672",
+	"slug": "social-place-e7fd4672",
+	"fetchedAt": "2026-10-26T16:27:02.676+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63365a4c2483653f4434d684",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Hong Kong Dim Sum Tapas",
+				"Forum",
+				"Orchard",
+				"Tanglin",
+				"Dining",
+				"Chinese",
+				"Hong Kong",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "SOCIAL PLACE SINGAPORE PTE. LTD.",
+			"brand": "SOCIAL PLACE",
+			"code": "SPL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "SOCIAL PLACE",
+			"address": {
+				"city": "Singapore",
+				"line1": "138 ROBINSON ROAD #05-04 OXLEY TOWER SINGAPORE 068906",
+				"streetName": "138 ROBINSON ROAD",
+				"postalCode": "068906",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201924942C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/10496009583793997-Cover%20Pic%20750.png",
+			"websiteUrl": "https://socialplace.sg/",
+			"descriptionHtml": "<p>A blast from the past with a tantalising taste of modernity, Social Place exudes retro chic 60s-style Hong Kong vibes with a touch of luxe.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"promotional": "                  ",
+			"participatingOutlets": "Forum the Shopping Mall",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8779058423882189-9610189583358546-Logo.png",
+			"createdAt": "2022-09-30T02:54:04.556Z",
+			"updatedAt": "2026-09-14T15:22:12.038Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef969595add249244643a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10496009583793997-Cover%20Pic%20750.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8779058423882189-9610189583358546-Logo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10496009583793997-Cover%20Pic%20750_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10496009583793997-Cover%20Pic%20750_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10496009583793997-Cover%20Pic%20750_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8779058423882189-9610189583358546-Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8779058423882189-9610189583358546-Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8779058423882189-9610189583358546-Logo_high.png"
+			},
+			"searchContent": "A blast from the past with a tantalising taste of modernity, Social Place exudes retro chic 60s-style Hong Kong vibes with a touch of luxe. Hong Kong Dim Sum Tapas Forum Orchard Tanglin Dining Chinese Hong Kong Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "social-place-e7fd4672",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-09-14T15:21:59.418Z",
+			"outlets": [
+				{
+					"_id": "6336aa682483653f443510f3",
+					"name": "Forum The Shopping Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Forum The Shopping Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SOCIAL PLACE",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

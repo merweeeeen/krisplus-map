@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/chatterbox-express-43958310",
+	"slug": "chatterbox-express-43958310",
+	"fetchedAt": "2026-10-26T16:29:46.994+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67b6db3e8c713e006541e39c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chicken Rice",
+				"Laksa",
+				"Casual",
+				"Singaporean",
+				"Asian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Chatterbox Pte Ltd",
+			"brand": "Chatterbox Express",
+			"code": "CBE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Chatterbox Exp",
+			"address": {
+				"city": "Singapore",
+				"line1": "50 COLLYER QUAY",
+				"streetName": "OUE BAYFRONT #18-01/02",
+				"postalCode": "049321",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"QBS",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.ouerestaurants.com/concepts/chatterbox-express",
+			"descriptionHtml": "<p>The iconic Chatterbox brings you a selection of its signature flavours now available at Singapore's Changi Airport for those who are always travelling. Get a taste of the legendary Mandarin Chicken Rice or other local favourites in the modern, casual restaurant or take it away overseas to your family or loved ones. </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9955569455569584-ChatterboxExpress.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/03838925126542714-7145078007972749-cbox%20750.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9955569455569584-ChatterboxExpress.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/03838925126542714-7145078007972749-cbox%20750.jpg",
+			"createdAt": "2025-02-20T07:35:26.449Z",
+			"updatedAt": "2026-10-01T00:55:33.881Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/03838925126542714-7145078007972749-cbox%20750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/03838925126542714-7145078007972749-cbox%20750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/03838925126542714-7145078007972749-cbox%20750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9955569455569584-ChatterboxExpress_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9955569455569584-ChatterboxExpress_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9955569455569584-ChatterboxExpress_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "The iconic Chatterbox brings you a selection of its signature flavours now available at Singapore's Changi Airport for those who are always travelling. Get a taste of the legendary Mandarin Chicken Rice or other local favourites in the modern, casual restaurant or take it away overseas to your family or loved ones. Chicken Rice Laksa Casual Singaporean Asian Dining Casual Dining Quick Bites & Snacks Beverages & Desserts Chinese Asian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "chatterbox-express-43958310",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-10-01T00:32:12.278Z",
+			"outlets": [
+				{
+					"_id": "67b6deb20a95f500724d94c6",
+					"name": "Changi Airport T1 (Transit)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi Airport T1 (Transit)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Chatterbox Express",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

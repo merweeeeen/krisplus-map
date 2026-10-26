@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/fire-369f3d78",
+	"slug": "fire-369f3d78",
+	"fetchedAt": "2026-10-26T16:27:32.685+08:00",
+	"payload": {
+		"partner": {
+			"_id": "64127768f600ea005277def3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Asado",
+				"Asador",
+				"Argentina",
+				"Firecooking",
+				"Steak",
+				"Romantic",
+				"Lunch",
+				"Dinner",
+				"Dining",
+				"Orchard",
+				"Ion Orchard",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "1Atico Pte Ltd",
+			"brand": "FIRE",
+			"code": "1AF",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "FIRE",
+			"address": {
+				"line1": "211 Henderson Road #04-03",
+				"postalCode": "159552",
+				"streetName": "Henderson Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201907382W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8087160110191522-42848281864770144-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px)%20(1).png",
+			"websiteUrl": "https://www.firerestaurant.sg",
+			"descriptionHtml": "<p>Indulge sky high at FIRE, where traditional asado flavours meet modern techniques, crafting unique dishes that honour Argentina's culinary heritage.​​​​​​​</p>  <p>With a focus on grilled meats, a time-honoured staple of the country, FIRE innovates by embracing contemporary methods, diverse cuts and tantalising seasonings. Curated with precision, their grilled meats are delicately infused with the essence of apple, oak and almond woods.</p>  <p>They exalt the fervour that fuels Argentinians, extending it to their bold and vibrant cuisine. Each bite ignites with explosive flavours, embodying the same zest and passion ingrained in the people. Within their inviting ambience, meticulous attention to detail and warm staff, you'll experience the very essence of Argentinean culture—the fervent heartbeat of a nation at FIRE.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8472593169135754-687282403985211-Logo%20(1000%20x%201000px)%20(2).png",
+			"promotional": "            ",
+			"participatingOutlets": "              ",
+			"createdAt": "2023-03-16T01:56:56.359Z",
+			"updatedAt": "2026-09-18T08:27:20.749Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef952a3718718842dd93d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8087160110191522-42848281864770144-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px)%20(1).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8472593169135754-687282403985211-Logo%20(1000%20x%201000px)%20(2).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8087160110191522-42848281864770144-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px)%20(1)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8087160110191522-42848281864770144-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px)%20(1)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8087160110191522-42848281864770144-Atico%20x%20Kris%20Brand%20Image%20(750%20x%20540px)%20(1)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8472593169135754-687282403985211-Logo%20(1000%20x%201000px)%20(2)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8472593169135754-687282403985211-Logo%20(1000%20x%201000px)%20(2)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8472593169135754-687282403985211-Logo%20(1000%20x%201000px)%20(2)_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-10T09:34:44.997Z",
+			"searchContent": "Indulge sky high at FIRE, where traditional asado flavours meet modern techniques, crafting unique dishes that honour Argentina's culinary heritage.​​​​​​​ With a focus on grilled meats, a time-honoured staple of the country, FIRE innovates by embracing contemporary methods, diverse cuts and tantalising seasonings. Curated with precision, their grilled meats are delicately infused with the essence of apple, oak and almond woods. They exalt the fervour that fuels Argentinians, extending it to their bold and vibrant cuisine. Each bite ignites with explosive flavours, embodying the same zest and passion ingrained in the people. Within their inviting ambience, meticulous attention to detail and warm staff, you'll experience the very essence of Argentinean culture—the fervent heartbeat of a nation at FIRE. Asado Asador Argentina Firecooking Steak Romantic Lunch Dinner Dining Orchard Ion Orchard Business Corporate Dining Working Lunch Networking Dining",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "fire-369f3d78",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "64192ef74f7bb70052ff88cc",
+					"name": "ION Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "FIRE",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

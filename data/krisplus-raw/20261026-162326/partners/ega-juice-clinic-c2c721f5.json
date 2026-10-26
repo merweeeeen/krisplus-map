@@ -1,0 +1,235 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ega-juice-clinic-c2c721f5",
+	"slug": "ega-juice-clinic-c2c721f5",
+	"fetchedAt": "2026-10-26T16:24:37.157+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5fc896c763cc177f34ee185c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING",
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Reverse Age Health Services Pte. Ltd.",
+			"brand": "EGA Juice Clinic",
+			"code": "EGA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "EGAJuiceClinic",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "138 Cecil Street #18-00 Cecil Court  , Singapore",
+				"postalCode": "069538",
+				"streetName": "Cecil Street  Cecil Court"
+			},
+			"regNumber": "201315616Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3372775880509151-Sinapore%20Airlines%20_EGA%20Banner-Buy%20any%202%20750x540px.jpg",
+			"websiteUrl": "https://www.ega.sg",
+			"description": " EGA Juice Clinic focuses on health and wellness following ancient Ayurveda philosophy. They aim to bring awareness on how to lead a disease-free life by using food as medicine.\n\nJuice cleanse programs are specifically tailored to your body type here. Enjoy cold pressed juices and power shots which contain natural Ayurvedic ingredients that can help to strengthen the immune system, counter inflammation and enhance metabolism.",
+			"descriptionHtml": "<p>EGA Juice Clinic focuses on health and wellness following ancient Ayurveda philosophy. They aim to bring awareness on how to lead a disease-free life by using food as medicine.</p>  <p>Juice cleanse programs are specifically tailored to your body type here. Enjoy cold pressed juices and power shots which contain natural Ayurvedic ingredients that can help to strengthen the immune system, counter inflammation and enhance metabolism.</p><p>EGA Juice Clinic <span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">is a Muslim owned establishment.</span></p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/22426660848407654-Sinapore%20Airlines%20_EGA%20Logo%201000x1000px.jpg",
+			"createdAt": "2020-12-03T07:41:59.165Z",
+			"updatedAt": "2026-09-04T07:06:30.484Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"participatingOutlets": "•\tCluny Court \n•\tForum The Shopping Mall Orchard\n•\tMarina One The Heart\n•\tOcean Financial Centre \n•\tRaffles Hospital",
+			"promotional": "-",
+			"searchableKeywords": [
+				"Shenton Way",
+				"Raffles Place",
+				"Orchard Road",
+				"Botanical Gardens",
+				"Cluny Road",
+				"Bukit Timah Road",
+				"Halal",
+				"Bt",
+				"Bukit Timah",
+				"Juice",
+				"Wellness",
+				"Fresh Juices",
+				"Recyclable Bottles",
+				"Ayurveda Philosophy",
+				"Cleansing",
+				"Cold Press",
+				"Ayurvedic",
+				"Immunity",
+				"Strengthen",
+				"Inflammation",
+				"Metabolism",
+				"Free Item",
+				"Health Benefits",
+				"Tumeric Essence",
+				"Organic",
+				"Wild Raw Honey",
+				"Figs",
+				"Birthday Exclusive",
+				"Cluny Court",
+				"Forum The Shopping Mall",
+				"Marina One",
+				"The Heart",
+				"Ocean Financial Centre",
+				"Organic Dates",
+				"Health",
+				"I12 Katong",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD"
+							]
+						}
+					]
+				},
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d2b35256c5b2c9bf0f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3372775880509151-Sinapore%20Airlines%20_EGA%20Banner-Buy%20any%202%20750x540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/22426660848407654-Sinapore%20Airlines%20_EGA%20Logo%201000x1000px.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3372775880509151-Sinapore%20Airlines%20_EGA%20Banner-Buy%20any%202%20750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3372775880509151-Sinapore%20Airlines%20_EGA%20Banner-Buy%20any%202%20750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3372775880509151-Sinapore%20Airlines%20_EGA%20Banner-Buy%20any%202%20750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/22426660848407654-Sinapore%20Airlines%20_EGA%20Logo%201000x1000px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/22426660848407654-Sinapore%20Airlines%20_EGA%20Logo%201000x1000px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/22426660848407654-Sinapore%20Airlines%20_EGA%20Logo%201000x1000px_high.jpg"
+			},
+			"searchContent": "EGA Juice Clinic focuses on health and wellness following ancient Ayurveda philosophy. They aim to bring awareness on how to lead a disease-free life by using food as medicine. Juice cleanse programs are specifically tailored to your body type here. Enjoy cold pressed juices and power shots which contain natural Ayurvedic ingredients that can help to strengthen the immune system, counter inflammation and enhance metabolism. EGA Juice Clinic is a Muslim owned establishment. Shenton Way Raffles Place Orchard Road Botanical Gardens Cluny Road Bukit Timah Road Halal Bt Bukit Timah Juice Wellness Fresh Juices Recyclable Bottles Ayurveda Philosophy Cleansing Cold Press Ayurvedic Immunity Strengthen Inflammation Metabolism Free Item Health Benefits Tumeric Essence Organic Wild Raw Honey Figs Birthday Exclusive Cluny Court Forum The Shopping Mall Marina One The Heart Ocean Financial Centre Organic Dates Health I12 Katong Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Halal Beverages & Desserts Retail",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ega-juice-clinic-c2c721f5",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-09-04T07:05:10.802Z",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "5fcb12c40774a71b8cf5a65c",
+					"name": "Forum The Shopping Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Forum The Shopping Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "EGA Juice Clinic",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

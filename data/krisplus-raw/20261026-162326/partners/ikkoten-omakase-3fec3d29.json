@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ikkoten-omakase-3fec3d29",
+	"slug": "ikkoten-omakase-3fec3d29",
+	"fetchedAt": "2026-10-26T16:28:43.753+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6642d8aa1f23440068c7c3d6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Japanese",
+				"Omakase",
+				"Kaiseki",
+				"Traditional",
+				"Seasonal",
+				"Fine Dining",
+				"Celebration",
+				"Business Lunch",
+				"Corporate Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"6642d8b3131a3f0ef7e72b48"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "All Japan Concept Pte Ltd",
+			"brand": "Ikkoten Omakase",
+			"code": "AJC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Ikkoten Omakas",
+			"address": {
+				"city": "Singapore",
+				"line1": "80 PLAYFAIR ROAD #03-11A KAPO FACTORY BUILDING SINGAPORE 367998",
+				"streetName": "80 PLAYFAIR ROAD",
+				"postalCode": "367998",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://ikkoten.com.sg/",
+			"descriptionHtml": "<p>Ikkoten Omakase is a kaiseki omakase sanctuary that curates a symphony of flavors that dance on your palate and where tradition meets culinary craft.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2567334234113756-logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/46305157317994805-ikk%202.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-05-14T03:21:14.658Z",
+			"updatedAt": "2026-08-06T14:18:03.170Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/46305157317994805-ikk%202.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2567334234113756-logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/46305157317994805-ikk%202_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/46305157317994805-ikk%202_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/46305157317994805-ikk%202_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2567334234113756-logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2567334234113756-logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2567334234113756-logo_high.jpg"
+			},
+			"searchContent": "Ikkoten Omakase is a kaiseki omakase sanctuary that curates a symphony of flavors that dance on your palate and where tradition meets culinary craft. Japanese Omakase Kaiseki Traditional Seasonal Fine Dining Celebration Business Lunch Corporate Dining Dining Fine Dining Japanese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:25:51.870Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ikkoten-omakase-3fec3d29",
+			"outlets": [
+				{
+					"_id": "6642db9f6df578006ab6c825",
+					"name": "Telok Ayer"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Telok Ayer"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Ikkoten Omakase",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

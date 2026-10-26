@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/janice-wong-singapore-18db6256",
+	"slug": "janice-wong-singapore-18db6256",
+	"fetchedAt": "2026-10-26T16:27:28.684+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63e0b477a7a3220da0ec2d3f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"saleOfMilesPct": 4.6,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.023,
+				"base": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 4
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chocolate",
+				"Cake",
+				"Bon Bon",
+				"Paragon",
+				"Orchard",
+				"Desserts",
+				"Dining",
+				"Retail",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath",
+				"Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions",
+				"Mooncake"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "JWO Holdings Pte Ltd",
+			"brand": "Janice Wong Singapore",
+			"code": "JWS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Janice Wong ",
+			"address": {
+				"city": "Singapore",
+				"line1": "21A Lor Liput Singapore 277733",
+				"streetName": "21A Lor Liput ",
+				"postalCode": "277733",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201415600E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/14439242889518167-21766820984840862-Janice%20Wong%20750%20Brand%20Image.jpg",
+			"websiteUrl": "https://janicewong.online/",
+			"descriptionHtml": "<p>Janice Wong Singapore is a multi-product and multi-channel confectionery brand that creates to inspire, where art meets design and design meets art, and where one can use their imagination to create, interact and discover.</p>\n\n<p>Headquartered in Singapore and helmed by multi award-winning Chef Janice Wong, the team’s never-ending passion for culinary art has propelled them to test the limits of dessert making.</p><p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>Paragon</li><li>Republic Plaza</li><li>Supertree Observatory, Gardens by the Bay</li></ul>\n\n\n",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8386656466378799-thumbnailJWLogocolour.jpg",
+			"createdAt": "2023-02-06T08:04:07.918Z",
+			"updatedAt": "2026-08-06T14:17:41.145Z",
+			"participatingOutlets": "                                   ",
+			"promotional": "                              ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"GS"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef958a65eaf5ea7682874"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14439242889518167-21766820984840862-Janice%20Wong%20750%20Brand%20Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8386656466378799-thumbnailJWLogocolour.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14439242889518167-21766820984840862-Janice%20Wong%20750%20Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14439242889518167-21766820984840862-Janice%20Wong%20750%20Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14439242889518167-21766820984840862-Janice%20Wong%20750%20Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8386656466378799-thumbnailJWLogocolour_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8386656466378799-thumbnailJWLogocolour_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8386656466378799-thumbnailJWLogocolour_high.jpg"
+			},
+			"searchContent": "Janice Wong Singapore is a multi-product and multi-channel confectionery brand that creates to inspire, where art meets design and design meets art, and where one can use their imagination to create, interact and discover. Headquartered in Singapore and helmed by multi award-winning Chef Janice Wong, the team’s never-ending passion for culinary art has propelled them to test the limits of dessert making. Participating outlets: ParagonRepublic PlazaSupertree Observatory, Gardens by the Bay Chocolate Cake Bon Bon Paragon Orchard Desserts Dining Retail Gift Souvenirs Lush The Body Shop Kiehl’S Bath Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Mooncake Retail Gifts & Souvenirs",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "janice-wong-singapore-18db6256",
+			"outlets": [
+				{
+					"_id": "63eb2c8da65f1a1bb8f76d36",
+					"name": "Paragon"
+				},
+				{
+					"_id": "673305f9ec6f13006b12cf27",
+					"name": "Republic Plaza"
+				},
+				{
+					"_id": "6875bfccd403a7040f294ac7",
+					"name": "Supertree GBTB"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Paragon",
+			"Republic Plaza",
+			"Supertree GBTB"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Janice Wong Singapore",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

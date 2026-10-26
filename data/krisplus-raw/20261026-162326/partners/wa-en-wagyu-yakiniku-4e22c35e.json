@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/wa-en-wagyu-yakiniku-4e22c35e",
+	"slug": "wa-en-wagyu-yakiniku-4e22c35e",
+	"fetchedAt": "2026-10-26T16:28:11.707+08:00",
+	"payload": {
+		"partner": {
+			"_id": "654d978360a59a0050097987",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.015,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Beef",
+				"Meat",
+				"Grill",
+				"Barbeque",
+				"Japanese",
+				"Set Menu",
+				"Cocktail",
+				"Whisky",
+				"Wine"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"654d978d2911879acaf7b3a7"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "WA-EN @JEWEL PTE LTD",
+			"brand": "Wa-EN Wagyu Yakiniku",
+			"code": "WEN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Wa-EN Wagyu",
+			"address": {
+				"line1": "160 Robinson Road #22-04 Singapore 068914",
+				"postalCode": "068914",
+				"streetName": "160 Robinson Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP",
+								"CD",
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "202219839N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7022315731800324-waen2.png",
+			"websiteUrl": "https://wa-en.com.sg/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Wa-EN%20Wagyu%20Yakiniku\"><u>Reserve A Table</u>.</a></em><br>\n<br>\n​​​​​​​Recommended in the Michelin Guide (2016 & 2017), Wa-EN Wagyu Yakiniku offers premium Japanese Yakiniku together with an exquisite selection of wines, Japanese whiskies and craft cocktails. Savour meltingly tender A4/A5 Miyazaki wagyu beef, known for its snowflake-marbling, or indulge in the best of Wa-EN with the lavish course menus.</p>\n\n<p>Wa-EN bar's Happy Hour is available daily from 2 to 7pm. Enjoy up to 50% cocktails. Click <a href=\"https://wa-en.com.sg/promotions/\">here</a> for more details.</p>",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9410459633410151-waen1.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2023-11-10T02:37:55.765Z",
+			"updatedAt": "2026-08-06T14:17:54.706Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7022315731800324-waen2.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9410459633410151-waen1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7022315731800324-waen2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7022315731800324-waen2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7022315731800324-waen2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9410459633410151-waen1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9410459633410151-waen1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9410459633410151-waen1_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​Recommended in the Michelin Guide (2016 & 2017), Wa-EN Wagyu Yakiniku offers premium Japanese Yakiniku together with an exquisite selection of wines, Japanese whiskies and craft cocktails. Savour meltingly tender A4/A5 Miyazaki wagyu beef, known for its snowflake-marbling, or indulge in the best of Wa-EN with the lavish course menus. Wa-EN bar's Happy Hour is available daily from 2 to 7pm. Enjoy up to 50% cocktails. Click here for more details. Beef Meat Grill Barbeque Japanese Set Menu Cocktail Whisky Wine Dining Japanese Casual Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T09:53:12.396Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "wa-en-wagyu-yakiniku-4e22c35e",
+			"outlets": [
+				{
+					"_id": "654dba4e60a59a005009cd2c",
+					"name": "Jewel Changi Airport"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jewel Changi Airport"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Wa-EN Wagyu Yakiniku",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

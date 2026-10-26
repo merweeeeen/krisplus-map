@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lartisan-parfumeur-add37f3f",
+	"slug": "lartisan-parfumeur-add37f3f",
+	"fetchedAt": "2026-10-26T16:30:42.784+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68789ed9b414a80407950667",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Perfume",
+				"Fragrance",
+				"Fragrances",
+				"Shopping",
+				"Body Care",
+				"Bathing",
+				"Soap",
+				"Scent",
+				"Wellness",
+				"Beauty",
+				"Lifestyle",
+				"Luxury Fragrance",
+				"Aromatherapy",
+				"Candles",
+				"Scented Candles",
+				"Gifts",
+				"Personal Care",
+				"Skincare",
+				"Relaxation",
+				"Selfcare",
+				"Body Lotion",
+				"Shower Gel",
+				"Home Scent",
+				"Aromatics"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "PUIG SEA PTE LTD",
+			"brand": "L'Artisan Parfumeur",
+			"code": "SEA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "LArtisan Parfu",
+			"address": {
+				"city": "Singapore",
+				"line1": "12 TAI SENG STREET #05-01 LUXASIA BUILDING SINGAPORE 534118",
+				"streetName": "12 TAI SENG STREET",
+				"postalCode": "534118",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BEA",
+								"HL",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://maps.app.goo.gl/nxaDFe5CwCn1MjyBA",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">L’Artisan Parfumeur was born out of a love story. One     between Jean Laporte and the nature that surrounded him. True to the pioneering     spirit of its founder, L'Artisan Parfumeur gives perfumers the freedom to     express their own vision of nature.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/37820406276962615-LArtisanParfumeur.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/0955205336397904-10786555758743188-Brand%20Image_750x540px%20(002).png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/37820406276962615-LArtisanParfumeur.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0955205336397904-10786555758743188-Brand%20Image_750x540px%20(002).png",
+			"createdAt": "2025-07-17T06:57:29.319Z",
+			"updatedAt": "2026-08-06T14:18:17.076Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/37820406276962615-LArtisanParfumeur_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/37820406276962615-LArtisanParfumeur_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/37820406276962615-LArtisanParfumeur_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "L’Artisan Parfumeur was born out of a love story. One between Jean Laporte and the nature that surrounded him. True to the pioneering spirit of its founder, L'Artisan Parfumeur gives perfumers the freedom to express their own vision of nature. Perfume Fragrance Fragrances Shopping Body Care Bathing Soap Scent Wellness Beauty Lifestyle Luxury Fragrance Aromatherapy Candles Scented Candles Gifts Personal Care Skincare Relaxation Selfcare Body Lotion Shower Gel Home Scent Aromatics Retail Beauty Home & Lifestyle Gifts & Souvenirs",
+			"refundPeriodUpdatedAt": "2026-06-05T05:55:44.214Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lartisan-parfumeur-add37f3f",
+			"outlets": [
+				{
+					"_id": "6878a062b414a804079508b1",
+					"name": "Ngee Ann City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Ngee Ann City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "L'Artisan Parfumeur",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

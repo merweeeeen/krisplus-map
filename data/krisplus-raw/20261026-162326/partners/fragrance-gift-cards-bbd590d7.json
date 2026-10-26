@@ -1,0 +1,146 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/fragrance-gift-cards-bbd590d7",
+	"slug": "fragrance-gift-cards-bbd590d7",
+	"fetchedAt": "2026-10-26T16:33:00.274+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69d516488820c3f60811c2be",
+			"name": "Volyty Pte. Ltd. - Fragrance",
+			"shortName": "Fragrance",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Fragrance Gift Cards",
+			"code": "FGE",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9392912373594129-528750957619236-Fragrance%20banner.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9988143034235837-329450772276356-Fragrance%201000x1000.png",
+			"websiteUrl": "https://www.fragrance.com.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"NOT_APPLICABLE"
+			],
+			"address": {
+				"line1": "The Plaza",
+				"postalCode": "199591",
+				"streetName": "7500A Beach Road, #14-302",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Fragrance is built on the foundations of quality, progress, trust and customer satisfaction. Their products are manufactured in Singapore based on time-honoured recipes, using only the highest quality of ingredients to ensure their products maintain consistency and conform to the highest of hygiene standards.</p><p><strong>Note: Gift cards are issued by Mooments. Direct payment via Kris+ in Fragrance stores is not available. Earn or redeem miles via purchase of gift cards only.</strong></p>",
+			"searchableKeywords": [
+				"fragrance",
+				"bak kwa",
+				"roasted meat",
+				"snacks"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 0,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 0,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-30T15:59:59.999Z",
+			"applicableCities": [],
+			"refundPeriodUpdatedAt": "2026-04-07T14:35:52.447Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9392912373594129-528750957619236-Fragrance%20banner.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9988143034235837-329450772276356-Fragrance%201000x1000.png",
+			"createdAt": "2026-04-07T14:35:52.453Z",
+			"updatedAt": "2026-08-06T14:18:30.687Z",
+			"searchContent": "Fragrance is built on the foundations of quality, progress, trust and customer satisfaction. Their products are manufactured in Singapore based on time-honoured recipes, using only the highest quality of ingredients to ensure their products maintain consistency and conform to the highest of hygiene standards. Note: Gift cards are issued by Mooments. Direct payment via Kris+ in Fragrance stores is not available. Earn or redeem miles via purchase of gift cards only. fragrance bak kwa roasted meat snacks Retail Food Specialities",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9988143034235837-329450772276356-Fragrance%201000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9988143034235837-329450772276356-Fragrance%201000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9988143034235837-329450772276356-Fragrance%201000x1000_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9392912373594129-528750957619236-Fragrance%20banner_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9392912373594129-528750957619236-Fragrance%20banner_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9392912373594129-528750957619236-Fragrance%20banner_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "fragrance-gift-cards-bbd590d7",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Fragrance Gift Cards",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

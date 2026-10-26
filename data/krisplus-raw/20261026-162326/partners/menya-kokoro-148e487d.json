@@ -1,0 +1,208 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/menya-kokoro-148e487d",
+	"slug": "menya-kokoro-148e487d",
+	"fetchedAt": "2026-10-26T16:25:09.964+08:00",
+	"payload": {
+		"partner": {
+			"_id": "609e332a34c2941044135cdc",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Foodtech F&B Ventures Pte Ltd",
+			"brand": "Menya Kokoro",
+			"code": "MK1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Menya Kokoro ",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "120 Lower Delta Road , #12-13 Cendex Centre ",
+				"postalCode": "169208",
+				"streetName": "Lower Delta Road"
+			},
+			"regNumber": "200504826H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/525506883771288-8864565611837878-Brand%20-%20750x540.jpg",
+			"websiteUrl": "https://www.menya-kokoro.com/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Menya%20Kokoro\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Menya Kokoro’s MazeSoba is a perfect harmony of ingredients like spicy minced pork sauce, spring onion, chives, fish powder, garlic and nori seaweed topped with an onsen egg. Enjoy by mixing and tossing it with a spoonful of Kombu vinegar.</p>  <p>Participating outlets:</p>  <ul> \t<li>100AM Mall</li> \t<li>Plaza Singapura</li> \t<li>Suntec City</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4901502894936718-9157344575064741-1000%20x%201000%20kokoro.png",
+			"createdAt": "2021-05-14T08:22:02.632Z",
+			"updatedAt": "2026-10-01T05:47:49.332Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "          ",
+			"promotional": "          ",
+			"searchableKeywords": [
+				"Promenade",
+				"Esplanade",
+				"Raffles Boulevard",
+				"Handy Road",
+				"Dhoby Ghaut",
+				"Tanjong Pagar",
+				"Japanese",
+				"Tras Street",
+				"Bento",
+				"Sashimi",
+				"Ramen",
+				"Udon",
+				"Tempura",
+				"Noodles",
+				"Foodie",
+				"Trending",
+				"Sushi",
+				"Sake",
+				"Wine",
+				"Syochu",
+				"Highball",
+				"Izakaya",
+				"Miso",
+				"Curry",
+				"Dining",
+				"100Am",
+				"Plaza Singapura",
+				"Suntec City"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP",
+								"ASI",
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9bdb35256c5b2c9bf01"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/525506883771288-8864565611837878-Brand%20-%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4901502894936718-9157344575064741-1000%20x%201000%20kokoro.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/525506883771288-8864565611837878-Brand%20-%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/525506883771288-8864565611837878-Brand%20-%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/525506883771288-8864565611837878-Brand%20-%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4901502894936718-9157344575064741-1000%20x%201000%20kokoro_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4901502894936718-9157344575064741-1000%20x%201000%20kokoro_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4901502894936718-9157344575064741-1000%20x%201000%20kokoro_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Menya Kokoro’s MazeSoba is a perfect harmony of ingredients like spicy minced pork sauce, spring onion, chives, fish powder, garlic and nori seaweed topped with an onsen egg. Enjoy by mixing and tossing it with a spoonful of Kombu vinegar. Participating outlets: 100AM Mall Plaza Singapura Suntec City Promenade Esplanade Raffles Boulevard Handy Road Dhoby Ghaut Tanjong Pagar Japanese Tras Street Bento Sashimi Ramen Udon Tempura Noodles Foodie Trending Sushi Sake Wine Syochu Highball Izakaya Miso Curry Dining 100Am Plaza Singapura Suntec City Dining Japanese Asian Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:29:15.435Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "menya-kokoro-148e487d",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "60b0696fac5a9332b87904d8",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "60b06a2fac5a9332b87904dc",
+					"name": "100AM"
+				},
+				{
+					"_id": "60b06ac3ac5a9332b87904e0",
+					"name": "Plaza Singapura"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City",
+			"100AM",
+			"Plaza Singapura"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Menya Kokoro",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

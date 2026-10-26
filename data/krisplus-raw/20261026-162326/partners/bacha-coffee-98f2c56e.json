@@ -1,0 +1,261 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bacha-coffee-98f2c56e",
+	"slug": "bacha-coffee-98f2c56e",
+	"fetchedAt": "2026-10-26T16:24:45.068+08:00",
+	"payload": {
+		"partner": {
+			"_id": "603e08ec24c24348dcdd5328",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Bacha Coffee Pte Ltd",
+			"brand": "Bacha Coffee",
+			"code": "BAC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Bacha Coffee",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "390 Havelock Road, #08-06, King's Centre",
+				"postalCode": "169662",
+				"streetName": "Havelock Road"
+			},
+			"regNumber": "201217211R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/09536316896243258-Kris%2B%20202101154%20Brand%20Image_750pxby540px-1-01.png",
+			"websiteUrl": "https://bachacoffee.com/",
+			"descriptionHtml": "<p>Bacha Coffee is an exceptional boutique with a meticulously sourced selection of over two hundred single origin 100% Arabica coffee beans from countries around the world.</p>\n\n<p>T&Cs: Redemption and earning of miles is applicable only on retail items.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Changi Airport T1 (Transit)</li>\n\t<li>Changi Airport T2 (Transit) #02-195</li>\n\t<li>Changi Airport T2 (Transit) #02-236</li>\n\t<li>Changi Airport T3 Transit (The Arch, near Transfer A)</li>\n\t<li>Changi Airport T3 (near Transfer B)</li>\n\t<li>Changi Airport T4 (Transit)</li>\n\t<li>ION Orchard</li>\n\t<li>Raffles City Shopping Centre</li>\n\t<li>Republic Plaza</li>\n\t<li>The Shoppes at Marina Bay</li><li><p class=\"MsoNormal\" style=\"margin: 0px; font-size: 16px; font-family: Aptos, sans-serif;\"><span style=\"color: black;\">Marina Bay Sands Hotel Tower </span></p></li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/19972631474873714-Kris%2B%20202101154%20Brand%20Logo_1000pxby1000px-01.png",
+			"createdAt": "2021-03-02T09:44:12.543Z",
+			"updatedAt": "2026-08-06T14:17:14.294Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"participatingOutlets": "                       ",
+			"promotional": "                     ",
+			"searchableKeywords": [
+				"Orchard",
+				"East",
+				"City",
+				"Central",
+				"Marina Bay",
+				"Cafe",
+				"Pastry",
+				"Western",
+				"Changi Airport",
+				"Coffee",
+				"Tea",
+				"Artisan",
+				"Cake",
+				"Latte",
+				"Mocha",
+				"Frappes",
+				"Americano",
+				"Shots",
+				"Cappuccino",
+				"Frappuccino",
+				"Decaffeinated",
+				"Herbal",
+				"Flower Tea",
+				"Retail",
+				"Boutique",
+				"Premium",
+				"Artisanal",
+				"Ion Orchard",
+				"The Shoppes At Marina Bay",
+				"Terminal 3",
+				"T3",
+				"Tourists",
+				"Mbs",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Gift",
+				"Souvenirs",
+				"Bath",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"GS"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef947fd404ac7a5ba301a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 8
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/09536316896243258-Kris%2B%20202101154%20Brand%20Image_750pxby540px-1-01.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/19972631474873714-Kris%2B%20202101154%20Brand%20Logo_1000pxby1000px-01.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/09536316896243258-Kris%2B%20202101154%20Brand%20Image_750pxby540px-1-01_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/09536316896243258-Kris%2B%20202101154%20Brand%20Image_750pxby540px-1-01_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/09536316896243258-Kris%2B%20202101154%20Brand%20Image_750pxby540px-1-01_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/19972631474873714-Kris%2B%20202101154%20Brand%20Logo_1000pxby1000px-01_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/19972631474873714-Kris%2B%20202101154%20Brand%20Logo_1000pxby1000px-01_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/19972631474873714-Kris%2B%20202101154%20Brand%20Logo_1000pxby1000px-01_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Bacha Coffee is an exceptional boutique with a meticulously sourced selection of over two hundred single origin 100% Arabica coffee beans from countries around the world. T&Cs: Redemption and earning of miles is applicable only on retail items. Participating Outlets: Changi Airport T1 (Transit) Changi Airport T2 (Transit) #02-195 Changi Airport T2 (Transit) #02-236 Changi Airport T3 Transit (The Arch, near Transfer A) Changi Airport T3 (near Transfer B) Changi Airport T4 (Transit) ION Orchard Raffles City Shopping Centre Republic Plaza The Shoppes at Marina Bay Marina Bay Sands Hotel Tower Orchard East City Central Marina Bay Cafe Pastry Western Changi Airport Coffee Tea Artisan Cake Latte Mocha Frappes Americano Shots Cappuccino Frappuccino Decaffeinated Herbal Flower Tea Retail Boutique Premium Artisanal Ion Orchard The Shoppes At Marina Bay Terminal 3 T3 Tourists Mbs Cnysnacks Chinese New Year Gift Souvenirs Bath Gifts Birthdays Holidays Anniversary Special Occasions Retail Gifts & Souvenirs",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.141Z",
+			"slugId": "bacha-coffee-98f2c56e",
+			"outlets": [
+				{
+					"_id": "6049d9c4a203572e8486adc2",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "6049e43f456a2321988bbe0f",
+					"name": "Changi Airport T1 (Transit)"
+				},
+				{
+					"_id": "6049e4e3456a2321988bbe11",
+					"name": "Changi Airport T3 (Transit)"
+				},
+				{
+					"_id": "60d2c2e9e3d90916a44275d3",
+					"name": "Marina Bay Sands "
+				},
+				{
+					"_id": "656591b918265f0056649513",
+					"name": "Changi T3 Transit (The Arch)"
+				},
+				{
+					"_id": "6565921645dbf20050f1c549",
+					"name": "Changi Airport T4 (Transit)"
+				},
+				{
+					"_id": "66d817539ad22e006bb0e28c",
+					"name": "Changi T2 Transit 02-195"
+				},
+				{
+					"_id": "66d817ec4223dc006e795a46",
+					"name": "Raffles City Shopping Centre "
+				},
+				{
+					"_id": "66d8183b7f383f006ca36929",
+					"name": "Republic Plaza "
+				},
+				{
+					"_id": "6736a5ca14f48200749c4281",
+					"name": "Changi T2 Transit 02-236"
+				},
+				{
+					"_id": "68b7e10fc1f065046c583494",
+					"name": "Marina Bay Sands Hotel Tower"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard",
+			"Changi Airport T1 (Transit)",
+			"Changi Airport T3 (Transit)",
+			"Marina Bay Sands ",
+			"Changi T3 Transit (The Arch)",
+			"Changi Airport T4 (Transit)",
+			"Changi T2 Transit 02-195",
+			"Raffles City Shopping Centre ",
+			"Republic Plaza ",
+			"Changi T2 Transit 02-236",
+			"Marina Bay Sands Hotel Tower"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bacha Coffee",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

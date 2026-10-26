@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/portmans-bar-parkroyal-collection-marina-bay-7c178a05",
+	"slug": "portmans-bar-parkroyal-collection-marina-bay-7c178a05",
+	"fetchedAt": "2026-10-26T16:26:10.350+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6239368e2caca43ccca3c5f4",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"bar",
+				"parkroyal marina bay",
+				"dining",
+				"drinks",
+				"cocktails"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "AQUAMARINA HOTEL PRIVATE LIMITED (Portman's Bar)",
+			"brand": "Portman's Bar (PARKROYAL COLLECTION Marina Bay)",
+			"code": "POR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Portman's Bar",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "6 Raffles Boulevard, Marina Square, Singapore ",
+				"postalCode": "039594",
+				"streetName": "Raffles Boulevard "
+			},
+			"regNumber": "198105200M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5856385239175306-9146778947220249-portmans-bar%20750x540.png",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pr-collection-marina-bay.html",
+			"descriptionHtml": "<p>Set in a lush garden with sculptural pavilions, Portman’s Bar invites indulgence and conversations over garden-inspired afternoon tea, and signature cocktails crafted by resident Mixologists.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/26511450779205825-2832299790724242-portman%20bar%201100x1100.png",
+			"participatingOutlets": "PARKROYAL Collection Marina Bay",
+			"createdAt": "2022-03-22T02:38:06.829Z",
+			"updatedAt": "2026-08-06T14:17:28.697Z",
+			"partnershipGroup": "GR1",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"saleOfMiles": 0.046,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "     ",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef988b51c9781d82fd536"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5856385239175306-9146778947220249-portmans-bar%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/26511450779205825-2832299790724242-portman%20bar%201100x1100.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5856385239175306-9146778947220249-portmans-bar%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5856385239175306-9146778947220249-portmans-bar%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5856385239175306-9146778947220249-portmans-bar%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/26511450779205825-2832299790724242-portman%20bar%201100x1100_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/26511450779205825-2832299790724242-portman%20bar%201100x1100_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/26511450779205825-2832299790724242-portman%20bar%201100x1100_high.png"
+			},
+			"searchContent": "Set in a lush garden with sculptural pavilions, Portman’s Bar invites indulgence and conversations over garden-inspired afternoon tea, and signature cocktails crafted by resident Mixologists. bar parkroyal marina bay dining drinks cocktails Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:23:40.361Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "portmans-bar-parkroyal-collection-marina-bay-7c178a05",
+			"outlets": [
+				{
+					"_id": "6274bffe3c59c949981cd8e1",
+					"name": "PARKROYAL Marina Bay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL Marina Bay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Portman's Bar (PARKROYAL COLLECTION Marina Bay)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

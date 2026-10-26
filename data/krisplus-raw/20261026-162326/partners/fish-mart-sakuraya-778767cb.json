@@ -1,0 +1,212 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/fish-mart-sakuraya-778767cb",
+	"slug": "fish-mart-sakuraya-778767cb",
+	"fetchedAt": "2026-10-26T16:26:55.473+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f99ffacb8d65379c544c51",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING",
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Japan",
+				"Japanese",
+				"Restaurant",
+				"Sushi",
+				"Sashimi",
+				"Dessert",
+				"Ice Cream",
+				"West Coast Plaza",
+				"Parkway Parade",
+				"Anchorpoint",
+				"Seletar Mall",
+				"Sakuraya",
+				"Dining",
+				"Groceries"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Sakuraya Foods Pte Ltd",
+			"brand": "Fish Mart Sakuraya",
+			"code": "FMS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Sakuraya",
+			"address": {
+				"line1": "154 West Coast Road #B1-50 West Coast Plaza Singapore 127371",
+				"postalCode": "127371",
+				"streetName": "154 West Coast Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198702386G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3621771385950352-7108658596754309-Sakuraya%20C%20-%20750x540.png",
+			"websiteUrl": "https://www.sakuraya.com.sg/e-index.php",
+			"descriptionHtml": "<p>Fish Mart SAKURAYA is a \"Japanese One-Stop Centre\" which has been in Singapore for 35 years and counting. There are 4 branches in Singapore, each carrying a wide variety of Japanese foods such as fresh sashimi, authentic handmade sushi, Japanese sake, shochu, ice-cream, titbits and other beverages.</p>  <p>Paticipating Outlets:​​​​​​​</p>  <ul> \t<li>Anchorpoint</li> \t<li>Parkway Parade</li> \t<li>Seletar Mall</li> \t<li>West Coast Plaza</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "               ",
+			"participatingOutlets": "West Coast Plaza\nParkway Parade\nAnchorpoint\nSeletar Mall",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7761304646034697-Fish%20mart%20-%20260x260.png",
+			"createdAt": "2022-08-15T01:23:06.515Z",
+			"updatedAt": "2026-09-03T08:55:30.406Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP"
+							]
+						}
+					]
+				},
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96e45578ca5d7f0b393"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3621771385950352-7108658596754309-Sakuraya%20C%20-%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7761304646034697-Fish%20mart%20-%20260x260.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3621771385950352-7108658596754309-Sakuraya%20C%20-%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3621771385950352-7108658596754309-Sakuraya%20C%20-%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3621771385950352-7108658596754309-Sakuraya%20C%20-%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7761304646034697-Fish%20mart%20-%20260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7761304646034697-Fish%20mart%20-%20260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7761304646034697-Fish%20mart%20-%20260x260_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:05:13.698Z",
+			"searchContent": "Fish Mart SAKURAYA is a \"Japanese One-Stop Centre\" which has been in Singapore for 35 years and counting. There are 4 branches in Singapore, each carrying a wide variety of Japanese foods such as fresh sashimi, authentic handmade sushi, Japanese sake, shochu, ice-cream, titbits and other beverages. Paticipating Outlets:​​​​​​​ Anchorpoint Parkway Parade Seletar Mall West Coast Plaza Japan Japanese Restaurant Sushi Sashimi Dessert Ice Cream West Coast Plaza Parkway Parade Anchorpoint Seletar Mall Sakuraya Dining Groceries Dining Japanese Retail Groceries",
+			"isDisplayOnKrisWeb": true,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "fish-mart-sakuraya-778767cb",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "62f9a1e1515caa208c2889b1",
+					"name": "West Coast Plaza"
+				},
+				{
+					"_id": "62f9a2370de5bd14f0c3b8a3",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "62f9a28a0de5bd14f0c3b8a7",
+					"name": "Anchorpoint"
+				},
+				{
+					"_id": "62f9a2cc515caa208c2889b6",
+					"name": "The Seletar Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"West Coast Plaza",
+			"Parkway Parade",
+			"Anchorpoint",
+			"The Seletar Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Fish Mart Sakuraya",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/simply-dreams-9ba91856",
+	"slug": "simply-dreams-9ba91856",
+	"fetchedAt": "2026-10-26T16:30:37.875+08:00",
+	"payload": {
+		"partner": {
+			"_id": "686b37df7a04e60407d6e952",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Mattress",
+				"Latex Mattress",
+				"Organic Mattress",
+				"Natural Mattress",
+				"Firm Mattress",
+				"Plush Mattress",
+				"Queen Mattress",
+				"King Mattress",
+				"Single Mattress",
+				"Eco Mattress",
+				"Bamboo Sheets",
+				"Bamboo Bedding",
+				"Lyocell Sheets",
+				"Cooling Sheets",
+				"Hypoallergenic Bedding",
+				"Healthy Sleep",
+				"Natural Sleep",
+				"Sustainable Sleep",
+				"Sleep Wellness",
+				"Sleep Products",
+				"Pillows",
+				"Bolster",
+				"Ergonomic Pillow",
+				"Baby Mattress",
+				"Boutique Sleep"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Simply Dreams Pte Ltd",
+			"brand": "Simply Dreams",
+			"code": "SOP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Simply Dreams",
+			"address": {
+				"city": "Singapore",
+				"line1": "161 Lavender Street #01-06 Singapore 338750",
+				"streetName": "161 Lavender Street",
+				"postalCode": "338750",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"websiteUrl": "https://www.simplydreams.com.sg",
+			"descriptionHtml": "<p><strong style=\"box-sizing: border-box; font-weight: bolder; color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"box-sizing: border-box; font-weight: 300; color: black; font-family: Aptos, sans-serif;\">Simply Dreams</span></strong><span class=\"apple-converted-space\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"box-sizing: border-box; font-weight: 300; color: black;\"> </span></span><span style=\"box-sizing: border-box; font-weight: 300; color: black; font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">is a boutique sleep brand specialising in organic latex mattresses and bamboo bedding. All products are crafted with certified organic materials to support deep, restorative sleep - free from harmful chemicals.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5284629428604992-SimplyDreams.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7429813684158568-8915673645149902-KRIS%20PLUS-2-Brand%20Image%20.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5284629428604992-SimplyDreams.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7429813684158568-8915673645149902-KRIS%20PLUS-2-Brand%20Image%20.png",
+			"createdAt": "2025-07-07T02:58:39.925Z",
+			"updatedAt": "2026-08-06T14:18:16.300Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5284629428604992-SimplyDreams_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5284629428604992-SimplyDreams_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5284629428604992-SimplyDreams_high.png"
+			},
+			"searchContent": "Simply Dreams is a boutique sleep brand specialising in organic latex mattresses and bamboo bedding. All products are crafted with certified organic materials to support deep, restorative sleep - free from harmful chemicals. Mattress Latex Mattress Organic Mattress Natural Mattress Firm Mattress Plush Mattress Queen Mattress King Mattress Single Mattress Eco Mattress Bamboo Sheets Bamboo Bedding Lyocell Sheets Cooling Sheets Hypoallergenic Bedding Healthy Sleep Natural Sleep Sustainable Sleep Sleep Wellness Sleep Products Pillows Bolster Ergonomic Pillow Baby Mattress Boutique Sleep Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "simply-dreams-9ba91856",
+			"outlets": [
+				{
+					"_id": "686b392f5e014c04079ea770",
+					"name": "161 Lavender Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"161 Lavender Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Simply Dreams",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,166 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/fortuna-singapore-fortuna-casual-italian-trattoria-010ffde6",
+	"slug": "fortuna-singapore-fortuna-casual-italian-trattoria-010ffde6",
+	"fetchedAt": "2026-10-26T16:29:20.635+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6746d631591b22006b9fb875",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 4,
+				"calculatedMilesEarnRate": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Pizza",
+				"Pasta",
+				"Cocktails",
+				"Wine",
+				"Italian Restaurant",
+				"Pizzeria",
+				"Italian Cuisine"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "FDESG PTE LTD",
+			"brand": "Fortuna Singapore (Fortuna Casual Italian Trattoria)",
+			"code": "FCI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Fortuna Singap",
+			"address": {
+				"line1": "9 TEMASEK BOULEVARD",
+				"postalCode": "038989",
+				"streetName": "SUNTEC TOWER TWO #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://fortunadrinkeat.sg",
+			"descriptionHtml": "<p>Fortuna, nestled in the heart of Tanjong Pagar, is more than just an Italian restaurant. This cozy trattoria, adorned in warm, earthy tones, invites you to experience the authentic flavors of Sicily and Naples.</p>\n\n<p>The three friends behind Fortuna, hailing from the southern regions of Italy, have poured their hearts and souls into creating a dining experience for your catch up with friends or a romantic dinner. With years of culinary experience and a shared dream,they've brought their passion for Italian cuisine to the vibrant streets of Singapore.</p>\n\n<p>At Fortuna, you'll discover a menu that celebrates the rich traditions of Sicilian and Neapolitan cooking. Expect a modern twist on traditional recipes, showcasing the best of Italian ingredients and techniques.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/928995387432449-43819660931168425-Logo%201000.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/24737975782435395-5307221156619393-brand%20image%20750.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-11-27T08:20:01.450Z",
+			"updatedAt": "2026-08-06T14:18:09.370Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/24737975782435395-5307221156619393-brand%20image%20750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/24737975782435395-5307221156619393-brand%20image%20750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/24737975782435395-5307221156619393-brand%20image%20750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/928995387432449-43819660931168425-Logo%201000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/928995387432449-43819660931168425-Logo%201000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/928995387432449-43819660931168425-Logo%201000_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/24737975782435395-5307221156619393-brand%20image%20750.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/928995387432449-43819660931168425-Logo%201000.png",
+			"searchContent": "Fortuna, nestled in the heart of Tanjong Pagar, is more than just an Italian restaurant. This cozy trattoria, adorned in warm, earthy tones, invites you to experience the authentic flavors of Sicily and Naples. The three friends behind Fortuna, hailing from the southern regions of Italy, have poured their hearts and souls into creating a dining experience for your catch up with friends or a romantic dinner. With years of culinary experience and a shared dream,they've brought their passion for Italian cuisine to the vibrant streets of Singapore. At Fortuna, you'll discover a menu that celebrates the rich traditions of Sicilian and Neapolitan cooking. Expect a modern twist on traditional recipes, showcasing the best of Italian ingredients and techniques. Pizza Pasta Cocktails Wine Italian Restaurant Pizzeria Italian Cuisine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:24:50.923Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "fortuna-singapore-fortuna-casual-italian-trattoria-010ffde6",
+			"outlets": [
+				{
+					"_id": "6746da5dbf80ee00629713aa",
+					"name": "Tanjong Pagar"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tanjong Pagar"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Fortuna Singapore (Fortuna Casual Italian Trattoria)",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

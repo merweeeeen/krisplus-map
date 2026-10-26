@@ -1,0 +1,208 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tip-top-curry-puff-63bfcd70",
+	"slug": "tip-top-curry-puff-63bfcd70",
+	"fetchedAt": "2026-10-26T16:33:15.295+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69fa9833d198e78f8eda3f4b",
+			"name": "All Best Foods Pte Ltd",
+			"shortName": "Tip Top Curry",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Tip Top Curry Puff",
+			"code": "7CF",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1860100072496087-41988747026796336-20260130_TT_Kris%2B_Brand%20Logo%20260%20x%20260_TT.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/61527774127853-4855805701353213-20260130_TT_Kris%2B_Brand%20Image%20750%20x%20540_TT.jpg",
+			"websiteUrl": "https://tiptopcurrypuff.com",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "41 Tampines Street 92",
+				"postalCode": "528881",
+				"streetName": "ABR Building",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Since 1979, Tip Top Curry Puff has been handcrafting 100% handmade curry puffs inspired by local flavours. Filled with a fragrant 18-spice blend, premium potatoes, and wrapped in signature pastry, every puff is made with care — bringing the comfort of local tradition to every bite.<br><br>Participating outlets:<br>- Bugis Junction<br>- Compass One<br>- Century Square<br>- Downtown East<br>- Guoco Tower<br>- One Raffles Place<br>- Tang Plaza</p>",
+			"searchableKeywords": [
+				"Curry Puffs",
+				"Snacks",
+				"Take Away",
+				"Quick Bite",
+				"Party",
+				"Puffs",
+				"Handmade",
+				"Meeting",
+				"Fried Beehoon",
+				"Nasi Lemak",
+				"Laksa",
+				"Local",
+				"Traditional"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.02,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 7
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-06T01:24:03.516Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1860100072496087-41988747026796336-20260130_TT_Kris%2B_Brand%20Logo%20260%20x%20260_TT.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/61527774127853-4855805701353213-20260130_TT_Kris%2B_Brand%20Image%20750%20x%20540_TT.jpg",
+			"createdAt": "2026-05-06T01:24:03.567Z",
+			"updatedAt": "2026-08-06T14:18:31.563Z",
+			"searchContent": "Since 1979, Tip Top Curry Puff has been handcrafting 100% handmade curry puffs inspired by local flavours. Filled with a fragrant 18-spice blend, premium potatoes, and wrapped in signature pastry, every puff is made with care — bringing the comfort of local tradition to every bite. Participating outlets: - Bugis Junction - Compass One - Century Square - Downtown East - Guoco Tower - One Raffles Place - Tang Plaza Curry Puffs Snacks Take Away Quick Bite Party Puffs Handmade Meeting Fried Beehoon Nasi Lemak Laksa Local Traditional Dining Halal Quick Bites & Snacks Chinese Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/61527774127853-4855805701353213-20260130_TT_Kris%2B_Brand%20Image%20750%20x%20540_TT_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/61527774127853-4855805701353213-20260130_TT_Kris%2B_Brand%20Image%20750%20x%20540_TT_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/61527774127853-4855805701353213-20260130_TT_Kris%2B_Brand%20Image%20750%20x%20540_TT_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1860100072496087-41988747026796336-20260130_TT_Kris%2B_Brand%20Logo%20260%20x%20260_TT_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1860100072496087-41988747026796336-20260130_TT_Kris%2B_Brand%20Logo%20260%20x%20260_TT_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1860100072496087-41988747026796336-20260130_TT_Kris%2B_Brand%20Logo%20260%20x%20260_TT_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tip-top-curry-puff-63bfcd70",
+			"outlets": [
+				{
+					"_id": "69fa9e0fa0be79ddb96e3229",
+					"name": "One Raffles Place"
+				},
+				{
+					"_id": "69fa9e671e101e4dfeba56c5",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "69fa9eaa6e783129adbef774",
+					"name": "Compass One"
+				},
+				{
+					"_id": "69fa9eee94664ac039305183",
+					"name": "Century Square"
+				},
+				{
+					"_id": "69fa9f42383b7c98dc5c2274",
+					"name": "Guoco Tower"
+				},
+				{
+					"_id": "69fa9ff68001d85fabf5f002",
+					"name": "Downtown East"
+				},
+				{
+					"_id": "69faa0898001d85fabf5f0bf",
+					"name": "Tang Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"One Raffles Place",
+			"Bugis Junction",
+			"Compass One",
+			"Century Square",
+			"Guoco Tower",
+			"Downtown East",
+			"Tang Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tip Top Curry Puff",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,503 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/esso-438073bc",
+	"slug": "esso-438073bc",
+	"fetchedAt": "2026-10-26T16:23:31.918+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5b28b10c473af323240f6de0",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 HarbourFront Place, HarbourFront Tower One, #06-00",
+				"postalCode": "098633",
+				"streetName": "HarbourFront Place"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "Aster Mobility Solutions 1 Pte Ltd",
+			"brand": "Esso",
+			"code": "ESO",
+			"countryIncorporation": "Singapore",
+			"description": "Esso operates an extensive network of service stations that offer motorists their improved Synergy petrol as well as good value and convenience.\n\nTerms & Conditions:\n•\tPayment must be made at the cashier’s counter in the service station.\n•\tKrisPay redemptions cannot be combined with other fuel promotions, vouchers, or any special discounts, unless otherwise stated and cannot be used in conjunction with instant fuel redemptions.\n•\tKrisPay redemptions can be redeemed at Esso Service Stations in Singapore for petrol and diesel to the value indicated. It cannot be exchanged for cash or credited into any account.\n•\tExxonMobil Asia Pacific Pte. Ltd. reserves the right to make the final decision on any dispute arising out of or in connection with the use of KrisPay redemptions.",
+			"categary": "Others",
+			"regNumber": "196800312N",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchants-logs/uploads%5B%5D-a718e357-55c7-443d-acda-ce5c44adec62.png",
+			"createdAt": "2018-06-19T07:30:20.706Z",
+			"updatedAt": "2026-10-15T09:01:33.092Z",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 300000,
+				"minTokens": 60000,
+				"cardMerchantFees": {
+					"refundable": 2.5,
+					"nonRefundable": 0,
+					"saleOfMilesPct": 4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Terms & Conditions:\n•\tPayment must be made at the cashier’s counter in the service station\n•\tKrisPay redemptions cannot be combined with other fuel promotions, vouchers, or any special discounts, unless otherwise stated and cannot be used in conjunction with instant fuel redemptions\n•\tKrisPay redemptions can be redeemed at Esso Service Stations in Singapore for petrol and diesel to the value indicated. It cannot be exchanged for cash or credited into any account\n•\tExxonMobil Asia Pacific Pte. Ltd. reserves the right to make the final decision on any dispute arising out of or in connection with the use of KrisPay redemptions\n\nFind out more at : https://www.esso.com.sg/",
+			"category": "SERVICES",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/47185335946839424-Esso%20Brand%20Image%20(750%20x%20540px).png",
+			"participatingOutlets": "All outlets                         ",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.essosmiles.com.sg/",
+			"categories": [
+				"SERVICES"
+			],
+			"hideFromCustomer": false,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"mccCode": "5541",
+			"mccDescription": "Service Stations (With or without Ancillary Services)",
+			"countryCode": "SG",
+			"descriptionHtml": "<p><span style=\"color: rgb(7, 55, 99);\"></span>Enjoy more with Kris+ now! You can now earn KrisPay miles when you pay with Kris+ at Esso for fuel and diesel purchases.<br>  </p>  <p>Esso operates an extensive network of service stations that offer motorists their improved Synergy petrol as well as good value and convenience.</p>  <p><br> Terms & Conditions:</p>  <ul> \t<li>Payment must be made at the cashier’s counter in the service station.</li> \t<li>Kris+ transactions can be used at Esso Service Stations in Singapore only for petrol and diesel to the value indicated.</li> \t<li>Up to 12% upfront fuel discount will apply in place of all other existing card discounts at Esso Singapore Stations.    </li> \t<li>Any KrisPay Miles earned from using the Kris+ app for payment at Esso Singapore Stations shall be in addition to your bank card’s rewards (where applicable), subject to individual bank card’s terms and conditions and Esso’s Terms and Conditions. </li> \t<li>For the avoidance of doubt, Esso specific bank and card discounts, promotions, vouchers, cash rebates and other similar promotions are not eligible with and will not apply to payments made through the Kris+ app at Esso Singapore Stations. </li> \t<li>Any claims, issues or disputes relating to Kris+ payments at Esso Singapore Stations shall be referred directly to Aster Mobility Solutions 1 Pte. Ltd. (“AMS1”) for decision, whose decision shall be final and binding on the user. </li> \t<li>AMS1 reserves the right to terminate, suspend or vary any offers, terms, conditions, programmes (including this programme itself), promotions or discount(s) stipulated herein or otherwise without prior notification.</li> </ul>",
+			"payByCard": true,
+			"shortName": "Esso",
+			"searchableKeywords": [
+				"Kupang",
+				"Sengkang West Way",
+				"Kembangan",
+				"Changi Road",
+				"Lorong Chuan",
+				"Serangoon",
+				"Jalan Ahmad Ibrahim",
+				"Lakeside",
+				"Toa Payoh Lorong 2",
+				"Tampines Avenue 9",
+				"Tampines East",
+				"Tampines Avenue 7",
+				"Queensway",
+				"Queenstown",
+				"Jurong East Avenue 1",
+				"Jurong East",
+				"Jervois Road",
+				"Tiong Bahru",
+				"Upper Bukit Timah Road",
+				"Beauty World",
+				"Woodlands Avenue 1",
+				"Woodlands",
+				"West Coast Road",
+				"Clementi",
+				"Lavender Street",
+				"Lavender",
+				"Dunearn Road",
+				"King Albert Park",
+				"Bedok South Avenue 1",
+				"Bedok North",
+				"Ang Mo Kio Avenue 8",
+				"Marymount",
+				"Yio Chu Kang Road",
+				"Upper East Coast Road",
+				"Eunos",
+				"Tanjong Katong Road",
+				"Upper Thomson Road",
+				"Upper Serangoon Road",
+				"Jalan Bukit Merah",
+				"Redhill",
+				"Choa Chu Kang Way",
+				"Ang Mo Kio Avenue 3",
+				"Bukit Timah Road",
+				"Newton",
+				"Upper Aljunied Road",
+				"Aljunied",
+				"Telok Blangah Road",
+				"Harbourfront",
+				"Punggol Road",
+				"Services",
+				"Petrol",
+				"Miles Payment",
+				"Pasir Ris Drive 1",
+				"Upper Changi North"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR3",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"translations": [
+				"64eef9f43d10e34df66b474b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/47185335946839424-Esso%20Brand%20Image%20(750%20x%20540px).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchants-logs/uploads%5B%5D-a718e357-55c7-443d-acda-ce5c44adec62.png",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-10-09T02:30:27.037Z",
+			"searchContent": "$33",
+			"newMerchantEndDate": null,
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/47185335946839424-Esso%20Brand%20Image%20(750%20x%20540px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/47185335946839424-Esso%20Brand%20Image%20(750%20x%20540px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/47185335946839424-Esso%20Brand%20Image%20(750%20x%20540px)_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "esso-438073bc",
+			"isDisplayOnKrisWeb": true,
+			"outlets": [
+				{
+					"_id": "5b28cdcc2cff842bfc0868bb",
+					"name": "611 Aljunied Road"
+				},
+				{
+					"_id": "5b28cfbd2cff842bfc0868cf",
+					"name": "Ang Mo Kio Ave 8"
+				},
+				{
+					"_id": "5b28cfed2cff842bfc0868d3",
+					"name": "Bedok North Road"
+				},
+				{
+					"_id": "5b28d0252cff842bfc0868d7",
+					"name": "Bedok South Ave 1"
+				},
+				{
+					"_id": "5b28d0542cff842bfc0868db",
+					"name": "Bukit Batok West Ave 5"
+				},
+				{
+					"_id": "5b28d07e2cff842bfc0868df",
+					"name": "926 Upper Bukit Timah Road"
+				},
+				{
+					"_id": "5b28d0ca2cff842bfc0868e3",
+					"name": "751 Bukit Timah Road"
+				},
+				{
+					"_id": "5b28d0f62cff842bfc0868e7",
+					"name": "Changi Road"
+				},
+				{
+					"_id": "5b28d1422cff842bfc0868eb",
+					"name": "Choa Chu Kang Ave 3"
+				},
+				{
+					"_id": "5b28d16a2cff842bfc0868ef",
+					"name": "Choa Chu Kang Way"
+				},
+				{
+					"_id": "5b29bce5560b643e3c71c808",
+					"name": "650 Dunearn Road"
+				},
+				{
+					"_id": "5b29c322560b643e3c71c80c",
+					"name": "239/255 East Coast Road"
+				},
+				{
+					"_id": "5b29ca30560b643e3c71c812",
+					"name": "590 East Coast Road"
+				},
+				{
+					"_id": "5b29ca64560b643e3c71c816",
+					"name": "Geylang Lorong 38 "
+				},
+				{
+					"_id": "5b29cab0560b643e3c71c81a",
+					"name": "Guillemard Road"
+				},
+				{
+					"_id": "5b29cada560b643e3c71c81e",
+					"name": "Holland Road"
+				},
+				{
+					"_id": "5b29cb05560b643e3c71c822",
+					"name": "Jln Ahmad Ibrahim"
+				},
+				{
+					"_id": "5b29cb3c560b643e3c71c826",
+					"name": "Jln Bukit Merah"
+				},
+				{
+					"_id": "5b29cb70560b643e3c71c82a",
+					"name": "Jalan Buroh "
+				},
+				{
+					"_id": "5b29cba4560b643e3c71c82e",
+					"name": "Jervois Road"
+				},
+				{
+					"_id": "5b29cc0e560b643e3c71c832",
+					"name": "Jurong East Ave 1"
+				},
+				{
+					"_id": "5b29cc40560b643e3c71c836",
+					"name": "Jln Jurong Kechil"
+				},
+				{
+					"_id": "5b29cc6b560b643e3c71c83a",
+					"name": "Jurong West Ave 1"
+				},
+				{
+					"_id": "5b29cca2560b643e3c71c83e",
+					"name": "866 Upper Serangoon Road"
+				},
+				{
+					"_id": "5b29cd2e560b643e3c71c846",
+					"name": "Lorong Chuan"
+				},
+				{
+					"_id": "5b29cd7a560b643e3c71c84a",
+					"name": "553 Upper Thomson Road"
+				},
+				{
+					"_id": "5b29cdbd560b643e3c71c84e",
+					"name": "Macpherson Road"
+				},
+				{
+					"_id": "5b29cde8560b643e3c71c852",
+					"name": "M-D Petroleum"
+				},
+				{
+					"_id": "5b29ce29560b643e3c71c856",
+					"name": "Mountbatten Road"
+				},
+				{
+					"_id": "5b29ce57560b643e3c71c85a",
+					"name": "30 Dunearn Road"
+				},
+				{
+					"_id": "5b29ce91560b643e3c71c85e",
+					"name": "Pasir Panjang Road"
+				},
+				{
+					"_id": "5b29cece560b643e3c71c862",
+					"name": "Pasir Ris Drive 1"
+				},
+				{
+					"_id": "5b29cf09560b643e3c71c866",
+					"name": "Pioneer Road"
+				},
+				{
+					"_id": "5b29cf4502516f3950162053",
+					"name": "622 Queensway"
+				},
+				{
+					"_id": "5b29cf7a02516f3950162057",
+					"name": "262 Queensway"
+				},
+				{
+					"_id": "5b29cfbf02516f395016205a",
+					"name": "593 Sembawang Rd"
+				},
+				{
+					"_id": "5b29cfef02516f395016205e",
+					"name": "590 Sembawang Rd"
+				},
+				{
+					"_id": "5b29d01a02516f3950162062",
+					"name": "Punggol Road"
+				},
+				{
+					"_id": "5b29d07202516f395016206a",
+					"name": "Tampines Ave 9 "
+				},
+				{
+					"_id": "5b29d0aa02516f395016206e",
+					"name": "Tanglin Road"
+				},
+				{
+					"_id": "5b29d0e202516f3950162072",
+					"name": "Tanjong Katong Road"
+				},
+				{
+					"_id": "5b29d10f02516f3950162076",
+					"name": "Telok Blangah Road"
+				},
+				{
+					"_id": "5b29d15b02516f395016207a",
+					"name": "Toa Payoh Lorong 2"
+				},
+				{
+					"_id": "5b29d18902516f395016207e",
+					"name": "Upper Aljunied Road"
+				},
+				{
+					"_id": "5b29d1f302516f3950162085",
+					"name": "213 Upper Bukit Timah Road"
+				},
+				{
+					"_id": "5b29d24c02516f395016208a",
+					"name": "Upper Changi North"
+				},
+				{
+					"_id": "5b29d28702516f395016208e",
+					"name": "Upper East Coast Road"
+				},
+				{
+					"_id": "5b29d2d402516f3950162092",
+					"name": "1027 Upper Serangoon Road"
+				},
+				{
+					"_id": "5b29d31702516f3950162097",
+					"name": "594 Upper Thomson Road"
+				},
+				{
+					"_id": "5b29d35d02516f395016209b",
+					"name": "West Coast Road"
+				},
+				{
+					"_id": "5b29d39402516f39501620a0",
+					"name": "353 Upper Thomson Road"
+				},
+				{
+					"_id": "5b29d3c902516f39501620a4",
+					"name": "141 Bukit Timah Road"
+				},
+				{
+					"_id": "5b29d57402516f39501620a9",
+					"name": "Woodlands Ave 1"
+				},
+				{
+					"_id": "5b29d5b002516f39501620ae",
+					"name": "Woodlands Road"
+				},
+				{
+					"_id": "5b29d60702516f39501620b6",
+					"name": "160 Yio Chu Kang Road"
+				},
+				{
+					"_id": "5b29d63f02516f39501620ba",
+					"name": "299 Yio Chu Kang Road "
+				},
+				{
+					"_id": "5b29d67902516f39501620be",
+					"name": "Yishun Ave 9"
+				},
+				{
+					"_id": "5e16bdfddb2e73230827006f",
+					"name": "Sengkang West Way"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"611 Aljunied Road",
+			"Ang Mo Kio Ave 8",
+			"Bedok North Road",
+			"Bedok South Ave 1",
+			"Bukit Batok West Ave 5",
+			"926 Upper Bukit Timah Road",
+			"751 Bukit Timah Road",
+			"Changi Road",
+			"Choa Chu Kang Ave 3",
+			"Choa Chu Kang Way",
+			"650 Dunearn Road",
+			"239/255 East Coast Road",
+			"590 East Coast Road",
+			"Geylang Lorong 38 ",
+			"Guillemard Road",
+			"Holland Road",
+			"Jln Ahmad Ibrahim",
+			"Jln Bukit Merah",
+			"Jalan Buroh ",
+			"Jervois Road",
+			"Jurong East Ave 1",
+			"Jln Jurong Kechil",
+			"Jurong West Ave 1",
+			"866 Upper Serangoon Road",
+			"Lorong Chuan",
+			"553 Upper Thomson Road",
+			"Macpherson Road",
+			"M-D Petroleum",
+			"Mountbatten Road",
+			"30 Dunearn Road",
+			"Pasir Panjang Road",
+			"Pasir Ris Drive 1",
+			"Pioneer Road",
+			"622 Queensway",
+			"262 Queensway",
+			"593 Sembawang Rd",
+			"590 Sembawang Rd",
+			"Punggol Road",
+			"Tampines Ave 9 ",
+			"Tanglin Road",
+			"Tanjong Katong Road",
+			"Telok Blangah Road",
+			"Toa Payoh Lorong 2",
+			"Upper Aljunied Road",
+			"213 Upper Bukit Timah Road",
+			"Upper Changi North",
+			"Upper East Coast Road",
+			"1027 Upper Serangoon Road",
+			"594 Upper Thomson Road",
+			"West Coast Road",
+			"353 Upper Thomson Road",
+			"141 Bukit Timah Road",
+			"Woodlands Ave 1",
+			"Woodlands Road",
+			"160 Yio Chu Kang Road",
+			"299 Yio Chu Kang Road ",
+			"Yishun Ave 9",
+			"Sengkang West Way"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Esso",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

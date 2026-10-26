@@ -1,0 +1,180 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/serangoon-bbq-curry-229e0eaf",
+	"slug": "serangoon-bbq-curry-229e0eaf",
+	"fetchedAt": "2026-10-26T16:30:32.764+08:00",
+	"payload": {
+		"partner": {
+			"_id": "685bb28bc657b5040c47b864",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 7,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 14
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Halal",
+				"Nasi Padang",
+				"Casual",
+				"Dining",
+				"Chinese",
+				"Healthy",
+				"Asian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Period Nine Pte Ltd",
+			"brand": "Serangoon BBQ & Curry",
+			"code": "S83",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Serangoon BBQ",
+			"address": {
+				"line1": "13 Jalan Chegar  Singapore 578476",
+				"postalCode": "578476",
+				"streetName": "13 Jalan Chegar",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://sbc1983.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Serangoon\nBBQ & Curry has been serving Padang-inspired bowls since 1983, born from a\nfamily kitchen in Singapore.\n</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">\nRooted in kampong cooking and recipes passed down through generations, our food\nreimagines the bold flavours of Nasi Padang through grilled dishes, curry\nclassics, and thoughtfully curated sides.\n</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">\nWhether enjoyed as a hearty bowl or shared as a family feast, our food is\nunabashedly kampong and uniquely Singaporean.\n</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">\nHalal-certified.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Participating outlets:<br>Junction 8<br>Raffles Specialist Centre</span><br style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"></span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/38608559356067773-Brand%20Logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/15884446817724052-SBBQ.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/38608559356067773-Brand%20Logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/15884446817724052-SBBQ.jpg",
+			"createdAt": "2025-06-25T08:25:47.328Z",
+			"updatedAt": "2026-10-15T12:22:20.453Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/38608559356067773-Brand%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/38608559356067773-Brand%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/38608559356067773-Brand%20Logo_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T01:03:32.453Z",
+			"searchContent": "Serangoon BBQ & Curry has been serving Padang-inspired bowls since 1983, born from a family kitchen in Singapore. Rooted in kampong cooking and recipes passed down through generations, our food reimagines the bold flavours of Nasi Padang through grilled dishes, curry classics, and thoughtfully curated sides. Whether enjoyed as a hearty bowl or shared as a family feast, our food is unabashedly kampong and uniquely Singaporean. Halal-certified. Participating outlets: Junction 8 Raffles Specialist Centre Halal Nasi Padang Casual Dining Chinese Healthy Asian Dining Halal Casual Dining Kid-Friendly Beverages & Desserts Chinese Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7604835858323764-Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7604835858323764-Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7604835858323764-Brand%20Image_high.jpg"
+			},
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "serangoon-bbq-curry-229e0eaf",
+			"outlets": [
+				{
+					"_id": "685bb4f9b8e1f50409df2c4b",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "685bb5770c919c0402f033ed",
+					"name": "Raffles Specialist Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Junction 8",
+			"Raffles Specialist Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Serangoon BBQ & Curry",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

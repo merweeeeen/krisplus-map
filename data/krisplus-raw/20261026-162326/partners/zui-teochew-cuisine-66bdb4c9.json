@@ -1,0 +1,196 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/zui-teochew-cuisine-66bdb4c9",
+	"slug": "zui-teochew-cuisine-66bdb4c9",
+	"fetchedAt": "2026-10-26T16:28:23.524+08:00",
+	"payload": {
+		"partner": {
+			"_id": "659cbe45427142004e21da21",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Zui Teochew Cuisine",
+				"Zui Yu Xuan",
+				"Chui Huay Lim",
+				"Teochew",
+				"Teochew Cuisine",
+				"Chinese Cuisine",
+				"Chinese",
+				"Chinese Restaurant",
+				"Duck",
+				"Braised Duck",
+				"Gathering",
+				"Celebrations",
+				"Family",
+				"Karaoke",
+				"Private Room",
+				"Wedding",
+				"Weddings",
+				"Seafood",
+				"Lobster",
+				"Chinatown",
+				"Cold Crabs",
+				"Jumbo",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"659cbe4f70324b2bbe7cb0b9"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "JUMBO GROUP OF RESTAURANTS PTE LTD (Zui Teochew Cuisine)",
+			"brand": "Zui Teochew Cuisine",
+			"code": "ZTC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Zui Teochew Cu",
+			"address": {
+				"line1": "4 Kaki Bukit Avenue 1 #03-08 Singapore 417939",
+				"postalCode": "417939",
+				"streetName": "4 Kaki Bukit Avenue 1",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "199403639K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9109935740613984-Crispy%20Fried%20Sea%20Cucumber%20and%20Shiitake%20Mushroom%20with%20Abalone%20Sauce.png",
+			"websiteUrl": "https://zui-teochewcuisine.com",
+			"descriptionHtml": "<p>Zui Teochew Cuisine - comprising Chui Huay Lim Teochew Cuisine and Zui Yu Xuan Teochew Cuisine showcases delicious, authentic Teochew dishes that epitomise Teochew cooking at its finest. Some menu highlights; expertly executed Steamed Pomfret, tender Braised Duck with Beancurd and Teochew Cold Crab.</p>  <p> </p>  <p>Participating Outlets:</p>  <p>•    Chui Huay Lim Teochew Cuisine (Keng Lee Rd)<br> •    Zui Yu Xuan Teochew Cuisine (Far East Square)</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3976386020377487-12151437392687003-ZUI-Logo-ChaoShan_SQ.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"createdAt": "2024-01-09T03:32:21.552Z",
+			"updatedAt": "2026-08-27T05:45:16.228Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9109935740613984-Crispy%20Fried%20Sea%20Cucumber%20and%20Shiitake%20Mushroom%20with%20Abalone%20Sauce.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3976386020377487-12151437392687003-ZUI-Logo-ChaoShan_SQ.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9109935740613984-Crispy%20Fried%20Sea%20Cucumber%20and%20Shiitake%20Mushroom%20with%20Abalone%20Sauce_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9109935740613984-Crispy%20Fried%20Sea%20Cucumber%20and%20Shiitake%20Mushroom%20with%20Abalone%20Sauce_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9109935740613984-Crispy%20Fried%20Sea%20Cucumber%20and%20Shiitake%20Mushroom%20with%20Abalone%20Sauce_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3976386020377487-12151437392687003-ZUI-Logo-ChaoShan_SQ_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3976386020377487-12151437392687003-ZUI-Logo-ChaoShan_SQ_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3976386020377487-12151437392687003-ZUI-Logo-ChaoShan_SQ_high.png"
+			},
+			"searchContent": "Zui Teochew Cuisine - comprising Chui Huay Lim Teochew Cuisine and Zui Yu Xuan Teochew Cuisine showcases delicious, authentic Teochew dishes that epitomise Teochew cooking at its finest. Some menu highlights; expertly executed Steamed Pomfret, tender Braised Duck with Beancurd and Teochew Cold Crab. Participating Outlets: • Chui Huay Lim Teochew Cuisine (Keng Lee Rd) • Zui Yu Xuan Teochew Cuisine (Far East Square) Zui Teochew Cuisine Zui Yu Xuan Chui Huay Lim Teochew Teochew Cuisine Chinese Cuisine Chinese Chinese Restaurant Duck Braised Duck Gathering Celebrations Family Karaoke Private Room Wedding Weddings Seafood Lobster Chinatown Cold Crabs Jumbo FortuneFeast Dining Casual Dining Chinese Western",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-08-27T05:45:16.228Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "zui-teochew-cuisine-66bdb4c9",
+			"outlets": [
+				{
+					"_id": "659cc0ff6c9583004fa33669",
+					"name": "Zui Yu Xuan Teochew Cuisine"
+				},
+				{
+					"_id": "659cc249aeeee4004fa1047d",
+					"name": "Chui Huay Lim Teochew Cuisine"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Zui Yu Xuan Teochew Cuisine",
+			"Chui Huay Lim Teochew Cuisine"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Zui Teochew Cuisine",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

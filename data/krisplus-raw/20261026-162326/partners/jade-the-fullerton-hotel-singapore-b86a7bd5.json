@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jade-the-fullerton-hotel-singapore-b86a7bd5",
+	"slug": "jade-the-fullerton-hotel-singapore-b86a7bd5",
+	"fetchedAt": "2026-10-26T16:28:58.717+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66cd9ccc2edafd006a3187e2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.044,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Fine Dining",
+				"Hotel",
+				"Chinese",
+				"Dim Sum",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Precious Treasure Pte Ltd - Jade",
+			"brand": "Jade - The Fullerton Hotel Singapore",
+			"code": "JFH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Jade",
+			"address": {
+				"line1": "1 Fullerton Square Singapore 049178",
+				"postalCode": "049178",
+				"streetName": "1 Fullerton Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"KID",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.fullertonhotels.com/fullerton-hotel-singapore/dining/restaurants-and-bars/jade",
+			"descriptionHtml": "<p>Helmed by Executive Chinese Chef Leong Chee Yeng, Jade offers authentic Chinese cuisine of exceptional quality and warm hospitality, amply earning for itself the reputation of its precious gemstone namesake.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/0586757099326618-Jade%20Colour%20Logo%201000x1000%20(002).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9423169778658564-jade.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-08-27T09:30:52.081Z",
+			"updatedAt": "2026-09-09T01:18:09.232Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0586757099326618-Jade%20Colour%20Logo%201000x1000%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0586757099326618-Jade%20Colour%20Logo%201000x1000%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0586757099326618-Jade%20Colour%20Logo%201000x1000%20(002)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9423169778658564-jade.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0586757099326618-Jade%20Colour%20Logo%201000x1000%20(002).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9423169778658564-jade_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9423169778658564-jade_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9423169778658564-jade_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:06:45.343Z",
+			"searchContent": "Helmed by Executive Chinese Chef Leong Chee Yeng, Jade offers authentic Chinese cuisine of exceptional quality and warm hospitality, amply earning for itself the reputation of its precious gemstone namesake. Fine Dining Hotel Chinese Dim Sum Dining Vegetarian-Friendly Fine Dining Kid-Friendly Chinese",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jade-the-fullerton-hotel-singapore-b86a7bd5",
+			"outlets": [
+				{
+					"_id": "66ce8c1d657b34006a236c05",
+					"name": "Fullerton Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fullerton Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Jade - The Fullerton Hotel Singapore",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

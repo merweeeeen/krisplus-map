@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cycle-project-store-0566d873",
+	"slug": "cycle-project-store-0566d873",
+	"fetchedAt": "2026-10-26T16:27:25.500+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63d373ff210373256083bd8f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.03,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Bicycle",
+				"Cycling",
+				"Cycle",
+				"Jersey",
+				"Bottle",
+				"Backpack",
+				"Bag",
+				"Sunglass",
+				"Retail",
+				"Cycle Project Store",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Cycle Project Store LLP",
+			"brand": "Cycle Project Store",
+			"code": "CP5",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Cycle Project",
+			"address": {
+				"line1": "57 Eng Hoon Street Unit 01-80 Singapore 160057",
+				"postalCode": "160057",
+				"streetName": "57 Eng Hoon Street",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "T13LL2230D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/43171396681309093-8901392539359012-CPSkris%2B_C_.png",
+			"websiteUrl": "https://www.cycleprojectstore.com",
+			"descriptionHtml": "<p>Specialising in road, commuter and gravel bicycles, Cycle Project Store was conceived in late 2012 with an aim to curate fine cycling goods and services to the local cycling community.</p>  <p>With a focus on custom assembled bicycles as well as components, they offer brands such as MAAP, Shimano, Sram, Silca, Garmin, Wahoo, Chris King, Ride 100 percent and many more.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/48823648186751134-38521862639924875-CPSkris%2B_A_.jpg",
+			"createdAt": "2023-01-27T06:49:35.770Z",
+			"updatedAt": "2026-08-20T07:33:23.542Z",
+			"participatingOutlets": "                                                 ",
+			"promotional": "                           ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef959fd404ac7a5ba301f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/43171396681309093-8901392539359012-CPSkris%2B_C_.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/48823648186751134-38521862639924875-CPSkris%2B_A_.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/43171396681309093-8901392539359012-CPSkris%2B_C__low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/43171396681309093-8901392539359012-CPSkris%2B_C__med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/43171396681309093-8901392539359012-CPSkris%2B_C__high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/48823648186751134-38521862639924875-CPSkris%2B_A__low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/48823648186751134-38521862639924875-CPSkris%2B_A__med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/48823648186751134-38521862639924875-CPSkris%2B_A__high.jpg"
+			},
+			"searchContent": "Specialising in road, commuter and gravel bicycles, Cycle Project Store was conceived in late 2012 with an aim to curate fine cycling goods and services to the local cycling community. With a focus on custom assembled bicycles as well as components, they offer brands such as MAAP, Shimano, Sram, Silca, Garmin, Wahoo, Chris King, Ride 100 percent and many more. Bicycle Cycling Cycle Jersey Bottle Backpack Bag Sunglass Retail Cycle Project Store Ruhens Grohe Hansgrohe Mayer Simmons Sealy Retail Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-30T16:29:19.514Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cycle-project-store-0566d873",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "63d8c869d5f4f4171443af2d",
+					"name": "57 Eng Hoon Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"57 Eng Hoon Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cycle Project Store",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kyo-watami-3b8ddbc5",
+	"slug": "kyo-watami-3b8ddbc5",
+	"fetchedAt": "2026-10-26T16:33:30.417+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a2bbd68a2b65d12841f157b",
+			"name": "WATAMI FOOD SERVICE SINGAPORE PTE LTD (Kyo Watami)",
+			"shortName": "Kyo Watami",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Kyo Watami",
+			"code": "KYO",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/47461181074986514-2299000855561102-Kyo%20Watami%20Logo%20260%20x%20260.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/019591206259631733-6188222137404942-Brand%20540%20x%20750.jpg",
+			"websiteUrl": "https://kyo-watami.com.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "116 LAVENDER STREET #04-14",
+				"postalCode": "338730",
+				"streetName": "PEK CHUAN BUILDING",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Kyo Watami specialises in Japanese-style grilled skewers inspired by traditional izakaya flavours. Known for its carefully grilled yakitori, meat-wrapped skewers, and seafood varieties, the restaurant focuses on precise grilling techniques and a signature house sauce refined over the years to achieve a balanced sweet and smoky flavour profile.</span></p>",
+			"searchableKeywords": [
+				"Japanese cuisine",
+				"Japanese restaurant",
+				"sushi",
+				"sashimi",
+				"donburi",
+				"noodles",
+				"rice",
+				"grilled",
+				"udon",
+				"soba",
+				"seafood",
+				"meat",
+				"kushikatsu",
+				"yakitori",
+				"skewers",
+				"ramen",
+				"sukiyaki",
+				"wagyu",
+				"beef",
+				"pork"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"JAP",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-31T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-12T08:03:52.443Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/47461181074986514-2299000855561102-Kyo%20Watami%20Logo%20260%20x%20260.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/019591206259631733-6188222137404942-Brand%20540%20x%20750.jpg",
+			"createdAt": "2026-06-12T08:03:52.449Z",
+			"updatedAt": "2026-09-30T16:00:05.714Z",
+			"searchContent": "Kyo Watami specialises in Japanese-style grilled skewers inspired by traditional izakaya flavours. Known for its carefully grilled yakitori, meat-wrapped skewers, and seafood varieties, the restaurant focuses on precise grilling techniques and a signature house sauce refined over the years to achieve a balanced sweet and smoky flavour profile. Japanese cuisine Japanese restaurant sushi sashimi donburi noodles rice grilled udon soba seafood meat kushikatsu yakitori skewers ramen sukiyaki wagyu beef pork Dining Casual Dining Japanese Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/019591206259631733-6188222137404942-Brand%20540%20x%20750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/019591206259631733-6188222137404942-Brand%20540%20x%20750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/019591206259631733-6188222137404942-Brand%20540%20x%20750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/47461181074986514-2299000855561102-Kyo%20Watami%20Logo%20260%20x%20260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/47461181074986514-2299000855561102-Kyo%20Watami%20Logo%20260%20x%20260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/47461181074986514-2299000855561102-Kyo%20Watami%20Logo%20260%20x%20260_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kyo-watami-3b8ddbc5",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6a2bc7f14c6a205cbf9e2596",
+					"name": "ION Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kyo Watami",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

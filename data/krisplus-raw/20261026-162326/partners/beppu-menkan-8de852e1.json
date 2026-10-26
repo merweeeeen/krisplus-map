@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/beppu-menkan-8de852e1",
+	"slug": "beppu-menkan-8de852e1",
+	"fetchedAt": "2026-10-26T16:24:05.865+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e62178b696cb426d0936c24",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Beppu Menkan Restaurant (S) Pte Ltd",
+			"brand": "Beppu Menkan",
+			"code": "BEP",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "3 Pickering Street, #01-32/33, Singapore 048660, Singapore ",
+				"postalCode": "048660",
+				"streetName": "Pickering Street Singapore"
+			},
+			"category": "DINING",
+			"regNumber": "199804858E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-f6662501-8048-45a0-812b-64e31c5c1bd7.png",
+			"websiteUrl": "https://www.beppu.com.sg",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-cb19f7dc-8091-4b74-9c49-b346c3dfe240.jpg",
+			"createdAt": "2020-03-06T09:27:39.663Z",
+			"updatedAt": "2026-08-06T14:17:09.201Z",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.026,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Pickering Street",
+			"promotional": "             ",
+			"categary": "Food and Beverage",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Beppu%20Menkan%20Restaurant\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Beppu Menkan Restaurant was the first to introduce Japanese spicy ramen and spicy udon soup to Singapore. With 20 spiciness levels for ramen soup, customers can challenge themselves to their desired level of spice. Their unique white chilli soup packs a powerful punch without sacrificing the original flavour of their ramen soup.</p>  <p>Participating Outlet: <br> •    Pickering Street</p>  <p> <br></p>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Beppu Menkan",
+			"searchableKeywords": [
+				"Chinatown",
+				"City",
+				"North Bridge Road",
+				"South Bridge Road",
+				"Eu Tong Seng Street",
+				"Japanese",
+				"Omakase",
+				"Bento",
+				"Sashimi",
+				"Ramen",
+				"Udon",
+				"Tempura",
+				"Noodles",
+				"Foodie",
+				"Trending",
+				"Sushi",
+				"Sake",
+				"Wine",
+				"Syochu",
+				"Highball",
+				"Izakaya",
+				"Birthday",
+				"Pickering Street",
+				"Dining",
+				"Leshrimp",
+				"Lenu"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e3b35256c5b2c9bf20"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-f6662501-8048-45a0-812b-64e31c5c1bd7.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-cb19f7dc-8091-4b74-9c49-b346c3dfe240.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-f6662501-8048-45a0-812b-64e31c5c1bd7_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-f6662501-8048-45a0-812b-64e31c5c1bd7_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-f6662501-8048-45a0-812b-64e31c5c1bd7_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-cb19f7dc-8091-4b74-9c49-b346c3dfe240_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-cb19f7dc-8091-4b74-9c49-b346c3dfe240_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-cb19f7dc-8091-4b74-9c49-b346c3dfe240_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Beppu Menkan Restaurant was the first to introduce Japanese spicy ramen and spicy udon soup to Singapore. With 20 spiciness levels for ramen soup, customers can challenge themselves to their desired level of spice. Their unique white chilli soup packs a powerful punch without sacrificing the original flavour of their ramen soup. Participating Outlet: • Pickering Street Chinatown City North Bridge Road South Bridge Road Eu Tong Seng Street Japanese Omakase Bento Sashimi Ramen Udon Tempura Noodles Foodie Trending Sushi Sake Wine Syochu Highball Izakaya Birthday Pickering Street Dining Leshrimp Lenu Dining Japanese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-31T16:17:59.490Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "beppu-menkan-8de852e1",
+			"outlets": [
+				{
+					"_id": "5e688ec5bb85313d08e6a822",
+					"name": "Pickering Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pickering Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Beppu Menkan",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

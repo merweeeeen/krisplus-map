@@ -1,0 +1,286 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/house-of-traditional-javanese-massage-35b7a0c1",
+	"slug": "house-of-traditional-javanese-massage-35b7a0c1",
+	"fetchedAt": "2026-10-26T16:25:25.147+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6139cf21aa8f8e509cc2beb7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Javanese Massage",
+				"Hands Pressure",
+				"Javanese",
+				"Massage",
+				"Beauty Care",
+				"Post Natal",
+				"Pain Relief",
+				"Relax",
+				"Rejuvenate",
+				"Blood Circulation",
+				"Energy Flow",
+				"Aromatherapy",
+				"Essential Oils",
+				"Siglap",
+				"East Coast Road",
+				"Kinex",
+				"Tanjong Katong Road",
+				"Goldhill Plaza",
+				"West Coast Plaza",
+				"West Coast Road",
+				"Bukit Timah Road",
+				"Jalan Jurong Kechil",
+				"Sembawang Road",
+				"Thomson Plaza",
+				"Upper Thomson Road",
+				"Wisteria Mall",
+				"Yishun Ring Road",
+				"Gb Point",
+				"Kallang Bahru",
+				"Body Scrub",
+				"Ginger Wrap",
+				"Wellness",
+				"Spa",
+				"Onekm Mall",
+				"Junction 10",
+				"Bukit Panjang",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "House of Traditional Javanese Massage Pte Ltd",
+			"brand": "House of Traditional Javanese Massage",
+			"code": "HT1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "House of TJM",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "783 Bukit Timah Road, #01",
+				"postalCode": "269760",
+				"streetName": "Bukit Timah Road"
+			},
+			"regNumber": "201732340K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/07693021995137528-2409013519323131-Home%20Banner_750x540_f.png",
+			"websiteUrl": "https://javanesemassage.com/",
+			"descriptionHtml": "<p>​​​​​​​Javanese massage relies upon deep thumb pressure pushing to break down tensely knotted muscles and stimulate the body’s lymphatic system into self-regeneration. The massage also squeezes and push against the skin and veins to improve blood circulation.</p>\n\n<p>Participating outlets:</p>\n\n<ul>\n\t<li>Bukit Timah Road</li>\n\t<li>Goldhill Plaza</li>\n\t<li>Junction 10</li>\n\t<li>KINEX</li>\n\t<li>Sembawang Road</li>\n\t<li>Siglap</li>\n\t<li>Thomson Plaza</li>\n\t<li>West Coast Plaza</li>\n\t<li>Wisteria Mall</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8976526298084313-5147502000962438-MicrosoftTeams-image%20(309).jpg",
+			"createdAt": "2021-09-09T09:08:49.213Z",
+			"updatedAt": "2026-08-06T14:17:20.583Z",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "•    Bukit Timah\n•    Jurong Kechil\n•    Goldhill\n•    Sembawang\n•    Thomson\n•    West Coast\n•    Yishun\n•    Siglap\n•    Kinex\n•    Kallang Bahru",
+			"promotional": "        ",
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9aca3718718842dd95f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 11
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07693021995137528-2409013519323131-Home%20Banner_750x540_f.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8976526298084313-5147502000962438-MicrosoftTeams-image%20(309).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07693021995137528-2409013519323131-Home%20Banner_750x540_f_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07693021995137528-2409013519323131-Home%20Banner_750x540_f_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07693021995137528-2409013519323131-Home%20Banner_750x540_f_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8976526298084313-5147502000962438-MicrosoftTeams-image%20(309)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8976526298084313-5147502000962438-MicrosoftTeams-image%20(309)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8976526298084313-5147502000962438-MicrosoftTeams-image%20(309)_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-06T08:13:03.752Z",
+			"searchContent": "​​​​​​​Javanese massage relies upon deep thumb pressure pushing to break down tensely knotted muscles and stimulate the body’s lymphatic system into self-regeneration. The massage also squeezes and push against the skin and veins to improve blood circulation. Participating outlets: Bukit Timah Road Goldhill Plaza Junction 10 KINEX Sembawang Road Siglap Thomson Plaza West Coast Plaza Wisteria Mall Javanese Massage Hands Pressure Javanese Massage Beauty Care Post Natal Pain Relief Relax Rejuvenate Blood Circulation Energy Flow Aromatherapy Essential Oils Siglap East Coast Road Kinex Tanjong Katong Road Goldhill Plaza West Coast Plaza West Coast Road Bukit Timah Road Jalan Jurong Kechil Sembawang Road Thomson Plaza Upper Thomson Road Wisteria Mall Yishun Ring Road Gb Point Kallang Bahru Body Scrub Ginger Wrap Wellness Spa Onekm Mall Junction 10 Bukit Panjang Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Guasha Foot Massage Body Massage Treatment Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "house-of-traditional-javanese-massage-35b7a0c1",
+			"outlets": [
+				{
+					"_id": "615436a1fdb13f21ecbe28e0",
+					"name": "Sembawang Road"
+				},
+				{
+					"_id": "6154370cfdb13f21ecbe28e2",
+					"name": "KINEX"
+				},
+				{
+					"_id": "6154375ded3d057e641095d1",
+					"name": "Siglap"
+				},
+				{
+					"_id": "61543894fdb13f21ecbe28e6",
+					"name": "West Coast Plaza"
+				},
+				{
+					"_id": "615438f3fdb13f21ecbe28e8",
+					"name": "Thomson Plaza"
+				},
+				{
+					"_id": "61543953fdb13f21ecbe28ef",
+					"name": "Bukit Timah Road"
+				},
+				{
+					"_id": "61543a51fdb13f21ecbe28f1",
+					"name": "Goldhill Plaza"
+				},
+				{
+					"_id": "61543aaeed3d057e641095d4",
+					"name": "Wisteria Mall"
+				},
+				{
+					"_id": "62f4b84625dc283728db3e10",
+					"name": "Junction 10"
+				},
+				{
+					"_id": "690c574d3d6bd15f71dc815d",
+					"name": "100 AM Mall"
+				},
+				{
+					"_id": "69a7db0a15ee399b3ef25d61",
+					"name": "Greenwich V"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sembawang Road",
+			"KINEX",
+			"Siglap",
+			"West Coast Plaza",
+			"Thomson Plaza",
+			"Bukit Timah Road",
+			"Goldhill Plaza",
+			"Wisteria Mall",
+			"Junction 10",
+			"100 AM Mall",
+			"Greenwich V"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "House of Traditional Javanese Massage",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

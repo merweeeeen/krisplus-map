@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lebar-24879ddb",
+	"slug": "lebar-24879ddb",
+	"fetchedAt": "2026-10-26T16:28:47.682+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66667f37cc8e6100686e5661",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"High Tea",
+				"Cocktails",
+				"Lounge",
+				"Bar Bites",
+				"Wines",
+				"Beer",
+				"Spirits"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "THE SINGAPORE RESORT & SPA",
+			"brand": "LeBar",
+			"code": "LEB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "LeBar",
+			"address": {
+				"line1": "2 Bukit Manis Road Sentosa Singapore 099891",
+				"postalCode": "099891",
+				"streetName": "2 Bukit Manis Road Sentosa",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"PB",
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.sofitel-singapore-sentosa.com/gastronomy/lebar/",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=LeBar\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a><br><br></em>Located at heart of the Resort, LeBar is an outdoor pavilion lounge that offers themed afternoon teas and cocktails amid views of serenity and the South China Sea.  Relax and chill with Afternoon Tea or enjoy specially concocted cocktails from their mixology team.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2758865740694625-lb1.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6680414536646144-lb2.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-06-10T04:21:11.373Z",
+			"updatedAt": "2026-08-06T14:18:03.764Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6680414536646144-lb2.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2758865740694625-lb1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6680414536646144-lb2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6680414536646144-lb2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6680414536646144-lb2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2758865740694625-lb1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2758865740694625-lb1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2758865740694625-lb1_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Located at heart of the Resort, LeBar is an outdoor pavilion lounge that offers themed afternoon teas and cocktails amid views of serenity and the South China Sea. Relax and chill with Afternoon Tea or enjoy specially concocted cocktails from their mixology team. High Tea Cocktails Lounge Bar Bites Wines Beer Spirits Dining Casual Dining Pubs & Bars Quick Bites & Snacks Beverages & Desserts",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:08:37.681Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lebar-24879ddb",
+			"outlets": [
+				{
+					"_id": "66669b1d7667f3006813981d",
+					"name": "Sofitel Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sofitel Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "LeBar",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

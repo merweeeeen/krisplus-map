@@ -1,0 +1,162 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cornerstone-wines-0a8099cd",
+	"slug": "cornerstone-wines-0a8099cd",
+	"fetchedAt": "2026-10-26T16:32:53.296+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69bb5a24471fd2c8745f8081",
+			"name": "HOCK TONG BEE (PRIVATE) LIMITED",
+			"shortName": "CornerStone Wi",
+			"mccCode": "5921",
+			"mccDescription": "Package Stores - Beer, Wine, and Liquor",
+			"brand": "CornerStone Wines",
+			"code": "CSW",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/13145258084443912-9291315443780532-Cornerstone%20Wines%20Brand%20Logo%20(002).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7675250222082488-Untitled.png",
+			"websiteUrl": "https://www.cornerstonewines.com",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "10 SIMS CLOSE CORNERSTONE BUILDING #01-00, SINGAPORE 387299",
+				"postalCode": "387299",
+				"streetName": "10 SIMS CLOSE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">CornerStone Wines is a premium wine retailer in Singapore,     offering a curated selection of wines from top vineyards worldwide. Known for     quality and personalized service, the brand caters to both wine enthusiasts and     businesses, delivering exceptional wines and expert recommendations for every     occasion.</p>",
+			"searchableKeywords": [
+				"Birthday",
+				"Wine",
+				"Champagne",
+				"Stemware",
+				"Cellar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS",
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-13T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-03-19T02:06:28.447Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13145258084443912-9291315443780532-Cornerstone%20Wines%20Brand%20Logo%20(002).jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7675250222082488-Untitled.png",
+			"createdAt": "2026-03-19T02:06:28.454Z",
+			"updatedAt": "2026-09-01T01:55:27.598Z",
+			"searchContent": "CornerStone Wines is a premium wine retailer in Singapore, offering a curated selection of wines from top vineyards worldwide. Known for quality and personalized service, the brand caters to both wine enthusiasts and businesses, delivering exceptional wines and expert recommendations for every occasion. Birthday Wine Champagne Stemware Cellar Retail Gifts & Souvenirs Food Specialities",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7675250222082488-Untitled_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7675250222082488-Untitled_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7675250222082488-Untitled_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13145258084443912-9291315443780532-Cornerstone%20Wines%20Brand%20Logo%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13145258084443912-9291315443780532-Cornerstone%20Wines%20Brand%20Logo%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13145258084443912-9291315443780532-Cornerstone%20Wines%20Brand%20Logo%20(002)_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cornerstone-wines-0a8099cd",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "69c1fd2dd1edd870a2c492cc",
+					"name": "CornerStone Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"CornerStone Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "CornerStone Wines",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

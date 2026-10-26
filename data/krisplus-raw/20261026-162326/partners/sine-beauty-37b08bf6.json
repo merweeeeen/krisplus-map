@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sine-beauty-37b08bf6",
+	"slug": "sine-beauty-37b08bf6",
+	"fetchedAt": "2026-10-26T16:33:01.221+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69dca4dc57d056938e2ba2d8",
+			"name": "SINE BEAUTY GROUP PTE. LTD",
+			"shortName": "Sine Beauty",
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"brand": "Sine Beauty",
+			"code": "SEB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9547081619043245-8132333967521541-Brand-logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2377998721009349-35629618861579715-Brand-image-1.jpg",
+			"websiteUrl": "https://Sinebeauty.sg",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "WOODS SQUARE",
+				"postalCode": "737713",
+				"streetName": "8 WOODLANDS SQUARE, #04-11",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Sine Beauty is an award-winning facial spa dedicated to delivering effective, results-driven skincare treatments. They focus on skin health, relaxation, and long-term improvement through personalised facial services tailored to each individual’s skin condition, concerns, and lifestyle. Their gentle yet effective approach helps restore balance, confidence, and a naturally healthy glow.</p><p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>Wood Square </li><li>66 Lor 4 Toa Payoh</li></ul> ",
+			"searchableKeywords": [
+				"facial",
+				"facial spa",
+				"facial treatment",
+				"skincare",
+				"skin care",
+				"beauty spa",
+				"facial salon",
+				"skin treatment",
+				"face treatment",
+				"acne facial",
+				"hydration facial",
+				"sensitive skin facial",
+				"deep cleansing facial",
+				"antiaging facial",
+				"relaxing facial",
+				"professional facial",
+				"customised facial",
+				"facial near me",
+				"facial woodlands",
+				"facial toa payoh",
+				"woodlands facial",
+				"toa payoh facial spa"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-07-21T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-04-13T08:10:04.440Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9547081619043245-8132333967521541-Brand-logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2377998721009349-35629618861579715-Brand-image-1.jpg",
+			"createdAt": "2026-04-13T08:10:04.445Z",
+			"updatedAt": "2026-08-06T14:18:30.746Z",
+			"searchContent": "Sine Beauty is an award-winning facial spa dedicated to delivering effective, results-driven skincare treatments. They focus on skin health, relaxation, and long-term improvement through personalised facial services tailored to each individual’s skin condition, concerns, and lifestyle. Their gentle yet effective approach helps restore balance, confidence, and a naturally healthy glow. Participating outlets: Wood Square 66 Lor 4 Toa Payoh facial facial spa facial treatment skincare skin care beauty spa facial salon skin treatment face treatment acne facial hydration facial sensitive skin facial deep cleansing facial antiaging facial relaxing facial professional facial customised facial facial near me facial woodlands facial toa payoh woodlands facial toa payoh facial spa Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2377998721009349-35629618861579715-Brand-image-1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2377998721009349-35629618861579715-Brand-image-1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2377998721009349-35629618861579715-Brand-image-1_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9547081619043245-8132333967521541-Brand-logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9547081619043245-8132333967521541-Brand-logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9547081619043245-8132333967521541-Brand-logo_high.jpg"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sine-beauty-37b08bf6",
+			"outlets": [
+				{
+					"_id": "69dca818ee2fbd5a0e7b6ae3",
+					"name": "Woods Square"
+				},
+				{
+					"_id": "69dca874ad0f0006f3b988e4",
+					"name": "Toa Payoh"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Woods Square",
+			"Toa Payoh"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sine Beauty",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

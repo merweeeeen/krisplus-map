@@ -1,0 +1,195 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/nobu-singapore-f40fed2e",
+	"slug": "nobu-singapore-f40fed2e",
+	"fetchedAt": "2026-10-26T16:27:31.485+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63fc55423c05b210e41957f6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 6,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"calculatedMilesEarnRate": 6,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Four Seasons",
+				"Nobu",
+				"Japanese",
+				"Singapore",
+				"Peruvian Casual Dining",
+				"Orchard",
+				"Celebrity Chef",
+				"Dining",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "HPL Properties Pte Ltd dba Four Seasons Hotel Singapore",
+			"brand": "Nobu Singapore",
+			"code": "NOB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Nobu Singapore",
+			"address": {
+				"line1": "190 Orchard Boulevard 248646",
+				"postalCode": "248646",
+				"streetName": "190 Orchard Boulevard",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "47940800M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7947870991645392-6488830668395731-Nobu%20Singapore_Interior_Teppanyaki%20Room_750%20x%20540%20px.png",
+			"websiteUrl": "https://www.fourseasons.com/singapore/dining/restaurants/nobu-singapore/",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Nobu%20Singapore\">Reserve A Table</a>.</p><p>Experience celebrity chef and restaurateur Nobu Matsuhisa’s creative cuisine of traditional Japanese cooking with Peruvian flavours, at the world’s first Nobu restaurant with an outdoor designer Japanese garden and private dining show kitchen.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/41321932508048786-342936804382977-Nobu%20Singpaore_1000%20x%201000%20px.png",
+			"createdAt": "2023-02-27T07:01:23.006Z",
+			"updatedAt": "2026-08-06T14:17:41.650Z",
+			"participatingOutlets": "Nobu Singapore",
+			"promotional": "               ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef954034603c33892997c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7947870991645392-6488830668395731-Nobu%20Singapore_Interior_Teppanyaki%20Room_750%20x%20540%20px.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/41321932508048786-342936804382977-Nobu%20Singpaore_1000%20x%201000%20px.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7947870991645392-6488830668395731-Nobu%20Singapore_Interior_Teppanyaki%20Room_750%20x%20540%20px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7947870991645392-6488830668395731-Nobu%20Singapore_Interior_Teppanyaki%20Room_750%20x%20540%20px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7947870991645392-6488830668395731-Nobu%20Singapore_Interior_Teppanyaki%20Room_750%20x%20540%20px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/41321932508048786-342936804382977-Nobu%20Singpaore_1000%20x%201000%20px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/41321932508048786-342936804382977-Nobu%20Singpaore_1000%20x%201000%20px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/41321932508048786-342936804382977-Nobu%20Singpaore_1000%20x%201000%20px_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Experience celebrity chef and restaurateur Nobu Matsuhisa’s creative cuisine of traditional Japanese cooking with Peruvian flavours, at the world’s first Nobu restaurant with an outdoor designer Japanese garden and private dining show kitchen. Four Seasons Nobu Japanese Singapore Peruvian Casual Dining Orchard Celebrity Chef Dining Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Dining Japanese Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:13:30.348Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "nobu-singapore-f40fed2e",
+			"outlets": [
+				{
+					"_id": "640617662568373294afedc3",
+					"name": "Four Seasons Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Four Seasons Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Nobu Singapore",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

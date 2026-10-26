@@ -1,0 +1,158 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ryde-6e9c690d",
+	"slug": "ryde-6e9c690d",
+	"fetchedAt": "2026-10-26T16:31:20.779+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68d5e7717a795c0471d796be",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Ride",
+				"hailing",
+				"Ryde",
+				"voucher",
+				"tada",
+				"grab",
+				"gojek",
+				"deals",
+				"Ridehailing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "RYDE TECHNOLOGIES PTE. LTD.",
+			"brand": "Ryde",
+			"code": "RYD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4121",
+			"shortName": "Ryde",
+			"address": {
+				"line1": "3 FRASER STREET #08-21 DUO TOWER SINGAPORE 189352",
+				"postalCode": "189352",
+				"streetName": "3 FRASER STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.rydesharing.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 15px;\"><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: inherit; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Enjoy a limited-time boosted earn rate of 2 miles per S$1 with Ryde! </span></span></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 15px;\"><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 18px;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: inherit; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"></span><br>Note: Payment via Kris+ directly on Ryde app is not available. Earn or redeem your miles on Ryde via purchase of Promo Code only. <span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Proxima, sans-serif; font-size: 18px; background-color: rgb(255, 255, 255); float: none; display: inline !important;\">For more information regarding Ryde's services and redemption flow, please click </span><a href=\"https://ca.krisplus.com/redirect?screen=highlight&id=68e89a9cf324c403f88a78e2&countryCode=SG&view=STANDALONE\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; font-family: Proxima, sans-serif; font-size: 18px;\">here</a><span style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Proxima, sans-serif; font-size: 18px; background-color: rgb(255, 255, 255); float: none; display: inline !important;\">. </span></span></span><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; font-size: 15px;\"><br><br>Ryde is a ride-hailing app offering a full range of services - including Private Hire, Carpool, Delivery, Pets, and Taxis. Committed to empowering its driver-partners, Ryde charges 0% commission, ensuring that every hard-earned dollar goes directly to the drivers who make your journey possible.<br><br></span><br><br></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6636155785102194-Ryde.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/18436740680822772-26402819061132443-kris%2B%20brand%20image.png",
+			"countryCode": "SG",
+			"mccDescription": "Taxicabs and Limousines",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6636155785102194-Ryde.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18436740680822772-26402819061132443-kris%2B%20brand%20image.png",
+			"createdAt": "2025-09-26T01:08:01.393Z",
+			"updatedAt": "2026-08-06T14:18:21.581Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18436740680822772-26402819061132443-kris%2B%20brand%20image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18436740680822772-26402819061132443-kris%2B%20brand%20image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18436740680822772-26402819061132443-kris%2B%20brand%20image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6636155785102194-Ryde_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6636155785102194-Ryde_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6636155785102194-Ryde_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-11-05T02:27:25.321Z",
+			"searchContent": "Enjoy a limited-time boosted earn rate of 2 miles per S$1 with Ryde! Note: Payment via Kris+ directly on Ryde app is not available. Earn or redeem your miles on Ryde via purchase of Promo Code only. For more information regarding Ryde's services and redemption flow, please click here. Ryde is a ride-hailing app offering a full range of services - including Private Hire, Carpool, Delivery, Pets, and Taxis. Committed to empowering its driver-partners, Ryde charges 0% commission, ensuring that every hard-earned dollar goes directly to the drivers who make your journey possible. Ride hailing Ryde voucher tada grab gojek deals Ridehailing Services Automotive",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ryde-6e9c690d",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Ryde",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

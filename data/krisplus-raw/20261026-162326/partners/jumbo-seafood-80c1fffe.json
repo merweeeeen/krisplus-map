@@ -1,0 +1,215 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jumbo-seafood-80c1fffe",
+	"slug": "jumbo-seafood-80c1fffe",
+	"fetchedAt": "2026-10-26T16:28:22.539+08:00",
+	"payload": {
+		"partner": {
+			"_id": "659caf7a7543230055f3e37f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Jumbo Seafood",
+				"Chilli Crab",
+				"Chili Crab",
+				"Prawn",
+				"Seafood",
+				"Best Seafood",
+				"Seafood Restaurant",
+				"Restaurant",
+				"Lobster",
+				"Alaskan Crab",
+				"Chinese",
+				"Chinese Restaurant",
+				"Clarke Quay",
+				"East Coast",
+				"Jumbo East Coast",
+				"Orchard Restaurant",
+				"Riverwalk",
+				"Jumbo Clarke Quay",
+				"Jewel Changi",
+				"Gathering",
+				"Family",
+				"Celebrations",
+				"Awardwinning",
+				"Best Review",
+				"Not To Be Missed",
+				"Live Seafood Best Chilli Crab",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"659caf839546a017b810e703"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "JUMBO GROUP OF RESTAURANTS PTE LTD",
+			"brand": "JUMBO Seafood",
+			"code": "JGR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "JUMBO Seafood",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "4 Kaki Bukit Avenue 1 #03-08  Singapore 417939",
+				"postalCode": "417939",
+				"streetName": "4 Kaki Bukit Avenue 1"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "199403639K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5071854677949506-Award-Winning%20Chilli%20Mud%20Crab.png",
+			"websiteUrl": "https://www.jumboseafood.com.sg",
+			"descriptionHtml": "<p>The big name in seafood, JUMBO Seafood, is the go-to restaurant for their Award-Winning Chilli Crab, Signature Black Pepper Crab and more. Since its humble beginnings in 1987,  it has captured the hearts of local and overseas gastronomes with its fresh seafood cooked to perfection.</p>    <p>Participating Outlets:<br> •    Dempsey Hill  <br> •    ION Orchard <br> •    Jewel Changi Airport <br> •    Riverside Point<br> •    The Riverwalk</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/06705867477200611-J1.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"createdAt": "2024-01-09T02:29:14.904Z",
+			"updatedAt": "2026-10-06T07:20:17.187Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5071854677949506-Award-Winning%20Chilli%20Mud%20Crab.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/06705867477200611-J1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5071854677949506-Award-Winning%20Chilli%20Mud%20Crab_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5071854677949506-Award-Winning%20Chilli%20Mud%20Crab_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5071854677949506-Award-Winning%20Chilli%20Mud%20Crab_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/06705867477200611-J1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/06705867477200611-J1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/06705867477200611-J1_high.png"
+			},
+			"searchContent": "The big name in seafood, JUMBO Seafood, is the go-to restaurant for their Award-Winning Chilli Crab, Signature Black Pepper Crab and more. Since its humble beginnings in 1987, it has captured the hearts of local and overseas gastronomes with its fresh seafood cooked to perfection. Participating Outlets: • Dempsey Hill • ION Orchard • Jewel Changi Airport • Riverside Point • The Riverwalk Jumbo Seafood Chilli Crab Chili Crab Prawn Seafood Best Seafood Seafood Restaurant Restaurant Lobster Alaskan Crab Chinese Chinese Restaurant Clarke Quay East Coast Jumbo East Coast Orchard Restaurant Riverwalk Jumbo Clarke Quay Jewel Changi Gathering Family Celebrations Awardwinning Best Review Not To Be Missed Live Seafood Best Chilli Crab FortuneFeast Dining Casual Dining Chinese Asian",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-09-23T06:14:48.401Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jumbo-seafood-80c1fffe",
+			"outlets": [
+				{
+					"_id": "659cb5c1aeeee4004fa0eac5",
+					"name": "Dempsey Hill"
+				},
+				{
+					"_id": "659cb6d36c9583004fa32004",
+					"name": "The Riverwalk"
+				},
+				{
+					"_id": "659cb91089af37004f78188e",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "659cba5053a81e0055e5f416",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "659cbb61427142004e21d47b",
+					"name": "Riverside Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Dempsey Hill",
+			"The Riverwalk",
+			"ION Orchard",
+			"Jewel Changi Airport",
+			"Riverside Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "JUMBO Seafood",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

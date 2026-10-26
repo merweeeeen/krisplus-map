@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/man-fu-yuan-8bb1d608",
+	"slug": "man-fu-yuan-8bb1d608",
+	"fetchedAt": "2026-10-26T16:33:41.391+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a43359091327a10be5d57a6",
+			"name": "Frasers House, a Luxury Collection Hotel, Singapore (Man Fu Yuan)",
+			"shortName": "MAN FU YUAN",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "MAN FU YUAN",
+			"code": "MFY",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/26560287540913885-5915699881595178-mfy%20logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/990333899464946-5192989455872197-Brand%20Image%20-%20750x540.jpg",
+			"websiteUrl": "https://www.manfuyuansg.com",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "80 MIDDLE ROAD  SINGAPORE 188966",
+				"postalCode": "188966",
+				"streetName": "Frasers House",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Lauded by Singapore Tatler as one of Singapore's best Chinese restaurants, Man Fu Yuan is a stalwart in the Cantonese fine dining scene in Singapore, serving culinary presentations that showcase an artful balance of spices and flavours, uplifted by modern interpretations and quality ingredients.</p><p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Look forward to a refined dining experience underpinned by traditional culinary techniques with a touch of modernity, and elevate your experience with a handpicked selection of quality wines or premium tea pairings.</p><p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Set within an elegant venue which accommodates up to 172 guests - including a suite of private dining rooms - Man Fu Yuan is well-suited for all occasions, from private business lunches to joyous celebratory events</p>",
+			"searchableKeywords": [
+				"Cantonese",
+				"Fine Dining",
+				"Singapore",
+				"Best Chinese Restaurants",
+				"Cantonese Cuisine",
+				"Luxury Dining",
+				"Private Dining",
+				"Gourmet",
+				"Wines",
+				"Wine Pairings",
+				"Celebrations",
+				"Restaurant",
+				"Singapore Tatler",
+				"Modern Cantonese",
+				"Dining Experience",
+				"Cantonese Chinese Restaurant",
+				"Cantonese Chinese Restaurant Singapore",
+				"Cantonese Restaurant Singapore",
+				"Cantonese Restaurant",
+				"Cantonese Food"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.044,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 17.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"FD",
+								"KID",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-10-25T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-30T03:18:40.471Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/26560287540913885-5915699881595178-mfy%20logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/990333899464946-5192989455872197-Brand%20Image%20-%20750x540.jpg",
+			"createdAt": "2026-06-30T03:18:40.479Z",
+			"updatedAt": "2026-10-15T12:22:19.333Z",
+			"searchContent": "$31",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/990333899464946-5192989455872197-Brand%20Image%20-%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/990333899464946-5192989455872197-Brand%20Image%20-%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/990333899464946-5192989455872197-Brand%20Image%20-%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/26560287540913885-5915699881595178-mfy%20logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/26560287540913885-5915699881595178-mfy%20logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/26560287540913885-5915699881595178-mfy%20logo_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "man-fu-yuan-8bb1d608",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6a43378f9a364355c4077baf",
+					"name": "Frasers House"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Frasers House"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "MAN FU YUAN",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

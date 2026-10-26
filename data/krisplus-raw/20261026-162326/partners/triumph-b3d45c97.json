@@ -1,0 +1,216 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/triumph-b3d45c97",
+	"slug": "triumph-b3d45c97",
+	"fetchedAt": "2026-10-26T16:28:28.727+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65c1a7ab7588c5005aeea094",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.02,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Triumph",
+				"Sloggi",
+				"Lingerie",
+				"Bra",
+				"Bras",
+				"Panty",
+				"Panties",
+				"Briefs",
+				"Women",
+				"Intimate Apparel",
+				"Underwear",
+				"Innerwear"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65c1a7b51756a77fe6688228"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Triumph International (S) Pte. Ltd",
+			"brand": "Triumph",
+			"code": "TIP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5621",
+			"shortName": "Triumph",
+			"address": {
+				"line1": "38C Jalan Pemimpin #06-02 Singapore 577180",
+				"postalCode": "577180",
+				"streetName": "38C Jalan Pemimpin #06-02",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://sg.triumph.com/",
+			"descriptionHtml": "<p>Triumph is one of the world’s largest intimate apparel companies. It enjoys a presence in over 120 countries with the core brands Triumph® and sloggi®. </p>  <p>They craft products and experiences that are truly personal. When it comes to lingerie and intimate wear, one size does not fit all. Beyond physical fit, they care about emotional compatibility too.</p>  <p>Participating Outlets:</p>  <p>•    313 Somerset<br> •    AMK Hub<br> •    Compass One<br> •    ION<br> •    Jem<br> •    Nex <br> •    Parkway Parade<br> •    Paya Lebar Quarter<br> •    IMM (Outlet)</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7927625287430617-05221512944432516-Brand%20Logo%201000%20x%201000px.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9370146610934953-6435836230672056-Brand%20Image%20(750%20x%20540%20px).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 10
+				}
+			],
+			"createdAt": "2024-02-06T03:29:47.788Z",
+			"updatedAt": "2026-08-06T14:17:59.095Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9370146610934953-6435836230672056-Brand%20Image%20(750%20x%20540%20px).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7927625287430617-05221512944432516-Brand%20Logo%201000%20x%201000px.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9370146610934953-6435836230672056-Brand%20Image%20(750%20x%20540%20px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9370146610934953-6435836230672056-Brand%20Image%20(750%20x%20540%20px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9370146610934953-6435836230672056-Brand%20Image%20(750%20x%20540%20px)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7927625287430617-05221512944432516-Brand%20Logo%201000%20x%201000px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7927625287430617-05221512944432516-Brand%20Logo%201000%20x%201000px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7927625287430617-05221512944432516-Brand%20Logo%201000%20x%201000px_high.jpg"
+			},
+			"searchContent": "Triumph is one of the world’s largest intimate apparel companies. It enjoys a presence in over 120 countries with the core brands Triumph® and sloggi®. They craft products and experiences that are truly personal. When it comes to lingerie and intimate wear, one size does not fit all. Beyond physical fit, they care about emotional compatibility too. Participating Outlets: • 313 Somerset • AMK Hub • Compass One • ION • Jem • Nex • Parkway Parade • Paya Lebar Quarter • IMM (Outlet) Triumph Sloggi Lingerie Bra Bras Panty Panties Briefs Women Intimate Apparel Underwear Innerwear Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T09:01:25.016Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": null,
+			"slugId": "triumph-b3d45c97",
+			"outlets": [
+				{
+					"_id": "65c1c903490b20005a8e5ed4",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "65c1c9bef878aa0058c0ba10",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "65c1ca20b262b10053e31b48",
+					"name": "Compass One"
+				},
+				{
+					"_id": "65c1caa9754418005481ab06",
+					"name": " ION Orchard"
+				},
+				{
+					"_id": "65c1cb2e889b210052e2a27d",
+					"name": "Jem"
+				},
+				{
+					"_id": "65c1cb9f490b20005a8e649e",
+					"name": "NEX"
+				},
+				{
+					"_id": "65c1cc5ab262b10053e32080",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "65c1ccb0754418005481affc",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "65c1cdce4f474b0055ee1c1b",
+					"name": "IMM"
+				},
+				{
+					"_id": "689d7393dd376a046777124c",
+					"name": "Changi City Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset",
+			"AMK Hub",
+			"Compass One",
+			" ION Orchard",
+			"Jem",
+			"NEX",
+			"Parkway Parade",
+			"PLQ Mall",
+			"IMM",
+			"Changi City Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Triumph",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

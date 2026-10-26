@@ -1,0 +1,167 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/torno-subito-4e0faa44",
+	"slug": "torno-subito-4e0faa44",
+	"fetchedAt": "2026-10-26T16:29:55.630+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67cfcc001168050416dac11a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 9,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 9,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 7,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16.1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Italian",
+				"Western",
+				"Pasta"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "COMO Lifestyle Pte Ltd (Torno Subito)",
+			"brand": "Torno Subito",
+			"code": "TS0",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Torno Subito",
+			"address": {
+				"city": "Singapore",
+				"line1": "6B ORANGE GROVE ROAD",
+				"streetName": "COMO HOUSE",
+				"postalCode": "258332",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"ITA",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.tornosubitosg.com/",
+			"descriptionHtml": "<p>Torno Subito is the brainchild of Chef Massimo Bottura, the visionary behind the three Michelin-starred Osteria Francescana in Modena. Diners are invited to explore Italian fare that blends playful innovation with the specialties of Emilia-Romagna, Bottura’s home region, in a whimsical space inspired by idyllic holidays along the Adriatic coast.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/35080897333217864-Torno%20Subito%20Logo_260x260px.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5173659387939178-3152639712368168-Torno%20Subito%20Brand%20Image_750x540px.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/35080897333217864-Torno%20Subito%20Logo_260x260px.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5173659387939178-3152639712368168-Torno%20Subito%20Brand%20Image_750x540px.png",
+			"createdAt": "2025-03-11T05:37:04.279Z",
+			"updatedAt": "2026-08-06T14:18:12.833Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5173659387939178-3152639712368168-Torno%20Subito%20Brand%20Image_750x540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5173659387939178-3152639712368168-Torno%20Subito%20Brand%20Image_750x540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5173659387939178-3152639712368168-Torno%20Subito%20Brand%20Image_750x540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/35080897333217864-Torno%20Subito%20Logo_260x260px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/35080897333217864-Torno%20Subito%20Logo_260x260px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/35080897333217864-Torno%20Subito%20Logo_260x260px_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:30:35.591Z",
+			"searchContent": "Torno Subito is the brainchild of Chef Massimo Bottura, the visionary behind the three Michelin-starred Osteria Francescana in Modena. Diners are invited to explore Italian fare that blends playful innovation with the specialties of Emilia-Romagna, Bottura’s home region, in a whimsical space inspired by idyllic holidays along the Adriatic coast. Italian Western Pasta Dining Vegetarian-Friendly Beverages & Desserts Italian Western",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "torno-subito-4e0faa44",
+			"outlets": [
+				{
+					"_id": "67cfcd51829a5e041ae68755",
+					"name": "Dempsey Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Dempsey Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 9,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Torno Subito",
+		"earnBadge": "Earn 9 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

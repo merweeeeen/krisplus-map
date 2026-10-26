@@ -1,0 +1,199 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/paradise-hotpot-ede93096",
+	"slug": "paradise-hotpot-ede93096",
+	"fetchedAt": "2026-10-26T16:26:51.576+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7bead9737c23198263dea",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese",
+				"Hotpot",
+				"Steamboat",
+				"Hong Kong Style",
+				"Dining",
+				"Sengkang",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Mooncake",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Paradise Hotpot",
+			"brand": "Paradise Hotpot",
+			"code": "PHT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "ParadiseHotpot",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201010333R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6252527887691703-04526348223300958-Hotpot%20750%20x%20540px.jpg",
+			"websiteUrl": "https://www.paradisegp.com/brand-paradise-hotpot",
+			"descriptionHtml": "<p>Paradise Hotpot is a modern and trendy Hong Kong-style steamboat concept that offers each diner an exclusive individual hotpot with their desired broth from 13 delicious soup base selections to choose from. Be spoilt for choice with an array of fresh, premium ingredients, homemade pastes and imported meats for an unforgettable hotpot experience.<br><br>Participating outlets:<br>- Bedok Mall<br>- Compass One<br>- Punggol Coast Mall<br>- VivoCity<br>- Westgate</p><p><br></p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.015,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"promotional": "          ",
+			"participatingOutlets": "•\tCompass One",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1599292066335285-17384128902057094-Hotpot%20logo%201000%20x%201000px.jpg",
+			"createdAt": "2022-08-13T15:09:33.391Z",
+			"updatedAt": "2026-08-06T14:17:34.679Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96f0108b03f047da57b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6252527887691703-04526348223300958-Hotpot%20750%20x%20540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1599292066335285-17384128902057094-Hotpot%20logo%201000%20x%201000px.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6252527887691703-04526348223300958-Hotpot%20750%20x%20540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6252527887691703-04526348223300958-Hotpot%20750%20x%20540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6252527887691703-04526348223300958-Hotpot%20750%20x%20540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1599292066335285-17384128902057094-Hotpot%20logo%201000%20x%201000px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1599292066335285-17384128902057094-Hotpot%20logo%201000%20x%201000px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1599292066335285-17384128902057094-Hotpot%20logo%201000%20x%201000px_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-11T02:19:28.911Z",
+			"searchContent": "Paradise Hotpot is a modern and trendy Hong Kong-style steamboat concept that offers each diner an exclusive individual hotpot with their desired broth from 13 delicious soup base selections to choose from. Be spoilt for choice with an array of fresh, premium ingredients, homemade pastes and imported meats for an unforgettable hotpot experience. Participating outlets: - Bedok Mall - Compass One - Punggol Coast Mall - VivoCity - Westgate Chinese Hotpot Steamboat Hong Kong Style Dining Sengkang Business Corporate Dining Working Lunch Networking Mooncake paradise Dining Chinese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "paradise-hotpot-ede93096",
+			"outlets": [
+				{
+					"_id": "62f9235142de063c902ea255",
+					"name": "Compass One"
+				},
+				{
+					"_id": "66ed378c2811ff0078209063",
+					"name": "Westgate"
+				},
+				{
+					"_id": "67d2b5375657b7041f74b0c2",
+					"name": "Punggol Coast Mall"
+				},
+				{
+					"_id": "685d05f9e9023303ff06dc4b",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "69004b89212ebe046e9e740c",
+					"name": "Bedok Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Compass One",
+			"Westgate",
+			"Punggol Coast Mall",
+			"VivoCity",
+			"Bedok Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Paradise Hotpot",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

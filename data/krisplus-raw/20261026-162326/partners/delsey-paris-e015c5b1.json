@@ -1,0 +1,199 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/delsey-paris-e015c5b1",
+	"slug": "delsey-paris-e015c5b1",
+	"fetchedAt": "2026-10-26T16:27:23.692+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63be78e45551b9294ceb959d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.027,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Luggage",
+				"Travel",
+				"Trolley Case",
+				"Backpack",
+				"Retail",
+				"Suntec City",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management",
+				"Delsey Paris",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Travelite Pte Ltd (Delsey Paris)",
+			"brand": "Delsey Paris",
+			"code": "DPL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Delsey Paris",
+			"address": {
+				"line1": "TRAVELITE BUILDING, 53 UBI AVENUE 3, Postal 408863",
+				"postalCode": "408863",
+				"streetName": "53 UBI AVENUE 3",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "199408126N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9298349335574589-8144889087232257-Delsey%20-%20C%20750x540.jpg",
+			"websiteUrl": "https://www.etravelite.com/delsey-paris",
+			"descriptionHtml": "<p>Delsey's integrated design studio boldly combines tradition and innovation, elegance and modernity, design and practicality in each of its creations. It attracts travel enthusiasts from all over the world and has become the must-have luggage brand with true Parisian chic.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/555606601054677-17477599329041738-Delsey%20-%20A%201000x1000.jpg",
+			"createdAt": "2023-01-11T08:52:52.064Z",
+			"updatedAt": "2026-10-26T07:36:30.346Z",
+			"participatingOutlets": "                                                   ",
+			"promotional": "                                    ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95c3d10e34df66b4702"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9298349335574589-8144889087232257-Delsey%20-%20C%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/555606601054677-17477599329041738-Delsey%20-%20A%201000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9298349335574589-8144889087232257-Delsey%20-%20C%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9298349335574589-8144889087232257-Delsey%20-%20C%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9298349335574589-8144889087232257-Delsey%20-%20C%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/555606601054677-17477599329041738-Delsey%20-%20A%201000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/555606601054677-17477599329041738-Delsey%20-%20A%201000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/555606601054677-17477599329041738-Delsey%20-%20A%201000x1000_high.jpg"
+			},
+			"searchContent": "Delsey's integrated design studio boldly combines tradition and innovation, elegance and modernity, design and practicality in each of its creations. It attracts travel enthusiasts from all over the world and has become the must-have luggage brand with true Parisian chic. Luggage Travel Trolley Case Backpack Retail Suntec City Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Delsey Paris Ruhens Grohe Hansgrohe Mayer Simmons Sealy Retail Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-31T16:14:14.245Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "delsey-paris-e015c5b1",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "63c127824cfbd1161c727e79",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Delsey Paris",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

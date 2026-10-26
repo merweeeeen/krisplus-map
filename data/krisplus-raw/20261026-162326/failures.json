@@ -1,0 +1,40 @@
+{
+	"failures": [],
+	"notFound": [
+		{
+			"url": "https://www.krisplus.com/en/sg/partners/details/dbs-06d13c93",
+			"slug": "dbs-06d13c93",
+			"status": 404,
+			"error": "HTTP 404",
+			"at": "2026-10-26T16:35:37.724+08:00"
+		},
+		{
+			"url": "https://www.krisplus.com/en/sg/partners/details/uob-834514e6",
+			"slug": "uob-834514e6",
+			"status": 404,
+			"error": "HTTP 404",
+			"at": "2026-10-26T16:35:38.616+08:00"
+		},
+		{
+			"url": "https://www.krisplus.com/en/sg/partners/details/capitastar-a99ea149",
+			"slug": "capitastar-a99ea149",
+			"status": 404,
+			"error": "HTTP 404",
+			"at": "2026-10-26T16:35:39.740+08:00"
+		},
+		{
+			"url": "https://www.krisplus.com/en/sg/partners/details/pan-pacific-hotels-group-singapore-97258576",
+			"slug": "pan-pacific-hotels-group-singapore-97258576",
+			"status": 404,
+			"error": "HTTP 404",
+			"at": "2026-10-26T16:35:40.756+08:00"
+		},
+		{
+			"url": "https://www.krisplus.com/en/sg/partners/details/kfp-d2e2eb9c",
+			"slug": "kfp-d2e2eb9c",
+			"status": 404,
+			"error": "HTTP 404",
+			"at": "2026-10-26T16:35:41.614+08:00"
+		}
+	]
+}

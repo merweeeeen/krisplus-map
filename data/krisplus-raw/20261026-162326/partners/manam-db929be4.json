@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/manam-db929be4",
+	"slug": "manam-db929be4",
+	"fetchedAt": "2026-10-26T16:28:37.732+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65fe8c96849156006b92d168",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Indian",
+				"Indian Restaurant",
+				"Tandoor Chicken",
+				"Butter Chicken",
+				"Fish Curry"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65fe8ca0cd05475c77b724bc"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "MANAM RESTAURANT PTE LTD",
+			"brand": "MANAM",
+			"code": "MAM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "MANAM",
+			"address": {
+				"line1": "15 UPPER CIRCULAR ROAD #01-01 SINGAPORE 058416",
+				"postalCode": "058416",
+				"streetName": "15 UPPER CIRCULAR ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"PB",
+								"IND"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.manam.sg",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=MANAM\">Reserve A Table</a>.</p><p>‘MANAM’ represents emotions far beyond words. MANAM captures the sheer joy of food – from the faithful adherence of age-old home recipes to the careful curation of the freshest ingredients, from the pans of the finest chefs to plates of tantalising aromas that envelop the mind and soul. </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/20969594356641874-man1.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/15679867320808127-man2.jpg",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-03-23T08:02:30.747Z",
+			"updatedAt": "2026-08-06T14:18:00.786Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/15679867320808127-man2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/20969594356641874-man1.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/15679867320808127-man2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/15679867320808127-man2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/15679867320808127-man2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/20969594356641874-man1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/20969594356641874-man1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/20969594356641874-man1_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. ‘MANAM’ represents emotions far beyond words. MANAM captures the sheer joy of food – from the faithful adherence of age-old home recipes to the careful curation of the freshest ingredients, from the pans of the finest chefs to plates of tantalising aromas that envelop the mind and soul. Indian Indian Restaurant Tandoor Chicken Butter Chicken Fish Curry Dining Vegetarian-Friendly Fine Dining Pubs & Bars Indian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:09:46.224Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "manam-db929be4",
+			"outlets": [
+				{
+					"_id": "65fe8e79c89fa60070ed8786",
+					"name": "Clarke Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "MANAM",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

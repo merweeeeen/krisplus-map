@@ -1,0 +1,160 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/solvil-et-titus-b227949e",
+	"slug": "solvil-et-titus-b227949e",
+	"fetchedAt": "2026-10-26T16:29:22.754+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67470065bf80ee0062973b75",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Watch",
+				"Luxury Watch",
+				"Solvil Et Titus",
+				"Limited Edition",
+				"Watch Retailer Titus"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "City Chain Stores (S) Pte Ltd - SOLVIL ET TITUS",
+			"brand": "SOLVIL ET TITUS",
+			"code": "SOL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "SOLVIL ET TITU",
+			"address": {
+				"city": "Singapore",
+				"line1": "31 UBI ROAD 1 #02-08 MAIN BUILDING SINGAPORE 408694",
+				"streetName": "31 UBI ROAD 1",
+				"postalCode": "408694",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.solvil-et-titus.sg",
+			"descriptionHtml": "<p>Since 1887, Solvil et Titus has epitomized Swiss precision and timeless romance. The brand is celebrated for its innovative design and captivating storytelling, with watches that embody elegance and the essence of love. A symbol of style and sophistication, Solvil et Titus is cherished by those who treasure every moment.</p>  <p>Participating Outlets:</p>  <p>•    Jurong Point<br> •    Takashimaya</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/18796096204240187-5634874452163057-TT%20Logo%20260%20x%20260.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6575327572141245-6269569251690206-Couple_750%20x%20540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"createdAt": "2024-11-27T11:20:05.896Z",
+			"updatedAt": "2026-08-06T14:18:09.424Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6575327572141245-6269569251690206-Couple_750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6575327572141245-6269569251690206-Couple_750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6575327572141245-6269569251690206-Couple_750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18796096204240187-5634874452163057-TT%20Logo%20260%20x%20260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18796096204240187-5634874452163057-TT%20Logo%20260%20x%20260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18796096204240187-5634874452163057-TT%20Logo%20260%20x%20260_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6575327572141245-6269569251690206-Couple_750%20x%20540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18796096204240187-5634874452163057-TT%20Logo%20260%20x%20260.jpg",
+			"searchContent": "Since 1887, Solvil et Titus has epitomized Swiss precision and timeless romance. The brand is celebrated for its innovative design and captivating storytelling, with watches that embody elegance and the essence of love. A symbol of style and sophistication, Solvil et Titus is cherished by those who treasure every moment. Participating Outlets: • Jurong Point • Takashimaya Watch Luxury Watch Solvil Et Titus Limited Edition Watch Retailer Titus Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:52:59.243Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "solvil-et-titus-b227949e",
+			"outlets": [
+				{
+					"_id": "674702a7591b22006b9fe738",
+					"name": "Takashimaya Shopping Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Takashimaya Shopping Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SOLVIL ET TITUS",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

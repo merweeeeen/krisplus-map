@@ -1,0 +1,122 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/scoot-2f1bca60",
+	"slug": "scoot-2f1bca60",
+	"fetchedAt": "2026-10-26T16:34:01.337+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a72d7140611a467e176d0fd",
+			"name": "Scoot Pte Ltd",
+			"shortName": "Scoot",
+			"mccCode": "4789",
+			"mccDescription": "undefined",
+			"brand": "Scoot",
+			"code": "SCO",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8071500709342152-16841215827035416-Scoot%20Logo_260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5676569676549348-7137622825819576-Brand%20Image_750x540.png",
+			"websiteUrl": "https://www.flyscoot.com/",
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"address": {
+				"line1": "25 Airline Road, Airline House, Singapore 819829",
+				"postalCode": "819829",
+				"streetName": "25 Airline Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Scoot is the low-cost airline of the Singapore Airlines     Group, offering affordable flights on a modern fleet of over 60 aircraft to     more than 80 destinations across 18 countries and territories in the     Asia-Pacific, Middle East, and Europe.</p>",
+			"searchableKeywords": [
+				"Scoot",
+				"flight",
+				"voucher",
+				"ticket airline",
+				"redeem",
+				"redemption"
+			],
+			"burn": true,
+			"earn": false,
+			"convert": false,
+			"payByCard": false,
+			"payByAmexCard": false,
+			"supportedCards": [],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0,
+				"base": 0
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR3",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"OUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": "2026-10-05T15:59:59.999Z",
+			"applicableCities": [],
+			"refundPeriodUpdatedAt": "2026-08-05T06:24:20.990Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8071500709342152-16841215827035416-Scoot%20Logo_260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5676569676549348-7137622825819576-Brand%20Image_750x540.png",
+			"createdAt": "2026-08-05T06:24:20.996Z",
+			"updatedAt": "2026-08-06T14:18:34.179Z",
+			"searchContent": "Scoot is the low-cost airline of the Singapore Airlines Group, offering affordable flights on a modern fleet of over 60 aircraft to more than 80 destinations across 18 countries and territories in the Asia-Pacific, Middle East, and Europe. Scoot flight voucher ticket airline redeem redemption Activities Outdoor",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5676569676549348-7137622825819576-Brand%20Image_750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5676569676549348-7137622825819576-Brand%20Image_750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5676569676549348-7137622825819576-Brand%20Image_750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8071500709342152-16841215827035416-Scoot%20Logo_260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8071500709342152-16841215827035416-Scoot%20Logo_260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8071500709342152-16841215827035416-Scoot%20Logo_260x260_high.png"
+			},
+			"slugId": "scoot-2f1bca60",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": null,
+			"appleAndGooglePayNotice": null
+		}
+	},
+	"rendered": {
+		"heading": "Scoot",
+		"earnBadge": null,
+		"paymentOptions": [
+			"KrisPay Miles"
+		]
+	}
+}

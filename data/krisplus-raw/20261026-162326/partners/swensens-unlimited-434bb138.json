@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/swensens-unlimited-434bb138",
+	"slug": "swensens-unlimited-434bb138",
+	"fetchedAt": "2026-10-26T16:33:14.357+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69f9be00ca4b50c066ababd8",
+			"name": "ABR Holdings Limited (Swensen's Unlimited)",
+			"shortName": "Swensens Unlim",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Swensen's Unlimited",
+			"code": "SWU",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3505103838390664-07381403490905436-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SWU.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/852672153978812-9500212526638223-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SWU.jpg",
+			"websiteUrl": "https://unlimited.swensens.com.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "41 Tampines Street 92",
+				"postalCode": "528881",
+				"streetName": "ABR Building",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Swensen’s Unlimited offers an international buffet experience featuring iconic Swensen’s delights, a </span>kaleidoscope of 48 rotating ice cream flavors, and a diverse selection of cuisine — from hot dishes to live stations, seafood, and more. A feast for every palate!</p><p>Participating outlets:<br>- Changi Airport T2 (Public Area)<br>- Geneo<br>- VivoCity</p><p><br></p>",
+			"searchableKeywords": [
+				"Casual Dining",
+				"Buffet",
+				"Halal",
+				"Dessert",
+				"Waffles",
+				"Ice Cream",
+				"Asian Delight",
+				"Western"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.02,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"CHI",
+								"IND",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-05T09:53:04.289Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3505103838390664-07381403490905436-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SWU.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/852672153978812-9500212526638223-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SWU.jpg",
+			"createdAt": "2026-05-05T09:53:04.295Z",
+			"updatedAt": "2026-08-06T14:18:31.533Z",
+			"searchContent": "Swensen’s Unlimited offers an international buffet experience featuring iconic Swensen’s delights, a kaleidoscope of 48 rotating ice cream flavors, and a diverse selection of cuisine — from hot dishes to live stations, seafood, and more. A feast for every palate! Participating outlets: - Changi Airport T2 (Public Area) - Geneo - VivoCity Casual Dining Buffet Halal Dessert Waffles Ice Cream Asian Delight Western Dining Halal Vegetarian-Friendly Buffet Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Chinese Indian Asian Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/852672153978812-9500212526638223-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SWU_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/852672153978812-9500212526638223-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SWU_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/852672153978812-9500212526638223-20260130_SW_Kris%2B_Brand%20Image%20750%20x%20540_SWU_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3505103838390664-07381403490905436-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SWU_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3505103838390664-07381403490905436-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SWU_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3505103838390664-07381403490905436-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SWU_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "swensens-unlimited-434bb138",
+			"outlets": [
+				{
+					"_id": "69fa95c19a575363ed35ce91",
+					"name": "Airport T2 Public Area"
+				},
+				{
+					"_id": "69fa966f6e783129adbeeace",
+					"name": "Geneo"
+				},
+				{
+					"_id": "69fa96c862c9a80a4849add3",
+					"name": "VivoCity"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Airport T2 Public Area",
+			"Geneo",
+			"VivoCity"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Swensen's Unlimited",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

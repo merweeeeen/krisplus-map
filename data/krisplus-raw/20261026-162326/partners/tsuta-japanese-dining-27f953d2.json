@@ -1,0 +1,204 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tsuta-japanese-dining-27f953d2",
+	"slug": "tsuta-japanese-dining-27f953d2",
+	"fetchedAt": "2026-10-26T16:24:32.063+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5fa42212ac71bb2fe01dbd0b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Tsuta Singapore Pte Ltd",
+			"brand": "Tsuta Japanese Dining",
+			"code": "TJS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Tsuta",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "21 TAMPINES STREET 92, H C DESIGN CENTRE",
+				"postalCode": "528891",
+				"streetName": "TAMPINES STREET"
+			},
+			"regNumber": "201618937Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/40505320901167474-9027208746210915-Kris%2B%20Tsuta%20App%20Brand%20Image%20(750x540px).png",
+			"websiteUrl": "https://tsuta.com/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8469365339919386-Kris%2B%20Tsuta%20App%20Logo.png",
+			"createdAt": "2020-11-05T16:02:26.008Z",
+			"updatedAt": "2026-08-06T14:17:11.720Z",
+			"descriptionHtml": "<p>Tsuta is the World's First Michelin Ramen restaurant by Chef Yuki Onishi. Made with premium ingredients, the unique broth, oils and sauces come together to create a delicate, multi-layered umami flavor. </p>\n\n<p>Participating Outlets:</p><ul><li>313 Somerset</li><li>Jewel Changi Airport</li></ul>",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"saleOfMilesPct": 2.7,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 4,
+				"saleOfMiles": 0.027,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "•\tJewel Changi Airport\n•\tFunan Mall\n•\tVivoCity",
+			"promotional": " ",
+			"searchableKeywords": [
+				"Jewel Changi Airport",
+				"Airport Boulevard",
+				"Orchard Road",
+				"Japanese",
+				"Changi Airport",
+				"Bento",
+				"Sashimi",
+				"Ramen",
+				"Udon",
+				"Tempura",
+				"Noodles",
+				"Foodie",
+				"Trending",
+				"Sushi",
+				"Sake",
+				"Wine",
+				"Syochu",
+				"Highball",
+				"Izakaya",
+				"Miso",
+				"Michelin",
+				"Michelin Ramen",
+				"Couples",
+				"First Dates",
+				"Dining",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"CD",
+								"JAP",
+								"ASI"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d52f71c855d5496e5d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/40505320901167474-9027208746210915-Kris%2B%20Tsuta%20App%20Brand%20Image%20(750x540px).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8469365339919386-Kris%2B%20Tsuta%20App%20Logo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/40505320901167474-9027208746210915-Kris%2B%20Tsuta%20App%20Brand%20Image%20(750x540px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/40505320901167474-9027208746210915-Kris%2B%20Tsuta%20App%20Brand%20Image%20(750x540px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/40505320901167474-9027208746210915-Kris%2B%20Tsuta%20App%20Brand%20Image%20(750x540px)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8469365339919386-Kris%2B%20Tsuta%20App%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8469365339919386-Kris%2B%20Tsuta%20App%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8469365339919386-Kris%2B%20Tsuta%20App%20Logo_high.png"
+			},
+			"searchContent": "Tsuta is the World's First Michelin Ramen restaurant by Chef Yuki Onishi. Made with premium ingredients, the unique broth, oils and sauces come together to create a delicate, multi-layered umami flavor. Participating Outlets: 313 SomersetJewel Changi Airport Jewel Changi Airport Airport Boulevard Orchard Road Japanese Changi Airport Bento Sashimi Ramen Udon Tempura Noodles Foodie Trending Sushi Sake Wine Syochu Highball Izakaya Miso Michelin Michelin Ramen Couples First Dates Dining Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Casual Dining Japanese Asian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tsuta-japanese-dining-27f953d2",
+			"outlets": [
+				{
+					"_id": "60c3459b92b34c3664268d0e",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "683fed7f0bc6a90409c9a115",
+					"name": "Jewel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset",
+			"Jewel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tsuta Japanese Dining",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

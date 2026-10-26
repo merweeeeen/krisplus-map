@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/plume-pan-pacific-singapore-eec69787",
+	"slug": "plume-pan-pacific-singapore-eec69787",
+	"fetchedAt": "2026-10-26T16:28:42.719+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66261bec9c327a006a5b7182",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"saleOfMiles": 0.046,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Cocktails",
+				"Bar",
+				"Pan Pacific Singapore",
+				"Hotel",
+				"Destination Bar",
+				"Bars Around Marina Bay",
+				"Best Bar In Singapore"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"66261bf96e7b4a267322d044"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "The Pan Pacific Hotel Singapore",
+			"brand": "PLUME (Pan Pacific Singapore)",
+			"code": "PPP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "PLUME",
+			"address": {
+				"city": "Singapore",
+				"line1": "7 Raffles Boulevard Singapore 039595",
+				"streetName": "7 Raffles Boulevard",
+				"postalCode": "039595",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pp-marina/dining/plume.html",
+			"descriptionHtml": "<p>PLUME is a destination bar poised to enchant the most discerning of connoisseurs.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9153105547800493-p1.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9629650463093182-p2.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-04-22T08:12:28.025Z",
+			"updatedAt": "2026-08-06T14:18:01.917Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9629650463093182-p2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9153105547800493-p1.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9629650463093182-p2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9629650463093182-p2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9629650463093182-p2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9153105547800493-p1_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9153105547800493-p1_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9153105547800493-p1_high.png"
+			},
+			"searchContent": "PLUME is a destination bar poised to enchant the most discerning of connoisseurs. Cocktails Bar Pan Pacific Singapore Hotel Destination Bar Bars Around Marina Bay Best Bar In Singapore Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:23:26.236Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "plume-pan-pacific-singapore-eec69787",
+			"outlets": [
+				{
+					"_id": "662629b59c327a006a5b89a2",
+					"name": "Pan Pacific Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pan Pacific Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "PLUME (Pan Pacific Singapore)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

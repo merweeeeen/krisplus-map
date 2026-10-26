@@ -1,0 +1,363 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cedele-c29df4a7",
+	"slug": "cedele-c29df4a7",
+	"fetchedAt": "2026-10-26T16:23:29.922+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5b287e3938755b250860002c",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Kaki Bukit Road 1 #02-41 ",
+				"postalCode": "415934",
+				"streetName": "Kaki Bukit Road"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "Cedele",
+			"brand": "Cedele",
+			"code": "CED",
+			"countryIncorporation": "Singapore",
+			"description": "Cedele specializes in artisanal baked goods handcrafted without artificial additives.\n\nParticipating Outlets:\n•\tChangi City Point\n•\tChevron House\n•\tCity Square Mall\n•\tFrankel Avenue\n•\tFrasers Tower\n•\tGreat World City\n•\tGreenwich V\n•\tHillV2\n•\tMapletree Business City\n•\tMarina Bay Financial Centre\n•\tMarina Bay Sands\n•\tNovena Square\n•\tOne Raffles Quay\n•\tParkway Parade\n•\tRaffles City (B1)\n•\tRaffles City (L3)\n•\tRaffles Exchange\n•\tRepublic Plaza\n•\tRobinson Road\n•\tSuntec City\n•\tTanglin Mall\n•\tTanjong Pagar Centre\n•\tThe Metropolis\n•\tThe Star Vista\n•\tUnited Square\n•\tVivoCity\n•\tWaterway Point\n•\tWheelock Place",
+			"categary": "Food and Beverage",
+			"regNumber": "199702636M",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2055921737907498-Cedele%20Logo%20(Kris).jpg",
+			"createdAt": "2018-06-19T03:53:29.060Z",
+			"updatedAt": "2026-09-30T16:00:01.454Z",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.2,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"saleOfMiles": 0.027,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"promotional": "Find out more: http://www.cedelegroup.com/",
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7015507542670087-750x540%20Cedele%20Banner.jpg",
+			"participatingOutlets": "City Square Mall \nCompass One\nFrankel Avenue\nGreat World City\nGreenwich V\nGuoco Tower\nHill V2\nJelita\nMapletree Business City \nMarina Bay Financial Centre\nMarina Bay Sands \nVelocity@Novena Square\nOne Raffles Quay\nParagon \nParkway Parade \nRaffles City  \nRepublic Plaza\nTanglin Mall \nThe Metropolis \nThe Star Vista\nVivoCity \nWaterway Point\nWheelock Place ",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.cedele.com",
+			"hideFromCustomer": false,
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Cedele",
+			"descriptionHtml": "<p>Cedele is a homegrown brand associated with thoughtful clean bakes and food which are free from trans-fat and artificial additives.</p><p>Participating outlets:</p>  <ul> \t<li>Asia Square </li><li>CIMB Plaza</li><li>City Square Mall</li> \t \t<li>Compass One</li> \t<li>Frankel Avenue</li><li>Greenwich V</li> \t<li>Guoco Tower</li><li>Hill V2</li><li>IMM</li> \t<li>Mapletree Business City</li> \t<li>Marina Bay Financial Centre</li><li>Novena Square</li> \t \t \t<li>Paragon</li><li>Parkway Parade</li><li>Paya Lebar Quarter</li><li>Raffles City </li> \t<li>Tanglin Mall</li> \t<li>The Metropolis</li><li>The Star Vista</li><li>The Woodleigh Mall</li> \t<li>Vivocity​​​​​​​</li><li>Waterway Point</li> </ul>",
+			"searchableKeywords": [
+				"Novena",
+				"Thomson Road",
+				"Marine Parade Road",
+				"Upper Bukit Timah",
+				"Hillview",
+				"City Hall",
+				"Raffles Boulevard",
+				"Punggol",
+				"North Buona Vista",
+				"South Buona Vista",
+				"Tiong Bahru",
+				"Zion Road",
+				"Kim Seng",
+				"Siglap",
+				"Harbourfront",
+				"Telok Blangah",
+				"Seletar",
+				"Central",
+				"Orchard",
+				"Raffles Place",
+				"Shenton Way",
+				"Marina Bay",
+				"Marina Boulevard",
+				"Tanjong Pagar",
+				"Cecil Street",
+				"Alexandra Road",
+				"Buona Vista Drive",
+				"Western",
+				"Dessert",
+				"Cafe",
+				"Biopolis",
+				"Food",
+				"Foodie",
+				"Artisan",
+				"Bakery",
+				"Bread",
+				"Sourdough",
+				"Cakes",
+				"Baguette",
+				"Sandwiches",
+				"Salads",
+				"Kombucha",
+				"Tea",
+				"Coffee",
+				"Health",
+				"Wellness",
+				"City Square Mall",
+				"Guoco Tower",
+				"Great World City",
+				"Greenwich Village",
+				"Hillv2",
+				"Star Vista",
+				"Dining",
+				"Velocity",
+				"Raffles City",
+				"Jelita",
+				"Cimb Plaza",
+				"Paya Lebar Quarter",
+				"Plq Mall",
+				"Wheelock Place",
+				"Waterway Point",
+				"Metropolis",
+				"Tanglin Mall",
+				"Parkway Parade",
+				"Raffles Quay",
+				"One North",
+				"Café",
+				"Atlas Coffee House",
+				"Ps Café",
+				"Forty Hands",
+				"Kki Sweets",
+				"Ronin Café",
+				"Strangers’ Reunion",
+				"Symmetry Café",
+				"Oriole Café",
+				"Maison Ikkoku",
+				"Pastries",
+				"Bistro",
+				"Braserrie",
+				"Espresso Bar",
+				"Teahouse",
+				"Coffee Shop",
+				"Mooncake"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9483d10e34df66b46fa"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 23
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7015507542670087-750x540%20Cedele%20Banner.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2055921737907498-Cedele%20Logo%20(Kris).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7015507542670087-750x540%20Cedele%20Banner_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7015507542670087-750x540%20Cedele%20Banner_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7015507542670087-750x540%20Cedele%20Banner_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2055921737907498-Cedele%20Logo%20(Kris)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2055921737907498-Cedele%20Logo%20(Kris)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2055921737907498-Cedele%20Logo%20(Kris)_high.jpg"
+			},
+			"searchContent": "Cedele is a homegrown brand associated with thoughtful clean bakes and food which are free from trans-fat and artificial additives. Participating outlets: Asia Square CIMB PlazaCity Square Mall Compass One Frankel AvenueGreenwich V Guoco TowerHill V2IMM Mapletree Business City Marina Bay Financial CentreNovena Square ParagonParkway ParadePaya Lebar QuarterRaffles City Tanglin Mall The MetropolisThe Star VistaThe Woodleigh Mall Vivocity​​​​​​​Waterway Point Novena Thomson Road Marine Parade Road Upper Bukit Timah Hillview City Hall Raffles Boulevard Punggol North Buona Vista South Buona Vista Tiong Bahru Zion Road Kim Seng Siglap Harbourfront Telok Blangah Seletar Central Orchard Raffles Place Shenton Way Marina Bay Marina Boulevard Tanjong Pagar Cecil Street Alexandra Road Buona Vista Drive Western Dessert Cafe Biopolis Food Foodie Artisan Bakery Bread Sourdough Cakes Baguette Sandwiches Salads Kombucha Tea Coffee Health Wellness City Square Mall Guoco Tower Great World City Greenwich Village Hillv2 Star Vista Dining Velocity Raffles City Jelita Cimb Plaza Paya Lebar Quarter Plq Mall Wheelock Place Waterway Point Metropolis Tanglin Mall Parkway Parade Raffles Quay One North Café Atlas Coffee House Ps Café Forty Hands Kki Sweets Ronin Café Strangers’ Reunion Symmetry Café Oriole Café Maison Ikkoku Pastries Bistro Braserrie Espresso Bar Teahouse Coffee Shop Mooncake Dining Cafe",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-15T01:19:44.573Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cedele-c29df4a7",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5b28801138755b250860003a",
+					"name": "Marina Bay Financial Centre"
+				},
+				{
+					"_id": "5b28921638755b250860006a",
+					"name": "Guoco Tower"
+				},
+				{
+					"_id": "5b28931638755b2508600084",
+					"name": "MapleTree Business City"
+				},
+				{
+					"_id": "5b28937e38755b2508600090",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "5b5ace46d36a5b12fc80e9d8",
+					"name": "Greenwich Village"
+				},
+				{
+					"_id": "5b5aceb05efc310f68fa92c3",
+					"name": "HillV2"
+				},
+				{
+					"_id": "5b5acf055efc310f68fa92c5",
+					"name": "Waterway Point"
+				},
+				{
+					"_id": "5b5acf4ac01db113f438bfca",
+					"name": "The Star Vista"
+				},
+				{
+					"_id": "5b5acf8b34abf8093c2f5b3e",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "5b5ad114d36a5b12fc80e9dd",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "5b5ad19734abf8093c2f5b40",
+					"name": "115 Frankel Avenue"
+				},
+				{
+					"_id": "5bc9a9d87639122f38e7c98e",
+					"name": "The Metropolis Tower 1"
+				},
+				{
+					"_id": "5efeced703a1d21408ac8edb",
+					"name": "VivoCity "
+				},
+				{
+					"_id": "5f8ff2ba5a964976088d0ac5",
+					"name": "Paragon"
+				},
+				{
+					"_id": "6358df726375530a8cccaa29",
+					"name": "Tanglin Mall "
+				},
+				{
+					"_id": "6358e0307b9a631510bd5b47",
+					"name": "Compass One"
+				},
+				{
+					"_id": "63b64fb4805dc906a0bc697d",
+					"name": "CIMB Plaza"
+				},
+				{
+					"_id": "63b65033fa2ed82a6027563e",
+					"name": "Paya Lebar Quarter"
+				},
+				{
+					"_id": "64634af02a825300506e6a8f",
+					"name": "The Woodleigh Mall"
+				},
+				{
+					"_id": "68637fe402a160040d22a34f",
+					"name": "IMM"
+				},
+				{
+					"_id": "69a4f944ab71fb0d5661dbbe",
+					"name": "Velocity @ Novena Square"
+				},
+				{
+					"_id": "6a2b8602d379402592aec911",
+					"name": "Asia Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Bay Financial Centre",
+			"Guoco Tower",
+			"MapleTree Business City",
+			"Raffles City Shopping Centre",
+			"Greenwich Village",
+			"HillV2",
+			"Waterway Point",
+			"The Star Vista",
+			"Parkway Parade",
+			"City Square Mall",
+			"115 Frankel Avenue",
+			"The Metropolis Tower 1",
+			"VivoCity ",
+			"Paragon",
+			"Tanglin Mall ",
+			"Compass One",
+			"CIMB Plaza",
+			"Paya Lebar Quarter",
+			"The Woodleigh Mall",
+			"IMM",
+			"Velocity @ Novena Square",
+			"Asia Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cedele",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

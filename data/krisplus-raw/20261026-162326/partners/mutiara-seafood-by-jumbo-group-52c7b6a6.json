@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mutiara-seafood-by-jumbo-group-52c7b6a6",
+	"slug": "mutiara-seafood-by-jumbo-group-52c7b6a6",
+	"fetchedAt": "2026-10-26T16:29:44.769+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67ac0a0b76d1e4006bebf689",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Mutiara Seafood",
+				"Halal",
+				"Seafood",
+				"Dining",
+				"Casual Dining",
+				"Private Dining",
+				"Fine Dining",
+				"Chinese",
+				"Asian",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "JCC Food Concepts Pte Ltd",
+			"brand": "Mutiara Seafood by JUMBO Group",
+			"code": "MUT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Mutiara",
+			"address": {
+				"line1": "4 Kaki Bukit Avenue 1, #03-08, Singapore 417939",
+				"postalCode": "417939",
+				"streetName": "4 Kaki Bukit Avenue 1",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"ASI",
+								"CHI",
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.mutiaraseafood.com/",
+			"descriptionHtml": "<p><span style=\"font-size:11.0pt\"><span style=\"font-family:\"Calibri\",sans-serif\">JUMBO Group's First Halal Restaurant. Discover authentic Singaporean cuisine, including the beloved Chilli Crab, at Mutiara Seafood through its exquisite menu showcasing an array of delectable dishes, guaranteeing a truly unforgettable dining experience. </span></span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3576476337809016-MutiaraSeafood.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/007543138518376402-2024_Mutiara_Kris%2B_BrandImage_App_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3576476337809016-MutiaraSeafood.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/007543138518376402-2024_Mutiara_Kris%2B_BrandImage_App_750x540.jpg",
+			"createdAt": "2025-02-12T02:40:11.666Z",
+			"updatedAt": "2026-08-06T14:18:12.124Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/007543138518376402-2024_Mutiara_Kris%2B_BrandImage_App_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/007543138518376402-2024_Mutiara_Kris%2B_BrandImage_App_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/007543138518376402-2024_Mutiara_Kris%2B_BrandImage_App_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3576476337809016-MutiaraSeafood_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3576476337809016-MutiaraSeafood_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3576476337809016-MutiaraSeafood_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-17T03:50:30.721Z",
+			"searchContent": "JUMBO Group's First Halal Restaurant. Discover authentic Singaporean cuisine, including the beloved Chilli Crab, at Mutiara Seafood through its exquisite menu showcasing an array of delectable dishes, guaranteeing a truly unforgettable dining experience. Mutiara Seafood Halal Seafood Dining Casual Dining Private Dining Fine Dining Chinese Asian FortuneFeast Dining Halal Asian Chinese Casual Dining",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mutiara-seafood-by-jumbo-group-52c7b6a6",
+			"outlets": [
+				{
+					"_id": "6923d24eb27a93105d3bc09e",
+					"name": "Wisma Geylang Serai"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Wisma Geylang Serai"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mutiara Seafood by JUMBO Group",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

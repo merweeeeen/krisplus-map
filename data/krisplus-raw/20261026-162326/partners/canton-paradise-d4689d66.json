@@ -1,0 +1,249 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/canton-paradise-d4689d66",
+	"slug": "canton-paradise-d4689d66",
+	"fetchedAt": "2026-10-26T16:26:46.607+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7b215dede8b43dc1bbd93",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Congee",
+				"Noodle",
+				"Cantonese Fare",
+				"Roast Meat",
+				"Hong Kong Style",
+				"Dining",
+				"Changi Airport T3",
+				"Westgate",
+				"Jurong East",
+				"Alexandra Retail Centre",
+				"Bedok Mall",
+				"Jem",
+				"Junction 8",
+				"Bishan",
+				"Marina Bay Sands",
+				"Plaza Singapura",
+				"Dhoby Ghaut",
+				"Nex",
+				"Serangoon",
+				"The Star Vista",
+				"Buona Vista",
+				"Parkway Parade",
+				"Reunion",
+				"Mooncake",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Canton Paradise",
+			"brand": "Canton Paradise",
+			"code": "CAN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "CantonParadise",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201010317N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3539520137382812-Canton%20Dim%20Sum.jpg",
+			"websiteUrl": "https://www.paradisegp.com/brand-canton-paradise/",
+			"descriptionHtml": "<div>Canton Paradise spells oriental chic with vibrant and chirpy interiors akin to the bustling activity present in Cantonese eateries. Relish the finest Cantonese fare amidst a truly inimitable setting.</div>\n\n<div> <br></div>\n\n<div>Participating Outlets:</div>\n\n<p>- Alexandra Retail Centre <br>\n- Bedok Mall<br>\n- Compass One<br>- City Square Mall <br>- ION Orchard\n<br>- JEM<br>- Marina Bay Sands<br>\n- Parkway Parade<br>- Plaza Singapura<br>\n- NEX <br>\n- Star Vista<br>- Vivo City</p>",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "                ",
+			"participatingOutlets": "•\tAlexandra Retail Centre \n•\tBedok Mall\n•\tCompass One\n•\tJEM\n•\tMarina Bay Sands\n•\tPlaza Singapura\n•\tNEX \n•\tStar Vista",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/14106161093885383-5663791135263772-Canton%20Paradise%20Logo%20(1000x1000px).jpg",
+			"createdAt": "2022-08-13T14:15:49.596Z",
+			"updatedAt": "2026-09-30T16:00:01.337Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef971b35256c5b2c9bed8"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 12
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3539520137382812-Canton%20Dim%20Sum.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14106161093885383-5663791135263772-Canton%20Paradise%20Logo%20(1000x1000px).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3539520137382812-Canton%20Dim%20Sum_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3539520137382812-Canton%20Dim%20Sum_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3539520137382812-Canton%20Dim%20Sum_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14106161093885383-5663791135263772-Canton%20Paradise%20Logo%20(1000x1000px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14106161093885383-5663791135263772-Canton%20Paradise%20Logo%20(1000x1000px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14106161093885383-5663791135263772-Canton%20Paradise%20Logo%20(1000x1000px)_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-06T09:32:51.125Z",
+			"searchContent": "Canton Paradise spells oriental chic with vibrant and chirpy interiors akin to the bustling activity present in Cantonese eateries. Relish the finest Cantonese fare amidst a truly inimitable setting. Participating Outlets: - Alexandra Retail Centre - Bedok Mall - Compass One - City Square Mall - ION Orchard - JEM - Marina Bay Sands - Parkway Parade - Plaza Singapura - NEX - Star Vista - Vivo City Congee Noodle Cantonese Fare Roast Meat Hong Kong Style Dining Changi Airport T3 Westgate Jurong East Alexandra Retail Centre Bedok Mall Jem Junction 8 Bishan Marina Bay Sands Plaza Singapura Dhoby Ghaut Nex Serangoon The Star Vista Buona Vista Parkway Parade Reunion Mooncake paradise Dining Casual Dining Chinese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "canton-paradise-d4689d66",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "62f919062fd51d0548ce0033",
+					"name": "Alexandra Retail Centre"
+				},
+				{
+					"_id": "62f919342fd51d0548ce0037",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "62f919652fd51d0548ce003b",
+					"name": "Compass One"
+				},
+				{
+					"_id": "62f9199a2fd51d0548ce003f",
+					"name": "JEM"
+				},
+				{
+					"_id": "62f919d62fd51d0548ce0041",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "62f91a042fd51d0548ce0045",
+					"name": "The Star Vista"
+				},
+				{
+					"_id": "62f91a562fd51d0548ce0047",
+					"name": "Marina Bay Sands"
+				},
+				{
+					"_id": "62f91a862fd51d0548ce004b",
+					"name": "NEX"
+				},
+				{
+					"_id": "64b6de53928b2a00551271cc",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "689bfff8e74a0c0466b4e6f6",
+					"name": "Vivo City"
+				},
+				{
+					"_id": "68ad24c3432aad04648f01a8",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "690c6aead660e4624937089e",
+					"name": "City Square Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Alexandra Retail Centre",
+			"Bedok Mall",
+			"Compass One",
+			"JEM",
+			"Plaza Singapura",
+			"The Star Vista",
+			"Marina Bay Sands",
+			"NEX",
+			"Parkway Parade",
+			"Vivo City",
+			"ION Orchard",
+			"City Square Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Canton Paradise",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

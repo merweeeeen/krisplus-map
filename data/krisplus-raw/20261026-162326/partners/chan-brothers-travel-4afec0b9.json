@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/chan-brothers-travel-4afec0b9",
+	"slug": "chan-brothers-travel-4afec0b9",
+	"fetchedAt": "2026-10-26T16:28:09.671+08:00",
+	"payload": {
+		"partner": {
+			"_id": "653a17fcd5b1f4005910ace7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chan Brothers",
+				"Chan Brothers Travel",
+				"Package Tours",
+				"Tours",
+				"Tour Packages",
+				"Travel Packages",
+				"Travel Deals",
+				"Travel Offers",
+				"Travel Tou",
+				"R Travel Promotion",
+				"Tour Promotion",
+				"Travel Fair",
+				"Travel Agency",
+				"Tour Operator",
+				"Tour",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"653a18044f365e7e541e321d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Chan Brothers Travel (Pte) Ltd",
+			"brand": "Chan Brothers Travel",
+			"code": "BRO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "Chan Brothers",
+			"address": {
+				"line1": "150 South Bridge Road, Fook Hai Building #07-01, Singapore 058727",
+				"postalCode": "058727",
+				"streetName": "150 South Bridge Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"regNumber": "196700287Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/502024775557836-Holidays_750x540.jpg",
+			"websiteUrl": "https://www.chanbrothers.com",
+			"descriptionHtml": "<p>As Singapore's leading travel agency and tour operator, Chan Brothers Travel offers an unparalleled array of destinations from well-trodden favourites to offbeat gems. Its dedication to exploration extends beyond discovering new locales; it consistently enhances and enriches existing itineraries, creating immersive unique experiences that redefine travel.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6849451745266824-Holidays_250x250_logo.jpg",
+			"createdAt": "2023-10-26T07:40:44.183Z",
+			"updatedAt": "2026-10-15T07:40:44.102Z",
+			"privilege": false,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/502024775557836-Holidays_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6849451745266824-Holidays_250x250_logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/502024775557836-Holidays_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/502024775557836-Holidays_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/502024775557836-Holidays_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6849451745266824-Holidays_250x250_logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6849451745266824-Holidays_250x250_logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6849451745266824-Holidays_250x250_logo_high.jpg"
+			},
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-03-18T03:25:47.616Z",
+			"searchContent": "As Singapore's leading travel agency and tour operator, Chan Brothers Travel offers an unparalleled array of destinations from well-trodden favourites to offbeat gems. Its dedication to exploration extends beyond discovering new locales; it consistently enhances and enriches existing itineraries, creating immersive unique experiences that redefine travel. Chan Brothers Chan Brothers Travel Package Tours Tours Tour Packages Travel Packages Travel Deals Travel Offers Travel Tou R Travel Promotion Tour Promotion Travel Fair Travel Agency Tour Operator Tour Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Services",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "chan-brothers-travel-4afec0b9",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "653a19dd53079700599ba9bd",
+					"name": "Fook Hai Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fook Hai Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Chan Brothers Travel",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

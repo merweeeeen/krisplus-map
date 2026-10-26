@@ -1,0 +1,197 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jiang-nan-chun-four-seasons-hotel-singapore-80e6d023",
+	"slug": "jiang-nan-chun-four-seasons-hotel-singapore-80e6d023",
+	"fetchedAt": "2026-10-26T16:25:56.247+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6209bed7818f940338c47125",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Four Seasons",
+				"Orchard",
+				"Hotel",
+				"Chinese",
+				"Cantonese",
+				"Jiang Nan",
+				"Business",
+				"Dining",
+				"Reunion",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Jiang-Nan Chun",
+			"brand": "Jiang-Nan Chun - Four Seasons Hotel Singapore",
+			"code": "JNC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Jiang Nan Chun",
+			"address": {
+				"city": "Singapore",
+				"line1": "Orchard Boulevard ",
+				"streetName": "190 Orchard Boulevard",
+				"postalCode": "248646",
+				"cityCode": "SIN"
+			},
+			"regNumber": "47940800M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/15852206834103155-Jiang-Nan%20Chun%20-%20App%20privilege%20image%20750x540.jpg",
+			"websiteUrl": "https://www.fourseasons.com/singapore/dining/restaurants/jiang_nan_chun/",
+			"descriptionHtml": "<p>Embodying the concept of “Xiang Le Zhu Yi”, or the principle of enjoyment and happiness, this award-winning restaurant is not only evocative of the pastoral lifestyle of the Jiang-Nan region’s traditional river villages through its rustic décor, but also through its authentic Cantonese cuisine.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "Culinary artistry takes centre stage for epicurean pleasures designed to delight",
+			"participatingOutlets": "Four Seasons Hotel Singapore",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4733248633554332-Jiang-Nan%20Chun%20-%20App%20brand%20logo.jpg",
+			"createdAt": "2022-02-14T02:30:47.964Z",
+			"updatedAt": "2026-08-06T14:17:26.236Z",
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef98ffd404ac7a5ba302c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/15852206834103155-Jiang-Nan%20Chun%20-%20App%20privilege%20image%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4733248633554332-Jiang-Nan%20Chun%20-%20App%20brand%20logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/15852206834103155-Jiang-Nan%20Chun%20-%20App%20privilege%20image%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/15852206834103155-Jiang-Nan%20Chun%20-%20App%20privilege%20image%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/15852206834103155-Jiang-Nan%20Chun%20-%20App%20privilege%20image%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4733248633554332-Jiang-Nan%20Chun%20-%20App%20brand%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4733248633554332-Jiang-Nan%20Chun%20-%20App%20brand%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4733248633554332-Jiang-Nan%20Chun%20-%20App%20brand%20logo_high.jpg"
+			},
+			"searchContent": "Embodying the concept of “Xiang Le Zhu Yi”, or the principle of enjoyment and happiness, this award-winning restaurant is not only evocative of the pastoral lifestyle of the Jiang-Nan region’s traditional river villages through its rustic décor, but also through its authentic Cantonese cuisine. Four Seasons Orchard Hotel Chinese Cantonese Jiang Nan Business Dining Reunion Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations FortuneFeast Dining Chinese Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:43:34.833Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jiang-nan-chun-four-seasons-hotel-singapore-80e6d023",
+			"outlets": [
+				{
+					"_id": "620e3538a0fb2244a48dae95",
+					"name": "Four Seasons Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Four Seasons Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Jiang-Nan Chun - Four Seasons Hotel Singapore",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

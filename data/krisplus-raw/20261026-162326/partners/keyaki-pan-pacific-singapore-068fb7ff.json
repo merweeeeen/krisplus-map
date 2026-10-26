@@ -1,0 +1,211 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/keyaki-pan-pacific-singapore-068fb7ff",
+	"slug": "keyaki-pan-pacific-singapore-068fb7ff",
+	"fetchedAt": "2026-10-26T16:25:03.211+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60827298b389d63404563176",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Keyaki",
+			"brand": "Keyaki (Pan Pacific Singapore)",
+			"code": "KEY",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Keyaki",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "7 Raffles Boulevard,, Pan Pacific Singapore",
+				"postalCode": "039595",
+				"streetName": "Raffles Boulevard"
+			},
+			"regNumber": "28631800L",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/27843503060653063-970254107236918-Brand%20Image%20(750%20x%20540px).jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pp-marina/dining/keyaki.html",
+			"descriptionHtml": "<p>Surrounded by a beautiful Japanese garden, Keyaki provides an authentic setting for exquisite Japanese cuisine. Discover freshly sourced and authentically prepared sashimi, teppanyaki, sukiyaki and more.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2701009833954746-792956800592687-Brand%20Logo%20(1000%20x%201000px).png",
+			"createdAt": "2021-04-23T07:09:12.773Z",
+			"updatedAt": "2026-10-15T12:22:17.125Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 18.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "      ",
+			"searchableKeywords": [
+				"Promenade",
+				"Japanese",
+				"Top Restaurants",
+				"Best Restaurants",
+				"Omakase",
+				"Award Winning",
+				"Smart Casual",
+				"Cocktail",
+				"Canape",
+				"Sushi",
+				"Sashimi",
+				"Teppanyaki",
+				"Couples",
+				"First Dates",
+				"Pan Pacific",
+				"Valentines Day",
+				"Dining",
+				"Fine Dining",
+				"Equinox",
+				"Iggy’S",
+				"Saint Pierre",
+				"Odette",
+				"Burnt Ends",
+				"Waku Ghin",
+				"Meta Restaurant",
+				"Raffles Grill",
+				"Tippling Club",
+				"Restaurant Andre",
+				"Gourmet Dining",
+				"Upscale",
+				"High End",
+				"Kuxury",
+				"Michelin",
+				"Haute Cuisine",
+				"White Tablecloth",
+				"Celebrations",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"promotional": "     ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP",
+								"FD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c0a3718718842dd966"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/27843503060653063-970254107236918-Brand%20Image%20(750%20x%20540px).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2701009833954746-792956800592687-Brand%20Logo%20(1000%20x%201000px).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/27843503060653063-970254107236918-Brand%20Image%20(750%20x%20540px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/27843503060653063-970254107236918-Brand%20Image%20(750%20x%20540px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/27843503060653063-970254107236918-Brand%20Image%20(750%20x%20540px)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2701009833954746-792956800592687-Brand%20Logo%20(1000%20x%201000px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2701009833954746-792956800592687-Brand%20Logo%20(1000%20x%201000px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2701009833954746-792956800592687-Brand%20Logo%20(1000%20x%201000px)_high.png"
+			},
+			"searchContent": "Surrounded by a beautiful Japanese garden, Keyaki provides an authentic setting for exquisite Japanese cuisine. Discover freshly sourced and authentically prepared sashimi, teppanyaki, sukiyaki and more. Promenade Japanese Top Restaurants Best Restaurants Omakase Award Winning Smart Casual Cocktail Canape Sushi Sashimi Teppanyaki Couples First Dates Pan Pacific Valentines Day Dining Fine Dining Equinox Iggy’S Saint Pierre Odette Burnt Ends Waku Ghin Meta Restaurant Raffles Grill Tippling Club Restaurant Andre Gourmet Dining Upscale High End Kuxury Michelin Haute Cuisine White Tablecloth Celebrations Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Japanese Fine Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:22:11.403Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "keyaki-pan-pacific-singapore-068fb7ff",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6093924c48f83e10fcacc626",
+					"name": "Pan Pacific Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pan Pacific Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Keyaki (Pan Pacific Singapore)",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

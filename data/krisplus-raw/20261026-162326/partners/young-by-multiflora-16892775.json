@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/young-by-multiflora-16892775",
+	"slug": "young-by-multiflora-16892775",
+	"fetchedAt": "2026-10-26T16:29:38.790+08:00",
+	"payload": {
+		"partner": {
+			"_id": "677b328740f7e9006dddc966",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Wellness",
+				"Beauty",
+				"Treatment",
+				"Spa"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "YOUNG (YANG) TCM WELLNESS PTE LTD",
+			"brand": "YOUNG By Multiflora",
+			"code": "YYT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "YOUNG By Multi",
+			"address": {
+				"city": "Singapore",
+				"line1": "360 Orchard Road, International Building #05-08/09, Singapore 238869",
+				"streetName": "360 Orchard Road",
+				"postalCode": "238869",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.multifloranoibara.com/",
+			"descriptionHtml": "<p>Founded in 2002, Multiflora TCM Spa aims to bring health, wellness, and beauty to everyone. As TCM gained recognition in the West, they embraced the blend of Eastern holistic remedies with advanced Western beauty technologies. Their therapies promote self-healing by integrating Western science with Eastern philosophy in a natural, holistic way.</p>\n\n<p>Participating outlets:</p>\n\n<p>•    International Building<br />\n•    United Square</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/06495248904898276-6481172353059037-A.Brand%20Logo%20-%20App%20(002).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/560987789029193-17793269766983832-C.Brand%20Image%20-%20App.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"createdAt": "2025-01-06T01:31:51.552Z",
+			"updatedAt": "2026-08-12T04:17:30.092Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/560987789029193-17793269766983832-C_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/560987789029193-17793269766983832-C_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/560987789029193-17793269766983832-C_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/06495248904898276-6481172353059037-A_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/06495248904898276-6481172353059037-A_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/06495248904898276-6481172353059037-A_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/560987789029193-17793269766983832-C.Brand%20Image%20-%20App.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/06495248904898276-6481172353059037-A.Brand%20Logo%20-%20App%20(002).jpg",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:25:33.095Z",
+			"searchContent": "Founded in 2002, Multiflora TCM Spa aims to bring health, wellness, and beauty to everyone. As TCM gained recognition in the West, they embraced the blend of Eastern holistic remedies with advanced Western beauty technologies. Their therapies promote self-healing by integrating Western science with Eastern philosophy in a natural, holistic way. Participating outlets: • International Building • United Square Wellness Beauty Treatment Spa Wellness Beauty Treatment & Spa",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "young-by-multiflora-16892775",
+			"outlets": [
+				{
+					"_id": "677b396e0fab5f41100f0f7b",
+					"name": "International Building"
+				},
+				{
+					"_id": "677b39da411261493c274dcd",
+					"name": "United Square"
+				},
+				{
+					"_id": "6a7bf3d238728549a7b280d4",
+					"name": "AMK Hub"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"International Building",
+			"United Square",
+			"AMK Hub"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "YOUNG By Multiflora",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

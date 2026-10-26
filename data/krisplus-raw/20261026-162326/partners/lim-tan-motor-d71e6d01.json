@@ -1,0 +1,188 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lim-tan-motor-d71e6d01",
+	"slug": "lim-tan-motor-d71e6d01",
+	"fetchedAt": "2026-10-26T16:32:03.299+08:00",
+	"payload": {
+		"partner": {
+			"_id": "692e9bd07593b201f189e510",
+			"name": "LIM TAN MOTOR PTE LTD",
+			"shortName": "LIM TAN MOTOR",
+			"mccCode": "7538",
+			"mccDescription": "Automotive Service Shops (Non-dealer)",
+			"brand": "LIM TAN MOTOR",
+			"code": "LTM",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/915236439523077-LIMTANMOTOR.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/07878461862361852-6570816639960566-WhatsApp%20Image%202025-10-30%20at%205.19.08%20PM.jpg",
+			"websiteUrl": "https://ltm.sg/",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "SIN MING AUTOCARE #03-09",
+				"postalCode": "575721",
+				"streetName": "176 SIN MING DRIVE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>With more than six decades of trusted expertise, Lim Tan Motor stands as one of Singapore's most established independent automotive workshops. Proudly EV-ready, the company continues to deliver exceptional service to private motorists, commercial fleets and government agencies, upholding a legacy of reliability while driving innovation into the future.</p>",
+			"searchableKeywords": [
+				"Servicing",
+				"automotive",
+				"workshop",
+				"repairs",
+				"spray paint",
+				"OBU",
+				"ACCIDENT",
+				"CLAIMS",
+				"AUTHORISED WORKSHOP",
+				"ENGINE OIL",
+				"INSURANCE CLAIM",
+				"MSIG",
+				"MAINTAINCES",
+				"SERVICING PACKAGE",
+				"TYRES",
+				"BATTERY",
+				"VARTA",
+				"MICHELINS",
+				"MOTUL",
+				"PETRONAS",
+				"LTM",
+				"EV",
+				"EV WORKSHOP",
+				"EV READY",
+				"DIAGNOSTIC",
+				"AGENT REPAIR",
+				"INSURANCE QUOTE"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-02T07:57:04.304Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/915236439523077-LIMTANMOTOR.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07878461862361852-6570816639960566-WhatsApp%20Image%202025-10-30%20at%205.19.08%20PM.jpg",
+			"createdAt": "2025-12-02T07:57:04.314Z",
+			"updatedAt": "2026-09-01T01:51:13.738Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07878461862361852-6570816639960566-WhatsApp%20Image%202025-10-30%20at%205_low.19",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07878461862361852-6570816639960566-WhatsApp%20Image%202025-10-30%20at%205_med.19",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07878461862361852-6570816639960566-WhatsApp%20Image%202025-10-30%20at%205_high.19"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/915236439523077-LIMTANMOTOR_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/915236439523077-LIMTANMOTOR_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/915236439523077-LIMTANMOTOR_high.jpg"
+			},
+			"searchContent": "With more than six decades of trusted expertise, Lim Tan Motor stands as one of Singapore's most established independent automotive workshops. Proudly EV-ready, the company continues to deliver exceptional service to private motorists, commercial fleets and government agencies, upholding a legacy of reliability while driving innovation into the future. Servicing automotive workshop repairs spray paint OBU ACCIDENT CLAIMS AUTHORISED WORKSHOP ENGINE OIL INSURANCE CLAIM MSIG MAINTAINCES SERVICING PACKAGE TYRES BATTERY VARTA MICHELINS MOTUL PETRONAS LTM EV EV WORKSHOP EV READY DIAGNOSTIC AGENT REPAIR INSURANCE QUOTE Services Automotive",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "lim-tan-motor-d71e6d01",
+			"outlets": [
+				{
+					"_id": "692fa12cf98f0bf71829bf61",
+					"name": "SIN MING AUTOCARE"
+				},
+				{
+					"_id": "6a714c9c06f15c18bea95bc7",
+					"name": "Sin Ming AutoCare"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"SIN MING AUTOCARE",
+			"Sin Ming AutoCare"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "LIM TAN MOTOR",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

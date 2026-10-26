@@ -1,0 +1,220 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/klarra-e0b79dc8",
+	"slug": "klarra-e0b79dc8",
+	"fetchedAt": "2026-10-26T16:23:57.941+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e4396ae7604ec3930782d38",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Klarra Pte Ltd",
+			"brand": "KLARRA",
+			"code": "KL1",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Pemimpin Drive, #04-02 One Pemimpin,",
+				"postalCode": "576151",
+				"streetName": "Jalan Pemimpin"
+			},
+			"categary": "Fashion",
+			"regNumber": "201404006H",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-979bea8f-7ff6-4df7-8bf1-3fc21a596f3a.jpg",
+			"createdAt": "2020-02-12T06:09:50.455Z",
+			"updatedAt": "2026-08-06T14:17:08.657Z",
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-973352dd-5a1b-43c3-8fbc-117fc675b583.jpg",
+			"physicalShop": true,
+			"privilege": true,
+			"websiteUrl": "https://www.Klarra.com",
+			"description": "",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "Raffles City Shopping Centre",
+			"promotional": "KrisPay Exclusive Promotion: \nEnjoy 10% off with a minimum spend of SGD 60 when you flash the KrisPay app at the point of payment.\n\nTerms and Conditions: \n• Discount cannot be used with any other ongoing promotions, discounts and privileges.\n• Items bought with promotion are not eligible for exchanges and returns.\n\nFind out more at: https://klarra.com/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>KLARRA is a clothing label of contemporary classics that aims to give women the freedom of expression through one brand. Powered by a wide range of wearable silhouettes and quality fabrics, each design is created upon KLARRA’s signature modern and sophisticated tailoring that forms the essentials of a woman’s wardrobe.<br> <br> Participating Outlets: </p>  <ul> \t<li>Raffles City Shopping Centre</li> \t<li>ION Orchard</li> </ul>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "KLARRA",
+			"searchableKeywords": [
+				"City Hall",
+				"Raffles City Shopping Centre",
+				"Fashion",
+				"Retail",
+				"City",
+				"Central",
+				"Clothes",
+				"Style",
+				"Trending",
+				"Dress",
+				"Blouse",
+				"Top",
+				"Tshirt",
+				"Merchandise",
+				"Ootd",
+				"Semi Casual",
+				"Glam",
+				"Stylediary",
+				"Stylegram",
+				"Fashionaddict",
+				"Fashiondesigner",
+				"Chic",
+				"European",
+				"Neutral",
+				"Female",
+				"Ladies",
+				"Local",
+				"Tourists",
+				"Newclothes",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Trousers",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e53d10e34df66b4743"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-973352dd-5a1b-43c3-8fbc-117fc675b583.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-979bea8f-7ff6-4df7-8bf1-3fc21a596f3a.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-973352dd-5a1b-43c3-8fbc-117fc675b583_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-973352dd-5a1b-43c3-8fbc-117fc675b583_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-973352dd-5a1b-43c3-8fbc-117fc675b583_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-979bea8f-7ff6-4df7-8bf1-3fc21a596f3a_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-979bea8f-7ff6-4df7-8bf1-3fc21a596f3a_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-979bea8f-7ff6-4df7-8bf1-3fc21a596f3a_high.jpg"
+			},
+			"searchContent": "KLARRA is a clothing label of contemporary classics that aims to give women the freedom of expression through one brand. Powered by a wide range of wearable silhouettes and quality fabrics, each design is created upon KLARRA’s signature modern and sophisticated tailoring that forms the essentials of a woman’s wardrobe. Participating Outlets: Raffles City Shopping Centre ION Orchard City Hall Raffles City Shopping Centre Fashion Retail City Central Clothes Style Trending Dress Blouse Top Tshirt Merchandise Ootd Semi Casual Glam Stylediary Stylegram Fashionaddict Fashiondesigner Chic European Neutral Female Ladies Local Tourists Newclothes Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Trousers Shoes Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:40:42.682Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "klarra-e0b79dc8",
+			"outlets": [
+				{
+					"_id": "5e4cb9ef9b4a741138743a1d",
+					"name": "Raffles City Shopping Centre"
+				},
+				{
+					"_id": "65a9f1dee9f3bf004e1662ac",
+					"name": "ION Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Raffles City Shopping Centre",
+			"ION Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "KLARRA",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

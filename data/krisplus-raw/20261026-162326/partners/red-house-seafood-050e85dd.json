@@ -1,0 +1,230 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/red-house-seafood-050e85dd",
+	"slug": "red-house-seafood-050e85dd",
+	"fetchedAt": "2026-10-26T16:24:34.040+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5face44f769b17274ccf0a29",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Red House Seafood",
+			"brand": "Red House Seafood",
+			"code": "RHS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Red House",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "68 Prinsep Street,  ",
+				"postalCode": "188661",
+				"streetName": "Prinsep Street"
+			},
+			"regNumber": "201208659K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8546249461227824-App_Brand%20Image_750px_540px.jpg",
+			"websiteUrl": "https://www.redhouseseafood.com/",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3061081270439152-App_Logo.png",
+			"createdAt": "2020-11-12T07:29:19.688Z",
+			"updatedAt": "2026-08-06T14:17:11.801Z",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Red%20House%20Seafood\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a><br><br></em>Established in 1976, Red House Seafood is one of Singapore’s oldest seafood restaurants. Serving up the best of Singaporean cuisine by paying homage to the authentic flavours of traditional recipes while integrating modern cooking techniques.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Esplanade Mall</li>\n\t<li>Grand Copthorne</li>\n\t<li>Clarke Quay</li>\n</ul>",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 2.5,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"participatingOutlets": "• Prinsep Street\n• Clarke Quay",
+			"promotional": "     ",
+			"searchableKeywords": [
+				"Clarke Quay",
+				"Fort Canning",
+				"Chinese",
+				"Seafood",
+				"Celebration",
+				"Dim Sum",
+				"Crab",
+				"Prawn",
+				"Abalone",
+				"Scallop",
+				"Oyster",
+				"Lobster",
+				"Lunch",
+				"Dinner",
+				"Buffet",
+				"Gathering",
+				"Restaurant",
+				"Grand Copthorne Waterfront",
+				"The Cannery",
+				"Havelock Road",
+				"Kim Seng Road",
+				"Birthday",
+				"Dining",
+				"Tourists",
+				"Reunion",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"FortuneFeast"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d42f71c855d5496e5c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8546249461227824-App_Brand%20Image_750px_540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3061081270439152-App_Logo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8546249461227824-App_Brand%20Image_750px_540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8546249461227824-App_Brand%20Image_750px_540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8546249461227824-App_Brand%20Image_750px_540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3061081270439152-App_Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3061081270439152-App_Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3061081270439152-App_Logo_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Established in 1976, Red House Seafood is one of Singapore’s oldest seafood restaurants. Serving up the best of Singaporean cuisine by paying homage to the authentic flavours of traditional recipes while integrating modern cooking techniques. Participating Outlets: Esplanade Mall Grand Copthorne Clarke Quay Clarke Quay Fort Canning Chinese Seafood Celebration Dim Sum Crab Prawn Abalone Scallop Oyster Lobster Lunch Dinner Buffet Gathering Restaurant Grand Copthorne Waterfront The Cannery Havelock Road Kim Seng Road Birthday Dining Tourists Reunion Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery FortuneFeast Dining Casual Dining Chinese Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:16:28.620Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "red-house-seafood-050e85dd",
+			"outlets": [
+				{
+					"_id": "5fbb694e7a27f44c94651b8b",
+					"name": "Clarke Quay"
+				},
+				{
+					"_id": "6135dd15c2b39810f43b2171",
+					"name": "Grand Copthorne"
+				},
+				{
+					"_id": "63606e43e59f253ea8b5e261",
+					"name": "Esplanade Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay",
+			"Grand Copthorne",
+			"Esplanade Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Red House Seafood",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/chapters-by-drinks-co-3f2c4627",
+	"slug": "chapters-by-drinks-co-3f2c4627",
+	"fetchedAt": "2026-10-26T16:31:59.345+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69297842ebfd430892fb1b4b",
+			"name": "The Beverage House Pte Ltd",
+			"shortName": "ChaptersDrinks",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Chapters by Drinks&Co.",
+			"code": "CTD",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9820610346665524-ChaptersByDrinksCo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/021585796116661005-24999361158958755-Chapters%20Brand%20Image.jpg",
+			"websiteUrl": "https://drinksandco.asia/pages/chapters",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "3D River Valley Road  #01-08",
+				"postalCode": "179023",
+				"streetName": "CQ Clarke Quay",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Chapters%20by%20Drinks&Co\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Housed in an old conservation shophouse with an outdoor deck facing the river, guests are invited to experience the journey of Chapters, a mysterious and sophisticated dining destination. Find yourself immersed in a unique dining setting that pays homage to the existing architectural elements of Clarke Quay. </span></p>",
+			"searchableKeywords": [
+				"Food",
+				"Casual Dining",
+				"Wine",
+				"Whisky",
+				"Alcohol",
+				"Cocktails",
+				"Beer",
+				"Spirits",
+				"Events",
+				"Bar",
+				"Pizza"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB",
+								"CD",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-28T10:24:02.006Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9820610346665524-ChaptersByDrinksCo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/021585796116661005-24999361158958755-Chapters%20Brand%20Image.jpg",
+			"createdAt": "2025-11-28T10:24:02.020Z",
+			"updatedAt": "2026-08-06T14:18:25.637Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/021585796116661005-24999361158958755-Chapters%20Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/021585796116661005-24999361158958755-Chapters%20Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/021585796116661005-24999361158958755-Chapters%20Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9820610346665524-ChaptersByDrinksCo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9820610346665524-ChaptersByDrinksCo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9820610346665524-ChaptersByDrinksCo_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Housed in an old conservation shophouse with an outdoor deck facing the river, guests are invited to experience the journey of Chapters, a mysterious and sophisticated dining destination. Find yourself immersed in a unique dining setting that pays homage to the existing architectural elements of Clarke Quay. Food Casual Dining Wine Whisky Alcohol Cocktails Beer Spirits Events Bar Pizza Dining Vegetarian-Friendly Pubs & Bars Casual Dining Asian Western",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "chapters-by-drinks-co-3f2c4627",
+			"outlets": [
+				{
+					"_id": "69297d2cb27cfb2eb8e0dace",
+					"name": "CQ @ Clarke Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"CQ @ Clarke Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Chapters by Drinks&Co.",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

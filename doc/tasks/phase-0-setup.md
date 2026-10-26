@@ -14,12 +14,15 @@ Done when `pnpm dev` serves the starter page on `localhost`.
 
 ### 0.2 Add the pipeline skeleton
 
-1. Add `tsx` and `zod` as dev dependencies.
-2. Create `pipeline/run.ts` with flags `--from <stage>`, `--only <stage>`, `--limit <n>`, and `--strict`. Each stage starts as a function that logs its name.
-3. Add the scripts `data:refresh` (`tsx pipeline/run.ts`) and `data:test` (`vitest run pipeline`).
-4. Create `shared/schema.ts` with the outlet schema from [source-findings.md](../source-findings.md). Add the extra fields `categories`, `geocode_postal_code`, and `geocode_building`, and set `schema_version` to `"1.0"`.
+Done on 2026-10-26, ahead of 0.1, so the crawl could start first. What exists:
 
-Done when `pnpm data:refresh` prints the seven stage names in order and exits 0.
+- `package.json` with `zod`, `typescript`, and `@types/node`. Node 22.18 or later runs the `.ts` files directly, so the pipeline has no build step and no `tsx`. Tests use Node's built-in runner, `node --test`, instead of Vitest.
+- `pipeline/run.ts` with the flags `--from <stage>`, `--only <stage>`, `--run <run-id>`, and `--limit <n>`. It runs the `discover`, `fetch`, and `parse` stages. Later phases add the other four.
+- The scripts `data:refresh`, `data:test`, and `typecheck`. `data:refresh` sets `NODE_USE_ENV_PROXY=1`, because Node's `fetch` ignores `HTTPS_PROXY` without it.
+
+Still to do in Phase 2: create `shared/schema.ts` with the outlet schema from [source-findings.md](../source-findings.md), add the extra fields `categories`, `geocode_postal_code`, and `geocode_building`, and set `schema_version` to `"1.0"`. Add `--strict` in Phase 5.
+
+When you scaffold TanStack Start in 0.1, `package.json` already exists. Scaffold into a temporary folder and merge its files and dependencies into the repo.
 
 ### 0.3 Confirm OneMap usage rules
 

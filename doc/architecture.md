@@ -23,13 +23,19 @@ krisplus-map/
 			validate.ts      schema and quality rules
 			export.ts        JSON, GeoJSON, CSV, and quality report
 		lib/
-			rsc.ts           decodes __next_f chunks and finds the partner object
+			rsc.ts           decodes __next_f chunks, finds the partner object, resolves "$<id>" text references
+			html.ts          reads the rendered heading, earn badge, and payment options
 			http.ts          rate-limited fetch with retry and backoff
 			onemap.ts        OneMap search client and match rules
+			paths.ts, time.ts, log.ts
 		test/
 			fixtures/        saved partner pages and OneMap responses
 	data/
-		krisplus-raw/<run-id>/   extracted partner JSON, committed
+		krisplus-raw/<run-id>/
+			partners.json        discover output: URL, slug, lastmod
+			partners/<slug>.json extracted payload plus rendered text, committed
+			parsed-partners.json parse output
+			failures.json, crawl.json
 		state/registry.json      outlet history, committed
 		cache/geocode.json       OneMap results by query, committed
 		overrides/geocode.json   manual coordinate fixes, committed
@@ -38,14 +44,14 @@ krisplus-map/
 	public/data/             copy of the GeoJSON export that the app loads
 ```
 
-Raw HTML goes to `data/raw-html/<run-id>/`, which is gitignored. One run is about 80 MB of HTML (inferred from 645 pages at about 125 KB each). The extracted partner JSON is enough to rerun every later stage.
+Raw HTML goes to `data/raw-html/<run-id>/`, which is gitignored. One run is about 80 MB of HTML (inferred from 645 pages at about 125 KB each). The extracted partner JSON is enough to rerun every later stage. It is 7.2 MB a run (measured on the 2026-10-26 crawl), so committing every run adds about 370 MB a year at a weekly cadence. Prune old run folders once the registry holds their history.
 
 ## The pipeline is a chain of stages
 
 `pnpm data:refresh` runs the stages in order. Each stage reads the previous stage's files from disk and writes its own. You can rerun one stage and everything after it without fetching again. For example, `pnpm data:refresh --from geocode` reuses the last crawl.
 
 1. **Discover** reads `sitemap-partners-sg.xml` and writes the partner URL list. If the sitemap carries a `lastmod` per URL, the stage also records it.
-2. **Fetch** downloads each partner page at no more than one request per second, with a `User-Agent` that names the project. 645 pages take about 11 minutes (inferred). The stage retries 429 and 5xx responses with exponential backoff, then records the URL as failed. It removes `systemUser` before it writes the extracted JSON.
+2. **Fetch** downloads each partner page at no more than one request per second, with a `User-Agent` that names the project. 645 pages take about 11 minutes (inferred). The stage retries 429 and 5xx responses with exponential backoff, then records the URL as failed. It removes `systemUser` before it writes the extracted JSON. To resume an interrupted crawl, run `pnpm data:refresh --from fetch --run <run-id>`. The stage skips partners that already have a JSON file and retries the ones that failed.
 3. **Parse** turns each extracted object into a typed partner record, and it fails loudly on an unexpected shape. A Kris+ site change then breaks the parser tests, not the map.
 4. **Normalize** expands each partner into one record per outlet. It applies the field rules in [source-findings.md](source-findings.md) and updates the registry.
 5. **Geocode** resolves coordinates. It checks the override file first, then the cache, then OneMap.

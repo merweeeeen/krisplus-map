@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/fico-masseria-05ac39a6",
+	"slug": "fico-masseria-05ac39a6",
+	"fetchedAt": "2026-10-26T16:29:17.810+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67299928ce2a6200737e713f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.019,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Singapore",
+				"Kiosk",
+				"Focaccina",
+				"Pasta",
+				"East Coast Park",
+				"Gelato"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "FICO RESTAURANT PTE LTD",
+			"brand": "Fico Masseria",
+			"code": "FKR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Fico",
+			"address": {
+				"line1": "267 Beach Road Singapore 199545",
+				"postalCode": "199545",
+				"streetName": "267 Beach Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ITA",
+								"KID"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.ficomasseria.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Fico is a casual Italian seaside destination by Chef Mirko Febbrile and The Lo & Behold Group that proudly advocates living better, not faster. Located in picturesque East Coast Park, Fico serves up an array of delights that pay homage to Puglian cuisine.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9170454059201982-4128588647166094-FICO%20LOGO%20KRIS%2B.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8865567977244391-8656489281508546-49443010023347855-FICO_KRIS%2B%20(1).png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-11-05T04:03:52.624Z",
+			"updatedAt": "2026-08-20T02:35:47.973Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8865567977244391-8656489281508546-49443010023347855-FICO_KRIS%2B%20(1)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8865567977244391-8656489281508546-49443010023347855-FICO_KRIS%2B%20(1)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8865567977244391-8656489281508546-49443010023347855-FICO_KRIS%2B%20(1)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9170454059201982-4128588647166094-FICO%20LOGO%20KRIS%2B_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9170454059201982-4128588647166094-FICO%20LOGO%20KRIS%2B_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9170454059201982-4128588647166094-FICO%20LOGO%20KRIS%2B_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8865567977244391-8656489281508546-49443010023347855-FICO_KRIS%2B%20(1).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9170454059201982-4128588647166094-FICO%20LOGO%20KRIS%2B.png",
+			"searchContent": "Fico is a casual Italian seaside destination by Chef Mirko Febbrile and The Lo & Behold Group that proudly advocates living better, not faster. Located in picturesque East Coast Park, Fico serves up an array of delights that pay homage to Puglian cuisine. Singapore Kiosk Focaccina Pasta East Coast Park Gelato Dining Casual Dining Italian Kid-Friendly",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-26T03:14:35.271Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "fico-masseria-05ac39a6",
+			"outlets": [
+				{
+					"_id": "67299b5ac01ef30074dbd3cc",
+					"name": "East Coast Park"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"East Coast Park"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Fico Masseria",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

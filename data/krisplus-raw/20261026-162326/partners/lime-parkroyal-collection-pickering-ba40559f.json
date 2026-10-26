@@ -1,0 +1,202 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lime-parkroyal-collection-pickering-ba40559f",
+	"slug": "lime-parkroyal-collection-pickering-ba40559f",
+	"fetchedAt": "2026-10-26T16:24:50.908+08:00",
+	"payload": {
+		"partner": {
+			"_id": "606ff76b56e58016ac407f05",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "LIME (PARKROYAL PICKERING HOTEL PTE LTD)",
+			"brand": "Lime (PARKROYAL COLLECTION Pickering)",
+			"code": "LRP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Lime",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "3 Upper Pickering Street, PARKROYAL PICKERING HOTEL",
+				"postalCode": "058289",
+				"streetName": "Upper Pickering Street"
+			},
+			"regNumber": "200720326N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2224624086930045-09633765549569762-Brand%2520Image%2520-%2520Lime%2520Restaurant%2520-%2520Chef%2520in%2520action.jpg",
+			"websiteUrl": "https://www.tablecheck.com/en/parkroyal-collection-pickering-lime/reserve/message?utm_source=kris_plus",
+			"descriptionHtml": "<p>Lime Restaurant is a vibrant, modern restaurant offering local, Southeast Asian and international culinary delights. Offering both buffet, ala carte and vegan options, Lime Restaurant’s wide variety makes it a perfect option for any social gathering.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"participatingOutlets": "     ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6363132507095606-7477045004577958-Lime%2520brand%2520logo%25201000%2520x%25201000.jpg",
+			"createdAt": "2021-04-09T06:42:51.492Z",
+			"updatedAt": "2026-08-06T14:17:15.253Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "       ",
+			"searchableKeywords": [
+				"Chinatown",
+				"Clarke Quay",
+				"Upper Pickering Street",
+				"International",
+				"Central",
+				"City",
+				"Restaurant",
+				"Western",
+				"Indian",
+				"Chinese",
+				"Japanese",
+				"Korean",
+				"Buffet",
+				"Ala Carte",
+				"Vegan",
+				"Trending",
+				"Cappucinos",
+				"Latte",
+				"Food",
+				"Foodie",
+				"Artisan",
+				"Bakery",
+				"Bread",
+				"Desserts",
+				"Wine Bar",
+				"Alcohol",
+				"Sandwiches",
+				"Salads",
+				"Wine",
+				"Beer",
+				"Kombucha",
+				"Tea",
+				"Coffee",
+				"Fine Dining",
+				"Parkroyal",
+				"Dining"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c50108b03f047da5a7"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2224624086930045-09633765549569762-Brand%2520Image%2520-%2520Lime%2520Restaurant%2520-%2520Chef%2520in%2520action.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6363132507095606-7477045004577958-Lime%2520brand%2520logo%25201000%2520x%25201000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2224624086930045-09633765549569762-Brand%2520Image%2520-%2520Lime%2520Restaurant%2520-%2520Chef%2520in%2520action_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2224624086930045-09633765549569762-Brand%2520Image%2520-%2520Lime%2520Restaurant%2520-%2520Chef%2520in%2520action_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2224624086930045-09633765549569762-Brand%2520Image%2520-%2520Lime%2520Restaurant%2520-%2520Chef%2520in%2520action_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6363132507095606-7477045004577958-Lime%2520brand%2520logo%25201000%2520x%25201000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6363132507095606-7477045004577958-Lime%2520brand%2520logo%25201000%2520x%25201000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6363132507095606-7477045004577958-Lime%2520brand%2520logo%25201000%2520x%25201000_high.jpg"
+			},
+			"searchContent": "Lime Restaurant is a vibrant, modern restaurant offering local, Southeast Asian and international culinary delights. Offering both buffet, ala carte and vegan options, Lime Restaurant’s wide variety makes it a perfect option for any social gathering. Chinatown Clarke Quay Upper Pickering Street International Central City Restaurant Western Indian Chinese Japanese Korean Buffet Ala Carte Vegan Trending Cappucinos Latte Food Foodie Artisan Bakery Bread Desserts Wine Bar Alcohol Sandwiches Salads Wine Beer Kombucha Tea Coffee Fine Dining Parkroyal Dining Dining Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:22:26.197Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lime-parkroyal-collection-pickering-ba40559f",
+			"outlets": [
+				{
+					"_id": "60758482d61df339fc7da3c9",
+					"name": "PARKROYAL COLLECTION Pickering"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL COLLECTION Pickering"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Lime (PARKROYAL COLLECTION Pickering)",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,250 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/nan-yang-dao-d56c969b",
+	"slug": "nan-yang-dao-d56c969b",
+	"fetchedAt": "2026-10-26T16:29:25.742+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6749907f591b22006ba21618",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.012,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chinese",
+				"Asian",
+				"Malaysian",
+				"Nanyang",
+				"Casual",
+				"Coffee",
+				"Penang",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Nan Yang Dao Pte Ltd",
+			"brand": "Nan Yang Dao",
+			"code": "NYD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Nan Yang Dao",
+			"address": {
+				"line1": "3017 Bedok North Street 5 #02-30 Gourmet East Kitchen Singapore 486121",
+				"postalCode": "486121",
+				"streetName": "Bedok North Street 5",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"BD",
+								"CHI",
+								"ASI",
+								"KID",
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://nanyangdao.com.sg/",
+			"descriptionHtml": "<p>Nan Yang Dao offers Malaysian cuisine embodied in rich fusion of diverse culinary traditions. Malaysia is a melting pot of different cuisines, and Nan Yang Dao is glad to bring these authentic flavours closer to you.</p>  <p>Participating Outlets:</p>  <ul> \t<li>100AM Mall</li><li>Anchorvale Village</li> \t<li>Bugis+</li> \t<li>Century Square</li> \t \t<li>Hillion Mall</li><li>Hougang Mall</li><li>Jurong Point</li><li>Lentor Modern </li><li>Parkway Parade</li> \t \t \t<li>PLQ Mall</li> \t<li>Seletar Mall</li> \t<li>Star Vista</li> \t<li>Sun Plaza</li> \t<li>​​​​​​​Thomson Plaza</li><li>Tiong Bahru Plaza</li><li>West Mall</li> </ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7888050128628148-6732637913865196-NYD%20LOGO%20-%20LATEST.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4249495405168713-NYD%203.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 17
+				}
+			],
+			"createdAt": "2024-11-29T09:59:27.896Z",
+			"updatedAt": "2026-10-16T07:02:44.063Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4249495405168713-NYD%203_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4249495405168713-NYD%203_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4249495405168713-NYD%203_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7888050128628148-6732637913865196-NYD%20LOGO%20-%20LATEST_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7888050128628148-6732637913865196-NYD%20LOGO%20-%20LATEST_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7888050128628148-6732637913865196-NYD%20LOGO%20-%20LATEST_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4249495405168713-NYD%203.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7888050128628148-6732637913865196-NYD%20LOGO%20-%20LATEST.jpg",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:01:12.288Z",
+			"searchContent": "Nan Yang Dao offers Malaysian cuisine embodied in rich fusion of diverse culinary traditions. Malaysia is a melting pot of different cuisines, and Nan Yang Dao is glad to bring these authentic flavours closer to you. Participating Outlets: 100AM MallAnchorvale Village Bugis+ Century Square Hillion MallHougang MallJurong PointLentor Modern Parkway Parade PLQ Mall Seletar Mall Star Vista Sun Plaza ​​​​​​​Thomson PlazaTiong Bahru PlazaWest Mall Chinese Asian Malaysian Nanyang Casual Coffee Penang FortuneFeast Dining Casual Dining Beverages & Desserts Chinese Asian Kid-Friendly Quick Bites & Snacks",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "nan-yang-dao-d56c969b",
+			"outlets": [
+				{
+					"_id": "674a7b9721c296006aefc8f3",
+					"name": "Century Square"
+				},
+				{
+					"_id": "674a7bfc7d592100639723ab",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "674a7d2bfffc0c0063c35aca",
+					"name": "Thomson Plaza"
+				},
+				{
+					"_id": "674d6072999a37006a5d5626",
+					"name": "Anchorvale Village"
+				},
+				{
+					"_id": "674d60e6987c8200631e3a80",
+					"name": "Bugis+"
+				},
+				{
+					"_id": "674d62b6f337b0006be7e8b6",
+					"name": "Hillion Mall"
+				},
+				{
+					"_id": "674d63ca21c296006af3161a",
+					"name": "Sun Plaza"
+				},
+				{
+					"_id": "677b4ab3de20d649b8fb083f",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "677b4b211c292a031ddcdf27",
+					"name": "Seletar Mall"
+				},
+				{
+					"_id": "67da36f9e4b0c404180dbecc",
+					"name": "100AM"
+				},
+				{
+					"_id": "67da37bbb0d0770410e90c7c",
+					"name": "West Mall"
+				},
+				{
+					"_id": "682ebd0d99688e129cf77c9e",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "689ac68c49db7a046e24089b",
+					"name": "Tiong Bahru Plaza"
+				},
+				{
+					"_id": "695ca86e4a5096e087041404",
+					"name": "Lentor Modern"
+				},
+				{
+					"_id": "6a72a582c4e25a220b77df23",
+					"name": "Star Vista"
+				},
+				{
+					"_id": "6abf2de02e33d0340c2d14c4",
+					"name": "Hougang Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Century Square",
+			"PLQ Mall",
+			"Thomson Plaza",
+			"Anchorvale Village",
+			"Bugis+",
+			"Hillion Mall",
+			"Sun Plaza",
+			"Parkway Parade",
+			"Seletar Mall",
+			"100AM",
+			"West Mall",
+			"Jurong Point",
+			"Tiong Bahru Plaza",
+			"Lentor Modern",
+			"Star Vista",
+			"Hougang Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Nan Yang Dao",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

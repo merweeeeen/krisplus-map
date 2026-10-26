@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/san-laksa-b9e17724",
+	"slug": "san-laksa-b9e17724",
+	"fetchedAt": "2026-10-26T16:31:19.845+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68c7a88c2384900466723cbd",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Seafood",
+				"Bbq",
+				"Steamboat",
+				"Buffet",
+				"Laksa",
+				"Hotpot",
+				"Family",
+				"Broth",
+				"Soup",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "San Laksa Steamboat Pte Ltd",
+			"brand": "San Laksa",
+			"code": "LKS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "San Laksa",
+			"address": {
+				"line1": "147 Kitchener Road Singapore 208524",
+				"postalCode": "208524",
+				"streetName": "147 Kitchener Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"FD",
+								"PB",
+								"BD",
+								"HEAL",
+								"ASI",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://sanlaksa.com.sg/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=San%20Laksa%20Steamboat\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">San Laksa Steamboat is Singapore’s pioneer in laksa hotpot dining, proudly serving since 2007. Known for their rich, aromatic, and authentic Singapore laksa broth crafted from a treasured heritage recipe, San Laksa brings together the best of steamboat, BBQ, and beloved local flavours. Whether you prefer bubbling hotpot or sizzling tabletop BBQ, San Laksa allows you to customise your set to suit your cravings.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/16630377588078749-SanLaksa.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8474076618236213-1829264712328309-Brand%20Image%20(1).png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16630377588078749-SanLaksa.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8474076618236213-1829264712328309-Brand%20Image%20(1).png",
+			"createdAt": "2025-09-15T05:47:56.513Z",
+			"updatedAt": "2026-08-06T14:18:20.916Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16630377588078749-SanLaksa_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16630377588078749-SanLaksa_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16630377588078749-SanLaksa_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-11-05T02:26:52.014Z",
+			"searchContent": "*Click here to Reserve A Table. San Laksa Steamboat is Singapore’s pioneer in laksa hotpot dining, proudly serving since 2007. Known for their rich, aromatic, and authentic Singapore laksa broth crafted from a treasured heritage recipe, San Laksa brings together the best of steamboat, BBQ, and beloved local flavours. Whether you prefer bubbling hotpot or sizzling tabletop BBQ, San Laksa allows you to customise your set to suit your cravings. Seafood Bbq Steamboat Buffet Laksa Hotpot Family Broth Soup FortuneFeast Dining Vegetarian-Friendly Casual Dining Fine Dining Pubs & Bars Beverages & Desserts Healthy Asian Chinese",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "san-laksa-b9e17724",
+			"outlets": [
+				{
+					"_id": "68c8c522f4d00d046cffe10d",
+					"name": "Kitchener Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Kitchener Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "San Laksa",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

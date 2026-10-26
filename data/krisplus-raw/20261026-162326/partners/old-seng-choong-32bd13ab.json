@@ -1,0 +1,198 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/old-seng-choong-32bd13ab",
+	"slug": "old-seng-choong-32bd13ab",
+	"fetchedAt": "2026-10-26T16:25:31.129+08:00",
+	"payload": {
+		"partner": {
+			"_id": "615bea30b264d856c8ff4ab8",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"The Central",
+				"Clarke Quay",
+				"Eu Tong Sen Street",
+				"Mbs",
+				"Marina Bay Sands",
+				"Bayfront",
+				"Bayfront Avenue",
+				"Paragon",
+				"Swiss Roll",
+				"Sg",
+				"Swiss Roll",
+				"Cakes",
+				"Cookies",
+				"Pandan Chiffon Cake",
+				"Gula Melaka",
+				"Earl Grey",
+				"Singaporean Inspired",
+				"Retail",
+				"Bakes",
+				"Confectionary",
+				"Occasions",
+				"Festivities",
+				"Tourists",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath",
+				"Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions",
+				"Mooncake"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Old Seng Choong Pte Ltd",
+			"brand": "Old Seng Choong ",
+			"code": "OLD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5814",
+			"shortName": "Old Seng Choon",
+			"address": {
+				"city": "Singapore",
+				"line1": "171 Kampong Ampat, KA Foodlink, #05-04 ",
+				"streetName": "Kampong Ampat",
+				"postalCode": "368330",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201540527H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5679783966766963-KRISPAY%20-%20750X540.jpg",
+			"websiteUrl": "https://www.oldsengchoong.com/",
+			"descriptionHtml": "<p>Old Seng Choong offers traditional bakes and cakes to accompany every momentous occasion and celebration in life. It is named after the well-loved Seng Choong Confectionery, which was run by renowned chef Daniel Tay’s parents for over 30 years. Old Seng Choong pays homage to Daniel’s father and the confectionery that sparked Daniel’s culinary ambitions.</p>\n\n<p>Participating Outlet:</p>\n\n<ul>\n\t\n\t<li>Paragon Shopping Centre</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Fast Food Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3337430716164984-OSC%20LOGO-04.png",
+			"createdAt": "2021-10-05T06:01:20.117Z",
+			"updatedAt": "2026-08-06T14:17:21.684Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"saleOfMilesPct": 3.2,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "Old Seng Choong",
+			"promotional": "Old Seng Choong",
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9a7b35256c5b2c9bef7"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5679783966766963-KRISPAY%20-%20750X540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3337430716164984-OSC%20LOGO-04.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5679783966766963-KRISPAY%20-%20750X540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5679783966766963-KRISPAY%20-%20750X540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5679783966766963-KRISPAY%20-%20750X540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3337430716164984-OSC%20LOGO-04_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3337430716164984-OSC%20LOGO-04_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3337430716164984-OSC%20LOGO-04_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Old Seng Choong offers traditional bakes and cakes to accompany every momentous occasion and celebration in life. It is named after the well-loved Seng Choong Confectionery, which was run by renowned chef Daniel Tay’s parents for over 30 years. Old Seng Choong pays homage to Daniel’s father and the confectionery that sparked Daniel’s culinary ambitions. Participating Outlet: Paragon Shopping Centre The Central Clarke Quay Eu Tong Sen Street Mbs Marina Bay Sands Bayfront Bayfront Avenue Paragon Swiss Roll Sg Swiss Roll Cakes Cookies Pandan Chiffon Cake Gula Melaka Earl Grey Singaporean Inspired Retail Bakes Confectionary Occasions Festivities Tourists Cnysnacks Chinese New Year Gift Souvenirs Lush The Body Shop Kiehl’S Bath Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Mooncake Retail Gifts & Souvenirs",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "old-seng-choong-32bd13ab",
+			"outlets": [
+				{
+					"_id": "64a248a14eef81004e87e765",
+					"name": "Paragon"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Paragon"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Old Seng Choong",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

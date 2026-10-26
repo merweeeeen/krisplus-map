@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mode-aesthetics-f3d9d923",
+	"slug": "mode-aesthetics-f3d9d923",
+	"fetchedAt": "2026-10-26T16:33:49.405+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a545add45aafea3df39577b",
+			"name": "MODE AESTHETICS PTE. LTD.",
+			"shortName": "MODE AESTHETIC",
+			"mccCode": "7298",
+			"mccDescription": "undefined",
+			"brand": "MODE AESTHETICS",
+			"code": "MAL",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7787745042389851-7525132691649603-BrandLogo_MODE-01.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/08598621317416377-4667352883719571-BrandImage_MODE-02.jpg",
+			"websiteUrl": "https://www.modeaesthetics.com.sg/",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "176 ORCHARD ROAD #03-33 THE CENTREPOINT SINGAPORE 238843",
+				"postalCode": "238843",
+				"streetName": "176 ORCHARD ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">MODE Aesthetics is an award‑winning clinic specialising in     advanced, results‑focused treatments. From laser facials and skin boosters to     teeth whitening, hair removal, and body slimming, every service is customised     to your needs. Combining personalised care with cutting‑edge technology, MODE     Aesthetics delivers effective, tailored treatments for each individual.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>Bedok Mall</li><li>Jem</li><li>The Centrepoint</li></ul>  ",
+			"searchableKeywords": [
+				"Facial",
+				"laser facials",
+				"skin boosters",
+				"slimming",
+				"fat freeze",
+				"led teeth whitening",
+				"hair removal",
+				"glow skin",
+				"facial singapore",
+				"beauty treatment"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 12.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-16T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-13T03:26:21.664Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7787745042389851-7525132691649603-BrandLogo_MODE-01.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/08598621317416377-4667352883719571-BrandImage_MODE-02.jpg",
+			"createdAt": "2026-07-13T03:26:21.670Z",
+			"updatedAt": "2026-08-06T14:18:33.387Z",
+			"searchContent": "MODE Aesthetics is an award‑winning clinic specialising in advanced, results‑focused treatments. From laser facials and skin boosters to teeth whitening, hair removal, and body slimming, every service is customised to your needs. Combining personalised care with cutting‑edge technology, MODE Aesthetics delivers effective, tailored treatments for each individual. Participating outlets: Bedok MallJemThe Centrepoint Facial laser facials skin boosters slimming fat freeze led teeth whitening hair removal glow skin facial singapore beauty treatment Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/08598621317416377-4667352883719571-BrandImage_MODE-02_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/08598621317416377-4667352883719571-BrandImage_MODE-02_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/08598621317416377-4667352883719571-BrandImage_MODE-02_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7787745042389851-7525132691649603-BrandLogo_MODE-01_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7787745042389851-7525132691649603-BrandLogo_MODE-01_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7787745042389851-7525132691649603-BrandLogo_MODE-01_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mode-aesthetics-f3d9d923",
+			"outlets": [
+				{
+					"_id": "6a545dcbfdc1b7b073ecb3f9",
+					"name": "Jem"
+				},
+				{
+					"_id": "6a545efa319d2d440927fb4d",
+					"name": "Tong Building"
+				},
+				{
+					"_id": "6a545f78319d2d440927fced",
+					"name": "Bedok Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jem",
+			"Tong Building",
+			"Bedok Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "MODE AESTHETICS",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

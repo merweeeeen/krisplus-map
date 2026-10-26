@@ -1,0 +1,200 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/level33-395ab437",
+	"slug": "level33-395ab437",
+	"fetchedAt": "2026-10-26T16:25:35.337+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6168d571327ef41460e00543",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Beer",
+				"Rooftop",
+				"Dining",
+				"Wine",
+				"Bar",
+				"Formal Dining",
+				"Rooftop Bar",
+				"Alcohol",
+				"Brewery",
+				"Oysters",
+				"Champagne",
+				"View",
+				"Marina Bay",
+				"Terrace",
+				"Mbfc",
+				"Cbd",
+				"Dining",
+				"Craft Beer",
+				"Celebrations",
+				"Occasions",
+				"Dates",
+				"Valentines Day",
+				"Marina Bay Financial Center",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Level33 Pte Ltd",
+			"brand": "LeVeL33",
+			"code": "LEV",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "LeVeL33",
+			"address": {
+				"city": "Singapore",
+				"line1": "2 Alexandra Road, #05-02B Delta House",
+				"streetName": "Alexandra Road",
+				"postalCode": "159919",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201009517M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3370365122353638-9074821628385041-App_Brand%20Image.jpg",
+			"websiteUrl": "https://level33.com.sg/",
+			"descriptionHtml": "<p>A unique rooftop dining concept with the world’s highest urban microbrewery. The spectacular city skyline view over Marina Bay and ambience guarantees the perfect setting for any occasion; a breezy brunch on their spacious outdoor terrace, champagne with fresh oysters at the Raw Bar or a more formal dining experience in their private dining room.</p>\n\n<p> </p>\n\n<p>Note: Payment via Kris+ is not applicable for events. LeVeL33's events are defined as groups of 11 pax and more.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6395474561238299-18725990189182773-App_Level33%20Logo.jpg",
+			"createdAt": "2021-10-15T01:12:17.485Z",
+			"updatedAt": "2026-08-06T14:17:22.273Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "       ",
+			"promotional": "       ",
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef946fd404ac7a5ba3018"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3370365122353638-9074821628385041-App_Brand%20Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6395474561238299-18725990189182773-App_Level33%20Logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3370365122353638-9074821628385041-App_Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3370365122353638-9074821628385041-App_Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3370365122353638-9074821628385041-App_Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6395474561238299-18725990189182773-App_Level33%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6395474561238299-18725990189182773-App_Level33%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6395474561238299-18725990189182773-App_Level33%20Logo_high.jpg"
+			},
+			"searchContent": "A unique rooftop dining concept with the world’s highest urban microbrewery. The spectacular city skyline view over Marina Bay and ambience guarantees the perfect setting for any occasion; a breezy brunch on their spacious outdoor terrace, champagne with fresh oysters at the Raw Bar or a more formal dining experience in their private dining room. Note: Payment via Kris+ is not applicable for events. LeVeL33's events are defined as groups of 11 pax and more. Beer Rooftop Dining Wine Bar Formal Dining Rooftop Bar Alcohol Brewery Oysters Champagne View Marina Bay Terrace Mbfc Cbd Dining Craft Beer Celebrations Occasions Dates Valentines Day Marina Bay Financial Center Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:28:34.404Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "level33-395ab437",
+			"outlets": [
+				{
+					"_id": "616cddc62a9a1b1a18ac9f81",
+					"name": "Marina Bay Financial Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Bay Financial Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "LeVeL33",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

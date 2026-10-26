@@ -1,0 +1,123 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/grabfood-a9310d14",
+	"slug": "grabfood-a9310d14",
+	"fetchedAt": "2026-10-26T16:31:41.309+08:00",
+	"payload": {
+		"partner": {
+			"_id": "690c4d81629a18235fbbdad1",
+			"name": "GrabTaxi Pte Ltd",
+			"shortName": "GrabFood",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "GrabFood",
+			"code": "GBF",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8073929751952229-GrabFood.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4161683178146631-18601142828281114-GrabFood%20New%20Logo%20(6%20Nov).png",
+			"websiteUrl": "https://www.grab.com/sg/food/",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"address": {
+				"line1": "3 MEDIA CLOSE #01-03/06",
+				"postalCode": "138498",
+				"streetName": "3 MEDIA CLOSE #01-03/06",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Every day, GrabFood delivers food and beverages from restaurants to millions of consumers islandwide. With a few taps, you too can have your cravings delivered to your doorstep.</p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Note: Only KrisPay miles can be used to redeem for GrabFood Promo Code. Payment by credit card is not allowed and no miles can be earned for GrabFood Promo Code via Kris+.</p>",
+			"searchableKeywords": [
+				"Food delivery",
+				"grab",
+				"food",
+				"deliveries"
+			],
+			"burn": true,
+			"earn": false,
+			"convert": false,
+			"payByCard": false,
+			"payByAmexCard": false,
+			"supportedCards": [],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0,
+				"base": 0,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [],
+			"refundPeriodUpdatedAt": "2025-11-06T07:25:53.112Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8073929751952229-GrabFood.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4161683178146631-18601142828281114-GrabFood%20New%20Logo%20(6%20Nov).png",
+			"createdAt": "2025-11-06T07:25:53.127Z",
+			"updatedAt": "2026-08-12T07:26:57.650Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4161683178146631-18601142828281114-GrabFood%20New%20Logo%20(6%20Nov)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4161683178146631-18601142828281114-GrabFood%20New%20Logo%20(6%20Nov)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4161683178146631-18601142828281114-GrabFood%20New%20Logo%20(6%20Nov)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8073929751952229-GrabFood_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8073929751952229-GrabFood_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8073929751952229-GrabFood_high.png"
+			},
+			"searchContent": "Every day, GrabFood delivers food and beverages from restaurants to millions of consumers islandwide. With a few taps, you too can have your cravings delivered to your doorstep. Note: Only KrisPay miles can be used to redeem for GrabFood Promo Code. Payment by credit card is not allowed and no miles can be earned for GrabFood Promo Code via Kris+. Food delivery grab food deliveries Services",
+			"newMerchantEndDate": "2026-09-29T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 2,
+			"slugId": "grabfood-a9310d14",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": null,
+			"appleAndGooglePayNotice": null
+		}
+	},
+	"rendered": {
+		"heading": "GrabFood",
+		"earnBadge": null,
+		"paymentOptions": [
+			"KrisPay Miles"
+		]
+	}
+}

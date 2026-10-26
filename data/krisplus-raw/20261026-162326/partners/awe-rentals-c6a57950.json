@@ -1,0 +1,158 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/awe-rentals-c6a57950",
+	"slug": "awe-rentals-c6a57950",
+	"fetchedAt": "2026-10-26T16:32:46.233+08:00",
+	"payload": {
+		"partner": {
+			"_id": "699ffe691b9b749309f1b454",
+			"name": "AWE RENTALS",
+			"shortName": "AWE RENTALS",
+			"mccCode": "5511",
+			"mccDescription": "Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing",
+			"brand": "AWE RENTALS",
+			"code": "AWE",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4111453153750084-7007364783258601-AR%20LOGO%20(002).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5727414344960755-9240656213359786-AR%20BRAND%20IMAGE.jpg",
+			"websiteUrl": "https://www.carousell.sg/u/autopointautomobile/",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 TAMPINES NORTH DRIVE 1 #01-23",
+				"postalCode": "528559",
+				"streetName": "T-SPACE BUILDING",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>AWE RENTALS offers a range of vehicles for both long-term leasing and short-term rental. Their long-term fleet mainly consists of newer vehicles for you to choose from.</p>",
+			"searchableKeywords": [
+				"Car",
+				"Car Rental",
+				"Automotive",
+				"awe rental"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-26T08:03:53.783Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4111453153750084-7007364783258601-AR%20LOGO%20(002).jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5727414344960755-9240656213359786-AR%20BRAND%20IMAGE.jpg",
+			"createdAt": "2026-02-26T08:03:53.794Z",
+			"updatedAt": "2026-09-01T01:57:42.330Z",
+			"searchContent": "AWE RENTALS offers a range of vehicles for both long-term leasing and short-term rental. Their long-term fleet mainly consists of newer vehicles for you to choose from. Car Car Rental Automotive awe rental Services Automotive",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5727414344960755-9240656213359786-AR%20BRAND%20IMAGE_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5727414344960755-9240656213359786-AR%20BRAND%20IMAGE_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5727414344960755-9240656213359786-AR%20BRAND%20IMAGE_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4111453153750084-7007364783258601-AR%20LOGO%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4111453153750084-7007364783258601-AR%20LOGO%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4111453153750084-7007364783258601-AR%20LOGO%20(002)_high.jpg"
+			},
+			"newMerchantEndDate": "2026-05-16T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "awe-rentals-c6a57950",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "699fffa76cc9e15e4191c4b4",
+					"name": "T Space Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"T Space Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "AWE RENTALS",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

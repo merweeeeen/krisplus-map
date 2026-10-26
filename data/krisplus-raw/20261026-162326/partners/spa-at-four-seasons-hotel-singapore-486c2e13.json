@@ -1,0 +1,165 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/spa-at-four-seasons-hotel-singapore-486c2e13",
+	"slug": "spa-at-four-seasons-hotel-singapore-486c2e13",
+	"fetchedAt": "2026-10-26T16:28:29.638+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65cd8530eec0da005400b91f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Four Seasons",
+				"Spa",
+				"Massages",
+				"Treatments",
+				"Premium Facials",
+				"Luxury Spa"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65cd853894533ceee858e268"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "HPL PROPERTIES PTE LTD - Spa at Four Seasons Hotel Singapore",
+			"brand": "Spa at Four Seasons Hotel Singapore",
+			"code": "APS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Spa at Four Se",
+			"address": {
+				"line1": "190 Orchard Boulevard 248646",
+				"postalCode": "248646",
+				"streetName": "190 Orchard Boulevard",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.fourseasons.com/singapore/spa/massage_therapy/",
+			"descriptionHtml": "<p>Achieve optimal well-being and discover the harmony of body and mind with their suite of wellness offerings. Embark on a sensory voyage with a custom set of treatments tailored to you or relax and recover with a wide variety of healing massages. </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9984191921233512-8830137377796443-540by540.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9966832373430075-4393988637293176-750by540.png",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-02-15T03:29:52.077Z",
+			"updatedAt": "2026-08-06T14:17:59.233Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9966832373430075-4393988637293176-750by540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9984191921233512-8830137377796443-540by540.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9966832373430075-4393988637293176-750by540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9966832373430075-4393988637293176-750by540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9966832373430075-4393988637293176-750by540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9984191921233512-8830137377796443-540by540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9984191921233512-8830137377796443-540by540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9984191921233512-8830137377796443-540by540_high.png"
+			},
+			"searchContent": "Achieve optimal well-being and discover the harmony of body and mind with their suite of wellness offerings. Embark on a sensory voyage with a custom set of treatments tailored to you or relax and recover with a wide variety of healing massages. Four Seasons Spa Massages Treatments Premium Facials Luxury Spa Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-20T09:43:20.088Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "spa-at-four-seasons-hotel-singapore-486c2e13",
+			"outlets": [
+				{
+					"_id": "65df2e26ae244a006857c3df",
+					"name": "Four Seasons Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Four Seasons Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Spa at Four Seasons Hotel Singapore",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

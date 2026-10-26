@@ -1,0 +1,223 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/coca-c54787ec",
+	"slug": "coca-c54787ec",
+	"fetchedAt": "2026-10-26T16:23:36.932+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5c984581872a3a324c9febb7",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "5 Stadium Walk, #02-01 Leisure Park Kallang",
+				"postalCode": "397693",
+				"streetName": "Stadium Walk"
+			},
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "COCA International Singapore Co Pte Ltd",
+			"brand": "COCA",
+			"code": "COC",
+			"countryIncorporation": "Singapore",
+			"categary": "Food and Beverage",
+			"regNumber": "199200712G",
+			"description": "Originating from Bangkok, COCA Restaurant first opened its doors in Singapore in 1987 and remains known amongst Singaporean diners as an established Thai-Chinese hotpot restaurant. Take your pick from COCA’s scrumptious House Specialities such as Fish Glue, Shrimp Paste and Handmade Dumplings, along with an endless array of food offerings. Be spoilt for choice, only at COCA!\n\nParticipating Outlets:\n•\tKallang Leisure Park\n•\tNgee Ann City\n•\tSuntec City",
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 10% off Total Food Bill\n\nTerms and Conditions:\n•\tNot valid with other promotions, privileges, discount cards & third party application, whichever is applicable. \n•\tPromotion is valid for Regular buffet and ala-carte items only.\n•\tAvailable for upgrade to Premium Lunch Buffet with top-up of $19++ per pax & Premium Dinner Buffet with top-up of $21++ per pax. \n•\tBeverages are not included. \n\nFind out more: https://www.coca.com.sg/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1175977933946375-M5o6UCVs.jpg",
+			"createdAt": "2019-03-25T03:05:37.318Z",
+			"updatedAt": "2026-08-06T14:17:06.682Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6956097969544701-COCA.png",
+			"participatingOutlets": "•\tKallang Leisure Park \n•\tNgee Ann City\n•\tSuntec City",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.coca.com.sg/",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"countryCode": "SG",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=COCA\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(0, 86, 179); text-decoration: underline; background-color: transparent; cursor: pointer;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Originating from Bangkok, COCA Restaurant first opened its doors in Singapore in 1987 and remains known amongst Singaporean diners as an established Thai-Chinese hotpot restaurant. Take your pick from COCA’s scrumptious House Specialities such as Fish Glue, Shrimp Paste and Handmade Dumplings, along with an endless array of food offerings. Be spoilt for choice, only at COCA!</p>  <p>Participating Outlets:  <br> •    Suntec City</p>",
+			"shortName": "COCA",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Raffles Boulevard",
+				"Esplanade",
+				"Promenade",
+				"Stadium Walk",
+				"Chinese",
+				"Thai",
+				"Central",
+				"Hotpot",
+				"Steamboat",
+				"Mookata",
+				"Spicy",
+				"Spices",
+				"Chilli",
+				"Seafood",
+				"Raw",
+				"Buffet",
+				"Beef",
+				"Chicken",
+				"Lamb",
+				"Kallang Leisure Park",
+				"Ngee Ann City",
+				"Takashimaya",
+				"Suntec City",
+				"Suntec Boulevard",
+				"Dining",
+				"Celebrations",
+				"Gatherings",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar",
+				"FortuneFeast"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f2595add249244648b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1175977933946375-M5o6UCVs_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1175977933946375-M5o6UCVs_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1175977933946375-M5o6UCVs_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6956097969544701-COCA.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1175977933946375-M5o6UCVs.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6956097969544701-COCA_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6956097969544701-COCA_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6956097969544701-COCA_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "*Click here to Reserve A Table. Originating from Bangkok, COCA Restaurant first opened its doors in Singapore in 1987 and remains known amongst Singaporean diners as an established Thai-Chinese hotpot restaurant. Take your pick from COCA’s scrumptious House Specialities such as Fish Glue, Shrimp Paste and Handmade Dumplings, along with an endless array of food offerings. Be spoilt for choice, only at COCA! Participating Outlets: • Suntec City Orchard Road Raffles Boulevard Esplanade Promenade Stadium Walk Chinese Thai Central Hotpot Steamboat Mookata Spicy Spices Chilli Seafood Raw Buffet Beef Chicken Lamb Kallang Leisure Park Ngee Ann City Takashimaya Suntec City Suntec Boulevard Dining Celebrations Gatherings Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar FortuneFeast Dining Casual Dining Buffet",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-05-19T07:51:08.563Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "coca-c54787ec",
+			"outlets": [
+				{
+					"_id": "5c9b29156172b52a58ba4562",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "COCA",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

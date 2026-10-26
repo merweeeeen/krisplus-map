@@ -1,0 +1,160 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-plump-frenchman-3df4b67b",
+	"slug": "the-plump-frenchman-3df4b67b",
+	"fetchedAt": "2026-10-26T16:30:59.836+08:00",
+	"payload": {
+		"partner": {
+			"_id": "689b0fd983b9340467c89a8e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"French",
+				"Bistro",
+				"Rotisserie"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "ZOUK GOURMET PTE LTD",
+			"brand": "The Plump Frenchman",
+			"code": "TPF",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Plump Frenchma",
+			"address": {
+				"line1": "3C RIVER VALLEY ROAD, #02-02, CQ CLARKE QUAY",
+				"postalCode": "179022",
+				"streetName": "3C RIVER VALLEY ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"BD",
+								"FRE"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://theplumpfrenchman.com/",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=The%20Plump%20Frenchman\">Reserve A Table</a>.</p><p>The Plump Frenchman – a French-inspired bistro bringing hearty comfort and Michelin-level finesse to the heart of Singapore. Helmed by Chef Lorenz Hoja—formerly of L’Atelier de Joël Robuchon—this all-day dining spot serves up rotisserie classics and indulgent French fare with big portions, bold flavours, and a whole lot of buttered-up love.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5875006358798243-ThePlumpFrenchman.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6181767122949073-036116903348570206-TPF%20Brand%20Image%20750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5875006358798243-ThePlumpFrenchman.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6181767122949073-036116903348570206-TPF%20Brand%20Image%20750x540.jpg",
+			"createdAt": "2025-08-12T09:56:41.240Z",
+			"updatedAt": "2026-08-06T14:18:18.853Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5875006358798243-ThePlumpFrenchman_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5875006358798243-ThePlumpFrenchman_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5875006358798243-ThePlumpFrenchman_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. The Plump Frenchman – a French-inspired bistro bringing hearty comfort and Michelin-level finesse to the heart of Singapore. Helmed by Chef Lorenz Hoja—formerly of L’Atelier de Joël Robuchon—this all-day dining spot serves up rotisserie classics and indulgent French fare with big portions, bold flavours, and a whole lot of buttered-up love. French Bistro Rotisserie Dining Casual Dining Beverages & Desserts French",
+			"refundPeriodUpdatedAt": "2026-01-31T10:21:21.358Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-plump-frenchman-3df4b67b",
+			"outlets": [
+				{
+					"_id": "689befbacaf256046e44ebae",
+					"name": "Bugis"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Plump Frenchman",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

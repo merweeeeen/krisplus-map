@@ -1,0 +1,198 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/en-dining-031b7c76",
+	"slug": "en-dining-031b7c76",
+	"fetchedAt": "2026-10-26T16:25:37.218+08:00",
+	"payload": {
+		"partner": {
+			"_id": "617fb5d2b0cc1a3d7435e0ed",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Japanese Buffet",
+				"Sashimi",
+				"Highballs",
+				"Happy Hour",
+				"Shochu",
+				"Sake",
+				"Okinawa",
+				"Sushishabu Shabu",
+				"Capital Tower",
+				"Tanjong Pagar",
+				"Dining",
+				"Central",
+				"Cbd",
+				"Draft Beer",
+				"Izakaya",
+				"Robinson Road",
+				"Buffet",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "EN Dining ",
+			"brand": "En Dining",
+			"code": "END",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "EN Dining",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "160 ROBINSON ROAD, #22-04/05/06, SBF CENTER",
+				"postalCode": "068914",
+				"streetName": "160 Robinson Road"
+			},
+			"regNumber": "201709361G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/19184261316612394-Brand%20750x540.jpg",
+			"websiteUrl": "https://endining.com.sg/",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=En%20Dining\">Reserve A Table</a>.<br></p><p>EN Dining offers a multitude of Japanese dishes, be it affordable lunch sets, izakaya dishes or Okinawan delights. Quench your thirst with a wide selection of highballs, draft beers, shochu and sakes. They also offer an a la carte buffet, where you can enjoy endless fresh sashimi, sushi, hotpot shabu shabu, grilled dishes and more !</p>",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"participatingOutlets": "             ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/26943993802794397-EN%20Dining_Logo-02.png",
+			"createdAt": "2021-11-01T09:39:30.137Z",
+			"updatedAt": "2026-08-06T14:17:22.585Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.015,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "            ",
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef99d0108b03f047da58f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/19184261316612394-Brand%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/26943993802794397-EN%20Dining_Logo-02.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/19184261316612394-Brand%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/19184261316612394-Brand%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/19184261316612394-Brand%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/26943993802794397-EN%20Dining_Logo-02_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/26943993802794397-EN%20Dining_Logo-02_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/26943993802794397-EN%20Dining_Logo-02_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. EN Dining offers a multitude of Japanese dishes, be it affordable lunch sets, izakaya dishes or Okinawan delights. Quench your thirst with a wide selection of highballs, draft beers, shochu and sakes. They also offer an a la carte buffet, where you can enjoy endless fresh sashimi, sushi, hotpot shabu shabu, grilled dishes and more ! Japanese Buffet Sashimi Highballs Happy Hour Shochu Sake Okinawa Sushishabu Shabu Capital Tower Tanjong Pagar Dining Central Cbd Draft Beer Izakaya Robinson Road Buffet Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Dining Japanese Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:02:44.948Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "en-dining-031b7c76",
+			"outlets": [
+				{
+					"_id": "617fb70990ac9222a48f0f54",
+					"name": "Capital Tower"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Capital Tower"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "En Dining",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

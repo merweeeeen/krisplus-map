@@ -1,0 +1,159 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-mandarin-cake-shop-7e62370d",
+	"slug": "the-mandarin-cake-shop-7e62370d",
+	"fetchedAt": "2026-10-26T16:30:55.878+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6891a9ddcd8a450453a9bb2b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7
+				},
+				"saleOfMiles": 0.035,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Afternoon Tea",
+				"Desserts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Marina bay Hotel Pte Ltd (trading as Mandarin Oriental Singapore) (Mandarin Cake Shop)",
+			"brand": "The Mandarin Cake Shop",
+			"code": "MAC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Mandarin Cake",
+			"address": {
+				"line1": "5 Raffles Avenue Singapore 039797",
+				"postalCode": "039797",
+				"streetName": "5 Raffles Avenue",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.mandarinoriental.com/en/singapore/marina-bay/dine/the-mandarin-cake-shop",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Perfect for intimate gatherings, immerse yourself in the timeless tradition of afternoon tea within their luminous, vibrant ambience, and create cherished memories with loved ones as you savour a curation of sweets and savouries.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/31191569370290395-MOCakeShop.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/14918529035131156-529042208375031-The%20Manadarin%20Cake%20Shop_Brand%20Image_750px%20X%20540px.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/31191569370290395-MOCakeShop.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14918529035131156-529042208375031-The%20Manadarin%20Cake%20Shop_Brand%20Image_750px%20X%20540px.jpg",
+			"createdAt": "2025-08-05T06:51:09.701Z",
+			"updatedAt": "2026-08-06T14:18:18.581Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/31191569370290395-MOCakeShop_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/31191569370290395-MOCakeShop_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/31191569370290395-MOCakeShop_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:34:52.718Z",
+			"searchContent": "Perfect for intimate gatherings, immerse yourself in the timeless tradition of afternoon tea within their luminous, vibrant ambience, and create cherished memories with loved ones as you savour a curation of sweets and savouries. Afternoon Tea Desserts Dining Casual Dining Quick Bites & Snacks Beverages & Desserts",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-mandarin-cake-shop-7e62370d",
+			"outlets": [
+				{
+					"_id": "6891afecdda221044c10d6d7",
+					"name": "Mandarin Oriental"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Mandarin Oriental"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Mandarin Cake Shop",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

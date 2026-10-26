@@ -1,0 +1,193 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/azora-912932d1",
+	"slug": "azora-912932d1",
+	"fetchedAt": "2026-10-26T16:32:35.242+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6983f98480dc0e23c62842d3",
+			"name": "Azora Pte Ltd",
+			"shortName": "Azora",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Azora",
+			"code": "AZO",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7580588655641136-4913692422149747-Brand%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6125492875482224-9196998776704393-Brand%20Image-02-min.png",
+			"websiteUrl": "https://www.azora.com.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "18 BOON LAY WAY, #01-140 TRADEHUB 21, SINGAPORE 609966",
+				"postalCode": "609966",
+				"streetName": "18 BOON LAY WAY",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Azora Pte Ltd is a Singapore-based home furnishing company\n    offering a complete one-stop solution for interior décor. Founded in 2002,\n    Azora brings style and innovation to your home with a diverse range of products\n    from beautiful lighting and cutting-edge smart home solutions to elegant\n    curtains, blinds, carpets, wallpapers, skylights, and premium bathroom and\n    kitchen accessories. Discover a world of design possibilities with Azora.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>424 Balestier Road</li><li>Ark@ Gambas</li><li>Jurong Tradehub 21</li><li>Oxley Bizhub 2</li></ul>\n\n\n",
+			"searchableKeywords": [
+				"Azora",
+				"bathroom accessories",
+				"kitchen accessories",
+				"lighting",
+				"curtain",
+				"Flavio",
+				"Grohe",
+				"American Standard",
+				"Kohler",
+				"Rinnai",
+				"LED",
+				"Pendant light Renovation Retail",
+				"Rain shower",
+				"sink",
+				"tap",
+				"solar film",
+				"zip track",
+				"day curtain",
+				"night curtain",
+				"blinds",
+				"wallpaper",
+				"carpets",
+				"insect screen"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 180,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-25T07:46:02.394Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7580588655641136-4913692422149747-Brand%20Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6125492875482224-9196998776704393-Brand%20Image-02-min.png",
+			"createdAt": "2026-02-05T01:59:32.224Z",
+			"updatedAt": "2026-08-06T14:18:28.806Z",
+			"searchContent": "Azora Pte Ltd is a Singapore-based home furnishing company offering a complete one-stop solution for interior décor. Founded in 2002, Azora brings style and innovation to your home with a diverse range of products from beautiful lighting and cutting-edge smart home solutions to elegant curtains, blinds, carpets, wallpapers, skylights, and premium bathroom and kitchen accessories. Discover a world of design possibilities with Azora. Participating outlets: 424 Balestier RoadArk@ GambasJurong Tradehub 21Oxley Bizhub 2 Azora bathroom accessories kitchen accessories lighting curtain Flavio Grohe American Standard Kohler Rinnai LED Pendant light Renovation Retail Rain shower sink tap solar film zip track day curtain night curtain blinds wallpaper carpets insect screen Retail Home & Lifestyle",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6125492875482224-9196998776704393-Brand%20Image-02-min_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6125492875482224-9196998776704393-Brand%20Image-02-min_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6125492875482224-9196998776704393-Brand%20Image-02-min_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7580588655641136-4913692422149747-Brand%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7580588655641136-4913692422149747-Brand%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7580588655641136-4913692422149747-Brand%20Logo_high.png"
+			},
+			"newMerchantEndDate": "2026-05-10T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "azora-912932d1",
+			"outlets": [
+				{
+					"_id": "6983faf19695d585f4beabae",
+					"name": "Giffard Mansion"
+				},
+				{
+					"_id": "6983fb5539226e8035918e3a",
+					"name": "ARK@Gambas"
+				},
+				{
+					"_id": "6983fbd8759351b9771c1be8",
+					"name": "Tradehub 21"
+				},
+				{
+					"_id": "6983fc220724fd2b9300f4d2",
+					"name": "Oxley Bizhub 2"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Giffard Mansion",
+			"ARK@Gambas",
+			"Tradehub 21",
+			"Oxley Bizhub 2"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Azora",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

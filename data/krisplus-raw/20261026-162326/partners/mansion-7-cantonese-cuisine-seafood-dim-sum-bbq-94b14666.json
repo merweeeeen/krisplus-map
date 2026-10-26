@@ -1,0 +1,185 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mansion-7-cantonese-cuisine-seafood-dim-sum-bbq-94b14666",
+	"slug": "mansion-7-cantonese-cuisine-seafood-dim-sum-bbq-94b14666",
+	"fetchedAt": "2026-10-26T16:30:21.713+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6832c945a899ed0401c27760",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dim Sum Restaurant",
+				"Chinese Food",
+				"Singaporean Restaurant",
+				"Cantonese Restaurant",
+				"Chinese Restaurant",
+				"Bar",
+				"Singaporean Takeaway",
+				"Seafood",
+				"Happy Hour",
+				"Bbq Restaurant",
+				"Barbecue Restaurant",
+				"Roast And Grill",
+				"Food Delivery",
+				"Vegetarian Chinese Restaurant",
+				"Vegetarian Cantonese Restaurant",
+				"Traditional Cantonese Cuisine",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Mansion 7 Pte Ltd",
+			"brand": "Mansion 7 Cantonese Cuisine (Seafood, Dim Sum & BBQ)",
+			"code": "MA7",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Mansion 7",
+			"address": {
+				"line1": "30 MAXWELL ROAD #01-03",
+				"postalCode": "069114",
+				"streetName": "30 MAXWELL ROAD #01-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"FD",
+								"KID",
+								"PB",
+								"QBS",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://mansion7.sg/",
+			"descriptionHtml": "<p>A culinary oasis nestled in the vibrant and historic district of Tanjong Pagar. A gem that has been captivating the palates of food connoisseurs: Mansion 7 Cantonese Cuisine.</p><p>This acclaimed Chinese restaurant is testament to the rich heritage and exquisite flavors of Cantonese cuisine, offering an unparalleled experience that blends modern elegance with traditional authenticity.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/971529240396031-mansionseven.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/007913709847243267-8581001507610395-M7%20brand%20750.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/971529240396031-mansionseven.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/007913709847243267-8581001507610395-M7%20brand%20750.jpg",
+			"createdAt": "2025-05-25T07:39:49.091Z",
+			"updatedAt": "2026-08-06T14:18:14.703Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/007913709847243267-8581001507610395-M7%20brand%20750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/007913709847243267-8581001507610395-M7%20brand%20750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/007913709847243267-8581001507610395-M7%20brand%20750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/971529240396031-mansionseven_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/971529240396031-mansionseven_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/971529240396031-mansionseven_high.jpg"
+			},
+			"searchContent": "A culinary oasis nestled in the vibrant and historic district of Tanjong Pagar. A gem that has been captivating the palates of food connoisseurs: Mansion 7 Cantonese Cuisine. This acclaimed Chinese restaurant is testament to the rich heritage and exquisite flavors of Cantonese cuisine, offering an unparalleled experience that blends modern elegance with traditional authenticity. Dim Sum Restaurant Chinese Food Singaporean Restaurant Cantonese Restaurant Chinese Restaurant Bar Singaporean Takeaway Seafood Happy Hour Bbq Restaurant Barbecue Restaurant Roast And Grill Food Delivery Vegetarian Chinese Restaurant Vegetarian Cantonese Restaurant Traditional Cantonese Cuisine FortuneFeast Dining Cafe Casual Dining Fine Dining Kid-Friendly Pubs & Bars Quick Bites & Snacks Beverages & Desserts Chinese Asian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-19T00:58:40.257Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mansion-7-cantonese-cuisine-seafood-dim-sum-bbq-94b14666",
+			"outlets": [
+				{
+					"_id": "6832cc118b995b14fe965702",
+					"name": "Maxwell Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Maxwell Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Mansion 7 Cantonese Cuisine (Seafood, Dim Sum & BBQ)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

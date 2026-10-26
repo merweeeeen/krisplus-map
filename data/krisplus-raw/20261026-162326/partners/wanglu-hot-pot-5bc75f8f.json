@@ -1,0 +1,204 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/wanglu-hot-pot-5bc75f8f",
+	"slug": "wanglu-hot-pot-5bc75f8f",
+	"fetchedAt": "2026-10-26T16:33:51.265+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a5dd1e80ddd7b277bc30f99",
+			"name": "WANG LU PTE LTD",
+			"shortName": "Wanglu Hot Pot",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Wanglu Hot Pot",
+			"code": "WLU",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5810291768821751-2996052850108415-Wanglu%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4673439198138394-4474048170110916-Brand%20image%20(3).png",
+			"websiteUrl": "https://www.wangluhotpot.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "9 LEEDON HEIGHTS  #01-26",
+				"postalCode": "267954",
+				"streetName": "D'LEEDON",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Wanglu Hot Pot began with a small restaurant space and gained popularity with its indivdual pot and reasonably priced dishes. The brand gained not just a local fan base, but an international crowd who are appreciative of Singapore local hot pot delights.</span></p><p>Participating outlets:<br>- Causeway point<br>- Guoco Tower<br>- Hillion Mall<br>- Jurong Point<br>- Raffles Place<br>- Sengkang Grand Mall<br>- Waterway Point</p>",
+			"searchableKeywords": [
+				"Hotpot",
+				"huoguo",
+				"steamboat",
+				"soup",
+				"family",
+				"dining",
+				"lunch",
+				"dinner"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-10-11T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 7
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-20T07:44:40.580Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5810291768821751-2996052850108415-Wanglu%20Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4673439198138394-4474048170110916-Brand%20image%20(3).png",
+			"createdAt": "2026-07-20T07:44:40.584Z",
+			"updatedAt": "2026-08-11T09:21:39.621Z",
+			"searchContent": "Wanglu Hot Pot began with a small restaurant space and gained popularity with its indivdual pot and reasonably priced dishes. The brand gained not just a local fan base, but an international crowd who are appreciative of Singapore local hot pot delights. Participating outlets: - Causeway point - Guoco Tower - Hillion Mall - Jurong Point - Raffles Place - Sengkang Grand Mall - Waterway Point Hotpot huoguo steamboat soup family dining lunch dinner Dining Casual Dining Kid-Friendly Beverages & Desserts Chinese Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4673439198138394-4474048170110916-Brand%20image%20(3)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4673439198138394-4474048170110916-Brand%20image%20(3)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4673439198138394-4474048170110916-Brand%20image%20(3)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5810291768821751-2996052850108415-Wanglu%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5810291768821751-2996052850108415-Wanglu%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5810291768821751-2996052850108415-Wanglu%20Logo_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "wanglu-hot-pot-5bc75f8f",
+			"outlets": [
+				{
+					"_id": "6a5ddbfb7d1c166084043581",
+					"name": "Hillion Mall"
+				},
+				{
+					"_id": "6a5ddc6b3e736763617523a3",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "6a5ddcdcb02dd6e778baff44",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "6a5ddd6c86bcb8c595e29458",
+					"name": "Raffles Place"
+				},
+				{
+					"_id": "6a5ddf237d1c166084043ce8",
+					"name": "Sengkang Grand Mall"
+				},
+				{
+					"_id": "6a5ddfcaaab71536dc0dfc5a",
+					"name": "Guoco Tower"
+				},
+				{
+					"_id": "6a5de05e86bcb8c595e29ce0",
+					"name": "Waterway Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Hillion Mall",
+			"Causeway Point",
+			"Jurong Point",
+			"Raffles Place",
+			"Sengkang Grand Mall",
+			"Guoco Tower",
+			"Waterway Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Wanglu Hot Pot",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

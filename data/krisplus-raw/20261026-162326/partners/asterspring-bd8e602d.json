@@ -1,0 +1,200 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/asterspring-bd8e602d",
+	"slug": "asterspring-bd8e602d",
+	"fetchedAt": "2026-10-26T16:32:52.194+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69ba47ddd96c099a90981161",
+			"name": "AsterSpring International (S) Pte Ltd",
+			"shortName": "AsterSpring",
+			"mccCode": "7298",
+			"mccDescription": "undefined",
+			"brand": "AsterSpring",
+			"code": "AER",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5785375128146473-3756181647543768-Kris%2B%20-%20Brand%20Logo%20(260x260).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16520635420708918-655437970598046-Kris%2B%20-%20Brand%20Image%20(750x540).png",
+			"websiteUrl": "https://www.asterspring.com.sg",
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "60 Paya Lebar Road #09-30",
+				"postalCode": "409051",
+				"streetName": "Paya Lebar Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Since 1984, AsterSpring has treated more than 10 million\n    faces, combining the expertise of its highly trained and certified professional\n    skincare therapists with advanced technology and world-leading products to\n    deliver effective, safe, and personalised solutions.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; font-family: Aptos, sans-serif; line-height: normal; font-size: 15px;\">Participating outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>Compass One </li><li>JEM</li><li>NEX</li><li>One Holland Village</li><li>Parkway Parade</li><li>Pasir Ris Mall</li><li>Plaza Singapura</li><li>Northpoint City</li><li><span style=\"line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">United Square</span></li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"searchableKeywords": [
+				"Facials",
+				"skincare",
+				"skin treatments",
+				"treatments"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-06-10T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 9
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-03-18T06:36:13.560Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5785375128146473-3756181647543768-Kris%2B%20-%20Brand%20Logo%20(260x260).png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16520635420708918-655437970598046-Kris%2B%20-%20Brand%20Image%20(750x540).png",
+			"createdAt": "2026-03-18T06:36:13.796Z",
+			"updatedAt": "2026-09-30T16:00:01.090Z",
+			"searchContent": "Since 1984, AsterSpring has treated more than 10 million faces, combining the expertise of its highly trained and certified professional skincare therapists with advanced technology and world-leading products to deliver effective, safe, and personalised solutions. Participating outlets: Compass One JEMNEXOne Holland VillageParkway ParadePasir Ris MallPlaza SingapuraNorthpoint CityUnited Square Facials skincare skin treatments treatments Wellness Beauty Treatment & Spa",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16520635420708918-655437970598046-Kris%2B%20-%20Brand%20Image%20(750x540)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16520635420708918-655437970598046-Kris%2B%20-%20Brand%20Image%20(750x540)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16520635420708918-655437970598046-Kris%2B%20-%20Brand%20Image%20(750x540)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5785375128146473-3756181647543768-Kris%2B%20-%20Brand%20Logo%20(260x260)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5785375128146473-3756181647543768-Kris%2B%20-%20Brand%20Logo%20(260x260)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5785375128146473-3756181647543768-Kris%2B%20-%20Brand%20Logo%20(260x260)_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "asterspring-bd8e602d",
+			"outlets": [
+				{
+					"_id": "69ba492ec296d13144eabf5b",
+					"name": "CompassOne"
+				},
+				{
+					"_id": "69ba49686c66f513ea1a32aa",
+					"name": "NEX"
+				},
+				{
+					"_id": "69ba499b1a1ebf3c01a31cc4",
+					"name": "JEM"
+				},
+				{
+					"_id": "69ba49d96c66f513ea1a3363",
+					"name": "One Holland Village"
+				},
+				{
+					"_id": "69ba4a1e4e610e961450286c",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "69ba4b1b04b264784a61d3c9",
+					"name": "Pasir Ris Mall"
+				},
+				{
+					"_id": "69ba4b5704b264784a61d44f",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "69ba4b8431611558b49f952b",
+					"name": "United Square"
+				},
+				{
+					"_id": "69ba4bbd6c66f513ea1a350c",
+					"name": "Northpoint City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"CompassOne",
+			"NEX",
+			"JEM",
+			"One Holland Village",
+			"Parkway Parade",
+			"Pasir Ris Mall",
+			"Plaza Singapura",
+			"United Square",
+			"Northpoint City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "AsterSpring",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

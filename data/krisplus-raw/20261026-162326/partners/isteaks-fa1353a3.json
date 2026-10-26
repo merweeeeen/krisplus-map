@@ -1,0 +1,212 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/isteaks-fa1353a3",
+	"slug": "isteaks-fa1353a3",
+	"fetchedAt": "2026-10-26T16:27:40.525+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6435004435c079005cc50d37",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Steaks",
+				"Seafood",
+				"Pasta",
+				"Grilled Chicken",
+				"Western",
+				"Dining",
+				"Jem",
+				"Jurong",
+				"Jurong East",
+				"Myvillage",
+				"Maju Avenue",
+				"Serangoon Gardens",
+				"The Star Vista",
+				"Buona Vista",
+				"Suntec City",
+				"Promenade",
+				"Esplanade",
+				"Tampines 1",
+				"Tampines One",
+				"Dates",
+				"Lunch",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "HSG Pte Ltd",
+			"brand": "iSTEAKS",
+			"code": "ITS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "iSTEAKS",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "62 Burn Road #03-01 Shenguan Building Singapore 369976",
+				"postalCode": "369976",
+				"streetName": "62 Burn Road"
+			},
+			"regNumber": "201131704D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6119852627571736-8140582030312895-Brand_Striploin_750.jpg",
+			"websiteUrl": "https://www.isteaksdiner.com/home",
+			"descriptionHtml": "<p>iSTEAKS started from humble beginnings at a coffeeshop in Serangoon, where they took time to hone their craft in cooking steak. Even with their growing number of satisfied customers, they retain the same warm and familiar service environment.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>JEM</li>\n\t<li>My Village</li>\n\t<li>Star Vista</li>\n\t<li>Suntec City</li>\n\t<li>Tampines 1</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/32107662380453994-10529001555187434-Logo%20Square.jpg",
+			"createdAt": "2023-04-11T06:37:56.319Z",
+			"updatedAt": "2026-08-06T14:17:43.751Z",
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef942595add249244642f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6119852627571736-8140582030312895-Brand_Striploin_750.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/32107662380453994-10529001555187434-Logo%20Square.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6119852627571736-8140582030312895-Brand_Striploin_750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6119852627571736-8140582030312895-Brand_Striploin_750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6119852627571736-8140582030312895-Brand_Striploin_750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/32107662380453994-10529001555187434-Logo%20Square_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/32107662380453994-10529001555187434-Logo%20Square_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/32107662380453994-10529001555187434-Logo%20Square_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:01:34.079Z",
+			"searchContent": "iSTEAKS started from humble beginnings at a coffeeshop in Serangoon, where they took time to hone their craft in cooking steak. Even with their growing number of satisfied customers, they retain the same warm and familiar service environment. Participating Outlets: JEM My Village Star Vista Suntec City Tampines 1 Steaks Seafood Pasta Grilled Chicken Western Dining Jem Jurong Jurong East Myvillage Maju Avenue Serangoon Gardens The Star Vista Buona Vista Suntec City Promenade Esplanade Tampines 1 Tampines One Dates Lunch Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Western",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "isteaks-fa1353a3",
+			"outlets": [
+				{
+					"_id": "6435079a59ffd9005c885abd",
+					"name": "My Village"
+				},
+				{
+					"_id": "643507f2807912005ceb185e",
+					"name": "JEM"
+				},
+				{
+					"_id": "6435084597ac2d005c996829",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "64350892ab1f77005c9d7797",
+					"name": "The Star Vista"
+				},
+				{
+					"_id": "643508d5f5f2bf005c2fe39b",
+					"name": "Suntec City - North Atrium"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"My Village",
+			"JEM",
+			"Tampines 1",
+			"The Star Vista",
+			"Suntec City - North Atrium"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "iSTEAKS",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

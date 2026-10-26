@@ -1,0 +1,188 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-dempsey-project-f154e0ac",
+	"slug": "the-dempsey-project-f154e0ac",
+	"fetchedAt": "2026-10-26T16:31:34.773+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68f9d997cbc50504749a11f7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Dempsey Hill",
+				"Cheese Room",
+				"Deli",
+				"Pizza",
+				"Pet Friendly",
+				"Specialty Coffee",
+				"Brunch",
+				"All Day Dining",
+				"Gourmet Pantry",
+				"Vegan",
+				"Vegetarian",
+				"Retail",
+				"Gluten Free",
+				"Bakery",
+				"Hampers",
+				"Corporate Gifting",
+				"Private Events"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "FRESH BAY (S) INVESTMENTS PTE LTD",
+			"brand": "The Dempsey Project",
+			"code": "DPJ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Dempsey Projec",
+			"address": {
+				"line1": "9 DEMPSEY ROAD  #01-12",
+				"postalCode": "247697",
+				"streetName": "9 DEMPSEY ROAD  #01-12",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"WES",
+								"EUR",
+								"ITA"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://thedempseyproject.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">An all-day dining destination in the heart of Dempsey offering globally inspired food in a relaxed communal space and a pet-friendly veranda. The Dempsey Project caters to a variety of dietary needs with over 35 gluten-free, 50 vegetarian and 15 vegan options. Guests can explore its Walk-In Cheese Room & Deli and select from a curated pantry of award-winning fine foods sourced from around the world.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4197099927878374-TheDempseyProject.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3816210244752054-8200617803278236-Brand%20Image%20(5).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4197099927878374-TheDempseyProject.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3816210244752054-8200617803278236-Brand%20Image%20(5).jpg",
+			"createdAt": "2025-10-23T07:30:31.944Z",
+			"updatedAt": "2026-08-06T14:18:23.496Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3816210244752054-8200617803278236-Brand%20Image%20(5)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3816210244752054-8200617803278236-Brand%20Image%20(5)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3816210244752054-8200617803278236-Brand%20Image%20(5)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4197099927878374-TheDempseyProject_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4197099927878374-TheDempseyProject_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4197099927878374-TheDempseyProject_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-11-03T01:24:45.085Z",
+			"searchContent": "An all-day dining destination in the heart of Dempsey offering globally inspired food in a relaxed communal space and a pet-friendly veranda. The Dempsey Project caters to a variety of dietary needs with over 35 gluten-free, 50 vegetarian and 15 vegan options. Guests can explore its Walk-In Cheese Room & Deli and select from a curated pantry of award-winning fine foods sourced from around the world. Dempsey Hill Cheese Room Deli Pizza Pet Friendly Specialty Coffee Brunch All Day Dining Gourmet Pantry Vegan Vegetarian Retail Gluten Free Bakery Hampers Corporate Gifting Private Events Dining Vegan-Friendly Vegetarian-Friendly Cafe Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Western European Italian",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-dempsey-project-f154e0ac",
+			"outlets": [
+				{
+					"_id": "68f9dcd1212ebe046e965cc2",
+					"name": "Dempsey Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Dempsey Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Dempsey Project",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

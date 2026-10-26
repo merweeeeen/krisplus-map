@@ -1,0 +1,220 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/st-gregory-pan-pacific-singapore-df986640",
+	"slug": "st-gregory-pan-pacific-singapore-df986640",
+	"fetchedAt": "2026-10-26T16:25:00.188+08:00",
+	"payload": {
+		"partner": {
+			"_id": "608135591e657c477007268b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "St. Gregory Spa Pan Pacific Singapore",
+			"brand": "St. Gregory (Pan Pacific Singapore)",
+			"code": "SGS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "St. Gregory  ",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "7 Raffles Boulevard, Pan Pacific Singapore",
+				"postalCode": "039595",
+				"streetName": "Raffles Boulevard"
+			},
+			"regNumber": "28631800L",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/30276549520311313-3796475680361566-STGREG_2.jpg",
+			"websiteUrl": "https://www.panpacific.com/en/hotels-and-resorts/pp-marina/facilities/st-gregory.html",
+			"descriptionHtml": "<p>Retreat into the tranquil environment of award-winning St. Gregory spa for the ultimate relaxation. Choose from a range of traditional therapies, rejuvenating facials, and relaxing massages that will leave you feeling refreshed.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5643426290398668-7477016867448063-Brand%20Logo%20(1000%20x%201000px).jpg",
+			"createdAt": "2021-04-22T08:35:37.971Z",
+			"updatedAt": "2026-09-22T01:30:51.748Z",
+			"searchableKeywords": [
+				"Raffles Boulevard",
+				"Promenade",
+				"Esplanade",
+				"Relaxation",
+				"Chinatown",
+				"Medical",
+				"Rehabilitation",
+				"Beauty",
+				"Lifestyle",
+				"Sensual",
+				"Body",
+				"Touch",
+				"Treatments",
+				"Spa",
+				"Wellness",
+				"Massage",
+				"Tension",
+				"Stress Release",
+				"Immunity",
+				"Circulatory",
+				"Pain Management",
+				"Facial",
+				"Adjustment",
+				"Rejuvenating",
+				"Therapy",
+				"Refreshed",
+				"Couples",
+				"Parkroyal",
+				"Services",
+				"Face",
+				"Body",
+				"Spa",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "       ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c10108b03f047da5a5"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/30276549520311313-3796475680361566-STGREG_2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5643426290398668-7477016867448063-Brand%20Logo%20(1000%20x%201000px).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/30276549520311313-3796475680361566-STGREG_2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/30276549520311313-3796475680361566-STGREG_2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/30276549520311313-3796475680361566-STGREG_2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5643426290398668-7477016867448063-Brand%20Logo%20(1000%20x%201000px)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5643426290398668-7477016867448063-Brand%20Logo%20(1000%20x%201000px)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5643426290398668-7477016867448063-Brand%20Logo%20(1000%20x%201000px)_high.jpg"
+			},
+			"searchContent": "Retreat into the tranquil environment of award-winning St. Gregory spa for the ultimate relaxation. Choose from a range of traditional therapies, rejuvenating facials, and relaxing massages that will leave you feeling refreshed. Raffles Boulevard Promenade Esplanade Relaxation Chinatown Medical Rehabilitation Beauty Lifestyle Sensual Body Touch Treatments Spa Wellness Massage Tension Stress Release Immunity Circulatory Pain Management Facial Adjustment Rejuvenating Therapy Refreshed Couples Parkroyal Services Face Body Spa Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Treatment Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T08:26:56.055Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "st-gregory-pan-pacific-singapore-df986640",
+			"outlets": [
+				{
+					"_id": "6093948148f83e10fcacc62e",
+					"name": "Pan Pacific Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pan Pacific Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "St. Gregory (Pan Pacific Singapore)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

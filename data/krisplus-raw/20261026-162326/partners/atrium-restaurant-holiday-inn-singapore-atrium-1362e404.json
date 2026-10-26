@@ -1,0 +1,202 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/atrium-restaurant-holiday-inn-singapore-atrium-1362e404",
+	"slug": "atrium-restaurant-holiday-inn-singapore-atrium-1362e404",
+	"fetchedAt": "2026-10-26T16:24:35.993+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5fc83a3454f75f7814953c52",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Atrium Restaurant ",
+			"brand": "Atrium Restaurant - Holiday Inn Singapore Atrium",
+			"code": "ATM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "AtriumRestaura",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "317 Outram Road, Concorde Shopping Centre",
+				"postalCode": "169075",
+				"streetName": "Outram Road"
+			},
+			"regNumber": "40516800D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2953054357908669-Buffet%20Photo_750x540px.jpg",
+			"websiteUrl": "https://www.singaporeatrium.holidayinn.com",
+			"description": "",
+			"descriptionHtml": "<p class=\"MsoNormal\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"></em>Dine at the halal-certified Atrium Restaurant that offers ala carte buffet. From Laksa to Chili Crab to Roti Prata, have your food served to you at your table. </p>  <p> <br></p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3765593250612502-Atrium%20Restaurant%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h).png",
+			"createdAt": "2020-12-03T01:07:00.338Z",
+			"updatedAt": "2026-08-06T14:17:12.104Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Holiday Inn Singapore Atrium\n317 Outram Road\nSingapore 169075",
+			"promotional": "Halal-certified a la carte buffet at Atrium Restaurant.",
+			"searchableKeywords": [
+				"Havelock Road",
+				"Tiong Bahru",
+				"International",
+				"Buffet",
+				"Holiday Inn",
+				"Dining",
+				"Western",
+				"Chinese",
+				"Japanese",
+				"Korean",
+				"Peranakan",
+				"Indian",
+				"Cuisine",
+				"Seafood",
+				"Holiday Inn Atrium",
+				"Outram",
+				"Halal",
+				"Reunion",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d2034603c3389299b1"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2953054357908669-Buffet%20Photo_750x540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3765593250612502-Atrium%20Restaurant%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2953054357908669-Buffet%20Photo_750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2953054357908669-Buffet%20Photo_750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2953054357908669-Buffet%20Photo_750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3765593250612502-Atrium%20Restaurant%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3765593250612502-Atrium%20Restaurant%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3765593250612502-Atrium%20Restaurant%20KrisPay%20App%20Logo%201000%20pixels(w)%20x%201000%20pixels(h)_high.png"
+			},
+			"searchContent": "Dine at the halal-certified Atrium Restaurant that offers ala carte buffet. From Laksa to Chili Crab to Roti Prata, have your food served to you at your table. Havelock Road Tiong Bahru International Buffet Holiday Inn Dining Western Chinese Japanese Korean Peranakan Indian Cuisine Seafood Holiday Inn Atrium Outram Halal Reunion Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Dining Halal Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-05T09:20:33.348Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "atrium-restaurant-holiday-inn-singapore-atrium-1362e404",
+			"outlets": [
+				{
+					"_id": "5fd03497b0d01d6e441ff380",
+					"name": "Holiday Inn Singapore Atrium"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Holiday Inn Singapore Atrium"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Atrium Restaurant - Holiday Inn Singapore Atrium",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

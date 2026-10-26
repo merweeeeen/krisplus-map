@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/spa-rael-6c693d2e",
+	"slug": "spa-rael-6c693d2e",
+	"fetchedAt": "2026-10-26T16:28:54.617+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66c7f4215f9e10006be90f4d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Sparael",
+				"Spa",
+				"Spafacial",
+				"Facial",
+				"Bodymassage",
+				"Massage",
+				"Spamassage",
+				"Awardwinningspa",
+				"Selfcare"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "RAEL PTE LTD",
+			"brand": "Spa Rael",
+			"code": "1SR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Spa Rael",
+			"address": {
+				"line1": "159 Sin Ming Road, Amtech Building, #05-06, Singapore 575625",
+				"postalCode": "575625",
+				"streetName": "159 Sin Ming Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://sparael.com.sg",
+			"descriptionHtml": "<p>A tranquil oasis situated away from the hectic city, Spa Rael is the quintessential blend of nature and luxury. The privacy afforded by this idyllic spa retreat is the ideal space to indulge and unwind. Apart from the botanical beauty of the spa, the wide array of body and face treatments will soothe your senses, heal your mind and invigorate your body. </p>\n\n<p>Participating Outlets:​​​​​​</p>\n\n<ul>\n\t<li>​​​​​​​Goodwood Park</li>\n\t<li>One 15 Marina Club                                                                                                                                        </li>\n</ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3818307562111072-06283471368809734-SR-Logo_1000x1000.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9766136717938776-5022533023200211-Brand_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"createdAt": "2024-08-23T02:29:53.963Z",
+			"updatedAt": "2026-08-06T14:18:06.312Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9766136717938776-5022533023200211-Brand_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3818307562111072-06283471368809734-SR-Logo_1000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9766136717938776-5022533023200211-Brand_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9766136717938776-5022533023200211-Brand_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9766136717938776-5022533023200211-Brand_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3818307562111072-06283471368809734-SR-Logo_1000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3818307562111072-06283471368809734-SR-Logo_1000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3818307562111072-06283471368809734-SR-Logo_1000x1000_high.png"
+			},
+			"searchContent": "A tranquil oasis situated away from the hectic city, Spa Rael is the quintessential blend of nature and luxury. The privacy afforded by this idyllic spa retreat is the ideal space to indulge and unwind. Apart from the botanical beauty of the spa, the wide array of body and face treatments will soothe your senses, heal your mind and invigorate your body. Participating Outlets:​​​​​​ ​​​​​​​Goodwood Park One 15 Marina Club Sparael Spa Spafacial Facial Bodymassage Massage Spamassage Awardwinningspa Selfcare Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:18:18.794Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "spa-rael-6c693d2e",
+			"outlets": [
+				{
+					"_id": "66c7f6e52c3eee0069776386",
+					"name": "Goodwood Park Hotel"
+				},
+				{
+					"_id": "66c7fc595f9e10006be91ed3",
+					"name": "Amara Sanctuary Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Goodwood Park Hotel",
+			"Amara Sanctuary Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Spa Rael",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

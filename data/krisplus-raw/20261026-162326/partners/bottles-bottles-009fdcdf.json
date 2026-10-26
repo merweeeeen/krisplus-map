@@ -1,0 +1,279 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bottles-bottles-009fdcdf",
+	"slug": "bottles-bottles-009fdcdf",
+	"fetchedAt": "2026-10-26T16:23:42.969+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5d39075a53504616006248fb",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Bottles & Bottles Pte Ltd",
+			"brand": "Bottles & Bottles",
+			"code": "BNB",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "10 Changi South Street 3, , #04-05",
+				"postalCode": "486147",
+				"streetName": "Changi South Street"
+			},
+			"categary": "Food and Beverage",
+			"regNumber": "200410083E",
+			"promotional": "KrisPay Exclusive Promotion: \n10% discount off all products when you flash the KrisPay app at the point of purchase \n\nTerms & Conditions: \n•\tApplicable to regular priced items (black tags) only\n\nFind out more: https://www.bottlesandbottles.com.sg/\n",
+			"description": "",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9946138196494945-Bottles%20Logo.png",
+			"createdAt": "2019-07-25T01:35:22.189Z",
+			"updatedAt": "2026-09-01T01:54:48.216Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.33,
+				"saleOfMiles": 0.027,
+				"amountBlock": 3,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0.9
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"loyaltyProgram": {
+				"name": " ",
+				"pointName": " ",
+				"logoPath": " ",
+				"description": " ",
+				"tncLink": " ",
+				"loginUrl": " "
+			},
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-cf52bfe2-8e6b-4795-81f4-71f6e60afa5c.jpg",
+			"participatingOutlets": "•\tChangi Airport T3\n•      Jewel Changi Airport\n•\tMarina One\n•\tOne Raffles Place \n•\tParkway Parade\n•\tTampines 1\n•\tThe Centrepoint\n•\tTudor Court",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.bottlesandbottles.com.sg/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5921",
+			"mccDescription": "Package Stores - Beer, Wine, and Liquor",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "BnB",
+			"descriptionHtml": "<p>Bottles & Bottles is a homegrown wine retailer since 2004, boasting a wide variety of the finest wines worldwide. With a forte in being a mall retailer that reaches consumers directly with products that appeal to their lifestyles, the company has seen continued growth in the industry. Bottles & Bottles is a favourite amongst locals and tourists.<br> ​​​​​​​<br> Participating Outlets:</p>  <ul> \t \t<li>Great World</li> \t<li>Guoco Tower</li> \t \t<li>One Raffles Place </li> \t<li>One Holland Village</li> \t<li>Parkway Parade</li> \t<li>Tampines 1</li> \t<li>The Centrepoint</li> \t<li>The Woodleigh Mall</li> \t<li>Tudor Court</li> \t<li>VivoCity</li> </ul>",
+			"searchableKeywords": [
+				"Changi Airport",
+				"Marine Parade",
+				"Orchard",
+				"Raffles Place",
+				"Vivocity",
+				"Tampines",
+				"Tanglin",
+				"Retail",
+				"Wine",
+				"Beer",
+				"Living",
+				"East",
+				"Distributor",
+				"Rioja",
+				"Chateau",
+				"Bordeaux",
+				"Riesling",
+				"Warehouse",
+				"Wine Seller",
+				"Wein",
+				"Vino",
+				"Wijn",
+				"New World Wine",
+				"Old World Wine",
+				"Australia",
+				"France",
+				"Spain",
+				"German",
+				"New Zealand",
+				"Cellar",
+				"Organic Wine",
+				"White Wine",
+				"Red Wine",
+				"Rose Wine",
+				"Champagne",
+				"Cava",
+				"Prosecco",
+				"Airport Boulevard",
+				"Terminal 3",
+				"Bottles By 8",
+				"Tudor Court",
+				"Centerpoint",
+				"One Raffles Place",
+				"Parkway Parade",
+				"Tampines 1",
+				"Jewel",
+				"Alcohol",
+				"Lifestyle",
+				"Spirits",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f0b35256c5b2c9bf2a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-cf52bfe2-8e6b-4795-81f4-71f6e60afa5c.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9946138196494945-Bottles%20Logo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-cf52bfe2-8e6b-4795-81f4-71f6e60afa5c_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-cf52bfe2-8e6b-4795-81f4-71f6e60afa5c_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-cf52bfe2-8e6b-4795-81f4-71f6e60afa5c_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9946138196494945-Bottles%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9946138196494945-Bottles%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9946138196494945-Bottles%20Logo_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-06T01:26:30.702Z",
+			"searchContent": "Bottles & Bottles is a homegrown wine retailer since 2004, boasting a wide variety of the finest wines worldwide. With a forte in being a mall retailer that reaches consumers directly with products that appeal to their lifestyles, the company has seen continued growth in the industry. Bottles & Bottles is a favourite amongst locals and tourists. ​​​​​​​ Participating Outlets: Great World Guoco Tower One Raffles Place One Holland Village Parkway Parade Tampines 1 The Centrepoint The Woodleigh Mall Tudor Court VivoCity Changi Airport Marine Parade Orchard Raffles Place Vivocity Tampines Tanglin Retail Wine Beer Living East Distributor Rioja Chateau Bordeaux Riesling Warehouse Wine Seller Wein Vino Wijn New World Wine Old World Wine Australia France Spain German New Zealand Cellar Organic Wine White Wine Red Wine Rose Wine Champagne Cava Prosecco Airport Boulevard Terminal 3 Bottles By 8 Tudor Court Centerpoint One Raffles Place Parkway Parade Tampines 1 Jewel Alcohol Lifestyle Spirits Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Retail Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": null,
+			"slugId": "bottles-bottles-009fdcdf",
+			"outlets": [
+				{
+					"_id": "5d3eb90669edb12210fb3a49",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "5d3eb9734ad4592b8c769b46",
+					"name": "One Raffles Place"
+				},
+				{
+					"_id": "5d3eb9e93b57bd2040b0def3",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "5d3eba28820dbc3f040d6743",
+					"name": "The Centrepoint"
+				},
+				{
+					"_id": "5d3eba8b3360263bf05a5cea",
+					"name": "Tudor Court"
+				},
+				{
+					"_id": "5df34cdffcafde46c0e6e01e",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "6226dc598d3a10180c8d7c60",
+					"name": "Great World"
+				},
+				{
+					"_id": "657bd078e55707004feae9bd",
+					"name": "One Holland Village "
+				},
+				{
+					"_id": "657bd0a3de310900542af826",
+					"name": "Guoco Tower"
+				},
+				{
+					"_id": "690bf9d0aa29064d2bb7fdd4",
+					"name": "PLQ Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Parkway Parade",
+			"One Raffles Place",
+			"Tampines 1",
+			"The Centrepoint",
+			"Tudor Court",
+			"VivoCity",
+			"Great World",
+			"One Holland Village ",
+			"Guoco Tower",
+			"PLQ Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 3,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bottles & Bottles",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 3 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

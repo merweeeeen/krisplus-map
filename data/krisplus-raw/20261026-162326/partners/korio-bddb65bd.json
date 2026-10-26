@@ -1,0 +1,168 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/korio-bddb65bd",
+	"slug": "korio-bddb65bd",
+	"fetchedAt": "2026-10-26T16:30:04.662+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67e4c710a7340034c86fb497",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Sandwich",
+				"Donuts",
+				"Café",
+				"Western",
+				"Deli"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Zouk Korio Pte Ltd",
+			"brand": "Korio",
+			"code": "ZKO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Korio",
+			"address": {
+				"city": "Singapore",
+				"line1": "3C RIVER VALLEY ROAD #02-02",
+				"streetName": "3C RIVER VALLEY ROAD",
+				"postalCode": "179022",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"QBS"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"websiteUrl": "https://korio.atlas.kitchen/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Artisanal Sandwiches and Donuts, made to perfection.<br><br>Participating Outlets:<br>- IOI Central Boulevard Towers<br>- Guoco Midtown II (Bugis)</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/705201799711114-korio.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/31629721270907085-5620613716381557-korio%20750.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/705201799711114-korio.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/31629721270907085-5620613716381557-korio%20750.png",
+			"createdAt": "2025-03-27T03:33:36.793Z",
+			"updatedAt": "2026-08-06T14:18:13.275Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/31629721270907085-5620613716381557-korio%20750_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/31629721270907085-5620613716381557-korio%20750_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/31629721270907085-5620613716381557-korio%20750_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/705201799711114-korio_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/705201799711114-korio_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/705201799711114-korio_high.png"
+			},
+			"searchContent": "Artisanal Sandwiches and Donuts, made to perfection. Participating Outlets: - IOI Central Boulevard Towers - Guoco Midtown II (Bugis) Sandwich Donuts Café Western Deli Dining Quick Bites & Snacks",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "korio-bddb65bd",
+			"outlets": [
+				{
+					"_id": "67e4f8798bc4b204169f2325",
+					"name": "IOI Central Boulevard Towers"
+				},
+				{
+					"_id": "68888f730ea1f7040915ca1c",
+					"name": "Guoco Midtown II"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"IOI Central Boulevard Towers",
+			"Guoco Midtown II"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Korio",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

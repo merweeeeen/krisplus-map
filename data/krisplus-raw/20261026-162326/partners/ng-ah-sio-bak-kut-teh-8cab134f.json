@@ -1,0 +1,195 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ng-ah-sio-bak-kut-teh-8cab134f",
+	"slug": "ng-ah-sio-bak-kut-teh-8cab134f",
+	"fetchedAt": "2026-10-26T16:28:24.485+08:00",
+	"payload": {
+		"partner": {
+			"_id": "659cc3ba63f5d6004d339655",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Ng Ah Sio",
+				"Ah Sio",
+				"Bak Kut Teh",
+				"Bakkutteh",
+				"Pork Rib Soup",
+				"Pork Ribs Soup",
+				"Peppery Soup",
+				"Pepper Soup",
+				"Teochew Soup",
+				"Singapore Soup",
+				"Rangoon Road",
+				"Bak Teh",
+				"Bak Kut",
+				"Song Fa",
+				"Pork Bone Soup",
+				"Teochew Bak Kut Teh",
+				"Jumbo",
+				"Leshrimp",
+				"Lenu",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"659cc3c41c214957f36a0460"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "JUMBO GROUP OF RESTAURANTS PTE LTD -NG AH SIO Bak Kut Teh",
+			"brand": "NG AH SIO Bak Kut Teh",
+			"code": "NAS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "NG AH SIO",
+			"address": {
+				"line1": "4 Kaki Bukit Avenue 1  #03-08  Singapore 417939",
+				"postalCode": "417939",
+				"streetName": "4 Kaki Bukit Avenue 1",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "199403639K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/19812778732889025-nas2.jpg",
+			"websiteUrl": "https://www.ngahsio.com",
+			"descriptionHtml": "<p>From a street stall selling Teochew-style pork rib soup in 1955, the fame of NG AH SIO's Bak Kut Teh has spread far and wide. The eatery was moved to Rangoon Road in 1988, and the heritage brand has since served numerous bowls of tender, juicy pork ribs slow cooked in a heartwarmingly aromatic soup.</p>\n\n\n\n<p>Participating Outlets:<br>\n    •    Rangoon Road<br>\n    •    Clarke Quay Central <br>\n    •    Tai Seng\n</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/16429831840581932-NAS%20Logo%20464%20x%20270.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"createdAt": "2024-01-09T03:55:38.929Z",
+			"updatedAt": "2026-09-23T08:13:04.744Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/19812778732889025-nas2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16429831840581932-NAS%20Logo%20464%20x%20270.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/19812778732889025-nas2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/19812778732889025-nas2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/19812778732889025-nas2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16429831840581932-NAS%20Logo%20464%20x%20270_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16429831840581932-NAS%20Logo%20464%20x%20270_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16429831840581932-NAS%20Logo%20464%20x%20270_high.png"
+			},
+			"searchContent": "From a street stall selling Teochew-style pork rib soup in 1955, the fame of NG AH SIO's Bak Kut Teh has spread far and wide. The eatery was moved to Rangoon Road in 1988, and the heritage brand has since served numerous bowls of tender, juicy pork ribs slow cooked in a heartwarmingly aromatic soup. Participating Outlets: • Rangoon Road • Clarke Quay Central • Tai Seng Ng Ah Sio Ah Sio Bak Kut Teh Bakkutteh Pork Rib Soup Pork Ribs Soup Peppery Soup Pepper Soup Teochew Soup Singapore Soup Rangoon Road Bak Teh Bak Kut Song Fa Pork Bone Soup Teochew Bak Kut Teh Jumbo Leshrimp Lenu FortuneFeast Dining Chinese Asian",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-09-23T08:13:04.743Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ng-ah-sio-bak-kut-teh-8cab134f",
+			"outlets": [
+				{
+					"_id": "659cc548e9f3bf004efffeb3",
+					"name": "Rangoon Road"
+				},
+				{
+					"_id": "659ccbb353a81e0055e61c96",
+					"name": "Clarke Quay Central"
+				},
+				{
+					"_id": "69576d9b2aabba1ba3da69f9",
+					"name": "Tai Seng"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Rangoon Road",
+			"Clarke Quay Central",
+			"Tai Seng"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "NG AH SIO Bak Kut Teh",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

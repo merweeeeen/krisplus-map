@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kelim-dakdoritang-39b6f7d3",
+	"slug": "kelim-dakdoritang-39b6f7d3",
+	"fetchedAt": "2026-10-26T16:29:49.724+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67bffe852efd7704147577e8",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Thai Food",
+				"Asian Cuisine",
+				"Tomyam",
+				"Phad Thai",
+				"Thai Milk Tea"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Superrise Korea Kelim Pte Ltd",
+			"brand": "Kelim Dakdoritang",
+			"code": "KDA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Kelim Dakdorit",
+			"address": {
+				"line1": "133 Serangoon Ave 3 #02-07",
+				"postalCode": "556113",
+				"streetName": "Serangoon Ave 3",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ASI",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.kelimdakdoritang.com.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Kelim%20Dakdoritang\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Experience the fiery flavours of dakdoritang (Spicy Chicken Stew) at Kelim Dakdoritang. This exceptional authentic Spicy Chicken stew originated in Seoul back in 1965 and has since become a cherished establishment with an impressive presence of 50 outlets worldwide. Besides the signature chicken stew, there is a wide array of delicious Korean dishes available.<br><br><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Participating Outlets:</span><br>- Kensington Park<br>- Tiong Bahru</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/244966092541268-Kelim%20logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8784304219535632-6232318253686515-Kelim%20750.jpg",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/244966092541268-Kelim%20logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8784304219535632-6232318253686515-Kelim%20750.jpg",
+			"createdAt": "2025-02-27T05:56:21.973Z",
+			"updatedAt": "2026-08-06T14:18:12.531Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8784304219535632-6232318253686515-Kelim%20750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8784304219535632-6232318253686515-Kelim%20750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8784304219535632-6232318253686515-Kelim%20750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/244966092541268-Kelim%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/244966092541268-Kelim%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/244966092541268-Kelim%20logo_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Experience the fiery flavours of dakdoritang (Spicy Chicken Stew) at Kelim Dakdoritang. This exceptional authentic Spicy Chicken stew originated in Seoul back in 1965 and has since become a cherished establishment with an impressive presence of 50 outlets worldwide. Besides the signature chicken stew, there is a wide array of delicious Korean dishes available. Participating Outlets: - Kensington Park - Tiong Bahru Thai Food Asian Cuisine Tomyam Phad Thai Thai Milk Tea Dining Casual Dining Asian Beverages & Desserts",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:25:24.800Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kelim-dakdoritang-39b6f7d3",
+			"outlets": [
+				{
+					"_id": "67c000937b5d2d041403206e",
+					"name": "Kensington Park"
+				},
+				{
+					"_id": "67c000f37b5d2d041403212a",
+					"name": "Tiong Bahru"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Kensington Park",
+			"Tiong Bahru"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kelim Dakdoritang",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

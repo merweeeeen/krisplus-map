@@ -1,0 +1,167 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cygnet-0f40391d",
+	"slug": "cygnet-0f40391d",
+	"fetchedAt": "2026-10-26T16:31:52.300+08:00",
+	"payload": {
+		"partner": {
+			"_id": "691fe50be3c3ea4d0e9438c1",
+			"name": "PHOENIX 35 PTE LTD (Cygnet by Sean Connolly)",
+			"shortName": "Cygnet",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Cygnet",
+			"code": "CYG",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/813094523776261-CygnetRestaurant.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9549342126524687-9970997145714857-cyg%20750.png",
+			"websiteUrl": "https://www.cygnetsingapore.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "35 ROBINSON ROAD HOTEL TELEGRAPH SINGAPORE 068876",
+				"postalCode": "068876",
+				"streetName": "35 ROBINSON ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Cygnet\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p class=\"MsoNormal\">Breeze past the bar and sip it all in: a tempting Art     Nouveau feast. Pixelated palms shimmer across tiles as intriguing flavours come     into focus. This is old world charm and chargrill.</p>",
+			"searchableKeywords": [
+				"Western",
+				"food",
+				"seafood",
+				"cygnet"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-21T04:05:31.948Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/813094523776261-CygnetRestaurant.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9549342126524687-9970997145714857-cyg%20750.png",
+			"createdAt": "2025-11-21T04:05:31.957Z",
+			"updatedAt": "2026-08-06T14:18:25.224Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9549342126524687-9970997145714857-cyg%20750_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9549342126524687-9970997145714857-cyg%20750_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9549342126524687-9970997145714857-cyg%20750_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/813094523776261-CygnetRestaurant_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/813094523776261-CygnetRestaurant_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/813094523776261-CygnetRestaurant_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Breeze past the bar and sip it all in: a tempting Art Nouveau feast. Pixelated palms shimmer across tiles as intriguing flavours come into focus. This is old world charm and chargrill. Western food seafood cygnet Dining Casual Dining Beverages & Desserts Western",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cygnet-0f40391d",
+			"outlets": [
+				{
+					"_id": "691fe663f98f0bf7181947d5",
+					"name": "35 Robinson Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"35 Robinson Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Cygnet",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

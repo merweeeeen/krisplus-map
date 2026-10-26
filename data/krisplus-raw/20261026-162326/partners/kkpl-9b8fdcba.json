@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kkpl-9b8fdcba",
+	"slug": "kkpl-9b8fdcba",
+	"fetchedAt": "2026-10-26T16:33:12.286+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69f846fa2238c2ba54ae8cfb",
+			"name": "KONCEPT KREATION PTE LTD",
+			"shortName": "KKPL",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "KKPL",
+			"code": "KKP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/22490602601536192-23501196928187884-kkpl%20logo_260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/07977077674921551-38333654415032137-kkpl%20brand%20image_750x540.png",
+			"websiteUrl": "https://www.kkpl.com.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "18 Tampines Industrial Crescent #05-05 S528605",
+				"postalCode": "528605",
+				"streetName": "18 Tampines Industrial Cre",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">KKPL is Singapore’s curator of premium kitchen and wardrobe\n    hardware, elevating modern living through intelligent design. Every mechanism\n    is precision‑engineered to optimize space, simplify routines, and deliver\n    effortless elegance that lasts. Discover quality, innovation, and timeless\n    aesthetics, so your home works beautifully, every day.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>18 Tampines Industrial Crescent</li><li>33 Ubi Avenue 3, #06-64, Vertex Tower</li></ul>",
+			"searchableKeywords": [
+				"hardware",
+				"kitchen storage",
+				"wardrobe",
+				"luxury kitchen",
+				"kitchen organiser",
+				"cabinet accessories",
+				"pull down dish rack",
+				"magic corner",
+				"kitchen basket system",
+				"renovation",
+				"home",
+				"home renovation",
+				"smart wardrobe solution",
+				"space saving solutions",
+				"home organisation",
+				"kitchen renovation",
+				"interior design",
+				"home storage solutions",
+				"smart home",
+				"space optimisation",
+				"minimalist home storage",
+				"kitchen innovation",
+				"wardrobe innovation",
+				"high end home solutions",
+				"ID renovation hardware",
+				"kitchen hardware",
+				"wardrobe hardware"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-07-07T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-04T07:12:58.191Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/22490602601536192-23501196928187884-kkpl%20logo_260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07977077674921551-38333654415032137-kkpl%20brand%20image_750x540.png",
+			"createdAt": "2026-05-04T07:12:58.257Z",
+			"updatedAt": "2026-08-06T14:18:31.448Z",
+			"searchContent": "KKPL is Singapore’s curator of premium kitchen and wardrobe hardware, elevating modern living through intelligent design. Every mechanism is precision‑engineered to optimize space, simplify routines, and deliver effortless elegance that lasts. Discover quality, innovation, and timeless aesthetics, so your home works beautifully, every day. Participating outlets: 18 Tampines Industrial Crescent33 Ubi Avenue 3, #06-64, Vertex Tower hardware kitchen storage wardrobe luxury kitchen kitchen organiser cabinet accessories pull down dish rack magic corner kitchen basket system renovation home home renovation smart wardrobe solution space saving solutions home organisation kitchen renovation interior design home storage solutions smart home space optimisation minimalist home storage kitchen innovation wardrobe innovation high end home solutions ID renovation hardware kitchen hardware wardrobe hardware Retail Home & Lifestyle",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07977077674921551-38333654415032137-kkpl%20brand%20image_750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07977077674921551-38333654415032137-kkpl%20brand%20image_750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07977077674921551-38333654415032137-kkpl%20brand%20image_750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/22490602601536192-23501196928187884-kkpl%20logo_260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/22490602601536192-23501196928187884-kkpl%20logo_260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/22490602601536192-23501196928187884-kkpl%20logo_260x260_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kkpl-9b8fdcba",
+			"outlets": [
+				{
+					"_id": "69f84a178890b9fd4feb9f48",
+					"name": "18 Tampines Industrial Crescen"
+				},
+				{
+					"_id": "69f84a7cac3c43a9e6b9101e",
+					"name": "Vertex Tower"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"18 Tampines Industrial Crescen",
+			"Vertex Tower"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "KKPL",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,156 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jglasses-hearing-e8bdbe98",
+	"slug": "jglasses-hearing-e8bdbe98",
+	"fetchedAt": "2026-10-26T16:30:27.707+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68415e187752fc08865da849",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Optical",
+				"Eyewear",
+				"Contact Lens",
+				"Sunglasses",
+				"Zeiss Lenses",
+				"Optician"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "J GLASSES PTE. LTD.",
+			"brand": "Jglasses & Hearing",
+			"code": "JGP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Jglasses",
+			"address": {
+				"city": "Singapore",
+				"line1": "191 TANJONG RHU ROAD #10-02 SANCTUARY GREEN SINGAPORE 436927",
+				"streetName": "191 TANJONG RHU ROAD",
+				"postalCode": "436927",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.jglasseshearing.com.sg/",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">JGlasses & Hearing is a leading optical retailer in     Singapore, offering a wide range of high-quality eyewear and professional eye     care services. With advanced Zeiss technology and expert optometrists, JGlasses     provides comprehensive eye exams, customized lenses, and stylish frames.     Dedicated to customer satisfaction, JGlasses ensures clear vision with premium     eyewear solutions.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2750908312902942-Jglasses.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/971456550290654-09137445472725014-Untitled%20design.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2750908312902942-Jglasses.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/971456550290654-09137445472725014-Untitled%20design.png",
+			"createdAt": "2025-06-05T09:06:32.842Z",
+			"updatedAt": "2026-08-06T14:18:15.293Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2750908312902942-Jglasses_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2750908312902942-Jglasses_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2750908312902942-Jglasses_high.png"
+			},
+			"searchContent": "JGlasses & Hearing is a leading optical retailer in Singapore, offering a wide range of high-quality eyewear and professional eye care services. With advanced Zeiss technology and expert optometrists, JGlasses provides comprehensive eye exams, customized lenses, and stylish frames. Dedicated to customer satisfaction, JGlasses ensures clear vision with premium eyewear solutions. Optical Eyewear Contact Lens Sunglasses Zeiss Lenses Optician Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:39:00.452Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jglasses-hearing-e8bdbe98",
+			"outlets": [
+				{
+					"_id": "6845956ac363f104016b311b",
+					"name": "PLQ Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PLQ Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Jglasses & Hearing",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

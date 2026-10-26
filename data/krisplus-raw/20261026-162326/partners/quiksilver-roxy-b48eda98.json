@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/quiksilver-roxy-b48eda98",
+	"slug": "quiksilver-roxy-b48eda98",
+	"fetchedAt": "2026-10-26T16:31:39.394+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69084b6c85c5d1bf8cbb7ac2",
+			"name": "STREAM ENTERPRISE (SG) PTE LTD (Quiksilver Roxy)",
+			"shortName": "Quiksilver Rox",
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"brand": "Quiksilver & Roxy",
+			"code": "ROX",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2541868149386288-RoxyQuiksilver.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/25023610904496496-Quiksliver%20Visual.jpg",
+			"websiteUrl": "https://quiksilver.com.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "3791 JALAN BUKIT MERAH  #10-18",
+				"postalCode": "159471",
+				"streetName": "E-CENTRE at REDHILL",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Quiksilver & Roxy are legendary lifestyle brands deeply embedded in surf and skate culture. Celebrated for their bold, adventurous spirit, they deliver stylish, high-performance apparel and accessories crafted for those who thrive on adrenaline from conquering waves to cruising the streets.</p>",
+			"searchableKeywords": [
+				"Surf",
+				"Beach",
+				"Paradise",
+				"Swim",
+				"Boardshorts",
+				"Rash guard",
+				"Rashvest",
+				"Bikini",
+				"Sandals",
+				"FlipFlops",
+				"Quiksilver",
+				"Roxy",
+				"Billabong",
+				"DC Shoes",
+				"Skate"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-03T06:27:56.478Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2541868149386288-RoxyQuiksilver.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/25023610904496496-Quiksliver%20Visual.jpg",
+			"createdAt": "2025-11-03T06:27:56.487Z",
+			"updatedAt": "2026-08-06T14:18:24.321Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/25023610904496496-Quiksliver%20Visual_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/25023610904496496-Quiksliver%20Visual_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/25023610904496496-Quiksliver%20Visual_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2541868149386288-RoxyQuiksilver_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2541868149386288-RoxyQuiksilver_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2541868149386288-RoxyQuiksilver_high.png"
+			},
+			"searchContent": "Quiksilver & Roxy are legendary lifestyle brands deeply embedded in surf and skate culture. Celebrated for their bold, adventurous spirit, they deliver stylish, high-performance apparel and accessories crafted for those who thrive on adrenaline from conquering waves to cruising the streets. Surf Beach Paradise Swim Boardshorts Rash guard Rashvest Bikini Sandals FlipFlops Quiksilver Roxy Billabong DC Shoes Skate Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "quiksilver-roxy-b48eda98",
+			"outlets": [
+				{
+					"_id": "69154083aa29064d2bc03727",
+					"name": "313@somerset"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@somerset"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Quiksilver & Roxy",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

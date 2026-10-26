@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tipo-strada-7e1f680e",
+	"slug": "tipo-strada-7e1f680e",
+	"fetchedAt": "2026-10-26T16:32:10.140+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6947b9b1efcfb21a7f0136ef",
+			"name": "TIPO WHEELOCK PTE LTD",
+			"shortName": "Tipo Strada",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Tipo Strada",
+			"code": "TPS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2397836529148818-TipoStrada.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/07660782997633198-9218111773363169-TBHG%20Group%20Brand%20Image%20750x540-Tipo%20Strada.png",
+			"websiteUrl": "https://www.tipo.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "10 GENTING LANE  #06-01",
+				"postalCode": "349583",
+				"streetName": "JAY GEE MELWANI HOUSE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255); font-size: 18px;\">*Click here to<a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Tipo%20Strada%20Pasta\"> </a><a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Tipo%20Strada%20Pasta\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Tipo Strada crafts familiar fresh homemade pasta that you’ve come to know and love. Now that’s an extra motivation to ditch that box of dry pasta in your pantry.</p><p>Tipo Strada <span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">is a Muslim owned establishment.</span><span class=\"EOP SCXW139917800 BCX0\" data-ccp-props=\"{\" style=\"-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 19.425px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-size: 11pt;\"><br></span></p><p>Participating outlets:<br>- Great World<br>- Keong Saik<br>- Novena<br>- Wheelock</p>",
+			"searchableKeywords": [
+				"Halal",
+				"pasta",
+				"handmade",
+				"fresh",
+				"pizza",
+				"fried"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.3,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CAF",
+								"KID",
+								"QBS",
+								"BD",
+								"HEAL",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-21T09:11:13.053Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2397836529148818-TipoStrada.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07660782997633198-9218111773363169-TBHG%20Group%20Brand%20Image%20750x540-Tipo%20Strada.png",
+			"createdAt": "2025-12-21T09:11:13.096Z",
+			"updatedAt": "2026-10-15T12:22:23.483Z",
+			"searchContent": "*Click here to Reserve A Table. Tipo Strada crafts familiar fresh homemade pasta that you’ve come to know and love. Now that’s an extra motivation to ditch that box of dry pasta in your pantry. Tipo Strada is a Muslim owned establishment. Participating outlets: - Great World - Keong Saik - Novena - Wheelock Halal pasta handmade fresh pizza fried Dining Halal Casual Dining Cafe Kid-Friendly Quick Bites & Snacks Beverages & Desserts Healthy Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07660782997633198-9218111773363169-TBHG%20Group%20Brand%20Image%20750x540-Tipo%20Strada_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07660782997633198-9218111773363169-TBHG%20Group%20Brand%20Image%20750x540-Tipo%20Strada_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07660782997633198-9218111773363169-TBHG%20Group%20Brand%20Image%20750x540-Tipo%20Strada_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2397836529148818-TipoStrada_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2397836529148818-TipoStrada_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2397836529148818-TipoStrada_high.png"
+			},
+			"newMerchantEndDate": "2026-03-16T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tipo-strada-7e1f680e",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6947be7550870fb5720298cf",
+					"name": "Great World"
+				},
+				{
+					"_id": "6947bebb9d6da1402adbb1bc",
+					"name": "Wheelock"
+				},
+				{
+					"_id": "6947c0e202cb685ed8dfcf4c",
+					"name": "Keong Saik"
+				},
+				{
+					"_id": "6947c2eb534a08e318d956af",
+					"name": "Novena"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Great World",
+			"Wheelock",
+			"Keong Saik",
+			"Novena"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tipo Strada",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

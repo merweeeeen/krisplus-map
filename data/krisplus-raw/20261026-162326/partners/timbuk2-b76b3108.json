@@ -1,0 +1,200 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/timbuk2-b76b3108",
+	"slug": "timbuk2-b76b3108",
+	"fetchedAt": "2026-10-26T16:25:51.075+08:00",
+	"payload": {
+		"partner": {
+			"_id": "61fb70f0826960105c7709ef",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Bugis Junction",
+				"Retail",
+				"Bags",
+				"Luggage",
+				"Messenger Bags",
+				"Outdoors",
+				"Adventure",
+				"Travel",
+				"Newclothes",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles & Keith",
+				"H &M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"T-Shirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Trousers",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Hats",
+				"Belts",
+				"Tour",
+				"Tour Packages",
+				"Free & Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Primer Uniglobe Singapore Pte Ltd - Timbuk2",
+			"brand": "Timbuk2",
+			"code": "TB2",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Timbuk2",
+			"address": {
+				"city": "Singapore",
+				"line1": "221 Henderson Road, #05-10, Henderson Building",
+				"streetName": "Henderson Road",
+				"postalCode": "159557",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200609311N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/12251593869424604-33539212475853764-Timbuk2%202_750x450_app%20brand.jpg",
+			"websiteUrl": "https://www.timbuk2.sg",
+			"descriptionHtml": "<p>Timbuk2 specialises in the customisation of messenger bags and their product offering has grown to include luggage and laptop bags. Nonetheless, their made in San Francisco custom messenger bag remains the iconic style and the heart and soul of the brand.</p>  <p>Participating Outlet: </p>  <ul> \t<li>Bugis Junction</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "     ",
+			"participatingOutlets": "Bugis Junction",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8331806195009097-07563683217136186-Timbuk2%20logo_1000x1000.jpg",
+			"createdAt": "2022-02-03T06:06:40.523Z",
+			"updatedAt": "2026-10-16T02:01:54.034Z",
+			"partnershipGroup": "GR7",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef992b35256c5b2c9beee"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12251593869424604-33539212475853764-Timbuk2%202_750x450_app%20brand.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8331806195009097-07563683217136186-Timbuk2%20logo_1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12251593869424604-33539212475853764-Timbuk2%202_750x450_app%20brand_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12251593869424604-33539212475853764-Timbuk2%202_750x450_app%20brand_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12251593869424604-33539212475853764-Timbuk2%202_750x450_app%20brand_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8331806195009097-07563683217136186-Timbuk2%20logo_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8331806195009097-07563683217136186-Timbuk2%20logo_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8331806195009097-07563683217136186-Timbuk2%20logo_1000x1000_high.jpg"
+			},
+			"searchContent": "Timbuk2 specialises in the customisation of messenger bags and their product offering has grown to include luggage and laptop bags. Nonetheless, their made in San Francisco custom messenger bag remains the iconic style and the heart and soul of the brand. Participating Outlet: Bugis Junction Bugis Junction Retail Bags Luggage Messenger Bags Outdoors Adventure Travel Newclothes Fashion Zara Uniqlo Charles & Keith H &M Love Bonito Mens Womans Shirts Pants Blouse Trousers T-Shirt Shoes Shorts Leggings Trousers Suits Accessories Hats Caps Garments Scarves Jewellery Bags Hats Belts Tour Tour Packages Free & Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:58:32.046Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "timbuk2-b76b3108",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Timbuk2",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/byredo-6c77d477",
+	"slug": "byredo-6c77d477",
+	"fetchedAt": "2026-10-26T16:31:08.914+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68a7e173878a7804734ca3d9",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Perfume",
+				"Fragrance",
+				"Fragrances",
+				"Shopping",
+				"Body Care",
+				"Bathing",
+				"Soap",
+				"Scent",
+				"Wellness",
+				"Beauty",
+				"Lifestyle",
+				"Luxury Fragrance",
+				"Aromatheraphy",
+				"Candles",
+				"Scent Candles",
+				"Gifts",
+				"Personal Care",
+				"Skin Care",
+				"Relaxation",
+				"Selfcare",
+				"Body Lotion",
+				"Shower Gel",
+				"Home Scent",
+				"Aromatic"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "PUIG SEA PTE LTD (BYREDO)",
+			"brand": "BYREDO",
+			"code": "BYR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "BYREDO",
+			"address": {
+				"line1": "12 TAI SENG STREET #05-01 LUXASIA BUILDING SINGAPORE 534118",
+				"postalCode": "534118",
+				"streetName": "12 TAI SENG STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BEA",
+								"HL",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://maps.app.goo.gl/pgydhmYr5yhDQePM6",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">BYREDO is a modern European luxury house established in 2006 by Ben Gorham as a creative project centered on scents and memories. Unlike Scandinavian aesthetics, BYREDO reflects distinct ethnic influences from Ben's Indian heritage, alongside strong connections to creativity, art, and lifestyle, and has carved out a unique position in the market.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/29318449967138216-BYREDO.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4166378421374015-5209938869791277-BRAND%20IMAGE%20750X540.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/29318449967138216-BYREDO.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4166378421374015-5209938869791277-BRAND%20IMAGE%20750X540.png",
+			"createdAt": "2025-08-22T03:18:11.820Z",
+			"updatedAt": "2026-08-06T14:18:19.733Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/29318449967138216-BYREDO_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/29318449967138216-BYREDO_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/29318449967138216-BYREDO_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-12-01T01:34:49.008Z",
+			"searchContent": "BYREDO is a modern European luxury house established in 2006 by Ben Gorham as a creative project centered on scents and memories. Unlike Scandinavian aesthetics, BYREDO reflects distinct ethnic influences from Ben's Indian heritage, alongside strong connections to creativity, art, and lifestyle, and has carved out a unique position in the market. Perfume Fragrance Fragrances Shopping Body Care Bathing Soap Scent Wellness Beauty Lifestyle Luxury Fragrance Aromatheraphy Candles Scent Candles Gifts Personal Care Skin Care Relaxation Selfcare Body Lotion Shower Gel Home Scent Aromatic Retail Beauty Home & Lifestyle Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "byredo-6c77d477",
+			"outlets": [
+				{
+					"_id": "68a7e2a149ea100466461356",
+					"name": "Takashimaya Shopping Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Takashimaya Shopping Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "BYREDO",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,198 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/peach-garden-00f087de",
+	"slug": "peach-garden-00f087de",
+	"fetchedAt": "2026-10-26T16:30:11.677+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6805dc064f457e0418609253",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chinese",
+				"Dining",
+				"Casual",
+				"Dimsum",
+				"family",
+				"kids",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "PEACH GARDEN PTE LTD",
+			"brand": "Peach Garden",
+			"code": "PGA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Peach Garden",
+			"address": {
+				"line1": "24A SENOKO SOUTH ROAD",
+				"postalCode": "758099",
+				"streetName": "SELECT GROUP BUILDING",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"FD",
+								"QBS",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.peachgarden.com.sg/",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Peach%20Garden\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a></em><br><br>Peach Garden is a notable household name that is synonymous with authentic Chinese cuisine served in a warm and welcoming environment. Today, Peach Garden Group consists of two Fine Dining Chinese restaurants, a Chinese restaurant and three Chinese Casual Dining concepts.</p>\n\n\n<p>Participating outlets:</p><ul>\n    <li>Fine Dining Restaurant: OCBC Centre, The Heeren</li>\n    <li>Casual Dining: Chinatown Point, Changi Airport T2, The Metropolis</li>\n    <li>Chinese Restaurant: Thomson Plaza<br></li>\n</ul>\n<p>Note: Payment via Kris+ is not available for the following two scenarios. </p><ul>\n <ul>\n  <li><span>Not valid for deposit\n      payments (e.g. deposit payment for wedding banquet & CNY reservations)</span></li>\n  <li><span>Not valid for      payment above 5 tables </span></li><li><span>Peach Garden membership cannot be utilized in\nconjunction with payments via Kris+</span></li>\n </ul>\n</ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/15547882056742135-PeachGarden.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5086978793756145-Peach%20Garden%20Dim%20Sum.jpg",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/15547882056742135-PeachGarden.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5086978793756145-Peach%20Garden%20Dim%20Sum.jpg",
+			"createdAt": "2025-04-21T05:47:50.257Z",
+			"updatedAt": "2026-08-06T14:18:13.960Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5086978793756145-Peach%20Garden%20Dim%20Sum_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5086978793756145-Peach%20Garden%20Dim%20Sum_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5086978793756145-Peach%20Garden%20Dim%20Sum_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/15547882056742135-PeachGarden_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/15547882056742135-PeachGarden_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/15547882056742135-PeachGarden_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-10-31T06:00:48.686Z",
+			"searchContent": "*Click here to Reserve A Table. Peach Garden is a notable household name that is synonymous with authentic Chinese cuisine served in a warm and welcoming environment. Today, Peach Garden Group consists of two Fine Dining Chinese restaurants, a Chinese restaurant and three Chinese Casual Dining concepts. Participating outlets: Fine Dining Restaurant: OCBC Centre, The Heeren Casual Dining: Chinatown Point, Changi Airport T2, The Metropolis Chinese Restaurant: Thomson Plaza Note: Payment via Kris+ is not available for the following two scenarios. Not valid for deposit payments (e.g. deposit payment for wedding banquet & CNY reservations) Not valid for payment above 5 tables Peach Garden membership cannot be utilized in conjunction with payments via Kris+ Chinese Dining Casual Dimsum family kids FortuneFeast Dining Casual Dining Kid-Friendly Fine Dining Quick Bites & Snacks Beverages & Desserts Chinese Asian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "peach-garden-00f087de",
+			"outlets": [
+				{
+					"_id": "6805e0467336d70411f41e8a",
+					"name": "OCBC Centre"
+				},
+				{
+					"_id": "6805e0c5104ea604188afa4d",
+					"name": "The Heeren"
+				},
+				{
+					"_id": "6805e167381c99041055d96d",
+					"name": "Airport T2"
+				},
+				{
+					"_id": "6805e1d18d80680413552757",
+					"name": "Chinatown Point"
+				},
+				{
+					"_id": "6805e24352ee94041031a67d",
+					"name": "The Metropolis"
+				},
+				{
+					"_id": "6805e297ab6e5d0411edb632",
+					"name": "Thomson Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"OCBC Centre",
+			"The Heeren",
+			"Airport T2",
+			"Chinatown Point",
+			"The Metropolis",
+			"Thomson Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Peach Garden",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

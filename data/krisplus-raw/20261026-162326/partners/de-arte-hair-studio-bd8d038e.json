@@ -1,0 +1,232 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/de-arte-hair-studio-bd8d038e",
+	"slug": "de-arte-hair-studio-bd8d038e",
+	"fetchedAt": "2026-10-26T16:25:15.105+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60d92a37541ab68c34cf3660",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Jurong East",
+				"Tampines",
+				"Yishun",
+				"Paya Lebar",
+				"Serangoon",
+				"Hairdresser",
+				"Hair",
+				"Japan",
+				"Korean",
+				"Scalp Care",
+				"Treatments",
+				"Perm",
+				"Colour",
+				"Argan Oil",
+				"Professional",
+				"Shiny",
+				"Cut",
+				"Beauty",
+				"Services",
+				"Salon",
+				"Nex",
+				"Paya Lebar Square",
+				"Tampines One",
+				"Northpoint City",
+				"Jurong Point",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "De Hair-Tique Salon Pte Ltd",
+			"brand": "De Arte Hair Studio",
+			"code": "DA1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "DAH",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "50 Serangoon North Avenue 4, #04-21 First Centre",
+				"postalCode": "555856",
+				"streetName": "Serangoon North Avenue 4"
+			},
+			"regNumber": "201129738W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6953559250836288-App-Brand-Image.jpg",
+			"websiteUrl": "https://www.deartehair.com/",
+			"descriptionHtml": "<p>An award-winning hair salon offering a wide range of services from cut, colour, rebonding, perming, treatments, and scalp analysis. The salon’s highly skilled professionals use industry-leading products catered for Asian hair types to achieve the best results.</p>\n\n<p>Participating outlets:</p>\n\n<ul>\n\t<li>NEX</li>\n\t<li>Paya Lebar Square</li>\n\t<li>Tampines 1</li>\n\t<li>Northpoint City</li>\n\t<li>Jurong Point</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9960797047206247-App-Brand-Logo.jpg",
+			"createdAt": "2021-06-28T01:47:35.707Z",
+			"updatedAt": "2026-08-06T14:17:18.433Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"participatingOutlets": "●\tNEX\n●\tPaya Lebar Square\n●\tTampines 1\n●\tNorthpoint City\n●\tJurong Point 1",
+			"promotional": "                  ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9bca3718718842dd964"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6953559250836288-App-Brand-Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9960797047206247-App-Brand-Logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6953559250836288-App-Brand-Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6953559250836288-App-Brand-Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6953559250836288-App-Brand-Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9960797047206247-App-Brand-Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9960797047206247-App-Brand-Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9960797047206247-App-Brand-Logo_high.jpg"
+			},
+			"searchContent": "An award-winning hair salon offering a wide range of services from cut, colour, rebonding, perming, treatments, and scalp analysis. The salon’s highly skilled professionals use industry-leading products catered for Asian hair types to achieve the best results. Participating outlets: NEX Paya Lebar Square Tampines 1 Northpoint City Jurong Point Jurong East Tampines Yishun Paya Lebar Serangoon Hairdresser Hair Japan Korean Scalp Care Treatments Perm Colour Argan Oil Professional Shiny Cut Beauty Services Salon Nex Paya Lebar Square Tampines One Northpoint City Jurong Point Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Services Personal Care",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:09:35.626Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "de-arte-hair-studio-bd8d038e",
+			"outlets": [
+				{
+					"_id": "60dc2e2d97d04a666822e01d",
+					"name": "NEX"
+				},
+				{
+					"_id": "60dc2e699020bd1184994418",
+					"name": "Paya Lebar Square"
+				},
+				{
+					"_id": "60dc2e999020bd118499441a",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "60dc2ecb97d04a666822e01f",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "60dc2f0e97d04a666822e021",
+					"name": "Jurong Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"NEX",
+			"Paya Lebar Square",
+			"Northpoint City",
+			"Tampines 1",
+			"Jurong Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "De Arte Hair Studio",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

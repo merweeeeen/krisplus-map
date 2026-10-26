@@ -1,0 +1,216 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/chez-vous-67d572cf",
+	"slug": "chez-vous-67d572cf",
+	"fetchedAt": "2026-10-26T16:27:16.656+08:00",
+	"payload": {
+		"partner": {
+			"_id": "637ee37377ad313f640e3c4d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Salon",
+				"Hair Salon",
+				"Haircut",
+				"Hair Colouring",
+				"Balayage",
+				"Highlights",
+				"Hair Styling",
+				"Korean Perm",
+				"C Curl Perm",
+				"S Curls Perm",
+				"Perm",
+				"Rebonding",
+				"Hair Straightening",
+				"Keratin Treatment",
+				"Hair Treatment",
+				"Scalp Treatment",
+				"Beauty Servicesngee Ann City Somerset",
+				"Servicing",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Chezvous Hair Pte Ltd ",
+			"brand": "Chez Vous ",
+			"code": "CHV",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Chez Vous",
+			"address": {
+				"line1": "391 Orchard Road #05-05 Ngee Ann City Podium Singapore 238872",
+				"postalCode": "238872",
+				"streetName": "391 Orchard Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "199701070N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/23876169558550342-18537097942153236-Chezvous%20Brand%20Image%20750%20X%20540%20px.jpg",
+			"websiteUrl": "https://chezvoushair.com",
+			"descriptionHtml": "<p>​​​​​​​Chez Vous is one of the leading names of luxury hair salons in Singapore. The salon has one of the most stringent entry recruitment exams, guaranteeing them an unparalleled roster of beauty experts. All stylists have a minimum of 10 years of experience and are exceptionally skilled in their area of expertise.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5751509222997151-9123730109284485-Chezvous%20Brand%20Logo%20App%201000%20X%201000%20px.jpg",
+			"createdAt": "2022-11-24T03:22:27.047Z",
+			"updatedAt": "2026-08-06T14:17:38.412Z",
+			"participatingOutlets": "                                ",
+			"promotional": "                       ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95f3d10e34df66b4709"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/23876169558550342-18537097942153236-Chezvous%20Brand%20Image%20750%20X%20540%20px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5751509222997151-9123730109284485-Chezvous%20Brand%20Logo%20App%201000%20X%201000%20px.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/23876169558550342-18537097942153236-Chezvous%20Brand%20Image%20750%20X%20540%20px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/23876169558550342-18537097942153236-Chezvous%20Brand%20Image%20750%20X%20540%20px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/23876169558550342-18537097942153236-Chezvous%20Brand%20Image%20750%20X%20540%20px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5751509222997151-9123730109284485-Chezvous%20Brand%20Logo%20App%201000%20X%201000%20px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5751509222997151-9123730109284485-Chezvous%20Brand%20Logo%20App%201000%20X%201000%20px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5751509222997151-9123730109284485-Chezvous%20Brand%20Logo%20App%201000%20X%201000%20px_high.jpg"
+			},
+			"searchContent": "​​​​​​​Chez Vous is one of the leading names of luxury hair salons in Singapore. The salon has one of the most stringent entry recruitment exams, guaranteeing them an unparalleled roster of beauty experts. All stylists have a minimum of 10 years of experience and are exceptionally skilled in their area of expertise. Salon Hair Salon Haircut Hair Colouring Balayage Highlights Hair Styling Korean Perm C Curl Perm S Curls Perm Perm Rebonding Hair Straightening Keratin Treatment Hair Treatment Scalp Treatment Beauty Servicesngee Ann City Somerset Servicing Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Services Personal Care",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:08:55.156Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "chez-vous-67d572cf",
+			"outlets": [
+				{
+					"_id": "637f0f1b85c6f9200cb5d07a",
+					"name": "Ngee Ann City Level 5"
+				},
+				{
+					"_id": "637f0f4d9ea34434e80381d7",
+					"name": "Ngee Ann City Level 14"
+				},
+				{
+					"_id": "637f0f759ea34434e80381f8",
+					"name": "Ngee Ann City Level 8"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Ngee Ann City Level 5",
+			"Ngee Ann City Level 14",
+			"Ngee Ann City Level 8"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Chez Vous",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

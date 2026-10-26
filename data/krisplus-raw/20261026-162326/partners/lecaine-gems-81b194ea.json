@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lecaine-gems-81b194ea",
+	"slug": "lecaine-gems-81b194ea",
+	"fetchedAt": "2026-10-26T16:25:29.972+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6155902e074d4f7c74049d53",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Raffles Boulevard",
+				"Millenia Walk",
+				"Promenade",
+				"Jewellery",
+				"Ring",
+				"Personalised",
+				"Diamonds",
+				"Girls Best Friend",
+				"Ruby",
+				"Necklaces",
+				"Bangles",
+				"Bracelets",
+				"Family Owned",
+				"Engagement Ring",
+				"Retail",
+				"Fine Jewellery",
+				"Elegant",
+				"Bespoke",
+				"Gift",
+				"Gems",
+				"Lab Diamonds",
+				"Proposal",
+				"Customised"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "LECAINE PTE. LTD.",
+			"brand": "LeCaine Gems",
+			"code": "LEC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "LECAINE GEMS",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "888 Upper Bukit Timah Road #04-17 Singapore 678185",
+				"postalCode": "678185",
+				"streetName": "888 Upper Bukit Timah Road"
+			},
+			"regNumber": "201939919Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/975013201002394-app%20brand%20img%20750x540px%20kris.png",
+			"websiteUrl": "https://lecaine.com/",
+			"descriptionHtml": "<p>LeCaine Gems is a jeweller that crafts fine jewellery such as engagement rings, wedding bands, and bespoke designs. They custom make affordable luxurious styles personalized for any occasion. LeCaine prides itself as a market leader in Moissanite and Lab Grown Diamond jewellery in Singapore.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/508398547393897-Kris%2B%20x%20Lecaine%20%20(1000%20x%201000%20px).png",
+			"createdAt": "2021-09-30T10:23:42.831Z",
+			"updatedAt": "2026-08-06T14:17:21.527Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"participatingOutlets": "Millenia Walk",
+			"promotional": "\n\n\n           ",
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9a8595add2492446464"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/975013201002394-app%20brand%20img%20750x540px%20kris.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/508398547393897-Kris%2B%20x%20Lecaine%20%20(1000%20x%201000%20px).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/975013201002394-app%20brand%20img%20750x540px%20kris_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/975013201002394-app%20brand%20img%20750x540px%20kris_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/975013201002394-app%20brand%20img%20750x540px%20kris_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/508398547393897-Kris%2B%20x%20Lecaine%20%20(1000%20x%201000%20px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/508398547393897-Kris%2B%20x%20Lecaine%20%20(1000%20x%201000%20px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/508398547393897-Kris%2B%20x%20Lecaine%20%20(1000%20x%201000%20px)_high.png"
+			},
+			"searchContent": "LeCaine Gems is a jeweller that crafts fine jewellery such as engagement rings, wedding bands, and bespoke designs. They custom make affordable luxurious styles personalized for any occasion. LeCaine prides itself as a market leader in Moissanite and Lab Grown Diamond jewellery in Singapore. Raffles Boulevard Millenia Walk Promenade Jewellery Ring Personalised Diamonds Girls Best Friend Ruby Necklaces Bangles Bracelets Family Owned Engagement Ring Retail Fine Jewellery Elegant Bespoke Gift Gems Lab Diamonds Proposal Customised Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T08:42:08.028Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lecaine-gems-81b194ea",
+			"outlets": [
+				{
+					"_id": "615fe6f5ed973996902214e6",
+					"name": "Millenia Walk"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Millenia Walk"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "LeCaine Gems",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

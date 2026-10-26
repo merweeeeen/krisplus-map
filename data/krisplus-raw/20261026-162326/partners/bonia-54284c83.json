@@ -1,0 +1,192 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bonia-54284c83",
+	"slug": "bonia-54284c83",
+	"fetchedAt": "2026-10-26T16:30:50.955+08:00",
+	"payload": {
+		"partner": {
+			"_id": "688ad1a90cd15f04000d9323",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bags",
+				"Leather Bags",
+				"Sling Bags",
+				"Mens Bags",
+				"Ladies Bags",
+				"Crossbody Bags",
+				"Satchels",
+				"Bucket Bags",
+				"Shoulder Bags",
+				"Tote Bags",
+				"Petite Bags",
+				"Belts",
+				"Messenger Bags",
+				"Backpacks",
+				"Clutches",
+				"Wallets",
+				"Shoes",
+				"Long Wallets",
+				"Compact Wallets",
+				"Card Holders",
+				"Key Holders",
+				"Pouches",
+				"Lanyards",
+				"Stainless Steel Watches",
+				"Leather Watches",
+				"Watches",
+				"Tshirts",
+				"Tops"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "ACTIVE WORLD PTE LTD",
+			"brand": "BONIA",
+			"code": "NIA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "BONIA",
+			"address": {
+				"line1": "531 UPPER CROSS STREET, #03-53 HONG LIM COMPLEX, SINGAPORE 050531",
+				"postalCode": "050531",
+				"streetName": "531 UPPER CROSS STREET",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS",
+								"AJW",
+								"BEA",
+								"GS",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.bonia.com.sg/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Bonia is a luxury fashion brand known for timeless elegance and fine craftsmanship. Inspired by Italian leather artistry, it offers handbags, shoes, accessories, and apparel that blend classic design with modern style—delivering accessible luxury for the sophisticated, style-conscious individual.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8251550931212035-Bonia%20Logo%20260x260%20A.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/903139064723459-Bonia%20Kris%2B%20750%20x%20540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8251550931212035-Bonia%20Logo%20260x260%20A.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/903139064723459-Bonia%20Kris%2B%20750%20x%20540.jpg",
+			"createdAt": "2025-07-31T02:15:05.852Z",
+			"updatedAt": "2026-08-06T14:18:18.014Z",
+			"refundPeriodInDays": 60,
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/903139064723459-Bonia%20Kris%2B%20750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/903139064723459-Bonia%20Kris%2B%20750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/903139064723459-Bonia%20Kris%2B%20750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8251550931212035-Bonia%20Logo%20260x260%20A_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8251550931212035-Bonia%20Logo%20260x260%20A_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8251550931212035-Bonia%20Logo%20260x260%20A_high.jpg"
+			},
+			"searchContent": "Bonia is a luxury fashion brand known for timeless elegance and fine craftsmanship. Inspired by Italian leather artistry, it offers handbags, shoes, accessories, and apparel that blend classic design with modern style—delivering accessible luxury for the sophisticated, style-conscious individual. Bags Leather Bags Sling Bags Mens Bags Ladies Bags Crossbody Bags Satchels Bucket Bags Shoulder Bags Tote Bags Petite Bags Belts Messenger Bags Backpacks Clutches Wallets Shoes Long Wallets Compact Wallets Card Holders Key Holders Pouches Lanyards Stainless Steel Watches Leather Watches Watches Tshirts Tops Retail Fashion Accessories, Jewellery & Watches Beauty Gifts & Souvenirs Home & Lifestyle",
+			"refundPeriodUpdatedAt": "2026-01-09T09:49:26.495Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bonia-54284c83",
+			"outlets": [
+				{
+					"_id": "688ad36fdf5e0c040fcc8d82",
+					"name": "Northpoint City North Wing"
+				},
+				{
+					"_id": "688ad40313570304012f451f",
+					"name": "Westgate"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Northpoint City North Wing",
+			"Westgate"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "BONIA",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

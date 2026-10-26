@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/capital-9cecfd5b",
+	"slug": "capital-9cecfd5b",
+	"fetchedAt": "2026-10-26T16:30:07.833+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67e6460bb3a3144b3fc3df6a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Club",
+				"night life",
+				"lounge",
+				"champagne",
+				"vodka",
+				"whisky",
+				"gin",
+				"rum",
+				"bourbon",
+				"drinking",
+				"alcohol",
+				"bar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Zouk Clarke Quay Pte Ltd - Capital",
+			"brand": "Capital",
+			"code": "ZOC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5813",
+			"shortName": "Capital",
+			"address": {
+				"line1": "3C RIVER VALLEY ROAD #02-02 SINGAPORE 179022",
+				"postalCode": "179022",
+				"streetName": "3C RIVER VALLEY ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://zoukgroup.com/singapore/capital/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">A premier destination for working professionals and guests seeking a refined and upscale experience. With a multi-faceted layout designed to cater to different tempos of experiences throughout the night, Capital offers a luxurious lounge-like atmosphere of modern cool and elegance.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9005914559948813-capital.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/244697208180912-2506CP.png",
+			"countryCode": "SG",
+			"mccDescription": "Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9005914559948813-capital.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/244697208180912-2506CP.png",
+			"createdAt": "2025-03-28T06:47:39.534Z",
+			"updatedAt": "2026-09-01T01:42:58.847Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/244697208180912-2506CP_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/244697208180912-2506CP_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/244697208180912-2506CP_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9005914559948813-capital_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9005914559948813-capital_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9005914559948813-capital_high.png"
+			},
+			"searchContent": "A premier destination for working professionals and guests seeking a refined and upscale experience. With a multi-faceted layout designed to cater to different tempos of experiences throughout the night, Capital offers a luxurious lounge-like atmosphere of modern cool and elegance. Club night life lounge champagne vodka whisky gin rum bourbon drinking alcohol bar Activities",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-19T09:35:35.784Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "capital-9cecfd5b",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "67e64742a7340034c870e874",
+					"name": "Capital Bar"
+				},
+				{
+					"_id": "67e65cb633992a4310e4e0a3",
+					"name": "Capital Ticketing"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Capital Bar",
+			"Capital Ticketing"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Capital",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

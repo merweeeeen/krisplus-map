@@ -1,0 +1,170 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cote-korean-steakhouse-singapore-dac93753",
+	"slug": "cote-korean-steakhouse-singapore-dac93753",
+	"fetchedAt": "2026-10-26T16:29:57.663+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67cfd255b68a5f0411372c4d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Korean",
+				"Bbq",
+				"Steak",
+				"Cocktail",
+				"Wine",
+				"Beef",
+				"Lunch",
+				"Dinner"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "COMO Lifestyle Pte Ltd (COTE Korean Steakhouse)",
+			"brand": "COTE Korean Steakhouse (Singapore)",
+			"code": "CK5",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "COTE Korean St",
+			"address": {
+				"line1": "6B ORANGE GROVE ROAD",
+				"postalCode": "258332",
+				"streetName": "COMO HOUSE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.cotekoreansteakhouse.com/locations/cotesingapore",
+			"descriptionHtml": "<p>COTE Korean Steakhouse marries the conviviality of refined Korean BBQ with the hallmarks of an American Steakhouse offering prime beef cuts, a James Beard-nominated wine list and cocktails. Open daily for lunch and dinner (last food order at 10pm, bar snacks and drinks till late). </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/898157852187002-COTE%20Logo_260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2688234586096583-4371096737021749-COTE%20Brand%20Image_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/898157852187002-COTE%20Logo_260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2688234586096583-4371096737021749-COTE%20Brand%20Image_750x540.jpg",
+			"createdAt": "2025-03-11T06:04:05.940Z",
+			"updatedAt": "2026-08-06T14:18:12.889Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2688234586096583-4371096737021749-COTE%20Brand%20Image_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2688234586096583-4371096737021749-COTE%20Brand%20Image_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2688234586096583-4371096737021749-COTE%20Brand%20Image_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/898157852187002-COTE%20Logo_260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/898157852187002-COTE%20Logo_260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/898157852187002-COTE%20Logo_260x260_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:22:10.964Z",
+			"searchContent": "COTE Korean Steakhouse marries the conviviality of refined Korean BBQ with the hallmarks of an American Steakhouse offering prime beef cuts, a James Beard-nominated wine list and cocktails. Open daily for lunch and dinner (last food order at 10pm, bar snacks and drinks till late). Korean Bbq Steak Cocktail Wine Beef Lunch Dinner Dining Beverages & Desserts Asian Western",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cote-korean-steakhouse-singapore-dac93753",
+			"outlets": [
+				{
+					"_id": "67cfd3a38807bf0418ec860a",
+					"name": "COMO Orchard L3"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"COMO Orchard L3"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "COTE Korean Steakhouse (Singapore)",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

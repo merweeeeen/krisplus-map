@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-courtyard-the-fullerton-hotel-singapore-f1024c64",
+	"slug": "the-courtyard-the-fullerton-hotel-singapore-f1024c64",
+	"fetchedAt": "2026-10-26T16:28:59.731+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66cda1a0203b680068e59223",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"saleOfMiles": 0.044,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 4,
+				"calculatedMilesEarnRate": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Afternoon Tea",
+				"Beverage",
+				"Snacks",
+				"Casual Coffee",
+				"Tea",
+				"Cocktail",
+				"Hotel"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Precious Treasure Pte Ltd - The Courtyard",
+			"brand": "The Courtyard - The Fullerton Hotel Singapore",
+			"code": "CFH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "The Courtyard",
+			"address": {
+				"line1": "1 Fullerton Square Singapore 049178",
+				"postalCode": "049178",
+				"streetName": "1 Fullerton Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA",
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.fullertonhotels.com/fullerton-hotel-singapore/dining/restaurants-and-bars/the-courtyard",
+			"descriptionHtml": "<p>Located in the heart of the historic Fullerton Building, The Courtyard is a timeless setting for leisure dining and afternoon tea.<br> <br> The Courtyard's Traditional Afternoon Tea stays true to the English ritual with a classic assortment of finely cut sandwiches and delicate pastries. On selected days, a harpist enchants the high-ceiling atrium with melodious tunes.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6250887227651667-1%20Untitled.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5517044497268506-courtyard.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-08-27T09:51:28.465Z",
+			"updatedAt": "2026-09-09T01:18:30.710Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6250887227651667-1%20Untitled_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6250887227651667-1%20Untitled_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6250887227651667-1%20Untitled_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5517044497268506-courtyard.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6250887227651667-1%20Untitled.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5517044497268506-courtyard_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5517044497268506-courtyard_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5517044497268506-courtyard_high.jpg"
+			},
+			"searchContent": "Located in the heart of the historic Fullerton Building, The Courtyard is a timeless setting for leisure dining and afternoon tea. The Courtyard's Traditional Afternoon Tea stays true to the English ritual with a classic assortment of finely cut sandwiches and delicate pastries. On selected days, a harpist enchants the high-ceiling atrium with melodious tunes. Afternoon Tea Beverage Snacks Casual Coffee Tea Cocktail Hotel Dining Vegan-Friendly Vegetarian-Friendly Cafe Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-20T09:44:21.576Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-courtyard-the-fullerton-hotel-singapore-f1024c64",
+			"outlets": [
+				{
+					"_id": "66ce8d49ec7acc00698206b9",
+					"name": "Fullerton Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fullerton Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Courtyard - The Fullerton Hotel Singapore",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

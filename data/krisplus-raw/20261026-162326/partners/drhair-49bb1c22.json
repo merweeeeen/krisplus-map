@@ -1,0 +1,219 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/drhair-49bb1c22",
+	"slug": "drhair-49bb1c22",
+	"fetchedAt": "2026-10-26T16:24:41.965+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6018b7138e967b3cb8b26425",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "DRHAIR - CLS INTERNATIONAL MARKETING PRIVATE LIMITED",
+			"brand": "DrHair",
+			"code": "DRH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "DrHair",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "100H Pasir Panjang Road #06-01",
+				"postalCode": "118524",
+				"streetName": "OC Pasir Panjang"
+			},
+			"regNumber": "200203954M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5533765468345007-app_brand.jpg",
+			"websiteUrl": "https://drgl.com/store-locator/",
+			"descriptionHtml": "<p>Tapping on the art of science, high-performance actives, proprietary formulations and treatment protocols, DrHair<sub><sup>®</sup></sub> presents medically-curated, results-driven treatments to combat hair loss while promoting scalp health.</p>  <ul> <br></ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7882278989175373-app_logo.jpg",
+			"createdAt": "2021-02-02T02:21:07.577Z",
+			"updatedAt": "2026-10-12T06:59:19.753Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 60000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "orchardgateway\n227 Orchard Road, B1-07\nSingapore 238858",
+			"promotional": "Make hairloss a thing of the past with DrHair®",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Somerset",
+				"Wellness",
+				"Retail",
+				"Orchard Gateway",
+				"Hair",
+				"Maintenance",
+				"Medical",
+				"Hair Loss",
+				"Scalp Health",
+				"Deep Cleansing",
+				"Treatment",
+				"Follicles",
+				"Sebum",
+				"Defence",
+				"Booster",
+				"Beauty",
+				"Palais Renaissance",
+				"Spa",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9cb595add2492446471"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5533765468345007-app_brand.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7882278989175373-app_logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5533765468345007-app_brand_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5533765468345007-app_brand_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5533765468345007-app_brand_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7882278989175373-app_logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7882278989175373-app_logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7882278989175373-app_logo_high.jpg"
+			},
+			"searchContent": "Tapping on the art of science, high-performance actives, proprietary formulations and treatment protocols, DrHair® presents medically-curated, results-driven treatments to combat hair loss while promoting scalp health. Orchard Road Somerset Wellness Retail Orchard Gateway Hair Maintenance Medical Hair Loss Scalp Health Deep Cleansing Treatment Follicles Sebum Defence Booster Beauty Palais Renaissance Spa Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-22T01:50:09.401Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "drhair-49bb1c22",
+			"outlets": [
+				{
+					"_id": "606ac38b16d2df127c385794",
+					"name": "International Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"International Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "DrHair",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

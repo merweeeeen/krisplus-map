@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/eu-holidays-2379becd",
+	"slug": "eu-holidays-2379becd",
+	"fetchedAt": "2026-10-26T16:27:07.592+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63630fa61a44801908ea11ae",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Holidays",
+				"Travel",
+				"Tour",
+				"Suntec City",
+				"Promenade",
+				"Esplanade",
+				"Packages",
+				"Worldwide",
+				"Travelling",
+				"Europe",
+				"Usa",
+				"Experiences",
+				"Overseas",
+				"Services",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "EU Holidays Pte Ltd",
+			"brand": "EU Holidays",
+			"code": "EUH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "EUHolidays",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Raffles Boulevard, Level 2 Crescent 2",
+				"postalCode": "039593",
+				"streetName": "1 Raffles Boulevard"
+			},
+			"regNumber": "201022285W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/13700950071504736-Image%20750%20x%20540.jpg",
+			"websiteUrl": "https://www.euholidays.com.sg/",
+			"descriptionHtml": "<p>​​​​​​​<strong><em>​​​​​​​</em></strong>EU Holidays hopes to make travel different by offering completely unique experiences that add perspective, inspiration and meaning to every traveller's journey. Today, they specialise not only in long-haul tours to Europe and USA, but also travel packages to destinations worldwide.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"promotional": "                     ",
+			"participatingOutlets": "                     ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/24919630518817515-Logo%201000%20x%201000.jpg",
+			"createdAt": "2022-11-03T00:47:34.117Z",
+			"updatedAt": "2026-08-06T14:17:37.876Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9659d00b0a527865c0e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13700950071504736-Image%20750%20x%20540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/24919630518817515-Logo%201000%20x%201000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13700950071504736-Image%20750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13700950071504736-Image%20750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13700950071504736-Image%20750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/24919630518817515-Logo%201000%20x%201000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/24919630518817515-Logo%201000%20x%201000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/24919630518817515-Logo%201000%20x%201000_high.jpg"
+			},
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-02-27T03:51:28.251Z",
+			"searchContent": "​​​​​​​​​​​​​​EU Holidays hopes to make travel different by offering completely unique experiences that add perspective, inspiration and meaning to every traveller's journey. Today, they specialise not only in long-haul tours to Europe and USA, but also travel packages to destinations worldwide. Holidays Travel Tour Suntec City Promenade Esplanade Packages Worldwide Travelling Europe Usa Experiences Overseas Services Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Services",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "eu-holidays-2379becd",
+			"isDisplayOnKrisWeb": true,
+			"outlets": [
+				{
+					"_id": "636a0c0f9ed8f126506bbf7e",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "EU Holidays",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

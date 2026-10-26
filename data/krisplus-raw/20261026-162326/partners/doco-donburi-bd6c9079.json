@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/doco-donburi-bd6c9079",
+	"slug": "doco-donburi-bd6c9079",
+	"fetchedAt": "2026-10-26T16:26:12.360+08:00",
+	"payload": {
+		"partner": {
+			"_id": "624d02b409c75f1984d4f060",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Japanese",
+				"Donburi",
+				"Rice Bowl",
+				"Fast Food",
+				"Tanjong Pagar",
+				"Cbd",
+				"International Plaza",
+				"Asian",
+				"Fusion",
+				"Coconut",
+				"Dining",
+				"Central Business District"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "THE FISH SHNACK",
+			"brand": "DOCO Donburi",
+			"code": "TFS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "DOCO Donburi",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "10 Anson Road, #01-17 International Plaza Singapore 079903",
+				"postalCode": "079903",
+				"streetName": "10 Anson Road"
+			},
+			"regNumber": "53322084W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4861282570932437-05036998589753483-partner%20brand%20image.jpg",
+			"websiteUrl": "https://doco-donburi.business.site/",
+			"descriptionHtml": "<p>DOCO Donburi, features a spin-off of its popular parents, The Fish-Shnack. Starring its donburi series, DOCO was created as a result of the founder’s love for food and watching people enjoy them.</p>",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"participatingOutlets": "International Plaza",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6404008588604007-24993937357278506-logo%20app.png",
+			"createdAt": "2022-04-06T03:02:12.433Z",
+			"updatedAt": "2026-08-06T14:17:29.240Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "     ",
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"CD",
+								"JAP"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9862f71c855d5496e36"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4861282570932437-05036998589753483-partner%20brand%20image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6404008588604007-24993937357278506-logo%20app.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4861282570932437-05036998589753483-partner%20brand%20image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4861282570932437-05036998589753483-partner%20brand%20image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4861282570932437-05036998589753483-partner%20brand%20image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6404008588604007-24993937357278506-logo%20app_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6404008588604007-24993937357278506-logo%20app_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6404008588604007-24993937357278506-logo%20app_high.png"
+			},
+			"searchContent": "DOCO Donburi, features a spin-off of its popular parents, The Fish-Shnack. Starring its donburi series, DOCO was created as a result of the founder’s love for food and watching people enjoy them. Japanese Donburi Rice Bowl Fast Food Tanjong Pagar Cbd International Plaza Asian Fusion Coconut Dining Central Business District Dining Casual Dining Japanese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "doco-donburi-bd6c9079",
+			"outlets": [
+				{
+					"_id": "6254027e8287780ef0604910",
+					"name": "International Plaza"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"International Plaza"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "DOCO Donburi",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

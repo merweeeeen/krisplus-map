@@ -1,0 +1,222 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-thai-spa-85915fdc",
+	"slug": "the-thai-spa-85915fdc",
+	"fetchedAt": "2026-10-26T16:25:17.109+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60ef86073029818150e439a1",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Esplanade",
+				"Promenade",
+				"Spa",
+				"Massage",
+				"Facial",
+				"Treatments",
+				"Essential Oils",
+				"Jacuzzi",
+				"Wellness",
+				"Body Scrubs",
+				"Couples",
+				"Suntec City",
+				"Thai",
+				"Lotion",
+				"Oils",
+				"Balinese",
+				"Traditional",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Cleanser",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Suvarn Wellness Pte Ltd",
+			"brand": "The Thai Spa",
+			"code": "TT1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "The Thai Spa",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "101 Cecil Street, #20-11 Tong Eng Building",
+				"postalCode": "069533",
+				"streetName": "Cecil Street"
+			},
+			"regNumber": "201820486N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16974912833444256-Brand%20Image%20750%20x%20540.jpg",
+			"websiteUrl": "https://www.thethaispa.com.sg/",
+			"descriptionHtml": "<p>The Thai Spa brings to you an authentic experience that will help revitalize and rejuvenate the body. Highly recommended therapy treatments include the couple massage, peppermint body scrub, Thai Body Massage, Balinese massage, Lomi Lomi massage, and other traditional therapies. The Thai Spa also specialises in organic and herbal facials.</p>\n\n\n\n<p>Participating Outlet:</p>\n\n<ul><li>Plaza Singapura</li><li>Tanglin</li><li>Suntec City </li><li>Orchard Central</li></ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/23512816121566016-Brand%20Logo%20-%201000%20x%201000.png",
+			"createdAt": "2021-07-15T00:49:11.876Z",
+			"updatedAt": "2026-08-06T14:17:18.888Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "Suntec City",
+			"promotional": "                  ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9b7034603c3389299a9"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16974912833444256-Brand%20Image%20750%20x%20540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/23512816121566016-Brand%20Logo%20-%201000%20x%201000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16974912833444256-Brand%20Image%20750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16974912833444256-Brand%20Image%20750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16974912833444256-Brand%20Image%20750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/23512816121566016-Brand%20Logo%20-%201000%20x%201000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/23512816121566016-Brand%20Logo%20-%201000%20x%201000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/23512816121566016-Brand%20Logo%20-%201000%20x%201000_high.png"
+			},
+			"searchContent": "The Thai Spa brings to you an authentic experience that will help revitalize and rejuvenate the body. Highly recommended therapy treatments include the couple massage, peppermint body scrub, Thai Body Massage, Balinese massage, Lomi Lomi massage, and other traditional therapies. The Thai Spa also specialises in organic and herbal facials. Participating Outlet: Plaza SingapuraTanglinSuntec City Orchard Central Esplanade Promenade Spa Massage Facial Treatments Essential Oils Jacuzzi Wellness Body Scrubs Couples Suntec City Thai Lotion Oils Balinese Traditional Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Cleanser Guasha Foot Massage Body Massage Treatment Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-16T02:48:22.309Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-thai-spa-85915fdc",
+			"outlets": [
+				{
+					"_id": "64478d52d84bef005c6292cc",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "64478d85ab4394005c5c5a37",
+					"name": "Orchard Central"
+				},
+				{
+					"_id": "6940c748a7135f350c2c00fa",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "6940c7cee0f8ce9a6b709c1b",
+					"name": "Tanglin Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Plaza Singapura",
+			"Orchard Central",
+			"Suntec City",
+			"Tanglin Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Thai Spa",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

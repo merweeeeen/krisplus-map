@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/grohe-9f5c2b8d",
+	"slug": "grohe-9f5c2b8d",
+	"fetchedAt": "2026-10-26T16:25:11.083+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60a71c6fb910779b68ccd7ca",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "LIXIL INTERNATIONAL PTE LTD",
+			"brand": "GROHE",
+			"code": "GRO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "GROHE",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "180 Clemenceau Avenue, Haw Par Centre #06-02",
+				"postalCode": "239922",
+				"streetName": "Clemenceau Avenue"
+			},
+			"regNumber": "199401593N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9651774923536751-Main%20Image.jpg",
+			"websiteUrl": "https://www.grohe.com/en-SG",
+			"descriptionHtml": "<p>GROHE is a leading global brand for complete bathroom solutions and kitchen fittings. Every GROHE product is based on the brand values of quality, technology, design and sustainability.</p>  <p>Participating Outlet:</p>  <ul> \t<li>381 Joo Chiat</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2838437018589208-GROHE%20LOGO%20(for%20app).png",
+			"createdAt": "2021-05-21T02:35:27.139Z",
+			"updatedAt": "2026-10-26T07:35:23.760Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 5,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 15.5
+				},
+				"saleOfMiles": 0.031,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 300000,
+				"minTokens": 60000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "     ",
+			"searchableKeywords": [
+				"Taps",
+				"Baths",
+				"Fixtures",
+				"Fittings",
+				"Home Improvements",
+				"Toilet cistern",
+				"Toilet Parts",
+				"Sinks",
+				"Bidet",
+				"Home",
+				"Bathroom",
+				"shower",
+				"rain shower",
+				"basin",
+				"GROHE",
+				"Ruhens",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9bd2f71c855d5496e4e"
+			],
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9651774923536751-Main%20Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2838437018589208-GROHE%20LOGO%20(for%20app).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9651774923536751-Main%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9651774923536751-Main%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9651774923536751-Main%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2838437018589208-GROHE%20LOGO%20(for%20app)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2838437018589208-GROHE%20LOGO%20(for%20app)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2838437018589208-GROHE%20LOGO%20(for%20app)_high.png"
+			},
+			"searchContent": "GROHE is a leading global brand for complete bathroom solutions and kitchen fittings. Every GROHE product is based on the brand values of quality, technology, design and sustainability. Participating Outlet: 381 Joo Chiat Taps Baths Fixtures Fittings Home Improvements Toilet cistern Toilet Parts Sinks Bidet Home Bathroom shower rain shower basin GROHE Ruhens Hansgrohe Mayer Simmons Sealy Homefurnishing Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.145Z",
+			"slugId": "grohe-9f5c2b8d",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "6552e60408bfbc0053c6d983",
+					"name": "381 Joo Chiat Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"381 Joo Chiat Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "GROHE",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

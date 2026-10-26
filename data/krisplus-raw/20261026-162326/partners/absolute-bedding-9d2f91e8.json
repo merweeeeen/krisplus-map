@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/absolute-bedding-9d2f91e8",
+	"slug": "absolute-bedding-9d2f91e8",
+	"fetchedAt": "2026-10-26T16:28:50.680+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6673a07f7667f300682da409",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Absolute",
+				"Comfort",
+				"Absolute Style",
+				"Elevate Your Space",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "ABSOLUTE BEDDING INTERNATIONAL PTE LTD",
+			"brand": "Absolute Bedding",
+			"code": "ABI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Absolute Beddi",
+			"address": {
+				"city": "Singapore",
+				"line1": "1 TAMPINES NORTH DRIVE 1, #03-40 T-SPACE, SINGAPORE 528559",
+				"streetName": "1 TAMPINES NORTH DRIVE 1",
+				"postalCode": "528559",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"websiteUrl": "https://absolutebedding.com.sg/",
+			"descriptionHtml": "<p>Absolute Bedding specializes in crafting and retailing premium Beds and Sofa sets, acclaimed in the European market. Renowned for quality, the Absolute brand stands as a testament to luxurious living and superior craftsmanship.</p>\n\n<p>Participating Outlets:</p>\n\n<p>•    Century Square<br />\n•    IMM<br />\n•    Furniture Gallery @ Space<br />\n•    T-Space</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/13811900188642356-A_Logo_w1000-x-h1000_pixel.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7018119677070045-Brand%20image_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"createdAt": "2024-06-20T03:22:39.021Z",
+			"updatedAt": "2026-08-06T14:18:04.206Z",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7018119677070045-Brand%20image_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/13811900188642356-A_Logo_w1000-x-h1000_pixel.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7018119677070045-Brand%20image_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7018119677070045-Brand%20image_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7018119677070045-Brand%20image_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/13811900188642356-A_Logo_w1000-x-h1000_pixel_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/13811900188642356-A_Logo_w1000-x-h1000_pixel_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/13811900188642356-A_Logo_w1000-x-h1000_pixel_high.jpg"
+			},
+			"searchContent": "Absolute Bedding specializes in crafting and retailing premium Beds and Sofa sets, acclaimed in the European market. Renowned for quality, the Absolute brand stands as a testament to luxurious living and superior craftsmanship. Participating Outlets: • Century Square • IMM • Furniture Gallery @ Space • T-Space Absolute Comfort Absolute Style Elevate Your Space Homefurnishing Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "absolute-bedding-9d2f91e8",
+			"outlets": [
+				{
+					"_id": "6674f42b067add006873487b",
+					"name": "Century Square"
+				},
+				{
+					"_id": "6674f5084f0b930069f5bc3e",
+					"name": "Furniture Gallery@Space "
+				},
+				{
+					"_id": "6674f5c2e62af70067750672",
+					"name": "T-Space"
+				},
+				{
+					"_id": "6674f668b3d6d30068129af4",
+					"name": "IMM"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Century Square",
+			"Furniture Gallery@Space ",
+			"T-Space",
+			"IMM"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Absolute Bedding",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ace-fresh-72803170",
+	"slug": "ace-fresh-72803170",
+	"fetchedAt": "2026-10-26T16:30:47.838+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6886ec2781a4c60400a81667",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.03,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				""
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Ace Fresh Pte. Ltd.",
+			"brand": "ACE Fresh",
+			"code": "AFP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5411",
+			"shortName": "ACE Fresh",
+			"address": {
+				"line1": "713 Ang Mo Kio Avenue 6, #01-4040, Singapore 560713",
+				"postalCode": "560713",
+				"streetName": "713 Ang Mo Kio Avenue 6",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.instagram.com/acemarketplacesg/",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Established in March 2022, Ace Fresh is a supermarket chain\n    that not only supplies consumers with daily essentials but also aims to ease\n    the impact of rising living costs by offering affordable, value-oriented\n    products through strategic partnerships.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 1; font-size: 15px; font-family: Aptos, sans-serif;\">Participating Outlets:</p>\n\n<ul style=\"margin-bottom: 0px; margin-top: 0px; line-height: 1;\" type=\"circle\">\n    <li class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 1; font-size: 15px; font-family: Aptos, sans-serif;\">18\n        Bedok South Road, #01-87</li>\n    <li class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 1; font-size: 15px; font-family: Aptos, sans-serif;\">109\n        Bukit Purmei Road, #01-139</li>\n    <li class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 1; font-size: 15px; font-family: Aptos, sans-serif;\">65\n        Telok Blangah Drive, #01-166/168/170</li>\n    <li class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 1; font-size: 15px; font-family: Aptos, sans-serif;\">449\n        Ang Mo Kio Ave 10, #01-1733</li>\n    <li class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 1; font-size: 15px; font-family: Aptos, sans-serif;\">713\n        Ang Mo Kio Avenue 6, #01-4040</li>\n    <li class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 1; font-size: 15px; font-family: Aptos, sans-serif;\">731\n        Yishun Street 72, #01-49</li>\n</ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/10735495431553366-AceFresh.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6861720838478287-4300162509550547-Ace%20Fresh%20Logo%20(002).jpg",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10735495431553366-AceFresh.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6861720838478287-4300162509550547-Ace%20Fresh%20Logo%20(002).jpg",
+			"createdAt": "2025-07-28T03:19:03.423Z",
+			"updatedAt": "2026-08-06T14:18:17.840Z",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-03T06:14:50.870Z",
+			"searchContent": "Established in March 2022, Ace Fresh is a supermarket chain that not only supplies consumers with daily essentials but also aims to ease the impact of rising living costs by offering affordable, value-oriented products through strategic partnerships. Participating Outlets: 18 Bedok South Road, #01-87 109 Bukit Purmei Road, #01-139 65 Telok Blangah Drive, #01-166/168/170 449 Ang Mo Kio Ave 10, #01-1733 713 Ang Mo Kio Avenue 6, #01-4040 731 Yishun Street 72, #01-49 Retail Groceries",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10735495431553366-AceFresh_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10735495431553366-AceFresh_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10735495431553366-AceFresh_high.png"
+			},
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ace-fresh-72803170",
+			"outlets": [
+				{
+					"_id": "6888783af9da1c045a805d84",
+					"name": "18 Bedok South Road"
+				},
+				{
+					"_id": "6888787a7248d60452809cf2",
+					"name": "109 Bukit Purmei Road"
+				},
+				{
+					"_id": "688879d2889ff1044c67fac1",
+					"name": "65 Telok Blangah Drive"
+				},
+				{
+					"_id": "68887a2200e1d7044a686154",
+					"name": "449 Ang Mo Kio Ave 10"
+				},
+				{
+					"_id": "68887b6025d848045a44b71c",
+					"name": "713 Ang Mo Kio Avenue 6"
+				},
+				{
+					"_id": "68887bbd7678f6044dbc17ae",
+					"name": "731 Yishun Street 72"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"18 Bedok South Road",
+			"109 Bukit Purmei Road",
+			"65 Telok Blangah Drive",
+			"449 Ang Mo Kio Ave 10",
+			"713 Ang Mo Kio Avenue 6",
+			"731 Yishun Street 72"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ACE Fresh",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-travel-store-450270e9",
+	"slug": "the-travel-store-450270e9",
+	"fetchedAt": "2026-10-26T16:32:44.270+08:00",
+	"payload": {
+		"partner": {
+			"_id": "699d466ee5c450470493a12c",
+			"name": "LOHMUN LEATHER PRODUCTS PTE LTD",
+			"shortName": "The Travel Sto",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "The Travel Store",
+			"code": "TTS",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2125405280182875-49872073783383497-Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/46491388252451693-7533073158376506-Brand%20image%20%26%20Priv.png",
+			"websiteUrl": "https://thetravelstore.com.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "153 KAMPONG AMPAT #03-04 JUNJIE INDUSTRIAL BUILDING SINGAPORE 368326",
+				"postalCode": "368326",
+				"streetName": "153 KAMPONG AMPAT",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Discover your ultimate travel companion, your one-stop shop\n    for carry-on, check-in luggage, and travel accessories. Explore premium brands\n    like Eminent, Hugo Boss, Hush Puppies, Roncato, Verage, and Travel Time, all\n    designed to elevate your journey.</p>\n\n\n\n<p>Participating outlets:</p><ul><li>IMM</li><li>NEX</li><li>Plaza Singapura</li></ul>\n\n\n",
+			"searchableKeywords": [
+				"Luggage",
+				"hugo boss",
+				"travel",
+				"lifestyle",
+				"bag",
+				"hush puppies",
+				"eminent",
+				"cabin size",
+				"hardcase luggage",
+				"travel accessories",
+				"travel gift",
+				"travel essentials"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-24T06:34:22.356Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2125405280182875-49872073783383497-Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/46491388252451693-7533073158376506-Brand%20image%20%26%20Priv.png",
+			"createdAt": "2026-02-24T06:34:22.364Z",
+			"updatedAt": "2026-08-06T14:18:29.668Z",
+			"searchContent": "Discover your ultimate travel companion, your one-stop shop for carry-on, check-in luggage, and travel accessories. Explore premium brands like Eminent, Hugo Boss, Hush Puppies, Roncato, Verage, and Travel Time, all designed to elevate your journey. Participating outlets: IMMNEXPlaza Singapura Luggage hugo boss travel lifestyle bag hush puppies eminent cabin size hardcase luggage travel accessories travel gift travel essentials Retail",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/46491388252451693-7533073158376506-Brand%20image%20%26%20Priv_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/46491388252451693-7533073158376506-Brand%20image%20%26%20Priv_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/46491388252451693-7533073158376506-Brand%20image%20%26%20Priv_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2125405280182875-49872073783383497-Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2125405280182875-49872073783383497-Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2125405280182875-49872073783383497-Logo_high.png"
+			},
+			"newMerchantEndDate": "2026-05-12T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-travel-store-450270e9",
+			"outlets": [
+				{
+					"_id": "69a5230862a836bbf616317d",
+					"name": "IMM"
+				},
+				{
+					"_id": "69a52363e1e0e732bd34c7cc",
+					"name": "NEX"
+				},
+				{
+					"_id": "69a523c57f6b59c2dd1f8293",
+					"name": "Plaza Singapura"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"IMM",
+			"NEX",
+			"Plaza Singapura"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Travel Store",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,235 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/phs-hairscience-af7864a0",
+	"slug": "phs-hairscience-af7864a0",
+	"fetchedAt": "2026-10-26T16:24:33.010+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5fa4293fac71bb2fe01dbd0f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES",
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "PHS HAIRSCIENCE",
+			"brand": "PHS HAIRSCIENCE",
+			"code": "RPH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "PHShairscience",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "8 Ubi Road 2 #02-01/03 Zervex ",
+				"postalCode": "408538",
+				"streetName": "Ubi Road 2 "
+			},
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/33926170164369074-PHS%20Temp%20Brand%20Banner%20750x540px%20%232.jpg",
+			"websiteUrl": "https://phshairscience.com.sg/pages/kris-exclusive",
+			"description": "",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/06207700634465918-46247521919570467-PHS-Logo_1000x1000px.jpg",
+			"createdAt": "2020-11-05T16:33:03.364Z",
+			"updatedAt": "2026-08-06T14:17:11.774Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tWheelock\n•\tNgee Ann City\n•\tPlaza Singapura\n•\tBedok Mall",
+			"promotional": "       ",
+			"descriptionHtml": "<p>PHS HAIRSCIENCE® combines trichology expertise with science-backed formulations to deliver targeted solutions for diverse scalp and hair concerns. Guided by “Healthy Scalp, Beautiful Hair,” PHS encourages early, dedicated scalp care with the same confidence and attention given to skincare.</p><p><br> Participating Outlets:</p>  <ul> \t<li>Wheelock</li> \t<li>Ngee Ann City</li> \t<li>Bedok Mall </li> </ul>",
+			"searchableKeywords": [
+				"Handy Road",
+				"Dhoby Ghaut",
+				"Orchard Road",
+				"Paterson Road",
+				"Orchard",
+				"New Upper Changi Road",
+				"Bedok",
+				"Wellness",
+				"Retail",
+				"Ps",
+				"Central",
+				"Hair",
+				"Maintenance",
+				"Hair Loss",
+				"Scalp Health",
+				"Deep Cleansing",
+				"Treatment",
+				"Follicles",
+				"Sebum",
+				"Defence",
+				"Booster",
+				"Beauty",
+				"Services",
+				"Wheelock Place",
+				"Ngee Ann City",
+				"Plaza Singapura",
+				"Bedok Mall",
+				"Essences",
+				"Scalp Care",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				},
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d5034603c3389299b3"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/33926170164369074-PHS%20Temp%20Brand%20Banner%20750x540px%20%232.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/06207700634465918-46247521919570467-PHS-Logo_1000x1000px.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/33926170164369074-PHS%20Temp%20Brand%20Banner%20750x540px%20%232_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/33926170164369074-PHS%20Temp%20Brand%20Banner%20750x540px%20%232_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/33926170164369074-PHS%20Temp%20Brand%20Banner%20750x540px%20%232_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/06207700634465918-46247521919570467-PHS-Logo_1000x1000px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/06207700634465918-46247521919570467-PHS-Logo_1000x1000px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/06207700634465918-46247521919570467-PHS-Logo_1000x1000px_high.jpg"
+			},
+			"searchContent": "PHS HAIRSCIENCE® brings together cutting-edge science with unrivalled expertise in hair and scalp care. Using botanical essences, stem cell extracts, without any harmful additives, the products and treatments cater to a wide array of scalp and hair concerns. Participating Outlets: Wheelock Ngee Ann City Bedok Mall Handy Road Dhoby Ghaut Orchard Road Paterson Road Orchard New Upper Changi Road Bedok Wellness Retail Ps Central Hair Maintenance Hair Loss Scalp Health Deep Cleansing Treatment Follicles Sebum Defence Booster Beauty Services Wheelock Place Ngee Ann City Plaza Singapura Bedok Mall Essences Scalp Care Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Services Personal Care Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T06:43:58.318Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "phs-hairscience-af7864a0",
+			"outlets": [
+				{
+					"_id": "5fab948bef42a83774af606f",
+					"name": "Ngee Ann City"
+				},
+				{
+					"_id": "5fab94ac2ada863790b23a02",
+					"name": "Wheelock Place"
+				},
+				{
+					"_id": "5fababc12ada863790b23a07",
+					"name": "Bedok Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Ngee Ann City",
+			"Wheelock Place",
+			"Bedok Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "PHS HAIRSCIENCE",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

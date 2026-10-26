@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/onegolf-7ebd0601",
+	"slug": "onegolf-7ebd0601",
+	"fetchedAt": "2026-10-26T16:31:50.290+08:00",
+	"payload": {
+		"partner": {
+			"_id": "691e968761dda08bab040d72",
+			"name": "ONEGOLF PTE LTD",
+			"shortName": "OneGolf",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "OneGolf",
+			"code": "OGF",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/07369946906535674-OneGolf.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/18391731242359977-4222272509083427-B%20BRAND%20IMAGE.png",
+			"websiteUrl": "https://onegolfsg.com/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "545 Orchard Road #02-33 Far East Shopping Mall Singapore 238882",
+				"postalCode": "238882",
+				"streetName": "545 Orchard Road #02-33",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">OneGolf offers the best prices on a full range of golf     equipment, from clubs to accessories. Their competitive pricing, combined with     a comprehensive selection, ensures golfers of all levels find top-quality     products to meet their needs, enhancing both performance and value on the     course.</p>",
+			"searchableKeywords": [
+				"golf equipment",
+				"golf clubs",
+				"golf accessories",
+				"golf apparel",
+				"best golf prices",
+				"golf gear",
+				"premium golf products",
+				"golf shop",
+				"golf store",
+				"affordable golf equipment",
+				"golf supplies",
+				"golf balls",
+				"golf apparel online",
+				"golf accessories Singapore",
+				"golfing essentials",
+				"TaylorMade",
+				"Callaway",
+				"Titleist",
+				"Ping",
+				"Cobra",
+				"Mizuno",
+				"Nike",
+				"Srixon",
+				"Wilson",
+				"Odyssey",
+				"PXG",
+				"LAB GOLF",
+				"RAPSODO",
+				"WELLPUTT"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-20T04:18:15.587Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07369946906535674-OneGolf.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18391731242359977-4222272509083427-B%20BRAND%20IMAGE.png",
+			"createdAt": "2025-11-20T04:18:15.595Z",
+			"updatedAt": "2026-08-06T14:18:25.119Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18391731242359977-4222272509083427-B%20BRAND%20IMAGE_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18391731242359977-4222272509083427-B%20BRAND%20IMAGE_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18391731242359977-4222272509083427-B%20BRAND%20IMAGE_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07369946906535674-OneGolf_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07369946906535674-OneGolf_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07369946906535674-OneGolf_high.png"
+			},
+			"searchContent": "OneGolf offers the best prices on a full range of golf equipment, from clubs to accessories. Their competitive pricing, combined with a comprehensive selection, ensures golfers of all levels find top-quality products to meet their needs, enhancing both performance and value on the course. golf equipment golf clubs golf accessories golf apparel best golf prices golf gear premium golf products golf shop golf store affordable golf equipment golf supplies golf balls golf apparel online golf accessories Singapore golfing essentials TaylorMade Callaway Titleist Ping Cobra Mizuno Nike Srixon Wilson Odyssey PXG LAB GOLF RAPSODO WELLPUTT Retail Home & Lifestyle",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "onegolf-7ebd0601",
+			"outlets": [
+				{
+					"_id": "691e977b1ebfbaf52f14c449",
+					"name": "Far East Shopping Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Far East Shopping Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "OneGolf",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

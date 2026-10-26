@@ -1,0 +1,185 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/clove-6f0f3840",
+	"slug": "clove-6f0f3840",
+	"fetchedAt": "2026-10-26T16:27:54.792+08:00",
+	"payload": {
+		"partner": {
+			"_id": "648fcd314b2d3f00504f989f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Buffet",
+				"All Day Dining",
+				"International Buffet",
+				"Seafood",
+				"Hotel Buffet",
+				"Downtown",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "RC Hotels (Pte) Ltd",
+			"brand": "CLOVE",
+			"code": "CLV",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "CLOVE",
+			"address": {
+				"line1": "2 STAMFORD ROAD SINGAPORE 178882",
+				"postalCode": "178882",
+				"streetName": "2 STAMFORD ROAD SINGAPORE ",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "198904859N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8013995700515189-CLOVE.png",
+			"websiteUrl": "https://www.swissotel-singapore-stamford.com/restaurants-bars/clove/",
+			"descriptionHtml": "<p><em></em>For weddings related enquiries, kindly contact fbsales.singapore@Fairmont.com for more information.</p><p> ​​​​​​​Indulge your palates with a sumptuous international array of culinary delights and beverages at the popular all-day dining destination of CLOVE at Swissôtel The Stamford. Have your fill from a colourful display of vitality salads; fresh seafood on ice; smoked fish & charcuterie; breads; cheeses; and sweets, not forgetting the live stations of roasts and noodles.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/43817341162495893-7510607767706596-CLOVE%20logo_square.png",
+			"createdAt": "2023-06-19T03:36:17.596Z",
+			"updatedAt": "2026-08-06T14:17:45.916Z",
+			"translations": [
+				"64eef9f6fd404ac7a5ba3042"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8013995700515189-CLOVE_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8013995700515189-CLOVE_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8013995700515189-CLOVE_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8013995700515189-CLOVE.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/43817341162495893-7510607767706596-CLOVE%20logo_square.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/43817341162495893-7510607767706596-CLOVE%20logo_square_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/43817341162495893-7510607767706596-CLOVE%20logo_square_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/43817341162495893-7510607767706596-CLOVE%20logo_square_high.png"
+			},
+			"searchContent": "For weddings related enquiries, kindly contact fbsales.singapore@Fairmont.com for more information. ​​​​​​​Indulge your palates with a sumptuous international array of culinary delights and beverages at the popular all-day dining destination of CLOVE at Swissôtel The Stamford. Have your fill from a colourful display of vitality salads; fresh seafood on ice; smoked fish & charcuterie; breads; cheeses; and sweets, not forgetting the live stations of roasts and noodles. Buffet All Day Dining International Buffet Seafood Hotel Buffet Downtown Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Dining Casual Dining Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-02-24T02:38:43.704Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "clove-6f0f3840",
+			"outlets": [
+				{
+					"_id": "648fce83ed81630055f8392a",
+					"name": "Swissotel The Stamford"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Swissotel The Stamford"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "CLOVE",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

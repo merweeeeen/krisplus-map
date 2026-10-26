@@ -1,0 +1,246 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/jal-yoga-7e6a368c",
+	"slug": "jal-yoga-7e6a368c",
+	"fetchedAt": "2026-10-26T16:24:05.017+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e6215b413c6792bd0dc8ade",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Jal Yoga International Pte Ltd",
+			"brand": "Jal Yoga",
+			"code": "JAL",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "58 St. Patrick Road #02-14",
+				"postalCode": "424218",
+				"streetName": "St Patrick Road"
+			},
+			"category": "WELLNESS",
+			"regNumber": "201708359E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5507988984685932-Brand_Image_App(750x540).png",
+			"websiteUrl": "https://www.jalyoga.com.sg",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-83c36ea3-8521-4bd8-9db2-d2151bb24a84.jpg",
+			"createdAt": "2020-03-06T09:19:48.776Z",
+			"updatedAt": "2026-09-25T09:08:39.457Z",
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 2.5,
+					"saleOfMilesPct": 0
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": false
+			},
+			"participatingOutlets": "•\tAlexandra Road\n•\tUpper Bukit Timah Road\n•\tEast Coast Road\n•\tUpper Thomson Road\n•\tWoodlands Avenue 1",
+			"promotional": "         ",
+			"categary": "Others",
+			"categories": [
+				"WELLNESS"
+			],
+			"mccCode": "7298",
+			"mccDescription": "undefined",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Jal Yoga",
+			"descriptionHtml": "<p>Jal Yoga is a unique Yoga, Pilates and Barre concept studio. Jal Yoga offers Infrared Heat Yoga, Aerial Yoga, Wheel Yoga, Yin Yoga to Mat Pilates and Ballet Barre. Spice up your fitness routine with different type of exercises every day.</p>  <p><br></p><p>Participating Outlets:<br> • Alexandra Road<br> • Upper Bukit Timah Road<br> • East Coast Road <br> • Woodlands Avenue 1</p>",
+			"searchableKeywords": [
+				"Woodlands",
+				"Woodlands Avenue 1",
+				"East Coast Road",
+				"Eunos",
+				"Alexandra Road",
+				"Labrador Park",
+				"Upper Bukit Timah",
+				"Hillview",
+				"Beauty World",
+				"Wellness",
+				"Retail",
+				"Alexandra",
+				"Strength",
+				"Health",
+				"Yoga",
+				"Pilates",
+				"Workout",
+				"Exercise",
+				"Stretching",
+				"Heat",
+				"Aerial",
+				"Wheel",
+				"Yin",
+				"Mat",
+				"Ballet Barre",
+				"Ropes",
+				"Packages",
+				"Fitness",
+				"Katong",
+				"Medical",
+				"Doctor",
+				"General Practioner",
+				"Healthcare",
+				"Medical Package",
+				"Mc",
+				"Medical Certificate",
+				"Vaccinations",
+				"Healthspan",
+				"Holland  Barrett",
+				"Green People",
+				"Organixx",
+				"Juice Plus",
+				"Whey Protein",
+				"Gym",
+				"Dance",
+				"Boxing",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e3b51c9781d82fd54c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5507988984685932-Brand_Image_App(750x540).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-83c36ea3-8521-4bd8-9db2-d2151bb24a84.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5507988984685932-Brand_Image_App(750x540)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5507988984685932-Brand_Image_App(750x540)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5507988984685932-Brand_Image_App(750x540)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-83c36ea3-8521-4bd8-9db2-d2151bb24a84_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-83c36ea3-8521-4bd8-9db2-d2151bb24a84_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-83c36ea3-8521-4bd8-9db2-d2151bb24a84_high.jpg"
+			},
+			"searchContent": "Jal Yoga is a unique Yoga, Pilates and Barre concept studio. Jal Yoga offers Infrared Heat Yoga, Aerial Yoga, Wheel Yoga, Yin Yoga to Mat Pilates and Ballet Barre. Spice up your fitness routine with different type of exercises every day. Participating Outlets: • Alexandra Road • Upper Bukit Timah Road • East Coast Road • Woodlands Avenue 1 Woodlands Woodlands Avenue 1 East Coast Road Eunos Alexandra Road Labrador Park Upper Bukit Timah Hillview Beauty World Wellness Retail Alexandra Strength Health Yoga Pilates Workout Exercise Stretching Heat Aerial Wheel Yin Mat Ballet Barre Ropes Packages Fitness Katong Medical Doctor General Practioner Healthcare Medical Package Mc Medical Certificate Vaccinations Healthspan Holland  Barrett Green People Organixx Juice Plus Whey Protein Gym Dance Boxing Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Health & Fitness",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:40:42.141Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "jal-yoga-7e6a368c",
+			"outlets": [
+				{
+					"_id": "5e71caab1ec2d84b00e9ca56",
+					"name": "Alexandra"
+				},
+				{
+					"_id": "5ed75062748a441b8863f7b0",
+					"name": "Upp Bukit Timah"
+				},
+				{
+					"_id": "5ed75093e810041c1c87550d",
+					"name": "131 East Coast Road"
+				},
+				{
+					"_id": "5ed750c6748a441b8863f7b2",
+					"name": "Woods Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Alexandra",
+			"Upp Bukit Timah",
+			"131 East Coast Road",
+			"Woods Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Jal Yoga",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

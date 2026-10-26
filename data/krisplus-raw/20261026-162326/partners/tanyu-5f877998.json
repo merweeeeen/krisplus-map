@@ -1,0 +1,193 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tanyu-5f877998",
+	"slug": "tanyu-5f877998",
+	"fetchedAt": "2026-10-26T16:31:24.825+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68e7304033d1e70467f16bb7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chinese",
+				"grilled fish",
+				"spicy",
+				"green pepper",
+				"fish",
+				"china",
+				"mala",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "Skyline Catering Pte Ltd",
+			"brand": "TANYU",
+			"code": "TYU",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "TANYU",
+			"address": {
+				"line1": "133 NEW BRIDGE ROAD #15-07",
+				"postalCode": "059413",
+				"streetName": "CHINATOWN POINT",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.instagram.com/tanyu_sg/?hl=en",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">TANYU specialises in grilled fish in over 70 major cities in China with more than 300 outlets. In order to cater to the diverse tastes of local Singaporeans, TANYU makes use of a variety of cooking methods and offers 8 kinds of flavors for its grilled fish, such as savory & spicy, salted, roasted & more!<br><br><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Participating Outlets:</span><br>- 313 Somerset<br>- Bugis Junction<br>- Tampines 1<br>- Vivo City<br>- Westgate<br></span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5930742347530782-TanyuGrilledFish.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2723536218229361-750x540%20(3).png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5930742347530782-TanyuGrilledFish.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2723536218229361-750x540%20(3).png",
+			"createdAt": "2025-10-09T03:47:12.266Z",
+			"updatedAt": "2026-08-06T14:18:22.645Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2723536218229361-750x540%20(3)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2723536218229361-750x540%20(3)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2723536218229361-750x540%20(3)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5930742347530782-TanyuGrilledFish_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5930742347530782-TanyuGrilledFish_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5930742347530782-TanyuGrilledFish_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-11-03T02:20:41.026Z",
+			"searchContent": "TANYU specialises in grilled fish in over 70 major cities in China with more than 300 outlets. In order to cater to the diverse tastes of local Singaporeans, TANYU makes use of a variety of cooking methods and offers 8 kinds of flavors for its grilled fish, such as savory & spicy, salted, roasted & more! Participating Outlets: - 313 Somerset - Bugis Junction - Tampines 1 - Vivo City - Westgate Chinese grilled fish spicy green pepper fish china mala Dining Casual Dining Kid-Friendly Beverages & Desserts Chinese Asian",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tanyu-5f877998",
+			"outlets": [
+				{
+					"_id": "68e73331f06dfd046e73ddff",
+					"name": "313 Somerset"
+				},
+				{
+					"_id": "68e733b68a73cb046d674d0e",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "68e734cf8a73cb046d674e17",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "68e735654176bb0466e13ce4",
+					"name": "Vivo City"
+				},
+				{
+					"_id": "68e7360e7556100468b94f33",
+					"name": "Westgate"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313 Somerset",
+			"Bugis Junction",
+			"Tampines 1",
+			"Vivo City",
+			"Westgate"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TANYU",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

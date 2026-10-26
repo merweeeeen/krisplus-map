@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/straits-chinese-restaurant-ce5a9cc4",
+	"slug": "straits-chinese-restaurant-ce5a9cc4",
+	"fetchedAt": "2026-10-26T16:24:59.107+08:00",
+	"payload": {
+		"partner": {
+			"_id": "607fe3b964bcd01f28131f50",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Straits Chinese Restaurant",
+			"brand": "Straits Chinese Restaurant",
+			"code": "SCN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "StraitsChinese",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "8 Raffles Ave , #02-21 ",
+				"postalCode": "039802",
+				"streetName": "Raffles Ave"
+			},
+			"regNumber": "199206671R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/34180819284431374-6423256978801839-SCN-10OffTotalBill-1618388887755.jpg",
+			"websiteUrl": "https://straitschinese.com/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Straits%20Chinese\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Straits Chinese Restaurant, founded in 1953, is the oldest Nyonya Restaurant in Singapore. Featured in Michelin Guide SG, taste authentic Peranakan cuisine created with family recipes. Reasonably priced and loved by many generations of customers.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Esplanade Mall</li> \t<li>Keck Seng Tower</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8833673115902532-04561226472998192-LogoTingkatOnly-1000.png",
+			"createdAt": "2021-04-21T08:35:05.182Z",
+			"updatedAt": "2026-08-06T14:17:16.227Z",
+			"searchableKeywords": [
+				"Esplanade Drive",
+				"Downtown",
+				"Cecil Street",
+				"Chinese",
+				"Esplanade",
+				"Merlion",
+				"Relaxation",
+				"Afternoon Tea",
+				"Chinese Tea",
+				"Dessert",
+				"Tea Time",
+				"Cuisine",
+				"Fine Dining",
+				"Michelin",
+				"Dining",
+				"Keck Seng Tower",
+				"Nonya",
+				"Peranakan",
+				"Family",
+				"Gatherings",
+				"FortuneFeast"
+			],
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"saleOfMiles": 0.023,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "      ",
+			"promotional": "     ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"ASI",
+								"CD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c1a3718718842dd967"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/34180819284431374-6423256978801839-SCN-10OffTotalBill-1618388887755.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8833673115902532-04561226472998192-LogoTingkatOnly-1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/34180819284431374-6423256978801839-SCN-10OffTotalBill-1618388887755_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/34180819284431374-6423256978801839-SCN-10OffTotalBill-1618388887755_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/34180819284431374-6423256978801839-SCN-10OffTotalBill-1618388887755_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8833673115902532-04561226472998192-LogoTingkatOnly-1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8833673115902532-04561226472998192-LogoTingkatOnly-1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8833673115902532-04561226472998192-LogoTingkatOnly-1000_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "*Click here to Reserve A Table. Straits Chinese Restaurant, founded in 1953, is the oldest Nyonya Restaurant in Singapore. Featured in Michelin Guide SG, taste authentic Peranakan cuisine created with family recipes. Reasonably priced and loved by many generations of customers. Participating Outlets: Esplanade Mall Keck Seng Tower Esplanade Drive Downtown Cecil Street Chinese Esplanade Merlion Relaxation Afternoon Tea Chinese Tea Dessert Tea Time Cuisine Fine Dining Michelin Dining Keck Seng Tower Nonya Peranakan Family Gatherings FortuneFeast Dining Vegetarian-Friendly Asian Casual Dining Chinese",
+			"refundPeriodUpdatedAt": "2025-12-16T01:12:21.267Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "straits-chinese-restaurant-ce5a9cc4",
+			"outlets": [
+				{
+					"_id": "607fe4dd5155d534c86537c3",
+					"name": "Esplanade Mall"
+				},
+				{
+					"_id": "607fe5d35155d534c86537c7",
+					"name": "Keck Seng Tower"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Esplanade Mall",
+			"Keck Seng Tower"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Straits Chinese Restaurant",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

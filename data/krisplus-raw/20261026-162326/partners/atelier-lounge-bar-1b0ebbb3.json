@@ -1,0 +1,179 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/atelier-lounge-bar-1b0ebbb3",
+	"slug": "atelier-lounge-bar-1b0ebbb3",
+	"fetchedAt": "2026-10-26T16:28:14.705+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6552e9cd60a59a00501366e4",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 12.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Orchard",
+				"Coffee",
+				"Cocktails",
+				"Red Wine",
+				"White Wine",
+				"Celebration",
+				"Bar",
+				"Drinks",
+				"Alcohol",
+				"Beverages"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"6552e9d7156228c83963fceb"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Atelier Lounge & Bar",
+			"brand": "Atelier Lounge & Bar",
+			"code": "ATE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Atelier Lounge",
+			"address": {
+				"line1": "270 Orchard Road Singapore 238857",
+				"postalCode": "238857",
+				"streetName": "270 Orchard Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"PB",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "53453749M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6984473311565458-AtelierLounge.png",
+			"websiteUrl": "https://www.pullmansingaporeorchard.com/restaurants/atelier-lounge/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Atelier%20Lounge%20&%20Bar\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Perfectly perched on Orchard Road, Atelier Lounge & Bar is the city’s most fashionable address for easy glamour and good times, from morning breakfast and a cup of Robert Timms coffee to after-work wines, cocktails, premium spirits, and elevated bar snacks. The vibe is polished yet playful — smart casual with an edge — making it the ideal spot to chill or socialise.</p><p><br></p><p>The menu is designed for all occasions, whether you are starting the day with an American Big Breakfast, Egg Benedict, Avocado on Toast, Banana Pancakes, or comforting Chicken Congee. As the day unfolds, settle in with elevated bites and sharing plates such as Chicken Satay, Chilli Crab Dip, Baked Camembert, Cantonese Honey Char Siew Iberico Pork Collar, Wagyu Beef Striploin, Crispy Baby Squid, Fried Chicken Tulip, and Szechuan Fried Chicken Karaage.</p><p><br></p><p>Pair your meal with Asian-inspired cocktails that are bright, balanced, and beautifully crafted, alongside an expansive selection of international wines, premium alcohol, and top-shelf spirits. </p><p><br></p><p>Note: ALL points from Accor Live Limitless Loyalty programme can be utilized/earned in conjunction with payments via Kris+. All Accor Plus Explorer (paid membership) discounts and vouchers cannot be utilized in conjunction with Kris+ payments.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/23735708806462874-ATELIER-LOUNGE_BRANDMARK_RGB_PINK-724x357.png",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2023-11-14T03:30:21.046Z",
+			"updatedAt": "2026-10-12T03:08:18.522Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6984473311565458-AtelierLounge.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/23735708806462874-ATELIER-LOUNGE_BRANDMARK_RGB_PINK-724x357.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6984473311565458-AtelierLounge_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6984473311565458-AtelierLounge_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6984473311565458-AtelierLounge_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/23735708806462874-ATELIER-LOUNGE_BRANDMARK_RGB_PINK-724x357_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/23735708806462874-ATELIER-LOUNGE_BRANDMARK_RGB_PINK-724x357_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/23735708806462874-ATELIER-LOUNGE_BRANDMARK_RGB_PINK-724x357_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-08T02:34:31.081Z",
+			"searchContent": "$31",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "atelier-lounge-bar-1b0ebbb3",
+			"outlets": [
+				{
+					"_id": "655b6d4758f2cc004f75eb99",
+					"name": "Pullman Singapore Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Pullman Singapore Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Atelier Lounge & Bar",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

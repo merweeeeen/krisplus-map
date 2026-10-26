@@ -1,0 +1,192 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/maharajas-tailors-0c733a61",
+	"slug": "maharajas-tailors-0c733a61",
+	"fetchedAt": "2026-10-26T16:25:17.998+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60ef88103029818150e439a3",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Esplanade",
+				"Promenade",
+				"Orchard",
+				"City",
+				"Town",
+				"Central",
+				"Tailor",
+				"Clothing",
+				"Men",
+				"Women",
+				"Fabrics",
+				"Tuxedo",
+				"Alteration",
+				"Shirts",
+				"Finest",
+				"Style",
+				"Workmanship",
+				"Suits",
+				"Exquisite",
+				"Quality",
+				"Claymore Connect Mall",
+				"Parkroyal Hotel At Marina",
+				"Services",
+				"Bespoke",
+				"Corporate Wear",
+				"Formal",
+				"Custom"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Maharaja's Custom Tailors",
+			"brand": "Maharaja's Tailors",
+			"code": "MT1",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5691",
+			"shortName": "Maharajas Tai",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "442 Orchard Road",
+				"postalCode": "238879",
+				"streetName": "Orchard Road"
+			},
+			"regNumber": "04062800X",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/20106522618926026-Brand%20image%20App.png",
+			"websiteUrl": "https://www.maharajas.com.sg/",
+			"descriptionHtml": "<p>Established since 1958, Maharaja’s Tailors is one of the most established tailoring business in Singapore. Maharaja’s Tailors specialises in custom-made corporate wear, alteration services and tuxedo rentals.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Claymore Connect Mall</li> \t<li>ParkRoyal Hotel at Marina</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Mens and womens clothing stores",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/052514172319568564-Brand%20logo%20app.png",
+			"createdAt": "2021-07-15T00:57:52.414Z",
+			"updatedAt": "2026-09-01T01:58:26.127Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "•\tClaymore Connect Mall\n•\tParkRoyal Hotel at Marina",
+			"promotional": "  \n",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9b60108b03f047da59c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/20106522618926026-Brand%20image%20App.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/052514172319568564-Brand%20logo%20app.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/20106522618926026-Brand%20image%20App_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/20106522618926026-Brand%20image%20App_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/20106522618926026-Brand%20image%20App_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/052514172319568564-Brand%20logo%20app_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/052514172319568564-Brand%20logo%20app_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/052514172319568564-Brand%20logo%20app_high.png"
+			},
+			"searchContent": "Established since 1958, Maharaja’s Tailors is one of the most established tailoring business in Singapore. Maharaja’s Tailors specialises in custom-made corporate wear, alteration services and tuxedo rentals. Participating Outlets: Claymore Connect Mall ParkRoyal Hotel at Marina Esplanade Promenade Orchard City Town Central Tailor Clothing Men Women Fabrics Tuxedo Alteration Shirts Finest Style Workmanship Suits Exquisite Quality Claymore Connect Mall Parkroyal Hotel At Marina Services Bespoke Corporate Wear Formal Custom Services",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "maharajas-tailors-0c733a61",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-09-01T01:58:14.451Z",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "60f947ee97ddd37eec2dc22b",
+					"name": "Claymore Connect Mall"
+				},
+				{
+					"_id": "60f9485a1468c37040bb263d",
+					"name": "PARKROYAL Marina Bay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Claymore Connect Mall",
+			"PARKROYAL Marina Bay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Maharaja's Tailors",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

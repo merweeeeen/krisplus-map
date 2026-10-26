@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/kinohimitsu-70206cef",
+	"slug": "kinohimitsu-70206cef",
+	"fetchedAt": "2026-10-26T16:28:05.712+08:00",
+	"payload": {
+		"partner": {
+			"_id": "650be231560de100542a45e1",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE",
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Kinohimitsu",
+				"Kinohimitsu",
+				"Collagen",
+				"Singapore Skin Care",
+				"Collagen Drink",
+				"Collagen Promotions Kinohimitsu Promotions",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"650be23b130be4d36058975a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Kino Biotech Pte Ltd",
+			"brand": "Kinohimitsu",
+			"code": "KBP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Kinohimitsu",
+			"address": {
+				"city": "Singapore",
+				"line1": "12 Tai Seng Street #06-03, Singapore 534118",
+				"streetName": "12 Tai Seng Street",
+				"postalCode": "534118",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS",
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "200300630N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/16888150880557662-6254600292782628-Kris%2B_Asset_750x540-04.jpg",
+			"websiteUrl": "https://sg.kinohimitsu.com/",
+			"descriptionHtml": "<p>Kinohimitsu is the No.1 best selling beauty functional drink in Singapore and Malaysia. All products are 100% natural with no added refined sugar, preservatives, artificial colouring, flavouring, chemicals or hormones. In addition, Kinohimitsu is also an international award winning brand, highly trusted by people all over the world.</p>  <p>Participating Outlets:</p>  <p>•    Northpoint City<br> •    PLQ Mall<br> •    Tampines Mall<br> </p>  <p> <br></p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7359967852072609-5361075980144061-Kris%2B_Asset_App_Logo_Grey.png",
+			"createdAt": "2023-09-21T06:26:57.105Z",
+			"updatedAt": "2026-08-06T14:17:47.865Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16888150880557662-6254600292782628-Kris%2B_Asset_750x540-04.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7359967852072609-5361075980144061-Kris%2B_Asset_App_Logo_Grey.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16888150880557662-6254600292782628-Kris%2B_Asset_750x540-04_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16888150880557662-6254600292782628-Kris%2B_Asset_750x540-04_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16888150880557662-6254600292782628-Kris%2B_Asset_750x540-04_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7359967852072609-5361075980144061-Kris%2B_Asset_App_Logo_Grey_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7359967852072609-5361075980144061-Kris%2B_Asset_App_Logo_Grey_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7359967852072609-5361075980144061-Kris%2B_Asset_App_Logo_Grey_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Kinohimitsu is the No.1 best selling beauty functional drink in Singapore and Malaysia. All products are 100% natural with no added refined sugar, preservatives, artificial colouring, flavouring, chemicals or hormones. In addition, Kinohimitsu is also an international award winning brand, highly trusted by people all over the world. Participating Outlets: • Northpoint City • PLQ Mall • Tampines Mall Kinohimitsu Kinohimitsu Collagen Singapore Skin Care Collagen Drink Collagen Promotions Kinohimitsu Promotions Cnysnacks Chinese New Year Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Retail Gifts & Souvenirs Food Specialities",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-07-14T08:40:07.687Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "kinohimitsu-70206cef",
+			"outlets": [
+				{
+					"_id": "650be511000b2d004f31d125",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "662b09c147e31e006f70398b",
+					"name": "PLQ Mall"
+				},
+				{
+					"_id": "662b0a27f1bf080068e26f6c",
+					"name": "Tampines Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Northpoint City",
+			"PLQ Mall",
+			"Tampines Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kinohimitsu",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

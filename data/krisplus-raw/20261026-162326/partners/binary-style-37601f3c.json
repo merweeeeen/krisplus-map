@@ -1,0 +1,166 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/binary-style-37601f3c",
+	"slug": "binary-style-37601f3c",
+	"fetchedAt": "2026-10-26T16:31:35.273+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68fee7fc2ba8210467b3d640",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Scarf",
+				"scarves",
+				"silk",
+				"silk scarf",
+				"shawl",
+				"singapore gift",
+				"singapore design",
+				"Singapore homeware",
+				"Singapore apparel"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "Atelier Binary Pte Ltd",
+			"brand": "Binary Style",
+			"code": "BIN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5621",
+			"shortName": "Binary Style",
+			"address": {
+				"line1": "25 Keong Saik #02-01 Singapore 089132",
+				"postalCode": "089132",
+				"streetName": "25 Keong Saik",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW",
+								"HL",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.binarystyle.co",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Binary Style is a dynamic Singaporean brand merging art with fashion. Renowned for its premium scarves, apparel, and lifestyle products, each design is inspired by local culture and nature. Located at 25 Keong Saik Road, the brand offers high-quality, meaningful gifts that celebrate Singapore’s rich heritage.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2261247561730244-BinaryStyle.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5339106426884905-6793465881122558-APP%20BRAND-IMAGE-1.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2261247561730244-BinaryStyle.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5339106426884905-6793465881122558-APP%20BRAND-IMAGE-1.jpg",
+			"createdAt": "2025-10-27T03:33:16.452Z",
+			"updatedAt": "2026-08-06T14:18:23.613Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5339106426884905-6793465881122558-APP%20BRAND-IMAGE-1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5339106426884905-6793465881122558-APP%20BRAND-IMAGE-1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5339106426884905-6793465881122558-APP%20BRAND-IMAGE-1_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2261247561730244-BinaryStyle_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2261247561730244-BinaryStyle_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2261247561730244-BinaryStyle_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-11-03T02:41:40.588Z",
+			"searchContent": "Binary Style is a dynamic Singaporean brand merging art with fashion. Renowned for its premium scarves, apparel, and lifestyle products, each design is inspired by local culture and nature. Located at 25 Keong Saik Road, the brand offers high-quality, meaningful gifts that celebrate Singapore’s rich heritage. Scarf scarves silk silk scarf shawl singapore gift singapore design Singapore homeware Singapore apparel Retail Accessories, Jewellery & Watches Home & Lifestyle Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "binary-style-37601f3c",
+			"outlets": [
+				{
+					"_id": "690016ca1e1f2a0468cc8dac",
+					"name": " 25 Keong Saik Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			" 25 Keong Saik Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Binary Style",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,172 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/selectio-fine-wines-spirits-merchant-4f6cb7fe",
+	"slug": "selectio-fine-wines-spirits-merchant-4f6cb7fe",
+	"fetchedAt": "2026-10-26T16:33:22.417+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a0eac32af7a64a837f96423",
+			"name": "SELECTIO PTE LTD",
+			"shortName": "SELECTIO",
+			"mccCode": "5921",
+			"mccDescription": "Package Stores - Beer, Wine, and Liquor",
+			"brand": "SELECTIO - FINE WINES & SPIRITS MERCHANT",
+			"code": "5LT",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9700210928075974-9773998554509906-Brand-Logo---Selectio.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/1738834113078529-8506795924431572-Brand-Image---SELECTIO.png",
+			"websiteUrl": "https://selectio.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"address": {
+				"line1": "302 TANGLIN ROAD",
+				"postalCode": "247971",
+				"streetName": "302 TANGLIN ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">SELECTIO is an exclusive online platform selling premium whisky and wines hand-picked around the world. Fine whisky and wines is a world of diversity and can be enjoyed at some of life’s greatest moments and adventures.</p><p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Visit<span> </span><a href=\"https://selectio.sg/\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\">https://selectio.sg</a><span> </span>for their full catalogue. Place your orders via Whatsapp to +65 9831 6645 and quote Kris+ to receive the QR code for payment.</p><p class=\"MsoNormal\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">SELECTIO - FINE WINES & SPIRITS MERCHANT is located in OSO Ristorante.</p>",
+			"searchableKeywords": [
+				"wines",
+				"spirits",
+				"alcohol",
+				"beer",
+				"Macallan",
+				"red",
+				"white",
+				"Karuizawa",
+				"Italian",
+				"French",
+				"vodka",
+				"gin",
+				"tignanello",
+				"whisky"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC",
+								"GS",
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-15T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-21T06:54:42.872Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9700210928075974-9773998554509906-Brand-Logo---Selectio.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1738834113078529-8506795924431572-Brand-Image---SELECTIO.png",
+			"createdAt": "2026-05-21T06:54:42.926Z",
+			"updatedAt": "2026-09-01T01:48:54.828Z",
+			"searchContent": "SELECTIO is an exclusive online platform selling premium whisky and wines hand-picked around the world. Fine whisky and wines is a world of diversity and can be enjoyed at some of life’s greatest moments and adventures. Visit https://selectio.sg for their full catalogue. Place your orders via Whatsapp to +65 9831 6645 and quote Kris+ to receive the QR code for payment. SELECTIO - FINE WINES & SPIRITS MERCHANT is located in OSO Ristorante. wines spirits alcohol beer Macallan red white Karuizawa Italian French vodka gin tignanello whisky Retail Groceries Gifts & Souvenirs Food Specialities",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1738834113078529-8506795924431572-Brand-Image---SELECTIO_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1738834113078529-8506795924431572-Brand-Image---SELECTIO_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1738834113078529-8506795924431572-Brand-Image---SELECTIO_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9700210928075974-9773998554509906-Brand-Logo---Selectio_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9700210928075974-9773998554509906-Brand-Logo---Selectio_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9700210928075974-9773998554509906-Brand-Logo---Selectio_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "selectio-fine-wines-spirits-merchant-4f6cb7fe",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6a12b03ef0a4aaf4401474b5",
+					"name": "Oasia Hotel  Downtown"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Oasia Hotel  Downtown"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SELECTIO - FINE WINES & SPIRITS MERCHANT",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

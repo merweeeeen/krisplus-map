@@ -1,0 +1,358 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bengawan-solo-ddbb51c6",
+	"slug": "bengawan-solo-ddbb51c6",
+	"fetchedAt": "2026-10-26T16:29:48.688+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67bbe61d7089ac0ff489bce8",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.022,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Chiffon",
+				"Lapis",
+				"Pineapple Tarts",
+				"Cookies",
+				"Kueh",
+				"Bengawan Solo",
+				"Singapore Gift",
+				"Food Gift",
+				"Singapore Food Gifts",
+				"Premium Food Gifts",
+				"Pandan"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Bengawan Solo Pte Ltd",
+			"brand": "Bengawan Solo",
+			"code": "BGS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Bengawan Solo",
+			"address": {
+				"line1": "23 Woodlands Link Singapore 738730",
+				"postalCode": "738730",
+				"streetName": "23 Woodlands Link",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://bengawansolo.sg/",
+			"descriptionHtml": "<p>Bengawan Solo preserves the time-honored taste of Singapore’s local kuehs and confectionary, crafted with only the finest and freshest ingredients. From iconic Pandan Chiffon Cake to layered cakes, every bite reflects a commitment to quality and heritage, making it a beloved choice for celebrations and daily indulgence.</p><p>Non-Participating Outlet: <br>- Takashimaya (Ngee Ann City)</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/11591765764305828-26235753325497435-Bengawan%20Solo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5215079702900738-2506BG.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR4",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 38
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11591765764305828-26235753325497435-Bengawan%20Solo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5215079702900738-2506BG.png",
+			"createdAt": "2025-02-24T03:23:09.860Z",
+			"updatedAt": "2026-09-14T15:21:36.910Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5215079702900738-2506BG_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5215079702900738-2506BG_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5215079702900738-2506BG_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11591765764305828-26235753325497435-Bengawan%20Solo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11591765764305828-26235753325497435-Bengawan%20Solo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11591765764305828-26235753325497435-Bengawan%20Solo_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Bengawan Solo preserves the time-honored taste of Singapore’s local kuehs and confectionary, crafted with only the finest and freshest ingredients. From iconic Pandan Chiffon Cake to layered cakes, every bite reflects a commitment to quality and heritage, making it a beloved choice for celebrations and daily indulgence. Non-Participating Outlet: - Takashimaya (Ngee Ann City) Chiffon Lapis Pineapple Tarts Cookies Kueh Bengawan Solo Singapore Gift Food Gift Singapore Food Gifts Premium Food Gifts Pandan Dining Quick Bites & Snacks",
+			"refundPeriodUpdatedAt": "2026-06-11T05:50:11.409Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bengawan-solo-ddbb51c6",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "67bbe854aa9a160066bcb148",
+					"name": "Anchorpoint"
+				},
+				{
+					"_id": "67bbe8beeb1005006e9129b5",
+					"name": "Ang Mo Kio Hub"
+				},
+				{
+					"_id": "67bbed15994796006ca130f8",
+					"name": "Bedok"
+				},
+				{
+					"_id": "67bbed9e8c713e0065462b09",
+					"name": "Boon Keng MRT"
+				},
+				{
+					"_id": "67bbee335361960493117c6f",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "67bbeee78c713e0065462bf3",
+					"name": "Bukit Panjang Plaza"
+				},
+				{
+					"_id": "67bbf134536196049311808d",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "67bbf4326500931feede5988",
+					"name": "Terminal 1 (Transit)"
+				},
+				{
+					"_id": "67bbf493aa9a160066bcc01b",
+					"name": " Terminal 2 (Transit)"
+				},
+				{
+					"_id": "67bbf63faa9a160066bcc255",
+					"name": " Terminal 3"
+				},
+				{
+					"_id": "67bbf6a0d315741f0df79691",
+					"name": "Terminal 4 (Transit)"
+				},
+				{
+					"_id": "67bbf7d7536196049311891d",
+					"name": "Clementi Mall "
+				},
+				{
+					"_id": "67bbf8b95361960493118aca",
+					"name": "Compass One"
+				},
+				{
+					"_id": "67bbf91c43c8400064ed4ceb",
+					"name": "Guthrie House"
+				},
+				{
+					"_id": "67bbfa1534a3ad0065148813",
+					"name": "Hougang Mall"
+				},
+				{
+					"_id": "67bbfa6f21aade0d645e2584",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "67bbfac1994796006ca146f5",
+					"name": "JEM"
+				},
+				{
+					"_id": "67bbfb24963bd600732995e6",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "67bbfba2094b840070d527c2",
+					"name": "Junction 8 "
+				},
+				{
+					"_id": "67bbfbfe34a3ad0065148c56",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "67bbfd7e963bd60073299983",
+					"name": "Lot 1 Shoppers' Mall"
+				},
+				{
+					"_id": "67bbfeb3536196049311922c",
+					"name": "Marine Terrace"
+				},
+				{
+					"_id": "67bc15fa43c8400064ed7929",
+					"name": "NEX"
+				},
+				{
+					"_id": "67bc166e677c4d0d64b56cb2",
+					"name": "Northpoint"
+				},
+				{
+					"_id": "67bc1751097ec23300ab75dd",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "67bc18608c713e0065465f51",
+					"name": "Plaza Singapura "
+				},
+				{
+					"_id": "67bc18d2978dae006d6c0724",
+					"name": "Raffles City"
+				},
+				{
+					"_id": "67bc1a16cfb0d4067ee81162",
+					"name": "Sunplaza"
+				},
+				{
+					"_id": "67bc1d9a978dae006d6c0ba0",
+					"name": "Tampines Central (Interchange)"
+				},
+				{
+					"_id": "67bc241543c8400064ed849d",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "67bc24cf43c8400064ed854e",
+					"name": "The Arcade"
+				},
+				{
+					"_id": "67bc25415033611e0ad0cd7f",
+					"name": "The Seletar Mall"
+				},
+				{
+					"_id": "67bc25ea1f99f10ef64b5c8a",
+					"name": "Thomson Plaza "
+				},
+				{
+					"_id": "67bc26d693b4ff006c253bca",
+					"name": "Tiong Bahru Plaza"
+				},
+				{
+					"_id": "67bc2797b32a261e2bb4ee76",
+					"name": "Toa Payoh Hub"
+				},
+				{
+					"_id": "67bc28ea4a5179049aadb8f6",
+					"name": "West Mall"
+				},
+				{
+					"_id": "67bc297c01352937155920a1",
+					"name": "White Sands"
+				},
+				{
+					"_id": "6a3347414c6a205cbfb05e56",
+					"name": "Great World City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Anchorpoint",
+			"Ang Mo Kio Hub",
+			"Bedok",
+			"Boon Keng MRT",
+			"Bugis Junction",
+			"Bukit Panjang Plaza",
+			"Causeway Point",
+			"Terminal 1 (Transit)",
+			" Terminal 2 (Transit)",
+			" Terminal 3",
+			"Terminal 4 (Transit)",
+			"Clementi Mall ",
+			"Compass One",
+			"Guthrie House",
+			"Hougang Mall",
+			"ION Orchard",
+			"JEM",
+			"Jewel Changi Airport",
+			"Junction 8 ",
+			"Jurong Point",
+			"Lot 1 Shoppers' Mall",
+			"Marine Terrace",
+			"NEX",
+			"Northpoint",
+			"Parkway Parade",
+			"Plaza Singapura ",
+			"Raffles City",
+			"Sunplaza",
+			"Tampines Central (Interchange)",
+			"Tampines Mall",
+			"The Arcade",
+			"The Seletar Mall",
+			"Thomson Plaza ",
+			"Tiong Bahru Plaza",
+			"Toa Payoh Hub",
+			"West Mall",
+			"White Sands",
+			"Great World City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bengawan Solo",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

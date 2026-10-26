@@ -1,0 +1,168 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/town-restaurant-the-fullerton-hotel-singapore-aa210430",
+	"slug": "town-restaurant-the-fullerton-hotel-singapore-aa210430",
+	"fetchedAt": "2026-10-26T16:28:57.642+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66cd96762c3eee0069830eb2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"saleOfMiles": 0.044,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 4,
+				"calculatedMilesEarnRate": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Buffet",
+				"International Buffet"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Precious Treasure Pte Ltd",
+			"brand": "Town Restaurant - The Fullerton Hotel Singapore",
+			"code": "TRF",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Town Restauran",
+			"address": {
+				"line1": "1 Fullerton Square Singapore 049178",
+				"postalCode": "049178",
+				"streetName": "1 Fullerton Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"QBS",
+								"BD",
+								"KID"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.fullertonhotels.com/fullerton-hotel-singapore/dining/restaurants-and-bars/town-restaurant",
+			"descriptionHtml": "<p>Flanked by the Singapore River, Town Restaurant is ideal for unhurried breakfasts, lively buffet lunches and convivial dinner gatherings. On Sunday, the restaurant comes alive with a generous Sunday Brunch, brimming with international and local delights.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/48413800977564136-Town%20Logo%201000x1000%20(002).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7942358584230933-town.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-08-27T09:03:50.715Z",
+			"updatedAt": "2026-09-09T01:17:34.639Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/48413800977564136-Town%20Logo%201000x1000%20(002)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/48413800977564136-Town%20Logo%201000x1000%20(002)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/48413800977564136-Town%20Logo%201000x1000%20(002)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7942358584230933-town.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/48413800977564136-Town%20Logo%201000x1000%20(002).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7942358584230933-town_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7942358584230933-town_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7942358584230933-town_high.jpg"
+			},
+			"searchContent": "Flanked by the Singapore River, Town Restaurant is ideal for unhurried breakfasts, lively buffet lunches and convivial dinner gatherings. On Sunday, the restaurant comes alive with a generous Sunday Brunch, brimming with international and local delights. Buffet International Buffet Dining Buffet Casual Dining Quick Bites & Snacks Beverages & Desserts Kid-Friendly",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:49:20.790Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "town-restaurant-the-fullerton-hotel-singapore-aa210430",
+			"outlets": [
+				{
+					"_id": "66ce8b3638552b006052728b",
+					"name": "Fullerton Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fullerton Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Town Restaurant - The Fullerton Hotel Singapore",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

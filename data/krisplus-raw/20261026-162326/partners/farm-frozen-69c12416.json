@@ -1,0 +1,194 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/farm-frozen-69c12416",
+	"slug": "farm-frozen-69c12416",
+	"fetchedAt": "2026-10-26T16:25:33.196+08:00",
+	"payload": {
+		"partner": {
+			"_id": "615d34be52c72d98d40f469a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Poultry",
+				"Corn",
+				"Bbq",
+				"Charcoal",
+				"Grilled",
+				"Chicken",
+				"Yakitori",
+				"Cheese",
+				"Pork Belly",
+				"Katsu",
+				"Ribeye Steak",
+				"Wings",
+				"Thighs",
+				"Honey Pork Ribs",
+				"Sausages",
+				"Lemon Chicken",
+				"Tempura",
+				"Minced Meat",
+				"Mentaiko",
+				"Sweet Corn",
+				"Cob",
+				"Teriyaki",
+				"Food",
+				"Retail",
+				"Cooking",
+				"Light Bites",
+				"Singpost Centre",
+				"Paya Lebar"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "C S Tay Foods Pte Ltd - Farm Frozen",
+			"brand": "Farm Frozen",
+			"code": "CSF",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Farm Frozen",
+			"address": {
+				"city": "Singapore",
+				"line1": "64 Woodlands Terrace ",
+				"streetName": "Woodlands Terrace ",
+				"postalCode": "738468",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198103313Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/222236686430209-farm%20frozen%20brand%20image.png",
+			"websiteUrl": "https://www.cstay.com/",
+			"descriptionHtml": "<p>Farm Frozen brings some of the world’s finest selection of frozen foods to Singapore. They provide a wide selection of high-quality frozen ingredients for one’s home cooking needs as well as pre-made meals that are equally tasty and convenient.<ins>​​​​​​​</ins></p>\n\n<div>\n<div>\n<div id=\"_com_1\">\n<p> </p>\n</div>\n</div>\n</div>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9074084113037659-App%20brand%20logo%20-%20Farm%20Frozen.png",
+			"createdAt": "2021-10-06T05:31:42.859Z",
+			"updatedAt": "2026-10-15T12:22:11.131Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "C S TAY FOODS PTE LTD - FARM FROZEN\n",
+			"promotional": "C S TAY FOODS PTE LTD - FARM FROZEN\n",
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9a2595add2492446460"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/222236686430209-farm%20frozen%20brand%20image.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9074084113037659-App%20brand%20logo%20-%20Farm%20Frozen.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/222236686430209-farm%20frozen%20brand%20image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/222236686430209-farm%20frozen%20brand%20image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/222236686430209-farm%20frozen%20brand%20image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9074084113037659-App%20brand%20logo%20-%20Farm%20Frozen_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9074084113037659-App%20brand%20logo%20-%20Farm%20Frozen_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9074084113037659-App%20brand%20logo%20-%20Farm%20Frozen_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Farm Frozen brings some of the world’s finest selection of frozen foods to Singapore. They provide a wide selection of high-quality frozen ingredients for one’s home cooking needs as well as pre-made meals that are equally tasty and convenient.​​​​​​​ Poultry Corn Bbq Charcoal Grilled Chicken Yakitori Cheese Pork Belly Katsu Ribeye Steak Wings Thighs Honey Pork Ribs Sausages Lemon Chicken Tempura Minced Meat Mentaiko Sweet Corn Cob Teriyaki Food Retail Cooking Light Bites Singpost Centre Paya Lebar Retail Groceries",
+			"refundPeriodUpdatedAt": "2026-03-04T14:20:43.098Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "farm-frozen-69c12416",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6163af86d2e7ae16dc2e1187",
+					"name": "SingPost Centre"
+				},
+				{
+					"_id": "651f9b70fad696004f9d9552",
+					"name": "Square 2"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"SingPost Centre",
+			"Square 2"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Farm Frozen",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

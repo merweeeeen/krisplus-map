@@ -1,0 +1,164 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/pianoland-535010a2",
+	"slug": "pianoland-535010a2",
+	"fetchedAt": "2026-10-26T16:28:31.725+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65d6bcd352d803005aec1993",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Piano",
+				"Grand Piano",
+				"Upright Piano",
+				"Digital Piano",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65d6bcde2a662245d60018b7"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "MELCHERS MUSIC PTE. LTD.",
+			"brand": "Pianoland",
+			"code": "PIA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Pianoland",
+			"address": {
+				"line1": "11 BISHAN STREET 21 #03-03A  SINGAPORE 573943",
+				"postalCode": "573943",
+				"streetName": "11 BISHAN STREET 21",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.pianoland.sg/",
+			"descriptionHtml": "<p>Pianoland is a multi-brand keyboard instrument retail franchise store focusing on high quality yet affordable acoustic and digital pianos for modern homes with a collection of Steinway-Designed Boston & Essex upright and grand pianos as well as Dexibell, a world-class digital piano hand-made in Italy.</p>  <p>Participating Outlet:<br> •    Westgate</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/47893584718089777-20386179904132873-PL%20Brand%20Logo_1000x1000.jpg.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/0023944693862032462-2560594762264383-PL%20Privilege%20Image%20V1_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-02-22T03:17:39.813Z",
+			"updatedAt": "2026-10-06T09:38:14.928Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0023944693862032462-2560594762264383-PL%20Privilege%20Image%20V1_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/47893584718089777-20386179904132873-PL%20Brand%20Logo_1000x1000.jpg.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0023944693862032462-2560594762264383-PL%20Privilege%20Image%20V1_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0023944693862032462-2560594762264383-PL%20Privilege%20Image%20V1_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0023944693862032462-2560594762264383-PL%20Privilege%20Image%20V1_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/47893584718089777-20386179904132873-PL%20Brand%20Logo_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/47893584718089777-20386179904132873-PL%20Brand%20Logo_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/47893584718089777-20386179904132873-PL%20Brand%20Logo_1000x1000_high.jpg"
+			},
+			"searchContent": "Pianoland is a multi-brand keyboard instrument retail franchise store focusing on high quality yet affordable acoustic and digital pianos for modern homes with a collection of Steinway-Designed Boston & Essex upright and grand pianos as well as Dexibell, a world-class digital piano hand-made in Italy. Participating Outlet: • Westgate Piano Grand Piano Upright Piano Digital Piano Homefurnishing Retail Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T03:02:07.426Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"slugId": "pianoland-535010a2",
+			"outlets": [
+				{
+					"_id": "65e14d8184962e0069c52775",
+					"name": "Westgate"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Westgate"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Pianoland",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

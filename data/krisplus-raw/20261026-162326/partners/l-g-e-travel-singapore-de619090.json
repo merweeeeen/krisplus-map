@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/l-g-e-travel-singapore-de619090",
+	"slug": "l-g-e-travel-singapore-de619090",
+	"fetchedAt": "2026-10-26T16:27:10.795+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63646cac1a44801908eb1ee2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 300000,
+				"minTokens": 60000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Travel",
+				"Letsgoeurope",
+				"Letsgoexotic",
+				"Letsgoeverywhere",
+				"Agent",
+				"European",
+				"Scandinavian",
+				"Holidays",
+				"Tours",
+				"Chinatown",
+				"Peoples Park Complex",
+				"Services",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "L.G.E Travel Pte Ltd",
+			"brand": "L.G.E Travel Singapore",
+			"code": "LGE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "LGETravel",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "101, Upper Cross Street #B1-01A Peoples Park Centre",
+				"postalCode": "058357",
+				"streetName": "Upper Cross Street"
+			},
+			"regNumber": "201509634W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/04968019635587062-30285097098174263-C_App%20Brand%20Image_750x540px.jpg",
+			"websiteUrl": "https://lge.com.sg/",
+			"descriptionHtml": "<p>L.G.E Travel Singapore was set up by experienced travel professionals, whom are passionate about European & Scandinavian destinations and are keen to share the love for these regions with their customers. To modern travellers, travelling is all about experiences.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"promotional": "                       ",
+			"participatingOutlets": "                       ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/14704019414583014-6940823108715168-A_LGE%20TRAVEL%20LOGO%201000px.jpg",
+			"createdAt": "2022-11-04T01:36:44.973Z",
+			"updatedAt": "2026-08-06T14:17:37.988Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef963fd404ac7a5ba3020"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/04968019635587062-30285097098174263-C_App%20Brand%20Image_750x540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/14704019414583014-6940823108715168-A_LGE%20TRAVEL%20LOGO%201000px.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/04968019635587062-30285097098174263-C_App%20Brand%20Image_750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/04968019635587062-30285097098174263-C_App%20Brand%20Image_750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/04968019635587062-30285097098174263-C_App%20Brand%20Image_750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/14704019414583014-6940823108715168-A_LGE%20TRAVEL%20LOGO%201000px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/14704019414583014-6940823108715168-A_LGE%20TRAVEL%20LOGO%201000px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/14704019414583014-6940823108715168-A_LGE%20TRAVEL%20LOGO%201000px_high.jpg"
+			},
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-01T02:26:59.168Z",
+			"searchContent": "L.G.E Travel Singapore was set up by experienced travel professionals, whom are passionate about European & Scandinavian destinations and are keen to share the love for these regions with their customers. To modern travellers, travelling is all about experiences. Travel Letsgoeurope Letsgoexotic Letsgoeverywhere Agent European Scandinavian Holidays Tours Chinatown Peoples Park Complex Services Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Services",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "l-g-e-travel-singapore-de619090",
+			"outlets": [
+				{
+					"_id": "636475229ed8f1265066ad74",
+					"name": "People's Park Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"People's Park Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "L.G.E Travel Singapore",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

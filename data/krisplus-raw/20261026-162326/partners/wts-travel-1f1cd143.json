@@ -1,0 +1,230 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/wts-travel-1f1cd143",
+	"slug": "wts-travel-1f1cd143",
+	"fetchedAt": "2026-10-26T16:29:13.611+08:00",
+	"payload": {
+		"partner": {
+			"_id": "670f1cbd5a4a410074c5d162",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Wts Travel",
+				"Coaches",
+				"Cruise",
+				"Package",
+				"Free And Easy",
+				"Malaysia",
+				"Japan",
+				"Taiwan",
+				"Korea",
+				"Australia",
+				"China",
+				"Tour",
+				"Coach Ticket",
+				"Bus",
+				"Hotel",
+				"The Bus Collective",
+				"Tours",
+				"Bus Ticket",
+				"Singapore",
+				"Singapore City Tour",
+				"City Tour",
+				"Airport Transfer",
+				"Limousine",
+				"Alphard",
+				"Vellfire",
+				"Genting",
+				"Malacca",
+				"Kl",
+				"Kuala Lumpur",
+				"Hotel Transfer",
+				"Coach Booking",
+				"Coach Disposal",
+				"Day Tour",
+				"Vietnam",
+				"Thailand",
+				"Royal Caribbean",
+				"Resort World Cruise"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "WTS TRAVEL & TOURS PTE LTD",
+			"brand": "WTS Travel",
+			"code": "VEL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "WTS Travel",
+			"address": {
+				"city": "Singapore",
+				"line1": "8 GUL CIRCLE SINGAPORE 629564",
+				"streetName": "8 GUL CIRCLE",
+				"postalCode": "6299564",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HOT",
+								"RES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.wtstravel.com.sg/",
+			"descriptionHtml": "<p>Established in 1989, WTS Travel & Tours is a leading Singapore travel agency offering premier services in cruises, tours, hotel bookings, air-ticketing, and coach charters. With multiple outlets island-wide, WTS Travel has built a reputation for reliable, quality travel services through professional, knowledgeable staff, making them a top choice for diverse customers.</p>\n\n<p>Participating Outlets:</p>\n\n<p>•    Ang Mo Kio hub<br />\n•    Causeway Point<br />\n•    Downtown East<br />\n•    Jurong Point<br />\n•    Lot One Shopping Mall<br />\n•    Our Tampines Hub<br />\n•    Suntec city</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/17697688605999096-12772698248919956-260X260%20(A)%20WTS%20Travel.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8767455381878935-644708419611103-750x540%20(C)%20WTS%20Travel.png",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 9
+				}
+			],
+			"createdAt": "2024-10-16T01:54:05.202Z",
+			"updatedAt": "2026-08-25T03:38:20.108Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8767455381878935-644708419611103-750x540%20(C)%20WTS%20Travel_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8767455381878935-644708419611103-750x540%20(C)%20WTS%20Travel_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8767455381878935-644708419611103-750x540%20(C)%20WTS%20Travel_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/17697688605999096-12772698248919956-260X260%20(A)%20WTS%20Travel_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/17697688605999096-12772698248919956-260X260%20(A)%20WTS%20Travel_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/17697688605999096-12772698248919956-260X260%20(A)%20WTS%20Travel_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8767455381878935-644708419611103-750x540%20(C)%20WTS%20Travel.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/17697688605999096-12772698248919956-260X260%20(A)%20WTS%20Travel.png",
+			"searchContent": "Established in 1989, WTS Travel & Tours is a leading Singapore travel agency offering premier services in cruises, tours, hotel bookings, air-ticketing, and coach charters. With multiple outlets island-wide, WTS Travel has built a reputation for reliable, quality travel services through professional, knowledgeable staff, making them a top choice for diverse customers. Participating Outlets: • Ang Mo Kio hub • Causeway Point • Downtown East • Jurong Point • Lot One Shopping Mall • Our Tampines Hub • Suntec city Wts Travel Coaches Cruise Package Free And Easy Malaysia Japan Taiwan Korea Australia China Tour Coach Ticket Bus Hotel The Bus Collective Tours Bus Ticket Singapore Singapore City Tour City Tour Airport Transfer Limousine Alphard Vellfire Genting Malacca Kl Kuala Lumpur Hotel Transfer Coach Booking Coach Disposal Day Tour Vietnam Thailand Royal Caribbean Resort World Cruise Services Hotels Resorts",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-30T06:20:32.207Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "wts-travel-1f1cd143",
+			"outlets": [
+				{
+					"_id": "67106849395fe7006d09be07",
+					"name": "AMK HUB"
+				},
+				{
+					"_id": "671069c9509e6c006dba93f6",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "67106b1a7385cd006d55f066",
+					"name": "Downtown East"
+				},
+				{
+					"_id": "67106b795a4a410074c5d56d",
+					"name": " Jurong Point"
+				},
+				{
+					"_id": "67106bd4fb0c85006ce36c86",
+					"name": "Lot One"
+				},
+				{
+					"_id": "67106c3f509e6c006dba9408",
+					"name": "Our Tampines Hub"
+				},
+				{
+					"_id": "67106cadaabce8006c47313c",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "6715c3663e53ce006baddd46",
+					"name": "8 GUL CIRCLE"
+				},
+				{
+					"_id": "6a8d0e244ad450e9e14e4f10",
+					"name": "The Woodleigh Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"AMK HUB",
+			"Causeway Point",
+			"Downtown East",
+			" Jurong Point",
+			"Lot One",
+			"Our Tampines Hub",
+			"Suntec City",
+			"8 GUL CIRCLE",
+			"The Woodleigh Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "WTS Travel",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

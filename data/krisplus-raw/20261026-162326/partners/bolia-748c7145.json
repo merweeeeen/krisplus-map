@@ -1,0 +1,161 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bolia-748c7145",
+	"slug": "bolia-748c7145",
+	"fetchedAt": "2026-10-26T16:30:23.094+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6836ab26a1bdd9040c181a9c",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Furniture",
+				"Scandinavian",
+				"Danish",
+				"Home",
+				"Décor Lifestyle",
+				"Sofas",
+				"Dining",
+				"Lamps"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Design Collection Pte Ltd",
+			"brand": "BOLIA",
+			"code": "BOL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "BOLIA",
+			"address": {
+				"city": "Singapore",
+				"line1": "215 Henderson Road, Unit 01 Singapore 159554",
+				"streetName": "215 Henderson Road",
+				"postalCode": "159554",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL",
+								"GS"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"websiteUrl": "https://www.bolia.com",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"box-sizing: border-box; font-weight: 300; margin: 0px 0px 11px; color: rgb(61, 73, 105); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 16.05px; font-size: 15px; font-family: Aptos, sans-serif;\">Welcome to the world of new Scandinavian design, inspired by the everchanging nature that surrounds us. From sofas, furniture, accessories and more – discover timeless design, customized for you, and built to last.</p><p class=\"MsoNormal\" style=\"box-sizing: border-box; font-weight: 300; margin: 0px 0px 11px; color: rgb(61, 73, 105); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 16.05px; font-size: 15px; font-family: Aptos, sans-serif;\">Experience BOLIA at 215 Henderson Road, Unit 01 Singapore 159554.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4102425936511218-bolia.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/09922116467844799-6991469821987117-Brand%20image.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4102425936511218-bolia.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/09922116467844799-6991469821987117-Brand%20image.png",
+			"createdAt": "2025-05-28T06:20:22.680Z",
+			"updatedAt": "2026-08-06T14:18:14.809Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/09922116467844799-6991469821987117-Brand%20image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/09922116467844799-6991469821987117-Brand%20image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/09922116467844799-6991469821987117-Brand%20image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4102425936511218-bolia_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4102425936511218-bolia_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4102425936511218-bolia_high.png"
+			},
+			"searchContent": "Welcome to the world of new Scandinavian design, inspired by the everchanging nature that surrounds us. From sofas, furniture, accessories and more – discover timeless design, customized for you, and built to last. Experience BOLIA at 215 Henderson Road, Unit 01 Singapore 159554. Furniture Scandinavian Danish Home Décor Lifestyle Sofas Dining Lamps Retail Home & Lifestyle Gifts & Souvenirs",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bolia-748c7145",
+			"outlets": [
+				{
+					"_id": "6846d571c363f104016c1df9",
+					"name": "215 Henderson Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"215 Henderson Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "BOLIA",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

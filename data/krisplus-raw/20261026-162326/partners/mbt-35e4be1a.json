@@ -1,0 +1,200 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/mbt-35e4be1a",
+	"slug": "mbt-35e4be1a",
+	"fetchedAt": "2026-10-26T16:23:35.941+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5c1302e6669b001a186e885d",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "119 Genting Lane, #03-00 HB 119 Genting",
+				"postalCode": "349570",
+				"streetName": "Genting Lane"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "MBT",
+			"brand": "MBT",
+			"code": "MBT",
+			"countryIncorporation": "Singapore",
+			"description": "",
+			"categary": "Fashion",
+			"regNumber": "200511297K",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-8b676eaf-1423-45c3-b1d6-be38956feb4f.jpg",
+			"createdAt": "2018-12-14T01:09:58.353Z",
+			"updatedAt": "2026-08-06T14:17:06.477Z",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 10% off regular priced items when you flash the KrisPay app at the point of payment.\n\nTerms and Conditions:\n•\tPromotion is not valid with other promotions, discount vouchers or privileges.\n•\tSTAR360 management reserves the right to amend the terms and conditions without prior notice.\n\nFind out more at: \nhttps://starthreesixty.com/about/our-brands/brands-mbt/",
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5199506693079678-MBT.png",
+			"participatingOutlets": "Paragon                               ",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://starthreesixty.com/about/our-brands/brands-mbt/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"countryCode": "SG",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "MBT",
+			"descriptionHtml": "<p>MBT®, is the original Physiological Footwear™ brand for individuals who are keen on adopting active and healthy lifestyles. Engineered in Swiss, MBT® footwear combines a balance of function and style with its patented construction. It is based on the study of biomechanics and natural stability. Since its founding in 1996, MBT® has grown to become a global brand with presence in 45 countries around the world.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Paragon</li> \t<li>Suntec</li> \t<li>VivoCity</li> </ul>",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Shoes",
+				"Sandals",
+				"Casual",
+				"Walking",
+				"Outdoor",
+				"Physiological",
+				"Footwear",
+				"Accessories",
+				"Men",
+				"Women",
+				"Kids",
+				"Paragon",
+				"Style",
+				"Comfort",
+				"Retail",
+				"Suntec",
+				"Vivocity",
+				"Adidas",
+				"Puma",
+				"Skechers",
+				"Asics"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR7",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"LEA"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f2034603c3389299c0"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5199506693079678-MBT.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-8b676eaf-1423-45c3-b1d6-be38956feb4f.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5199506693079678-MBT_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5199506693079678-MBT_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5199506693079678-MBT_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-8b676eaf-1423-45c3-b1d6-be38956feb4f_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-8b676eaf-1423-45c3-b1d6-be38956feb4f_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-8b676eaf-1423-45c3-b1d6-be38956feb4f_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-18T07:39:48.213Z",
+			"searchContent": "MBT®, is the original Physiological Footwear™ brand for individuals who are keen on adopting active and healthy lifestyles. Engineered in Swiss, MBT® footwear combines a balance of function and style with its patented construction. It is based on the study of biomechanics and natural stability. Since its founding in 1996, MBT® has grown to become a global brand with presence in 45 countries around the world. Participating Outlets: Paragon Suntec VivoCity Orchard Road Shoes Sandals Casual Walking Outdoor Physiological Footwear Accessories Men Women Kids Paragon Style Comfort Retail Suntec Vivocity Adidas Puma Skechers Asics Retail Learning",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "mbt-35e4be1a",
+			"outlets": [
+				{
+					"_id": "5c2dd866717417585c43bf01",
+					"name": "Paragon Shopping Centre "
+				},
+				{
+					"_id": "63ad1b86e0b7ef18cc124946",
+					"name": "Suntec City Mall"
+				},
+				{
+					"_id": "6461840893d951004f8fb627",
+					"name": "VivoCity"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Paragon Shopping Centre ",
+			"Suntec City Mall",
+			"VivoCity"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "MBT",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

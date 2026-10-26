@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-canteen-by-enjoy-0a6b9d17",
+	"slug": "the-canteen-by-enjoy-0a6b9d17",
+	"fetchedAt": "2026-10-26T16:31:46.166+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6913e66b1c01241fc25d5704",
+			"name": "MODAS FLAME PTE  LTD (The Canteen by Enjoy)",
+			"shortName": "Canteen Enjoy",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "The Canteen by Enjoy",
+			"code": "CTE",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9007947406592178-TheCanteenbyEnjoy.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6796457788389609-94426127249014-The%20Canteen%20750x540px.jpg",
+			"websiteUrl": "https://www.enjoyeating.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "383 Jalan Besar",
+				"postalCode": "209001",
+				"streetName": "383 Jalan Besar",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=The%20Canteen%20by%20Enjoy\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">The Canteen by Enjoy is a casual dining spot that offers a fresh take on everyday meals with a focus on wholesome, comforting flavors. Designed as a welcoming space for the community, it combines simple, satisfying dishes with a warm, relaxed atmosphere - making it a popular choice for those seeking quality food in a friendly, unpretentious setting.</span></p>",
+			"searchableKeywords": [
+				"Jalan Besar",
+				"Chinese",
+				"Singaporean Crab",
+				"Hokkien Mee",
+				"Satay",
+				"Chendol",
+				"local food",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-12T01:44:11.129Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9007947406592178-TheCanteenbyEnjoy.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6796457788389609-94426127249014-The%20Canteen%20750x540px.jpg",
+			"createdAt": "2025-11-12T01:44:11.139Z",
+			"updatedAt": "2026-10-15T12:22:21.586Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6796457788389609-94426127249014-The%20Canteen%20750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6796457788389609-94426127249014-The%20Canteen%20750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6796457788389609-94426127249014-The%20Canteen%20750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9007947406592178-TheCanteenbyEnjoy_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9007947406592178-TheCanteenbyEnjoy_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9007947406592178-TheCanteenbyEnjoy_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. The Canteen by Enjoy is a casual dining spot that offers a fresh take on everyday meals with a focus on wholesome, comforting flavors. Designed as a welcoming space for the community, it combines simple, satisfying dishes with a warm, relaxed atmosphere - making it a popular choice for those seeking quality food in a friendly, unpretentious setting. Jalan Besar Chinese Singaporean Crab Hokkien Mee Satay Chendol local food FortuneFeast Dining Vegetarian-Friendly Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Asian",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-canteen-by-enjoy-0a6b9d17",
+			"outlets": [
+				{
+					"_id": "6913e864aa29064d2bbf2a49",
+					"name": "Kam Leng Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Kam Leng Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Canteen by Enjoy",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

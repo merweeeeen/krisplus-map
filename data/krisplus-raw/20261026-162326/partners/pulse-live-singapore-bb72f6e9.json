@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/pulse-live-singapore-bb72f6e9",
+	"slug": "pulse-live-singapore-bb72f6e9",
+	"fetchedAt": "2026-10-26T16:29:37.738+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6776363530a83420f99d2f7e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bar",
+				"lounge",
+				"nightlife",
+				"club night",
+				"drinks",
+				"beer",
+				"cocktails"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "HR MILLENNIUM PTE LTD (Pulse Live Singapore)",
+			"brand": "YANG Club",
+			"code": "PLS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "YANG",
+			"address": {
+				"line1": "211 HENDERSON ROAD",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.instagram.com/yangclubsg",
+			"descriptionHtml": "<p>No. 1 Asian Dance Club in Singapore In the heart of Clarke Quay.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8844248299433948-Yang%20Club%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3086942784384057-Yang%20Club%20Banner%202.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2025-01-02T06:46:13.627Z",
+			"updatedAt": "2026-09-18T08:31:55.595Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3086942784384057-Yang%20Club%20Banner%202_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3086942784384057-Yang%20Club%20Banner%202_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3086942784384057-Yang%20Club%20Banner%202_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8844248299433948-Yang%20Club%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8844248299433948-Yang%20Club%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8844248299433948-Yang%20Club%20Logo_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3086942784384057-Yang%20Club%20Banner%202.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8844248299433948-Yang%20Club%20Logo.png",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:24:47.994Z",
+			"searchContent": "No. 1 Asian Dance Club in Singapore In the heart of Clarke Quay. Bar lounge nightlife club night drinks beer cocktails Dining Pubs & Bars",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "pulse-live-singapore-bb72f6e9",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "677637a6ddab7650d452f543",
+					"name": "Clarke Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Clarke Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "YANG Club",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

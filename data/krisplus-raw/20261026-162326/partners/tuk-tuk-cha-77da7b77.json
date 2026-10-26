@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tuk-tuk-cha-77da7b77",
+	"slug": "tuk-tuk-cha-77da7b77",
+	"fetchedAt": "2026-10-26T16:29:44.086+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67a086214b3132007382642d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Halal",
+				"Thai",
+				"Café",
+				"Beverage",
+				"Casual",
+				"Desserts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Tuk Tuk Cha (S) Pte Ltd",
+			"brand": "TUK TUK CHA",
+			"code": "TUK",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Tuk Tuk Cha",
+			"address": {
+				"line1": "BLK 510 TAMPINES CENTRAL 1 #02-250",
+				"postalCode": "520510",
+				"streetName": "TAMPINES CENTRAL 1 #02-250",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"QBS",
+								"BD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.tuktukcha.com/",
+			"descriptionHtml": "<p>Established in 2015, Tuk Tuk Cha is a fuss-free casual Thai café which specializes in authentic Halal Thai food, beverages and trendy desserts.</p>  <p>Participating Outlets:<br> ​​​​​​- ​Compass One <br>- NEX<br><br> </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8978670271042735-Tuk%20Tuk%20Cha%20logo%20260.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7949244883141064-9267968501824178-TTC%20Brand%20750.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8978670271042735-Tuk%20Tuk%20Cha%20logo%20260.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7949244883141064-9267968501824178-TTC%20Brand%20750.jpg",
+			"createdAt": "2025-02-03T09:02:26.011Z",
+			"updatedAt": "2026-08-07T08:45:59.942Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7949244883141064-9267968501824178-TTC%20Brand%20750_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7949244883141064-9267968501824178-TTC%20Brand%20750_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7949244883141064-9267968501824178-TTC%20Brand%20750_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8978670271042735-Tuk%20Tuk%20Cha%20logo%20260_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8978670271042735-Tuk%20Tuk%20Cha%20logo%20260_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8978670271042735-Tuk%20Tuk%20Cha%20logo%20260_high.jpg"
+			},
+			"searchContent": "Established in 2015, Tuk Tuk Cha is a fuss-free casual Thai café which specializes in authentic Halal Thai food, beverages and trendy desserts. Participating Outlets: ​​​​​​- ​Compass One - NEX Halal Thai Café Beverage Casual Desserts Dining Halal Casual Dining Quick Bites & Snacks Beverages & Desserts Asian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-21T11:50:14.589Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tuk-tuk-cha-77da7b77",
+			"outlets": [
+				{
+					"_id": "67a08e371df5e2007347e194",
+					"name": "Compass One"
+				},
+				{
+					"_id": "67a08fb6369390006d6d38e1",
+					"name": "NEX"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Compass One",
+			"NEX"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TUK TUK CHA",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

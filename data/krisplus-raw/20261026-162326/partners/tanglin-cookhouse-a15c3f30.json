@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tanglin-cookhouse-a15c3f30",
+	"slug": "tanglin-cookhouse-a15c3f30",
+	"fetchedAt": "2026-10-26T16:26:41.581+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e9e8375eae3716fce5e963",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"British",
+				"Waffles",
+				"Wellington",
+				"Shepherd’S Pie",
+				"Wine",
+				"Gin",
+				"Dining",
+				"Tanglin Mall"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "EAT SINGAPORE PTE LTD",
+			"brand": "Tanglin Cookhouse",
+			"code": "TLC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Tanglin",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "211 HENDERSON ROAD, #05-03",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON ROAD"
+			},
+			"regNumber": "201825923Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2554301261101153-6383442835190873-750540Brand.png",
+			"websiteUrl": "https://www.tanglincookhouse.com.sg/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u>.</a></em><br />\n<br />\n​​​​​​​Tanglin Cookhouse is where you can enjoy the most delicious renditions of British foods in a lush British colonial-style setting. Giving a nod to the original heritage, Tanglin Cookhouse is furnished such that old charm meets new opulence, exuding a harmonious blend of modernity and heritage.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>PLQ</li>\n\t<li>Tanglin Mall</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "                 ",
+			"participatingOutlets": "•\tTanglin Mall",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/39428471679116184-19619906804961862-Logo.png",
+			"createdAt": "2022-08-03T03:15:03.791Z",
+			"updatedAt": "2026-08-06T14:17:34.175Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"WES",
+								"CD"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef945b3267e313a36e14b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2554301261101153-6383442835190873-750540Brand.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/39428471679116184-19619906804961862-Logo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2554301261101153-6383442835190873-750540Brand_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2554301261101153-6383442835190873-750540Brand_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2554301261101153-6383442835190873-750540Brand_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/39428471679116184-19619906804961862-Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/39428471679116184-19619906804961862-Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/39428471679116184-19619906804961862-Logo_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​Tanglin Cookhouse is where you can enjoy the most delicious renditions of British foods in a lush British colonial-style setting. Giving a nod to the original heritage, Tanglin Cookhouse is furnished such that old charm meets new opulence, exuding a harmonious blend of modernity and heritage. Participating Outlets: PLQ Tanglin Mall British Waffles Wellington Shepherd’S Pie Wine Gin Dining Tanglin Mall Dining Western Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tanglin-cookhouse-a15c3f30",
+			"outlets": [
+				{
+					"_id": "62eb90965d083825b010c2dd",
+					"name": "Tanglin Mall"
+				},
+				{
+					"_id": "64a622af5577fb00530ed856",
+					"name": "Paya Lebar Quarter"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tanglin Mall",
+			"Paya Lebar Quarter"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tanglin Cookhouse",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

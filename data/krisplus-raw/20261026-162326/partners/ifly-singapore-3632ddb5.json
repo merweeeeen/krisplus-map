@@ -1,0 +1,208 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ifly-singapore-3632ddb5",
+	"slug": "ifly-singapore-3632ddb5",
+	"fetchedAt": "2026-10-26T16:23:40.873+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5cf8c525ce45b026d0098498",
+			"active": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"name": "Skyventure VWT Singapore Private Limited",
+			"brand": "iFly Singapore",
+			"code": "VWT",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "43 Siloso Beach Walk, , #01-01, iFly Singapore 099010",
+				"postalCode": "099010",
+				"streetName": "Siloso Beach Walk"
+			},
+			"categary": "Others",
+			"regNumber": "200609573C",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-6770591c-b3be-46d5-be5c-b28f416945e9.jpg",
+			"createdAt": "2019-06-06T07:47:49.961Z",
+			"updatedAt": "2026-08-06T14:17:06.869Z",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "                                        ",
+			"category": "ACTIVITIES",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6038760420522353-Image%20C%20750%20x%20540px.jpg",
+			"participatingOutlets": "                                                 ",
+			"physicalShop": true,
+			"privilege": true,
+			"websiteUrl": "https://www.iflysingapore.com/",
+			"categories": [
+				"ACTIVITIES"
+			],
+			"mccCode": "7991",
+			"mccDescription": "Tourist Attractions and Exhibits",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>iFly Singapore is one of the largest wind tunnels in South East Asia for indoor skydiving. Experience the thrill and excitement of skydiving in a safe and realistic indoor setting, while enjoying unparalleled views of the South China Sea. Not only are there no bad weather concerns, it is fun and exhilarating, and for anyone from first timers to professional skydivers alike. Come and experience your first taste of flight with iFly Singapore today!</p>\n\n<p>Participating Outlet:<br />\n•    Sentosa (Siloso Beach Walk)</p>",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "iFly",
+			"searchableKeywords": [
+				"Siloso Beach Walk",
+				"Harbourfront",
+				"Siloso Road",
+				"Leisure",
+				"Relaxation",
+				"Fun",
+				"Sentosa",
+				"Island Of Fun",
+				"Adventure",
+				"Exciting",
+				"Excitement",
+				"Free Fall",
+				"Family Oriented",
+				"School Holidays",
+				"Adventure Seekers",
+				"Parachute",
+				"Commandos",
+				"Air",
+				"Drop Zone",
+				"Kid Friendly",
+				"Kids",
+				"Children",
+				"Activities",
+				"Thrill",
+				"Indoors",
+				"Attractions",
+				"Fly",
+				"Wind Tunnel",
+				"Tourists",
+				"Class",
+				"Workshop",
+				"Activity",
+				"Music",
+				"Concert",
+				"Bonding",
+				"School Holidays",
+				"Virtual",
+				"Teams",
+				"Family",
+				"Friends",
+				"Arts & Crafts",
+				"Immersive Experiences",
+				"Experiences"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"ENT"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f145578ca5d7f0b3d4"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6038760420522353-Image%20C%20750%20x%20540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/uploads%5B%5D-6770591c-b3be-46d5-be5c-b28f416945e9.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6038760420522353-Image%20C%20750%20x%20540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6038760420522353-Image%20C%20750%20x%20540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6038760420522353-Image%20C%20750%20x%20540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-6770591c-b3be-46d5-be5c-b28f416945e9_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-6770591c-b3be-46d5-be5c-b28f416945e9_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/uploads%5B%5D-6770591c-b3be-46d5-be5c-b28f416945e9_high.jpg"
+			},
+			"searchContent": "iFly Singapore is one of the largest wind tunnels in South East Asia for indoor skydiving. Experience the thrill and excitement of skydiving in a safe and realistic indoor setting, while enjoying unparalleled views of the South China Sea. Not only are there no bad weather concerns, it is fun and exhilarating, and for anyone from first timers to professional skydivers alike. Come and experience your first taste of flight with iFly Singapore today! Participating Outlet: • Sentosa (Siloso Beach Walk) Siloso Beach Walk Harbourfront Siloso Road Leisure Relaxation Fun Sentosa Island Of Fun Adventure Exciting Excitement Free Fall Family Oriented School Holidays Adventure Seekers Parachute Commandos Air Drop Zone Kid Friendly Kids Children Activities Thrill Indoors Attractions Fly Wind Tunnel Tourists Class Workshop Activity Music Concert Bonding School Holidays Virtual Teams Family Friends Arts & Crafts Immersive Experiences Experiences Activities Entertainment",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:38:12.204Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ifly-singapore-3632ddb5",
+			"outlets": [
+				{
+					"_id": "5cf8d605d47c0f2c141fb10a",
+					"name": "Siloso Beach Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Siloso Beach Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "iFly Singapore",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

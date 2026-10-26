@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/1-arden-4ca6b688",
+	"slug": "1-arden-4ca6b688",
+	"fetchedAt": "2026-10-26T16:29:30.795+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6773b1a5478e470077c535c9",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Rooftop Bar",
+				"Lounge",
+				"Drinks",
+				"Beer",
+				"Wine",
+				"Gathering",
+				"Raffles Place",
+				"Cocktails",
+				"Restaurant"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "1-Spring Pte Ltd (1-Arden)",
+			"brand": "1-Arden",
+			"code": "1AE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "1 Arden Bar",
+			"address": {
+				"line1": "211 HENDERSON ROAD",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.1-arden.sg/",
+			"descriptionHtml": "<p>Situated 51 floors above ground, 1-Arden is an iconic rooftop bar & lounge that offers a breathtaking view of the city skyline, complemented by the World's Highest Food Forest, a lush sustainable urban farm in its backyard.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7129651558745593-3973201422469492-Arden.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9858257951403637-7053942901362644-Arden%20750x540px.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-12-31T08:56:05.307Z",
+			"updatedAt": "2026-09-18T08:25:03.232Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9858257951403637-7053942901362644-Arden%20750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9858257951403637-7053942901362644-Arden%20750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9858257951403637-7053942901362644-Arden%20750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7129651558745593-3973201422469492-Arden_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7129651558745593-3973201422469492-Arden_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7129651558745593-3973201422469492-Arden_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9858257951403637-7053942901362644-Arden%20750x540px.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7129651558745593-3973201422469492-Arden.png",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:22:37.497Z",
+			"searchContent": "Situated 51 floors above ground, 1-Arden is an iconic rooftop bar & lounge that offers a breathtaking view of the city skyline, complemented by the World's Highest Food Forest, a lush sustainable urban farm in its backyard. Rooftop Bar Lounge Drinks Beer Wine Gathering Raffles Place Cocktails Restaurant Dining Pubs & Bars Beverages & Desserts Western",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "1-arden-4ca6b688",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6773b56e2b31aa006b28704c",
+					"name": "CapitaSpring"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"CapitaSpring"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "1-Arden",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

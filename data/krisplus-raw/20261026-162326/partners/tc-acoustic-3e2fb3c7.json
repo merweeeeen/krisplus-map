@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tc-acoustic-3e2fb3c7",
+	"slug": "tc-acoustic-3e2fb3c7",
+	"fetchedAt": "2026-10-26T16:29:53.731+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67c9123bca2ff10414b5fc84",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Audio",
+				"Speaker",
+				"Headphones",
+				"Earphones",
+				"Soundbar",
+				"Subwoofer",
+				"Sonos",
+				"Marshall",
+				"Bowers",
+				"Wilkins"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "TAT CHUAN ACOUSTIC PTE. LTD.",
+			"brand": "TC Acoustic",
+			"code": "TIC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "TC Acoustic",
+			"address": {
+				"city": "Singapore",
+				"line1": "105 Eunos Avenue 3 #05-01 Singapore 409836",
+				"streetName": "105 Eunos Avenue 3",
+				"postalCode": "409836",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"EE",
+								"GS",
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"websiteUrl": "https://sg.tcacoustic.asia/",
+			"descriptionHtml": "<p>TC Acoustic is a major audio distributor in South East Asia and Hong Kong. The company carries globally award-winning and category-leading brands such as Sonos, Bowers & Wilkins and Marshall.</p><p>Participating Outlets:</p><p>•\tHafary Centre<br>•\tThe Adelphi<br>•\tWheelock Place</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/1161439527236996-TCAcoustic.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/24898917359549677-910409822602595-TC%20app%20partner%20image.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1161439527236996-TCAcoustic.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/24898917359549677-910409822602595-TC%20app%20partner%20image.jpg",
+			"createdAt": "2025-03-06T03:10:51.896Z",
+			"updatedAt": "2026-08-06T14:18:12.692Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/24898917359549677-910409822602595-TC%20app%20partner%20image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/24898917359549677-910409822602595-TC%20app%20partner%20image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/24898917359549677-910409822602595-TC%20app%20partner%20image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1161439527236996-TCAcoustic_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1161439527236996-TCAcoustic_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1161439527236996-TCAcoustic_high.jpg"
+			},
+			"searchContent": "TC Acoustic is a major audio distributor in South East Asia and Hong Kong. The company carries globally award-winning and category-leading brands such as Sonos, Bowers & Wilkins and Marshall. Participating Outlets: • Hafary Centre • The Adelphi • Wheelock Place Audio Speaker Headphones Earphones Soundbar Subwoofer Sonos Marshall Bowers Wilkins Retail Electrical & Electronics Gifts & Souvenirs Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.210Z",
+			"slugId": "tc-acoustic-3e2fb3c7",
+			"outlets": [
+				{
+					"_id": "67ce5d7073b3d310b5c17ea6",
+					"name": "Wheelock Place"
+				},
+				{
+					"_id": "67ce5ddd49c4b2398fa01e7f",
+					"name": "The Adelphi"
+				},
+				{
+					"_id": "67ce5e5c4eb2942957ed8d84",
+					"name": "Hafary Gallery"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Wheelock Place",
+			"The Adelphi",
+			"Hafary Gallery"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TC Acoustic",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

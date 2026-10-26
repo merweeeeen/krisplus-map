@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/patisserie-g-319f334d",
+	"slug": "patisserie-g-319f334d",
+	"fetchedAt": "2026-10-26T16:25:35.956+08:00",
+	"payload": {
+		"partner": {
+			"_id": "616e6a8a10d527121cfc954b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"French",
+				"Café",
+				"Pastries",
+				"Deserts",
+				"Savoury",
+				"Millenia Walk",
+				"Oue Downton Gallery",
+				"Dining",
+				"Coffee",
+				"Tea",
+				"Dates",
+				"Birthday",
+				"Cakes"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "PATISSERIE G PTE LTD",
+			"brand": "Patisserie G",
+			"code": "PAT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Patisserie G",
+			"address": {
+				"city": "Singapore",
+				"line1": "9 RAFFLES BOULEVARD #01-40 MILLENIA WALK ",
+				"streetName": "Raffles Boulevard ",
+				"postalCode": "039596",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201410863C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9939836442240642-PG%20Kris%2B%20750x540.jpg",
+			"websiteUrl": "https://www.patisserieg.com/",
+			"descriptionHtml": "<p>Patisserie G is driven by passion for quality desserts and savoury fare inspired by chefs, places and experiences from all over the world. Their vision to share what they love to eat with others, drives them to serve the best food they can dream up.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Millenia Walk</li>\n\t<li>OUE Downtown Gallery</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5737918972933231-Pat%20G%20Logo%201000%20x%201000.png",
+			"participatingOutlets": "PATISSERIE G PTE LTD\n",
+			"createdAt": "2021-10-19T06:49:46.108Z",
+			"updatedAt": "2026-09-30T16:00:06.142Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 7,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "PATISSERIE G PTE LTD\n",
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"CAF",
+								"BD",
+								"WES"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9a02f71c855d5496e3f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9939836442240642-PG%20Kris%2B%20750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5737918972933231-Pat%20G%20Logo%201000%20x%201000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9939836442240642-PG%20Kris%2B%20750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9939836442240642-PG%20Kris%2B%20750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9939836442240642-PG%20Kris%2B%20750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5737918972933231-Pat%20G%20Logo%201000%20x%201000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5737918972933231-Pat%20G%20Logo%201000%20x%201000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5737918972933231-Pat%20G%20Logo%201000%20x%201000_high.png"
+			},
+			"searchContent": "Patisserie G is driven by passion for quality desserts and savoury fare inspired by chefs, places and experiences from all over the world. Their vision to share what they love to eat with others, drives them to serve the best food they can dream up. Participating Outlets: Millenia Walk OUE Downtown Gallery French Café Pastries Deserts Savoury Millenia Walk Oue Downton Gallery Dining Coffee Tea Dates Birthday Cakes Dining Cafe Beverages & Desserts Western",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "patisserie-g-319f334d",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-09-30T16:00:06.141Z",
+			"outlets": [
+				{
+					"_id": "617cd47a9a661947dcce5cfd",
+					"name": "Millenia Walk"
+				},
+				{
+					"_id": "617cd4e79a661947dcce5cff",
+					"name": "OUE Downtown Gallery"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Millenia Walk",
+			"OUE Downtown Gallery"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Patisserie G",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

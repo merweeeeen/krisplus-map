@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/bangkok-jam-886008d9",
+	"slug": "bangkok-jam-886008d9",
+	"fetchedAt": "2026-10-26T16:26:42.653+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e9ea1f9806fb2ea0dda8dd",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Thai",
+				"Milk tea",
+				"lemongrass",
+				"tom yum",
+				"phad thai",
+				"dining",
+				"great world",
+				"plaza singapura",
+				"marina square",
+				"dhoby ghaut",
+				"esplanade",
+				"Vegan",
+				"flexitarian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "BKJ PTE LTD",
+			"brand": "Bangkok Jam",
+			"code": "BKJ",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Bangkok Jam",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "211 HENDERSON ROAD, #05-03",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON ROAD"
+			},
+			"regNumber": "201805470C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4379500767444877-31666662250303346-d5357bcd-afd2-40c4-a983-c23f66b6e43a(750X540)BrandImage.jpg",
+			"websiteUrl": "https://www.bangkokjam.com.sg/",
+			"descriptionHtml": "<p class=\"MsoNormal\">*Click here to <em><u><a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Bangkok%20Jam\">Reserve A Table.</a></u></em></p><p>Bangkok Jam’s menu presents a modern twist to traditional classics from the Thai cuisine. Further fuelled by their passion to continuously better your dining experience in Bangkok Jam, they are devoted to uphold the “smiling culture” here, just like the friendly folks in the Land of Smiles!</p>  <p>Participating Outlets:</p>  <ul> \t<li>Great World</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "            ",
+			"participatingOutlets": "       ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/30615150534139324-5056099254504147-Bangkok%20Jam%20Logo-1000x1000.jpg",
+			"createdAt": "2022-08-03T03:23:11.127Z",
+			"updatedAt": "2026-08-06T14:17:34.199Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEGA"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef972034603c33892998c"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4379500767444877-31666662250303346-d5357bcd-afd2-40c4-a983-c23f66b6e43a(750X540)BrandImage.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/30615150534139324-5056099254504147-Bangkok%20Jam%20Logo-1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4379500767444877-31666662250303346-d5357bcd-afd2-40c4-a983-c23f66b6e43a(750X540)BrandImage_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4379500767444877-31666662250303346-d5357bcd-afd2-40c4-a983-c23f66b6e43a(750X540)BrandImage_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4379500767444877-31666662250303346-d5357bcd-afd2-40c4-a983-c23f66b6e43a(750X540)BrandImage_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/30615150534139324-5056099254504147-Bangkok%20Jam%20Logo-1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/30615150534139324-5056099254504147-Bangkok%20Jam%20Logo-1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/30615150534139324-5056099254504147-Bangkok%20Jam%20Logo-1000x1000_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. Bangkok Jam’s menu presents a modern twist to traditional classics from the Thai cuisine. Further fuelled by their passion to continuously better your dining experience in Bangkok Jam, they are devoted to uphold the “smiling culture” here, just like the friendly folks in the Land of Smiles! Participating Outlets: Great World Thai Milk tea lemongrass tom yum phad thai dining great world plaza singapura marina square dhoby ghaut esplanade Vegan flexitarian Dining Vegan-Friendly Asian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-11T08:02:02.972Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "bangkok-jam-886008d9",
+			"outlets": [
+				{
+					"_id": "62eb8f519ec6f1134485f5f5",
+					"name": "Great World"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Great World"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Bangkok Jam",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

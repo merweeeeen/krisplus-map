@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sakunthalas-food-palace-0561b4e3",
+	"slug": "sakunthalas-food-palace-0561b4e3",
+	"fetchedAt": "2026-10-26T16:24:16.218+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5ecf26c05fd52212fc69fd9b",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Sakunthala's Food Palace",
+			"brand": "Sakunthala's Food Palace",
+			"code": "SAK",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "66 Race Course Road,   ",
+				"postalCode": "218570",
+				"streetName": "Race Course Road"
+			},
+			"category": "DINING",
+			"regNumber": "53006516M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8091646286683991-brandImagePath-2bb93f42-3c57-48d7-a4ee-4cb3c2e94342.jpg",
+			"websiteUrl": "https://www.sakunthala.com.sg",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/522814145333899-logoImage-a1f4eb3a-e459-4015-9f67-e18fe98c3adb.jpg",
+			"createdAt": "2020-05-28T02:49:36.331Z",
+			"updatedAt": "2026-08-06T14:17:10.064Z",
+			"categories": [
+				"DINING"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.2,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"saleOfMiles": 0.028,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"promotional": "       ",
+			"descriptionHtml": "<p>Sakunthala’s serves up home style South Indian, North Indian and Chinese cuisine.Indulge in their Fish Head Curry, Fish & Crab Briyani, Pepper Mutton, Tandoori Chicken, Crab Masala, wide range of live fish, live chili crab and many more.</p>  <p>Participating Outlet:</p>  <ul> \t<li>Race Course Road</li> </ul>",
+			"countryCode": "SG",
+			"description": "",
+			"shortName": "Sakunthalas",
+			"searchableKeywords": [
+				"Little India",
+				"Indian",
+				"Halal",
+				"Curry",
+				"North Indian",
+				"South Indian",
+				"Chinese",
+				"Fusion",
+				"Foodie",
+				"Fish Head",
+				"Thosai",
+				"Idly",
+				"Briyani",
+				"Seafood",
+				"Naan",
+				"Thosai",
+				"Prata",
+				"Bhatura",
+				"Poori",
+				"Chappati",
+				"Murtabak",
+				"Appam",
+				"Dining",
+				"Race Course Road"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG",
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"IND"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9dd3d10e34df66b473f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8091646286683991-brandImagePath-2bb93f42-3c57-48d7-a4ee-4cb3c2e94342.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/522814145333899-logoImage-a1f4eb3a-e459-4015-9f67-e18fe98c3adb.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8091646286683991-brandImagePath-2bb93f42-3c57-48d7-a4ee-4cb3c2e94342_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8091646286683991-brandImagePath-2bb93f42-3c57-48d7-a4ee-4cb3c2e94342_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8091646286683991-brandImagePath-2bb93f42-3c57-48d7-a4ee-4cb3c2e94342_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/522814145333899-logoImage-a1f4eb3a-e459-4015-9f67-e18fe98c3adb_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/522814145333899-logoImage-a1f4eb3a-e459-4015-9f67-e18fe98c3adb_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/522814145333899-logoImage-a1f4eb3a-e459-4015-9f67-e18fe98c3adb_high.jpg"
+			},
+			"searchContent": "Sakunthala’s serves up home style South Indian, North Indian and Chinese cuisine.Indulge in their Fish Head Curry, Fish & Crab Briyani, Pepper Mutton, Tandoori Chicken, Crab Masala, wide range of live fish, live chili crab and many more. Participating Outlet: Race Course Road Little India Indian Halal Curry North Indian South Indian Chinese Fusion Foodie Fish Head Thosai Idly Briyani Seafood Naan Thosai Prata Bhatura Poori Chappati Murtabak Appam Dining Race Course Road Dining Vegetarian-Friendly Halal Indian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-04T02:31:23.296Z",
+			"slugId": "sakunthalas-food-palace-0561b4e3",
+			"outlets": [
+				{
+					"_id": "5efc396d97b41b15d0a9ed0d",
+					"name": "Race Course Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Race Course Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sakunthala's Food Palace",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/home-by-enjoy-d65c9d1d",
+	"slug": "home-by-enjoy-d65c9d1d",
+	"fetchedAt": "2026-10-26T16:32:41.286+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6984a3ab405d9234a544a660",
+			"name": "MODAS FLAME PTE LTD (Home by Enjoy)",
+			"shortName": "Home by Enjoy",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Home by Enjoy",
+			"code": "HBE",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9405984707076769-HomeByEnjoy.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7772321620585587-04666979632600787-Kris%20(750%20x%20540%20px)%20(1).jpg",
+			"websiteUrl": "https://www.enjoyeating.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "383 Jalan Besar  Singapore 209001",
+				"postalCode": "209001",
+				"streetName": "383 Jalan Besar",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Home%20by%20Enjoy\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Home by Enjoy is the newest dining concept by Singaporean chef Joel Ong, who describes it as his most intimate project yet. It is inspired by a simple but deeply personal idea: to cook the kind of food you would make for the people you care about most. Not food meant to show off, but food meant to take care. At the heart of Home by Enjoy is the philosophy of yang sheng (养生) — nourishing life through food. </span></p>",
+			"searchableKeywords": [
+				"Bukit Merah",
+				"Chinese",
+				"Singaporean",
+				"Crab",
+				"Seafood",
+				"Soup",
+				"Chendol"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-02-05T14:05:31.398Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9405984707076769-HomeByEnjoy.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7772321620585587-04666979632600787-Kris%20(750%20x%20540%20px)%20(1).jpg",
+			"createdAt": "2026-02-05T14:05:31.402Z",
+			"updatedAt": "2026-10-15T12:22:14.960Z",
+			"searchContent": "*Click here to Reserve A Table. Home by Enjoy is the newest dining concept by Singaporean chef Joel Ong, who describes it as his most intimate project yet. It is inspired by a simple but deeply personal idea: to cook the kind of food you would make for the people you care about most. Not food meant to show off, but food meant to take care. At the heart of Home by Enjoy is the philosophy of yang sheng (养生) — nourishing life through food. Bukit Merah Chinese Singaporean Crab Seafood Soup Chendol Dining Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Chinese Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7772321620585587-04666979632600787-Kris%20(750%20x%20540%20px)%20(1)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7772321620585587-04666979632600787-Kris%20(750%20x%20540%20px)%20(1)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7772321620585587-04666979632600787-Kris%20(750%20x%20540%20px)%20(1)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9405984707076769-HomeByEnjoy_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9405984707076769-HomeByEnjoy_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9405984707076769-HomeByEnjoy_high.jpg"
+			},
+			"newMerchantEndDate": "2026-04-23T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "home-by-enjoy-d65c9d1d",
+			"outlets": [
+				{
+					"_id": "6984a894e2edc88896b5dfdc",
+					"name": "Jalan Kilang"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jalan Kilang"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Home by Enjoy",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,164 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/rigel-1d96808e",
+	"slug": "rigel-1d96808e",
+	"fetchedAt": "2026-10-26T16:29:59.790+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67d399561cf3630418712732",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.026,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Rigel",
+				"Home",
+				"Toilet",
+				"Toilet Bowl",
+				"Bathroom",
+				"Shower",
+				"Sanitary",
+				"Sanitaryware",
+				"Technology",
+				"Local"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Rigel Technology (S) Pte Ltd",
+			"brand": "Rigel",
+			"code": "RIG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Rigel",
+			"address": {
+				"city": "Singapore",
+				"line1": "20 Changi Business Park Central 2, Rigel Innovation Centre, Singapore 486031",
+				"streetName": "20 Changi Business Park",
+				"postalCode": "486031",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.rigel-group.com",
+			"descriptionHtml": "<p>Rigel is a proud Singaporean brand with a global presence, renowned for its sustainable sanitary solutions powered by smart technologies. Trusted across the nation, Rigel's products are prominently featured in local iconic landmarks.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/40522823269028274-Rigel%20brand%20Logo%20(260%20x%20260%20px).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5731243346741925-6765776810660549-Brand%20Image%20(750%20x%20540%20px)_Rigel.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/40522823269028274-Rigel%20brand%20Logo%20(260%20x%20260%20px).png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5731243346741925-6765776810660549-Brand%20Image%20(750%20x%20540%20px)_Rigel.png",
+			"createdAt": "2025-03-14T02:49:58.925Z",
+			"updatedAt": "2026-08-06T14:18:12.997Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5731243346741925-6765776810660549-Brand%20Image%20(750%20x%20540%20px)_Rigel_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5731243346741925-6765776810660549-Brand%20Image%20(750%20x%20540%20px)_Rigel_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5731243346741925-6765776810660549-Brand%20Image%20(750%20x%20540%20px)_Rigel_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/40522823269028274-Rigel%20brand%20Logo%20(260%20x%20260%20px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/40522823269028274-Rigel%20brand%20Logo%20(260%20x%20260%20px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/40522823269028274-Rigel%20brand%20Logo%20(260%20x%20260%20px)_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:56:29.727Z",
+			"searchContent": "Rigel is a proud Singaporean brand with a global presence, renowned for its sustainable sanitary solutions powered by smart technologies. Trusted across the nation, Rigel's products are prominently featured in local iconic landmarks. Rigel Home Toilet Toilet Bowl Bathroom Shower Sanitary Sanitaryware Technology Local Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "rigel-1d96808e",
+			"outlets": [
+				{
+					"_id": "67d39b354238df0411188fea",
+					"name": "Rigel Experience Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Rigel Experience Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Rigel",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

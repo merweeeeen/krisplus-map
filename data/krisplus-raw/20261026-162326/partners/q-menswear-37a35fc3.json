@@ -1,0 +1,161 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/q-menswear-37a35fc3",
+	"slug": "q-menswear-37a35fc3",
+	"fetchedAt": "2026-10-26T16:31:15.907+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68c228b2a303990465aae63b",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bespoke Suits",
+				"Business Suits",
+				"Men’S Suit Tailor",
+				"Tailor Suits",
+				"Suit Tailor Singapore",
+				"Bespoke Tailor Singapore",
+				"Bespoke Shirts",
+				"Bespoke Trousers",
+				"Bespoke Men Suits",
+				"Bespoke Sportscoat"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "QUEI GROUP PTE. LTD.",
+			"brand": "Q MENSWEAR",
+			"code": "QME",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5691",
+			"shortName": "Q MENSWEAR",
+			"address": {
+				"line1": "116A Telok Ayer Street, Singapore 068585",
+				"postalCode": "068585",
+				"streetName": "116A Telok Ayer Street",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.q-menswear.com/",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"box-sizing: border-box; font-weight: 300; margin: 0px 0px 11px; color: rgb(61, 73, 105); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 16.05px; font-size: 15px; font-family: Aptos, sans-serif;\">Singapore's distinguished Q MENSWEAR stands as a leading bespoke clothier, celebrated for exceptional artisanship and enduring style. Their prestigious clientele includes Singapore's Senior Minister, demonstrating their reputation for excellence.</p><p class=\"MsoNormal\" style=\"box-sizing: border-box; font-weight: 300; margin: 0px 0px 11px; color: rgb(61, 73, 105); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 16.05px; font-size: 15px; font-family: Aptos, sans-serif;\">The brand regularly creates custom ensembles for celebrities attending the Star Awards, masterfully balancing traditional sophistication with contemporary, innovative design elements.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3398943164961261-QMENSWEAR.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8393416000740439-019595353392938497-Qmenswear%20Brand%20image.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Mens and womens clothing stores",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3398943164961261-QMENSWEAR.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8393416000740439-019595353392938497-Qmenswear%20Brand%20image.jpg",
+			"createdAt": "2025-09-11T01:41:06.454Z",
+			"updatedAt": "2026-09-01T02:08:47.990Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3398943164961261-QMENSWEAR_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3398943164961261-QMENSWEAR_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3398943164961261-QMENSWEAR_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-11-05T02:21:49.146Z",
+			"searchContent": "Singapore's distinguished Q MENSWEAR stands as a leading bespoke clothier, celebrated for exceptional artisanship and enduring style. Their prestigious clientele includes Singapore's Senior Minister, demonstrating their reputation for excellence. The brand regularly creates custom ensembles for celebrities attending the Star Awards, masterfully balancing traditional sophistication with contemporary, innovative design elements. Bespoke Suits Business Suits Men’S Suit Tailor Tailor Suits Suit Tailor Singapore Bespoke Tailor Singapore Bespoke Shirts Bespoke Trousers Bespoke Men Suits Bespoke Sportscoat Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "q-menswear-37a35fc3",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "68c229f0359cae046cb687f9",
+					"name": "116A Telok Ayer Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"116A Telok Ayer Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Q MENSWEAR",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,221 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/candy-empire-5f870999",
+	"slug": "candy-empire-5f870999",
+	"fetchedAt": "2026-10-26T16:23:34.008+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5ba99e51662f171c1cf26b3e",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "VivoCity, 1 Harbourfront Walk, #B2-32/33",
+				"postalCode": "098585",
+				"streetName": "Harbourfront Walk"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "Candy Empire Pte Ltd ",
+			"brand": "Candy Empire ",
+			"code": "CEM",
+			"countryIncorporation": "Singapore",
+			"description": "",
+			"categary": "Gifts and Souvenirs",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8449918432137105-CandyEmpire.png",
+			"createdAt": "2018-09-25T02:32:49.283Z",
+			"updatedAt": "2026-09-02T03:02:27.798Z",
+			"regNumber": "200504956C",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "Find out more at: https://www.candyempire.com.sg/                                        ",
+			"category": "RETAIL",
+			"brandImagePath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3648710449939343-CEM-10OffTotalBillwithMinSpendSGD30-1756694231919.jpg",
+			"participatingOutlets": "•\t313@somerset\n•\tJewel Changi Airport\n•\tKallang Wave Mall\n•\tSuntec City (East Atrium)\n•\tVivoCity",
+			"physicalShop": true,
+			"privilege": false,
+			"websiteUrl": "https://www.candyempire.com.sg/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"countryCode": "SG",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Candy Empire is more than a one-stop shop for anyone\n    with a sweet tooth. It is a specialty shop filled with gourmet delights from\n    across the world. Here, you can find novelty and gift chocolates, wafers,\n    biscuits and cookies, candies, spreads, confectionery treats, chips and savoury\n    snacks and a unique coffee and tea selection. It is a paradise for snack\n    lovers.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\"><span lang=\"EN-US\">Participating\n        outlets:</span></p>\n\n<ul style=\"list-style-type: circle;\"><li><span lang=\"EN-US\">313@Somerset</span></li><li><span lang=\"EN-US\">Suntec City</span></li><li><span lang=\"EN-US\">VivoCity</span></li></ul>",
+			"shortName": "Candy Empire",
+			"searchableKeywords": [
+				"Changi Airport",
+				"Changi Boulevard",
+				"Harbourfront",
+				"Keppel Road",
+				"Telok Blangah Road",
+				"Somerset",
+				"Orchard Road",
+				"Killiney Road",
+				"Promenade",
+				"Esplanade",
+				"Raffles Boulevard",
+				"Confectionary",
+				"Retail",
+				"Central",
+				"Marina Bay",
+				"Sweets",
+				"Candy",
+				"Chocolates",
+				"Cakes",
+				"Nutella",
+				"Snickers",
+				"Oreo",
+				"Mars",
+				"Twix",
+				"Milka",
+				"Ritter Sport",
+				"Knoppers",
+				"Toblerone",
+				"Pocky",
+				"Skittles",
+				"Danish Cookies",
+				"Nestle",
+				"Kit Kat",
+				"Ferreo Rocher",
+				"Cadburys",
+				"Mms",
+				"Loacker",
+				"Reeses",
+				"Haribo",
+				"Wonka",
+				"Natural Confectionary",
+				"Hersheys",
+				"Nerds",
+				"Crunch",
+				"Stroop Waffles",
+				"Jewel",
+				"Vivocity",
+				"313Somerset",
+				"Marina Square",
+				"Snacks",
+				"Suntec City"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR5",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"translations": [
+				"64eef9f32f71c855d5496e6b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-e59b74f2-dd79-4a52-9a20-e3963d579ae2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8449918432137105-CandyEmpire.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-e59b74f2-dd79-4a52-9a20-e3963d579ae2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-e59b74f2-dd79-4a52-9a20-e3963d579ae2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-e59b74f2-dd79-4a52-9a20-e3963d579ae2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8449918432137105-CandyEmpire_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8449918432137105-CandyEmpire_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8449918432137105-CandyEmpire_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:42:26.678Z",
+			"searchContent": "Candy Empire is more than a one-stop shop for anyone with a sweet tooth. It is a specialty shop filled with gourmet delights from across the world. Here, you can find novelty and gift chocolates, wafers, biscuits and cookies, candies, spreads, confectionery treats, chips and savoury snacks and a unique coffee and tea selection. It is a paradise for snack lovers. Participating outlets: 313@SomersetSuntec CityVivoCity Changi Airport Changi Boulevard Harbourfront Keppel Road Telok Blangah Road Somerset Orchard Road Killiney Road Promenade Esplanade Raffles Boulevard Confectionary Retail Central Marina Bay Sweets Candy Chocolates Cakes Nutella Snickers Oreo Mars Twix Milka Ritter Sport Knoppers Toblerone Pocky Skittles Danish Cookies Nestle Kit Kat Ferreo Rocher Cadburys Mms Loacker Reeses Haribo Wonka Natural Confectionary Hersheys Nerds Crunch Stroop Waffles Jewel Vivocity 313Somerset Marina Square Snacks Suntec City Retail",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "candy-empire-5f870999",
+			"outlets": [
+				{
+					"_id": "68ad2156116536046da4c11c",
+					"name": "313 @ Somerset"
+				},
+				{
+					"_id": "68ad226ab2a460046bfd0818",
+					"name": "VivoCity"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313 @ Somerset",
+			"VivoCity"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Candy Empire",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

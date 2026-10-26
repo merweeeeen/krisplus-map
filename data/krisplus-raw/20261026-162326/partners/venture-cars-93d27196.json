@@ -1,0 +1,167 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/venture-cars-93d27196",
+	"slug": "venture-cars-93d27196",
+	"fetchedAt": "2026-10-26T16:33:26.657+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a1f969b0d18289f9eaa6988",
+			"name": "VENTURE CARS PTE. LTD.",
+			"shortName": "VENTURE CARS",
+			"mccCode": "5511",
+			"mccDescription": "Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing",
+			"brand": "VENTURE CARS",
+			"code": "VCP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7787930893384265-025810654567525182-Brand%20logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5282779852600121-4109715174014785-Brand%20Image.jpg",
+			"websiteUrl": "https://www.venturecars.com.sg",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "33 UBI AVENUE 3 #1-47/48 VERTEX SINGAPORE 408868",
+				"postalCode": "408868",
+				"streetName": "33 UBI AVENUE 3",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Venture Cars Singapore offers a seamless, reliable     car-buying experience backed by 15 years of industry expertise. With a wide     selection of brand-new and pre-owned vehicles at competitive prices, they     prioritize quality, transparency, and value, providing end-to-end solutions     from sourcing and financing to after-sales support.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\"><i>*Venture Cars payments are capped at SGD 20,000 per         transaction.</i></p>",
+			"searchableKeywords": [
+				"Car",
+				"Automotive",
+				"vehicle",
+				"TOYOTA",
+				"HOND",
+				"BMW",
+				"MERCEDES",
+				"NISSAN",
+				"Rental",
+				"VENTURE",
+				"VERTEX",
+				"UBI",
+				"TAISENG"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.03,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-10T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-03T02:51:07.863Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7787930893384265-025810654567525182-Brand%20logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5282779852600121-4109715174014785-Brand%20Image.jpg",
+			"createdAt": "2026-06-03T02:51:07.869Z",
+			"updatedAt": "2026-10-01T07:04:12.975Z",
+			"searchContent": "Venture Cars Singapore offers a seamless, reliable car-buying experience backed by 15 years of industry expertise. With a wide selection of brand-new and pre-owned vehicles at competitive prices, they prioritize quality, transparency, and value, providing end-to-end solutions from sourcing and financing to after-sales support. *Venture Cars payments are capped at SGD 20,000 per transaction. Car Automotive vehicle TOYOTA HOND BMW MERCEDES NISSAN Rental VENTURE VERTEX UBI TAISENG Services Automotive",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5282779852600121-4109715174014785-Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5282779852600121-4109715174014785-Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5282779852600121-4109715174014785-Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7787930893384265-025810654567525182-Brand%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7787930893384265-025810654567525182-Brand%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7787930893384265-025810654567525182-Brand%20logo_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "venture-cars-93d27196",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6a21007eb75dcd40366c309d",
+					"name": "Vertex Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Vertex Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "VENTURE CARS",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

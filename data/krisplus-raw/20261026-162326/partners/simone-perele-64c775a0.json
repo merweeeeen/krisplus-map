@@ -1,0 +1,161 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/simone-perele-64c775a0",
+	"slug": "simone-perele-64c775a0",
+	"fetchedAt": "2026-10-26T16:27:39.647+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6434d590e437c2005ca9e7c7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Fashion",
+				"Lingerie",
+				"Pyjamas",
+				"Silk",
+				"Sleepwear",
+				"Nightwear",
+				"Loungewear",
+				"Swimwear",
+				"Activewear",
+				"Women",
+				"Gift",
+				"Retail",
+				"Mandarin Gallery",
+				"Orchard",
+				"Somerset"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "INTIMATES CONCEPT LLP",
+			"brand": "SIMONE PÉRÈLE",
+			"code": "LLP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5621",
+			"shortName": "SIMONE PERELE",
+			"address": {
+				"city": "Singapore",
+				"line1": "16 RAFFLES QUAY #41-07 HONG LEONG BUILDING SINGAPORE 048581",
+				"streetName": "16 RAFFLES QUAY ",
+				"postalCode": "048581",
+				"cityCode": "SIN"
+			},
+			"regNumber": "T09LL0055B",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/05453793378764393-4538146991630345-simone%20C.jpg",
+			"websiteUrl": "https://www.simoneperele.sg/",
+			"descriptionHtml": "<p>In 1948, corset-maker Simone Pérèle had a vision: to make lingerie women would feel beautiful and comfortable in. Today, Simone Pérèle embodies creative designs, attention to details and delicate accents. Timeless and elegant, Simone Pérèle lingerie remains an essential addition to any wardrobe.</p>  <p><span style=\"font-size:12pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:\"Calibri\",sans-serif\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. </span></span></span></span>​​​​​​​</p>",
+			"countryCode": "SG",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/451702086987003-28710744051308135-B.jpg.png",
+			"createdAt": "2023-04-11T03:35:44.035Z",
+			"updatedAt": "2026-08-06T14:17:43.726Z",
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94345578ca5d7f0b37f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/05453793378764393-4538146991630345-simone%20C.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/451702086987003-28710744051308135-B.jpg.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/05453793378764393-4538146991630345-simone%20C_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/05453793378764393-4538146991630345-simone%20C_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/05453793378764393-4538146991630345-simone%20C_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/451702086987003-28710744051308135-B_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/451702086987003-28710744051308135-B_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/451702086987003-28710744051308135-B_high.jpg"
+			},
+			"searchContent": "In 1948, corset-maker Simone Pérèle had a vision: to make lingerie women would feel beautiful and comfortable in. Today, Simone Pérèle embodies creative designs, attention to details and delicate accents. Timeless and elegant, Simone Pérèle lingerie remains an essential addition to any wardrobe. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. ​​​​​​​ Fashion Lingerie Pyjamas Silk Sleepwear Nightwear Loungewear Swimwear Activewear Women Gift Retail Mandarin Gallery Orchard Somerset Retail Fashion",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-04T03:37:43.581Z",
+			"slugId": "simone-perele-64c775a0",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SIMONE PÉRÈLE",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

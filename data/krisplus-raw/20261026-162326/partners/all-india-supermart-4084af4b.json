@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/all-india-supermart-4084af4b",
+	"slug": "all-india-supermart-4084af4b",
+	"fetchedAt": "2026-10-26T16:27:35.762+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6417f43f4777ab0052159040",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.034,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Indian Grocery",
+				"Grocery",
+				"Supermarket",
+				"Spices",
+				"Indian",
+				"Masalas",
+				"Indian Supermarket",
+				"Vegetables",
+				"Household",
+				"All India",
+				"All India Supermart",
+				"Cheap Groceries",
+				"Little India Grocery",
+				"Fresh Vegetables",
+				"Household Items",
+				"Retail"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "ALL INDIA SUPERMART PTE. LTD.",
+			"brand": "All India Supermart",
+			"code": "AIS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5411",
+			"shortName": "All India Supe",
+			"address": {
+				"city": "Singapore",
+				"line1": "41 Norris Rd, Singapore 208282",
+				"streetName": "41 Norris Rd",
+				"postalCode": "208282",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201529546N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/17629220521276623-2649118754847255-AISBRANDIMAGE750X540%202.png",
+			"websiteUrl": "https://allindiasupermart.com.sg/index.php",
+			"descriptionHtml": "<p><em>A</em>ll India Supermart Pte Ltd. is a leading 4-storey shopping supermart offering a wide range of quality Indian groceries, vegetables and household products under a single roof at affordable prices. Find your every Indian palate need from All India Supermart.</p>",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3134340530309112-8121182438405687-ALLINDIABRANDLOGO1000X1000.jpg",
+			"createdAt": "2023-03-20T05:50:55.474Z",
+			"updatedAt": "2026-09-14T06:44:12.916Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9513d10e34df66b46fe"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/17629220521276623-2649118754847255-AISBRANDIMAGE750X540%202.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3134340530309112-8121182438405687-ALLINDIABRANDLOGO1000X1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/17629220521276623-2649118754847255-AISBRANDIMAGE750X540%202_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/17629220521276623-2649118754847255-AISBRANDIMAGE750X540%202_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/17629220521276623-2649118754847255-AISBRANDIMAGE750X540%202_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3134340530309112-8121182438405687-ALLINDIABRANDLOGO1000X1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3134340530309112-8121182438405687-ALLINDIABRANDLOGO1000X1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3134340530309112-8121182438405687-ALLINDIABRANDLOGO1000X1000_high.jpg"
+			},
+			"searchContent": "All India Supermart Pte Ltd. is a leading 4-storey shopping supermart offering a wide range of quality Indian groceries, vegetables and household products under a single roof at affordable prices. Find your every Indian palate need from All India Supermart. Indian Grocery Grocery Supermarket Spices Indian Masalas Indian Supermarket Vegetables Household All India All India Supermart Cheap Groceries Little India Grocery Fresh Vegetables Household Items Retail Retail Groceries",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:31:57.972Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "all-india-supermart-4084af4b",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6420fda206a42f0052ddb24f",
+					"name": "41 Norris Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"41 Norris Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "All India Supermart",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/rempapa-26baa9ab",
+	"slug": "rempapa-26baa9ab",
+	"fetchedAt": "2026-10-26T16:30:20.904+08:00",
+	"payload": {
+		"partner": {
+			"_id": "682d3644b5e0ba7e5fb37bf7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 4,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Peranakan",
+				"Indian",
+				"Chinese",
+				"Malay",
+				"Singaporean",
+				"Eurasian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "OUE Rempapa Pte Ltd",
+			"brand": "Rempapa",
+			"code": "REM",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Rempapa",
+			"address": {
+				"line1": "50 COLLYER QUAY",
+				"postalCode": "049321",
+				"streetName": "OUE BAYFRONT  #18-01/02",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"CHI",
+								"IND",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://rempapa.sg/",
+			"descriptionHtml": "<p>Rempapa by Chef Damian D'Silva is multi-cultural, serving the flavours of the Chinese, Peranakan, Eurasian, Indian and Malay kitchens. At Rempapa, Chef Damian points the way forward. He showcases the magnificent culinary legacy, and also strives to make it relevant to the young because he realises that the key to its preservation lies with them.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5487725507196659-rempapa.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9769761927104677-8259213980439997-Brand%20Image%20(750%20x%20540%20px)%201.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5487725507196659-rempapa.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9769761927104677-8259213980439997-Brand%20Image%20(750%20x%20540%20px)%201.png",
+			"createdAt": "2025-05-21T02:11:16.379Z",
+			"updatedAt": "2026-08-06T14:18:14.676Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9769761927104677-8259213980439997-Brand%20Image%20(750%20x%20540%20px)%201_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9769761927104677-8259213980439997-Brand%20Image%20(750%20x%20540%20px)%201_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9769761927104677-8259213980439997-Brand%20Image%20(750%20x%20540%20px)%201_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5487725507196659-rempapa_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5487725507196659-rempapa_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5487725507196659-rempapa_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Rempapa by Chef Damian D'Silva is multi-cultural, serving the flavours of the Chinese, Peranakan, Eurasian, Indian and Malay kitchens. At Rempapa, Chef Damian points the way forward. He showcases the magnificent culinary legacy, and also strives to make it relevant to the young because he realises that the key to its preservation lies with them. Peranakan Indian Chinese Malay Singaporean Eurasian Dining Casual Dining Kid-Friendly Beverages & Desserts Chinese Indian Asian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-08-05T01:24:36.435Z",
+			"newMerchantEndDate": "2026-10-04T15:59:59.999Z",
+			"slugId": "rempapa-26baa9ab",
+			"outlets": [
+				{
+					"_id": "6a5d7fc31cac0817cfa17c45",
+					"name": "National Gallery"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"National Gallery"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Rempapa",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

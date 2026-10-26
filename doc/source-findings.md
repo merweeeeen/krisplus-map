@@ -54,6 +54,45 @@ Every 16th URL in the partner sitemap was fetched at one request per second. All
 
 `physicalShop` is `true` even for online-only merchants, so it cannot decide `outlet_type` (inferred).
 
+### Full crawl on 2026-10-26
+
+Run `20261026-162326` fetched every URL in the partner sitemap. These counts are measured. The audit script lives outside the repo, so rerun the queries by hand against a newer run.
+
+| Item | Count |
+| --- | --- |
+| URLs in the sitemap, all with `lastmod` | 646 |
+| Pages fetched and parsed | 641 |
+| Pages that answer 404 on a recheck | 5: DBS, UOB, CapitaStar, Pan Pacific Hotels Group, KFP |
+| Outlets in `partner.outlets` | 1,767 |
+| Outlets without `_id`, or with a duplicate `_id` | 0 |
+| Partners whose `outlets` and `partner.outlets` differ in length or names | 0 |
+| Partners whose `applicableCities[0].outletsCount` differs from the outlet count | 76 of 594 |
+
+Categories, counting every category a partner lists: `DINING` 353, `RETAIL` 183, `SERVICES` 56, `WELLNESS` 36, `ACTIVITIES` 23.
+
+Sale channels against outlets:
+
+| `saleChannels` | Has outlets | Partners | What they are |
+| --- | --- | --- | --- |
+| `IN_STORE` | yes | 603 | Shops and restaurants |
+| `ONLINE` | no | 23 | Online merchants, such as Pelago |
+| `IN_STORE` | no | 8 | Such as Timbuk2, Ryde, and FairPrice Group e-vouchers |
+| `NOT_APPLICABLE` | no | 4 | Gift cards: Nike, Miniso, Timezone, and Fragrance |
+| `IN_STORE`, `ONLINE` | yes | 2 | Feed My Paws and Kinohimitsu |
+| `ONLINE` | yes | 1 | Selectio, which lists "Oasia Hotel  Downtown" |
+
+Earn rates, as `base / amountBlock` miles per SGD: 2 (226 partners), 3 (127), 8 (70), 1 (59), 6 (52), 5 (41), 4 (41), 0.5 (11), 0.33 (5), 9 (3), 7 (1), 1.5 (1), and 11 (1). Three partners have `earn: false`, `base: 0`, no `amountBlock`, and no earn badge: FairPrice Group e-vouchers, GrabFood, and Scoot.
+
+### Answers to the Phase 1 audit
+
+1. **Heading field.** The page heading equals `partner.brand` after trimming whitespace, for all 641 partners. Seven brands carry a trailing space, such as `"Smeg "`.
+2. **`milesRedemption: false`.** One partner has it: Singapore Airlines Academy. Its **Payment Options** list leaves out "KrisPay Miles", and `partner.burn` is also `false`. `burn` and `milesRedemption` agree for all 641 partners.
+3. **Earn badge in server HTML.** It is there for all 638 partners with `earn: true`. Its numbers match `paymentOptions.earning` for every one. `paymentOptions.earning` and `partner.earnRates` agree on `base` and `amountBlock` for every partner, and `calculatedMilesEarnRate` equals `base / amountBlock`.
+4. **Separate Apple Pay and cash rates.** The payload has none. `paymentOptions.earning` has only `base`, `amountBlock`, and `hasApplePay`. `paymentOptions` has only `showSection`, `milesRedemption`, `earning`, and `appleAndGooglePayNotice`.
+5. **Outlets without `_id`.** None.
+6. **Other `saleChannels` values.** `NOT_APPLICABLE`, on 4 gift-card partners.
+7. **Does a promotion change `earning.base`?** Not answered. It needs the promotion pages, which [Phase 6](tasks/phase-6-later.md) collects.
+
 ### Outlet names vary
 
 Outlet names take these forms (measured):
@@ -65,6 +104,8 @@ Outlet names take these forms (measured):
 - Street only: Esso lists `Ang Mo Kio Ave 8` and `Bedok North Road`.
 - Street address: Esso lists `611 Aljunied Road`.
 - Trailing spaces: `Paragon Shopping Centre `.
+
+Across all 1,767 outlets (measured): 223 names end in a street word such as Road or Avenue, 121 start with a digit, 50 contain parentheses, and 46 have leading or trailing spaces. No name contains a `#NN-NN` unit number. The street-only names need the merchant-plus-street query described in [architecture.md](architecture.md).
 
 ### Outlet counts disagree within one page
 
@@ -99,9 +140,9 @@ The pipeline uses `outlets` and `partner.outlets` because they carry IDs and mat
 | `source_merchant_id` | `partner._id` | Same value. |
 | `outlet_id` | `partner.outlets[]._id` | Reuse as is. If an outlet lacks `_id`, hash `merchant_id` plus the normalized outlet name, and log it. |
 | `source_outlet_id` | `partner.outlets[]._id` | `null` when absent. |
-| `merchant_name` | `partner.brand`, `partner.shortName`, or `partner.name` | Use the field the page heading shows. Esso's `name` is "Aster Mobility Solutions 1 Pte Ltd", so `name` alone is wrong. Confirm which field it is in Phase 1. |
+| `merchant_name` | `partner.brand` | Trim whitespace. The trimmed brand equals the page heading for all 641 partners. Esso's `name` is "Aster Mobility Solutions 1 Pte Ltd", so `name` is wrong. |
 | `outlet_name` | `partner.outlets[].name` | Trim whitespace. Keep the floor hint. |
-| `outlet_type` | `saleChannels` and `outlets` | `IN_STORE` with outlets gives `physical`. `ONLINE` only, with no outlets, gives `online`. Anything else gives `unknown`. |
+| `outlet_type` | `outlets` and `saleChannels` | A listed outlet gives `physical`, whatever the channel. No outlets with `ONLINE` as the only channel gives `online`. Anything else gives `unknown`, which covers the 8 in-store partners with no outlets and the 4 gift-card partners. |
 | `address_raw` | None | `null`. `partner.address` is the company address. |
 | `address_normalized` | None | `null`. |
 | `postal_code` | None | `null`. OneMap's value goes in `geocode_postal_code`. |
@@ -113,11 +154,11 @@ The pipeline uses `outlets` and `partner.outlets` because they carry IDs and mat
 | `source_url` | Sitemap URL | Matches the page's canonical link (measured for Cedele). |
 | `scraped_at` | Fetch time | ISO 8601 with `+08:00`. |
 | `last_seen_at` | Registry | Time of the latest complete crawl that saw the outlet. |
-| `earn_miles_per_sgd` | `paymentOptions.earning` | `base / amountBlock`, only when `partner.earn` is `true` and the currency is `SGD`. Cross-check it against `earnRates.calculatedMilesEarnRate`. On a mismatch, use `null` and add a note. |
-| `earn_currency` | `partner.acceptedCurrencyCode` | `SGD` only. |
-| `earn_rate_raw` | Rendered badge text | The page template is "Earn {rate} KrisPay miles per {currency} {block} spent!". Take the rendered text from the HTML. |
+| `earn_miles_per_sgd` | `paymentOptions.earning` | `base / amountBlock`, only when `partner.earn` is `true` and the currency is `SGD`. Cross-check it against `earnRates.calculatedMilesEarnRate`. On a mismatch, use `null` and add a note. When `partner.earn` is `false`, use `0` and say so in `participation_notes`. Kris+ states that these partners earn nothing, so `0` is a source fact, not an unknown. |
+| `earn_currency` | `partner.acceptedCurrencyCode` | `SGD` only. All 641 partners have it. |
+| `earn_rate_raw` | `rendered.earnBadge` | The badge text from the server HTML, such as "Earn 8 KrisPay miles per SGD 1 spent!". `null` for the 3 partners without a badge. |
 | `accepts_miles_payment` | `paymentOptions.milesRedemption` | `true` or `false` as given. `null` when the key is missing. Add a note when it disagrees with `partner.burn`. |
-| `miles_payment_raw` | Rendered **Payment Options** text | `null` when the section is hidden. |
+| `miles_payment_raw` | `rendered.paymentOptions` | Join the list items with `"; "`. `null` when the section is missing. |
 | `participation_notes` | `partner.description` | `null` in the first export. See [Phase 6](tasks/phase-6-later.md). |
 | `reward_scope` | Page structure | `merchant`, because the rate sits on the partner record. |
 | `rewards_source_url` | None | `null`, because the rate comes from the same page. |

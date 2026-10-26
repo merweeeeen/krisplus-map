@@ -1,0 +1,229 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tongue-tip-lanzhou-beef-noodles-2265dc18",
+	"slug": "tongue-tip-lanzhou-beef-noodles-2265dc18",
+	"fetchedAt": "2026-10-26T16:28:02.686+08:00",
+	"payload": {
+		"partner": {
+			"_id": "64d1a6cb2ef5ed004ff3ab1a",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.011,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Beef",
+				"Chinese",
+				"noodles",
+				"halal",
+				"soup",
+				"dining",
+				"lanzhou",
+				"Tongue Tip",
+				"LeNu",
+				"LeShrimp",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Gala Food Pte Ltd",
+			"brand": "Tongue Tip Lanzhou Beef Noodles",
+			"code": "TTL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Tongue Tip",
+			"address": {
+				"line1": "44 Verde Ave S688312",
+				"postalCode": "688312",
+				"streetName": "44 Verde Ave S688312",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI",
+								"ASI",
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "201802937K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7162742853637729-40334432219157-Brand_tonguetip_750x540.jpg",
+			"websiteUrl": "https://www.facebook.com/Tonguetipbeefnoodles",
+			"descriptionHtml": "<p>Tongue Tip Lanzhou Beef Noodles offers high quality hand-pulled noodles made with authentic flavours and fresh ingredients. Their beef broth is simmered daily with more than 15 kinds of herbs and spices. The result is a clear broth that will bring an explosion of flavours at first slurp.</p>    <p>Participating Outlets:</p>  <ul> \t<li>Century Square</li> \t<li>Chinatown Point</li> \t<li>Downtown East</li> \t \t<li>Northpoint City</li> \t<li>Jurong Point</li> \t<li>Suntec City</li> \t<li>Tiong Bahru Plaza</li><li>Grantral Mall</li><li>Westgate</li><li>Lentor Modern</li><li>The Woodgrove</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/08989039236264751-7065937489228007-logoapp.jpg",
+			"createdAt": "2023-08-08T02:22:03.996Z",
+			"updatedAt": "2026-08-06T14:17:47.175Z",
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 11
+				}
+			],
+			"translations": [],
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7162742853637729-40334432219157-Brand_tonguetip_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/08989039236264751-7065937489228007-logoapp.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7162742853637729-40334432219157-Brand_tonguetip_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7162742853637729-40334432219157-Brand_tonguetip_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7162742853637729-40334432219157-Brand_tonguetip_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/08989039236264751-7065937489228007-logoapp_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/08989039236264751-7065937489228007-logoapp_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/08989039236264751-7065937489228007-logoapp_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:27:25.230Z",
+			"searchContent": "Tongue Tip Lanzhou Beef Noodles offers high quality hand-pulled noodles made with authentic flavours and fresh ingredients. Their beef broth is simmered daily with more than 15 kinds of herbs and spices. The result is a clear broth that will bring an explosion of flavours at first slurp. Participating Outlets: Century Square Chinatown Point Downtown East Northpoint City Jurong Point Suntec City Tiong Bahru PlazaGrantral MallWestgateLentor ModernThe Woodgrove Beef Chinese noodles halal soup dining lanzhou Tongue Tip LeNu LeShrimp FortuneFeast Dining Halal Chinese Asian Casual Dining",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tongue-tip-lanzhou-beef-noodles-2265dc18",
+			"outlets": [
+				{
+					"_id": "64d1e488cb4d200053d9dd0e",
+					"name": "Tiong Bahru Plaza"
+				},
+				{
+					"_id": "64d1e606cb4d200053d9e0a4",
+					"name": " Chinatown Point"
+				},
+				{
+					"_id": "64d1e6ac4b0546004f386e44",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "64d1e7c8ac0608004ffedc2a",
+					"name": "E Avenue@Downtown East"
+				},
+				{
+					"_id": "64d1e85dac0608004ffedd64",
+					"name": "Century Square"
+				},
+				{
+					"_id": "64d1e8dd75b5150055adf93b",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "654c3f0d2e27b40056a4227c",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "668cb22457bc74006c5f80c1",
+					"name": "Westgate"
+				},
+				{
+					"_id": "6784c9d018ed2b006c979b18",
+					"name": "The Woodgrove"
+				},
+				{
+					"_id": "694a4b149d6da1402ade2a28",
+					"name": "Grantral Mall"
+				},
+				{
+					"_id": "6982a5fa0724fd2b93ffa85c",
+					"name": "Lentor Modern"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tiong Bahru Plaza",
+			" Chinatown Point",
+			"Jurong Point",
+			"E Avenue@Downtown East",
+			"Century Square",
+			"Suntec City",
+			"Northpoint City",
+			"Westgate",
+			"The Woodgrove",
+			"Grantral Mall",
+			"Lentor Modern"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tongue Tip Lanzhou Beef Noodles",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

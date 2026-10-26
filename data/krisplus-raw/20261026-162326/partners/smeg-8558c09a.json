@@ -1,0 +1,216 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/smeg-8558c09a",
+	"slug": "smeg-8558c09a",
+	"fetchedAt": "2026-10-26T16:27:29.595+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63f8647b02650514141754d8",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"calculatedMilesEarnRate": 2
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Smeg Home Appliances",
+				"Appliances",
+				"Electronics",
+				"Home",
+				"Home Décor",
+				"Home And Living",
+				"Kettle",
+				"Toaster",
+				"Blender",
+				"Stand Mixer",
+				"Oven",
+				"Kitchen Appliances",
+				"Hood",
+				"Hob",
+				"Kitchen Essentials",
+				"Kitchen",
+				"Cooking",
+				"Gifts",
+				"Retail",
+				"Straits View",
+				"Marina One The Heart",
+				"Marina Bay",
+				"Downtown",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electrical Components",
+				"Electronical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Hairdryer",
+				"Airconditioner",
+				"Washing Machine",
+				"Kettle",
+				"Hair Straightener",
+				"Lifestyle Appliances",
+				"Fans",
+				"Samsung",
+				"Smeg",
+				"The Expert Sound",
+				"Technology",
+				"Tech Gadgets",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "Smeg Singapore Pte Ltd",
+			"brand": "Smeg ",
+			"code": "S1P",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "Smeg ",
+			"address": {
+				"city": "Singapore",
+				"line1": "16 Raffles Quay, #33-03 Hong Leong Building, Singapore 048581",
+				"streetName": "16 Raffles Quay",
+				"postalCode": "048581",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201731686N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6455898539682985-7083029431073973-Brand%20Image_App_750%20x%20540.jpg",
+			"websiteUrl": "https://smegshop.sg/",
+			"descriptionHtml": "<p>For over 70 years now, Smeg appliances have come to be seen as tasteful and elegant solutions to the demands of contemporary living as a result of the company&rsquo;s partnerships with world-famous architects. With the utmost attention to quality and energy savings, the Smeg Group is recognised on an international scale as a mastermind of excellence.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR1",
+			"promotional": "                                              ",
+			"participatingOutlets": "                                                ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6899275677344647-5169473550225807-Brand%20Logo_App_1000%20x%201000.jpg",
+			"createdAt": "2023-02-24T07:17:15.127Z",
+			"updatedAt": "2026-08-06T14:17:41.563Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL",
+								"EE"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9550108b03f047da56d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6455898539682985-7083029431073973-Brand%20Image_App_750%20x%20540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6899275677344647-5169473550225807-Brand%20Logo_App_1000%20x%201000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6455898539682985-7083029431073973-Brand%20Image_App_750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6455898539682985-7083029431073973-Brand%20Image_App_750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6455898539682985-7083029431073973-Brand%20Image_App_750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6899275677344647-5169473550225807-Brand%20Logo_App_1000%20x%201000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6899275677344647-5169473550225807-Brand%20Logo_App_1000%20x%201000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6899275677344647-5169473550225807-Brand%20Logo_App_1000%20x%201000_high.jpg"
+			},
+			"searchContent": "For over 70 years now, Smeg appliances have come to be seen as tasteful and elegant solutions to the demands of contemporary living as a result of the company’s partnerships with world-famous architects. With the utmost attention to quality and energy savings, the Smeg Group is recognised on an international scale as a mastermind of excellence. Smeg Home Appliances Appliances Electronics Home Home Décor Home And Living Kettle Toaster Blender Stand Mixer Oven Kitchen Appliances Hood Hob Kitchen Essentials Kitchen Cooking Gifts Retail Straits View Marina One The Heart Marina Bay Downtown Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electrical Components Electronical Components Audio Television Headphones Cables Plug Travel Accessories Hairdryer Airconditioner Washing Machine Kettle Hair Straightener Lifestyle Appliances Fans Samsung Smeg The Expert Sound Technology Tech Gadgets Ruhens Grohe Hansgrohe Mayer Simmons Sealy Homefurnishing Retail Home & Lifestyle Electrical & Electronics",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "smeg-8558c09a",
+			"outlets": [
+				{
+					"_id": "63fc1a009870e526e8f77399",
+					"name": "Marina One The Heart"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina One The Heart"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Smeg",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

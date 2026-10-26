@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/little-island-brewing-co-gillman-barracks-6aba5dec",
+	"slug": "little-island-brewing-co-gillman-barracks-6aba5dec",
+	"fetchedAt": "2026-10-26T16:28:21.705+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6597626f3e1d18004fc92386",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.025,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"base": 2,
+				"calculatedMilesEarnRate": 2
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Craft Beers",
+				"Brewery",
+				"Pizzas",
+				"Sunday Roast",
+				"Wines",
+				"Cocktails",
+				"Bar",
+				"Grill",
+				"Birthdays",
+				"Anniversary",
+				"Corporate",
+				"Events",
+				"Weddings",
+				"Family",
+				"Gatherings",
+				"Live Band",
+				"Live Music",
+				"Changi",
+				"South Beach",
+				"Best",
+				"Steak",
+				"Seafood",
+				"Platters",
+				"Meats",
+				"Vegetarian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65976278d104efef3a47623d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "LIBC GILLMAN PTE LTD",
+			"brand": "Little Island Brewing Co (Gillman Barracks)",
+			"code": "GIL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Little Island",
+			"address": {
+				"city": "Singapore",
+				"line1": "6 CHANGI VILLAGE ROAD #01-01 SINGAPORE 509907",
+				"streetName": "6 CHANGI VILLAGE ROAD",
+				"postalCode": "509907",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"VEG"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"PB",
+								"CD"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"regNumber": "202330954M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4894632541735411-lib2.jpg",
+			"websiteUrl": "https://libc.co",
+			"descriptionHtml": "<p>Fancy fresh, locally-brewed craft beers paired with tantalising 15 hours smoked beef brisket and melt-in-your-mouth pork belly? Then Little Island Brewing Co. is what you&#39;ve been looking for! They are a 10,000 square feet, 400-seater microbrewery and smokehouse, employing traditional methods to produce award-winning world-class beers and awesome food!</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5412091417998739-LIB1.jpg",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-01-05T01:59:11.145Z",
+			"updatedAt": "2026-08-06T14:17:57.507Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4894632541735411-lib2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5412091417998739-LIB1.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4894632541735411-lib2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4894632541735411-lib2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4894632541735411-lib2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5412091417998739-LIB1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5412091417998739-LIB1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5412091417998739-LIB1_high.jpg"
+			},
+			"searchContent": "Fancy fresh, locally-brewed craft beers paired with tantalising 15 hours smoked beef brisket and melt-in-your-mouth pork belly? Then Little Island Brewing Co. is what you've been looking for! They are a 10,000 square feet, 400-seater microbrewery and smokehouse, employing traditional methods to produce award-winning world-class beers and awesome food! Craft Beers Brewery Pizzas Sunday Roast Wines Cocktails Bar Grill Birthdays Anniversary Corporate Events Weddings Family Gatherings Live Band Live Music Changi South Beach Best Steak Seafood Platters Meats Vegetarian Dining Vegetarian-Friendly Pubs & Bars Casual Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "little-island-brewing-co-gillman-barracks-6aba5dec",
+			"outlets": [
+				{
+					"_id": "6597cc06864263004f7e1380",
+					"name": "Gillman Barracks"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Gillman Barracks"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Little Island Brewing Co (Gillman Barracks)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,162 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/weddings-at-the-fullerton-hotel-singapore-797a3a49",
+	"slug": "weddings-at-the-fullerton-hotel-singapore-797a3a49",
+	"fetchedAt": "2026-10-26T16:32:30.266+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6979c66617fc9128b1d161cf",
+			"name": "Precious Treasure Pte Ltd (Weddings at The Fullerton Hotel Singapore)",
+			"shortName": "Weddings TFH",
+			"mccCode": "5812",
+			"mccDescription": "undefined",
+			"brand": "Weddings at The Fullerton Hotel Singapore",
+			"code": "WFH",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2819817732245302-WeddingsFullertonHotel.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3600482394867517-The%20Fullerton%20Hotel%20760x540.jpg",
+			"websiteUrl": "https://www.fullertonhotels.com/fullerton-hotel-singapore/weddings",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 Fullerton Square Fullerton Hotel Singapore",
+				"postalCode": "049178",
+				"streetName": "1 Fullerton Square",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Housed within a national monument, The Fullerton Hotel Singapore creates an unforgettable setting for weddings. </p><p>With its neoclassical elegance, impeccable service, and gourmet menus, every celebration honors romance, heritage, and refined luxury.</p><p><em>Weddings at The Fullerton Hotel Singapore payments will be capped at SGD 20,000 per transaction. Applicable to bookings at The Straits Room and The Ballroom. </em></p>",
+			"searchableKeywords": [
+				"Weddings",
+				"Fullerton Hotel",
+				"Banquet",
+				"Fullerton Singapore",
+				"Fullerton",
+				"Celebrations"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.044,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HOT"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-01-28T08:18:46.418Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2819817732245302-WeddingsFullertonHotel.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3600482394867517-The%20Fullerton%20Hotel%20760x540.jpg",
+			"createdAt": "2026-01-28T08:18:46.427Z",
+			"updatedAt": "2026-10-26T07:30:34.865Z",
+			"searchContent": "Housed within a national monument, The Fullerton Hotel Singapore creates an unforgettable setting for weddings. With its neoclassical elegance, impeccable service, and gourmet menus, every celebration honors romance, heritage, and refined luxury. Weddings at The Fullerton Hotel Singapore payments will be capped at SGD 20,000 per transaction. Applicable to bookings at The Straits Room and The Ballroom. Weddings Fullerton Hotel Banquet Fullerton Singapore Fullerton Celebrations Services Hotels",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3600482394867517-The%20Fullerton%20Hotel%20760x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3600482394867517-The%20Fullerton%20Hotel%20760x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3600482394867517-The%20Fullerton%20Hotel%20760x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2819817732245302-WeddingsFullertonHotel_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2819817732245302-WeddingsFullertonHotel_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2819817732245302-WeddingsFullertonHotel_high.png"
+			},
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "weddings-at-the-fullerton-hotel-singapore-797a3a49",
+			"outlets": [
+				{
+					"_id": "6979c9d5647a4c96a866bbfc",
+					"name": "The Fullerton Hotel Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Fullerton Hotel Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Weddings at The Fullerton Hotel Singapore",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

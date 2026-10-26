@@ -1,0 +1,231 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-line-shangri-la-singapore-3c488fc5",
+	"slug": "the-line-shangri-la-singapore-3c488fc5",
+	"fetchedAt": "2026-10-26T16:23:32.992+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5b2a1a4802516f39501620d7",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "22 Orange Grove Road, Shangri-La Hotel",
+				"postalCode": "258350",
+				"streetName": "Orange Grove Road"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "The Line (Shangri-La Singapore)",
+			"brand": "The Line (Shangri-La Singapore)",
+			"code": "SLH",
+			"countryIncorporation": "Singapore",
+			"description": "",
+			"categary": "Others",
+			"regNumber": "06893900X",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/23609894507380136-Webp.net-resizeimage%20(3).png",
+			"createdAt": "2018-06-20T09:11:36.461Z",
+			"updatedAt": "2026-09-30T16:00:06.375Z",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"category": "DINING",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8255301184609107-The%20Line%20-%20Seafood%20on%20Ice.jpg",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 5,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "           ",
+			"physicalShop": true,
+			"privilege": false,
+			"promotional": "Find out more at: http://www.shangri-la.com/singapore/shangrila/dining/",
+			"websiteUrl": "https://www.shangri-la.com/singapore/shangrila/dining/restaurants/the-line/",
+			"categories": [
+				"DINING"
+			],
+			"hideFromCustomer": false,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>Set amidst 15 acres of lush greenery, Shangri-La Singapore, is a luxury 5-star hotel which is consistently voted as one of the best hotels in the world.</p>\n\n<p>Participating F&B Outlet:<br />\n•    The Line</p>\n\n<p>Even if we are unable to travel around the world at this time, The Line will ensure that the flavours of the world travel directly to your tableside. Choose from over 88 delectable choices; there’s something for every palate! Click here to view The Line’s regular <a href=\"http://www.shangri-la.com/singapore/shangrila/dining/restaurants/the-line/menu-2/\">buffet menus</a>. </p>\n\n<p>Note: Payments made via Kris+ will not be eligible for Shangri-La Circle points.</p>\n\n<p> </p>",
+			"payByCard": true,
+			"shortName": "ShangriLa",
+			"searchableKeywords": [
+				"Orchard",
+				"City",
+				"Town",
+				"Central",
+				"Western",
+				"Desserts",
+				"Chinese",
+				"Japanese",
+				"Family",
+				"Indian",
+				"Thai",
+				"Top Restaurants",
+				"Best Restaurants",
+				"Buffet",
+				"Seafood",
+				"Crab",
+				"Lobster",
+				"Oyster",
+				"International",
+				"Lunch",
+				"Dinner",
+				"Shangri La",
+				"Dining",
+				"Celebrations",
+				"Dates",
+				"Valentines Day",
+				"Occasions",
+				"Buffet",
+				"Colony",
+				"The Line",
+				"Triple Three",
+				"Carousel",
+				"Edge",
+				"Oscar’S",
+				"Town Restaurant",
+				"Mariott Café",
+				"Melt Café",
+				"Spread",
+				"Feast",
+				"Free Flow",
+				"Self Service",
+				"Food Bar",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f39d00b0a527865c43"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8255301184609107-The%20Line%20-%20Seafood%20on%20Ice.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/23609894507380136-Webp.net-resizeimage%20(3).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8255301184609107-The%20Line%20-%20Seafood%20on%20Ice_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8255301184609107-The%20Line%20-%20Seafood%20on%20Ice_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8255301184609107-The%20Line%20-%20Seafood%20on%20Ice_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/23609894507380136-Webp_low.net-resizeimage%20(3)",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/23609894507380136-Webp_med.net-resizeimage%20(3)",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/23609894507380136-Webp_high.net-resizeimage%20(3)"
+			},
+			"searchContent": "Set amidst 15 acres of lush greenery, Shangri-La Singapore, is a luxury 5-star hotel which is consistently voted as one of the best hotels in the world. Participating F&B Outlet: • The Line Even if we are unable to travel around the world at this time, The Line will ensure that the flavours of the world travel directly to your tableside. Choose from over 88 delectable choices; there’s something for every palate! Click here to view The Line’s regular buffet menus. Note: Payments made via Kris+ will not be eligible for Shangri-La Circle points. Orchard City Town Central Western Desserts Chinese Japanese Family Indian Thai Top Restaurants Best Restaurants Buffet Seafood Crab Lobster Oyster International Lunch Dinner Shangri La Dining Celebrations Dates Valentines Day Occasions Buffet Colony The Line Triple Three Carousel Edge Oscar’S Town Restaurant Mariott Café Melt Café Spread Feast Free Flow Self Service Food Bar Art Braci Origin Nobu 665 Solo Restaurant Romantic Dining Buffet",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T06:39:35.468Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-line-shangri-la-singapore-3c488fc5",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "60e3af8fa8644370a8d58ca5",
+					"name": "Shangri-La Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Shangri-La Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Line (Shangri-La Singapore)",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

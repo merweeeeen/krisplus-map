@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/karcher-124f0819",
+	"slug": "karcher-124f0819",
+	"fetchedAt": "2026-10-26T16:29:47.820+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67b7f65c80ec950064cdbc78",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Karcher",
+				"Home Appliance",
+				"Cleaning",
+				"Vacuum Cleaner",
+				"Steam Cleaner",
+				"Steamer",
+				"Steam Mop",
+				"High Pressure Washer",
+				"Pressure Jet",
+				"Wet And Dry",
+				"Air Purifier",
+				"Carpet Cleaner",
+				"Robot Vacuum",
+				"Mattress Cleaning",
+				"Car Cleaning",
+				"Industrial Vacuum",
+				"Cordless Vacuum"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Karcher Singapore Private Limited",
+			"brand": "Kärcher",
+			"code": "RCH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5732",
+			"shortName": "Karcher",
+			"address": {
+				"line1": "30 Teban Gardens Crescent #01-03 Singapore 608927",
+				"postalCode": "608927",
+				"streetName": "30 Teban Gardens Crescent",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.kaercher.com/sg/",
+			"descriptionHtml": "<p>Kärcher is a leading German brand specialising in cleaning technology. Known for its innovative pressure washers, vacuums, steam cleaners, and cleaning systems, Kärcher provides high-performance solutions for both residential and commercial use. Kärcher's products are renowned for quality, efficiency, and durability.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/667777198868339-Karcher%20Brand%20Logo%20(Kris%2B)%20-%20260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6771093666719217-3197495717126606-Karcher%20Brand%20Image%20(Kris%2B)%20-%20750x540.png",
+			"countryCode": "SG",
+			"mccDescription": "Electronics Stores",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/667777198868339-Karcher%20Brand%20Logo%20(Kris%2B)%20-%20260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6771093666719217-3197495717126606-Karcher%20Brand%20Image%20(Kris%2B)%20-%20750x540.png",
+			"createdAt": "2025-02-21T03:43:24.779Z",
+			"updatedAt": "2026-10-26T07:37:03.807Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6771093666719217-3197495717126606-Karcher%20Brand%20Image%20(Kris%2B)%20-%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6771093666719217-3197495717126606-Karcher%20Brand%20Image%20(Kris%2B)%20-%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6771093666719217-3197495717126606-Karcher%20Brand%20Image%20(Kris%2B)%20-%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/667777198868339-Karcher%20Brand%20Logo%20(Kris%2B)%20-%20260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/667777198868339-Karcher%20Brand%20Logo%20(Kris%2B)%20-%20260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/667777198868339-Karcher%20Brand%20Logo%20(Kris%2B)%20-%20260x260_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:30:07.947Z",
+			"searchContent": "Kärcher is a leading German brand specialising in cleaning technology. Known for its innovative pressure washers, vacuums, steam cleaners, and cleaning systems, Kärcher provides high-performance solutions for both residential and commercial use. Kärcher's products are renowned for quality, efficiency, and durability. Karcher Home Appliance Cleaning Vacuum Cleaner Steam Cleaner Steamer Steam Mop High Pressure Washer Pressure Jet Wet And Dry Air Purifier Carpet Cleaner Robot Vacuum Mattress Cleaning Car Cleaning Industrial Vacuum Cordless Vacuum Retail Electrical & Electronics",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "karcher-124f0819",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "67b7f7c67089ac0ff4863da7",
+					"name": "Karcher Centre Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Karcher Centre Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Kärcher",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

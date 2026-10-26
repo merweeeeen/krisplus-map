@@ -1,0 +1,201 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/daylight-coffee-97f8c1cc",
+	"slug": "daylight-coffee-97f8c1cc",
+	"fetchedAt": "2026-10-26T16:33:48.314+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a4dcd62319d2d440917f676",
+			"name": "Daylight Express Pte Ltd",
+			"shortName": "Daylight Coffe",
+			"mccCode": "5814",
+			"mccDescription": "Fast Food Restaurants",
+			"brand": "Daylight Coffee",
+			"code": "DLC",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/471261171774668-40547589201203604-Picture1.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9900574607725803-33330818908170823-Picture2.png",
+			"websiteUrl": "https://www.instagram.com/daylightcoffeesg",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "41 BENCOOLEN STREET #01-04",
+				"postalCode": "189623",
+				"streetName": "HOTEL MI",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Great coffee should be an everyday joy, not a luxury. Founded in 2023 as a humble hawker stall, Daylight Coffee was born to shake up the local coffee scene after spotting a need for premium, artisanal brews at affordable prices. Their mission is to bridge the gap between high-end specialty coffee and the everyday cup.</span></p><p>Participating outlets:<br>- Bencoolen Street<br>- Chinatown Point<br>- Maxwell Road (Amoy)</p>",
+			"searchableKeywords": [
+				"Coffee",
+				"matcha",
+				"latte",
+				"daylight coffee",
+				"daylight coffee singapore",
+				"daylight coffee amoy street",
+				"daylight coffee hawker",
+				"espresso",
+				"daylight coffee chinatown",
+				"chinatown hawker coffee",
+				"maxwell food centre coffee",
+				"specialty coffee chinatown sg",
+				"cheap iced latte chinatown",
+				"tourist friendly hawker coffee Singapore",
+				"daylight coffee outlets",
+				"daylight coffee menu",
+				"hawker specialty coffee chain",
+				"best affordable coffee singapore",
+				"local working class coffee sg",
+				"daylight coffee group",
+				"daylight coffee bencoolen",
+				"bencoolen coffee stall",
+				"affordable coffee near smu",
+				"café quality coffee bencoolen",
+				"best coffee rochor",
+				"student budget coffee singapore",
+				"grab and go coffee",
+				"bencoolen"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.027,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-17T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-07-08T04:09:06.801Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/471261171774668-40547589201203604-Picture1.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9900574607725803-33330818908170823-Picture2.png",
+			"createdAt": "2026-07-08T04:09:06.808Z",
+			"updatedAt": "2026-08-06T14:18:33.334Z",
+			"searchContent": "Great coffee should be an everyday joy, not a luxury. Founded in 2023 as a humble hawker stall, Daylight Coffee was born to shake up the local coffee scene after spotting a need for premium, artisanal brews at affordable prices. Their mission is to bridge the gap between high-end specialty coffee and the everyday cup. Participating outlets: - Bencoolen Street - Chinatown Point - Maxwell Road (Amoy) Coffee matcha latte daylight coffee daylight coffee singapore daylight coffee amoy street daylight coffee hawker espresso daylight coffee chinatown chinatown hawker coffee maxwell food centre coffee specialty coffee chinatown sg cheap iced latte chinatown tourist friendly hawker coffee Singapore daylight coffee outlets daylight coffee menu hawker specialty coffee chain best affordable coffee singapore local working class coffee sg daylight coffee group daylight coffee bencoolen bencoolen coffee stall affordable coffee near smu café quality coffee bencoolen best coffee rochor student budget coffee singapore grab and go coffee bencoolen Dining Quick Bites & Snacks Beverages & Desserts",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9900574607725803-33330818908170823-Picture2_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9900574607725803-33330818908170823-Picture2_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9900574607725803-33330818908170823-Picture2_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/471261171774668-40547589201203604-Picture1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/471261171774668-40547589201203604-Picture1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/471261171774668-40547589201203604-Picture1_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "daylight-coffee-97f8c1cc",
+			"outlets": [
+				{
+					"_id": "6a4dfc72de1dc230f51a0fcd",
+					"name": "Hotel Mi Bencoolen"
+				},
+				{
+					"_id": "6a4dfcd945aafea3df29d9b6",
+					"name": "227 South Bridge Road"
+				},
+				{
+					"_id": "6a4dfd78de1dc230f51a1254",
+					"name": "Maxwell Road (Amoy)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Hotel Mi Bencoolen",
+			"227 South Bridge Road",
+			"Maxwell Road (Amoy)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Daylight Coffee",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

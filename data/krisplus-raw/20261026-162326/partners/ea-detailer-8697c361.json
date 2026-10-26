@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ea-detailer-8697c361",
+	"slug": "ea-detailer-8697c361",
+	"fetchedAt": "2026-10-26T16:24:57.169+08:00",
+	"payload": {
+		"partner": {
+			"_id": "607cf147aa281432bc40b9f5",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "EA Detailer Pte Ltd",
+			"brand": "EA Detailer",
+			"code": "EAD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7538",
+			"shortName": "EA Detailer",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "Lot B07, 210 Turf Club Road",
+				"postalCode": "287995",
+				"streetName": "Turf Club Road"
+			},
+			"regNumber": "201406001G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/22166474420253768-Kris%2B%20Brand%20Image%20-%20750px%20by%20540px.jpg",
+			"websiteUrl": "https://www.eadetailer.com/",
+			"descriptionHtml": "<p>EA Detailer is one of the leading companies in the cleaning and grooming industry for Automotive sector since 2014. Services include repairs, restoration, protection, detailing, polishing, disinfecting, sanitizing and anti-pest control.</p>  <p>Participating outlet:</p>  <ul> \t<li>Chang Charn Road</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Automotive Service Shops (Non-dealer)",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/004053419654910906-EADetailerlogo-white(1000x1000).png",
+			"createdAt": "2021-04-19T02:56:07.350Z",
+			"updatedAt": "2026-09-01T02:03:02.894Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"base": 5,
+				"calculatedMilesEarnRate": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tDunearn Road",
+			"promotional": "  ",
+			"searchableKeywords": [
+				"Auto Restoration",
+				"Car Coating",
+				"Paint",
+				"Protection",
+				"Interior",
+				"Sanitization",
+				"Repairs",
+				"Tinting",
+				"Treatment",
+				"Automobile",
+				"Vehicle",
+				"Grooming",
+				"Detailing",
+				"Exterior",
+				"Professional",
+				"Cleaning",
+				"Services",
+				"Turf Club Road",
+				"The Grandstand"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AUT"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c445578ca5d7f0b3be"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/22166474420253768-Kris%2B%20Brand%20Image%20-%20750px%20by%20540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/004053419654910906-EADetailerlogo-white(1000x1000).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/22166474420253768-Kris%2B%20Brand%20Image%20-%20750px%20by%20540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/22166474420253768-Kris%2B%20Brand%20Image%20-%20750px%20by%20540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/22166474420253768-Kris%2B%20Brand%20Image%20-%20750px%20by%20540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/004053419654910906-EADetailerlogo-white(1000x1000)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/004053419654910906-EADetailerlogo-white(1000x1000)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/004053419654910906-EADetailerlogo-white(1000x1000)_high.png"
+			},
+			"searchContent": "EA Detailer is one of the leading companies in the cleaning and grooming industry for Automotive sector since 2014. Services include repairs, restoration, protection, detailing, polishing, disinfecting, sanitizing and anti-pest control. Participating outlet: Chang Charn Road Auto Restoration Car Coating Paint Protection Interior Sanitization Repairs Tinting Treatment Automobile Vehicle Grooming Detailing Exterior Professional Cleaning Services Turf Club Road The Grandstand Services Automotive",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.143Z",
+			"slugId": "ea-detailer-8697c361",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "607e9f622cda8c35b8266ce6",
+					"name": "Chang Charn Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Chang Charn Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "EA Detailer",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

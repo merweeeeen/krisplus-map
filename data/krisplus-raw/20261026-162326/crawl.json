@@ -1,0 +1,10 @@
+{
+	"runId": "20261026-162326",
+	"startedAt": "2026-10-26T16:23:26.493+08:00",
+	"finishedAt": "2026-10-26T16:35:41.618+08:00",
+	"discovered": 646,
+	"fetched": 641,
+	"notFound": 5,
+	"failed": 0,
+	"complete": true
+}

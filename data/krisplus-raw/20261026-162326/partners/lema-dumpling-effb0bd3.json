@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lema-dumpling-effb0bd3",
+	"slug": "lema-dumpling-effb0bd3",
+	"fetchedAt": "2026-10-26T16:31:53.294+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6923c174a12cca93a4e208ec",
+			"name": "LE MA DUMPLING PTE LTD",
+			"shortName": "LeMa Dumpling",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "LeMa Dumpling",
+			"code": "L3D",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9132082063691969-LeMaDumpling.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/0674669221531694-33245809048627706-Lema%20Image.jpg",
+			"websiteUrl": "https://www.paradisegp.com/lema-dumpling/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "107 Defu Lane 10,  #05-01 Paradise Group IHQ",
+				"postalCode": "539224",
+				"streetName": "107 Defu Lane 10",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\">LeMa Dumpling brings you food that reminds you of home —\n    comforting, familiar, and made with love. Savour each and every of their jumbo\n    dumplings, handcrafted with premium ingredients, filled with care, patience,\n    and a whole lot of heart, just like how mum would make them.</p><p class=\"MsoNormal\">Participating Outlets: </p><ul><li>Jewel Changi Airport</li><li>Changi Airport T3 (Transit)</li></ul>",
+			"searchableKeywords": [
+				"Dumplings",
+				"Noodles",
+				"Chinese",
+				"Soup",
+				"Rice",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.015,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR3",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-24T02:22:44.260Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9132082063691969-LeMaDumpling.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0674669221531694-33245809048627706-Lema%20Image.jpg",
+			"createdAt": "2025-11-24T02:22:44.280Z",
+			"updatedAt": "2026-08-06T14:18:25.275Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0674669221531694-33245809048627706-Lema%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0674669221531694-33245809048627706-Lema%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0674669221531694-33245809048627706-Lema%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9132082063691969-LeMaDumpling_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9132082063691969-LeMaDumpling_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9132082063691969-LeMaDumpling_high.png"
+			},
+			"searchContent": "LeMa Dumpling brings you food that reminds you of home — comforting, familiar, and made with love. Savour each and every of their jumbo dumplings, handcrafted with premium ingredients, filled with care, patience, and a whole lot of heart, just like how mum would make them. Participating Outlets: Jewel Changi AirportChangi Airport T3 (Transit) Dumplings Noodles Chinese Soup Rice paradise Dining Casual Dining Chinese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lema-dumpling-effb0bd3",
+			"outlets": [
+				{
+					"_id": "6925130651446a07e72be66e",
+					"name": "Jewel"
+				},
+				{
+					"_id": "692673dae326f1e5066b34f8",
+					"name": "T3 (Transit)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jewel",
+			"T3 (Transit)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "LeMa Dumpling",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

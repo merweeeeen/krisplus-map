@@ -1,0 +1,179 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/floweradvisor-b121d7f1",
+	"slug": "floweradvisor-b121d7f1",
+	"fetchedAt": "2026-10-26T16:28:27.692+08:00",
+	"payload": {
+		"partner": {
+			"_id": "659df5e5e9f3bf004e01e726",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Flowers",
+				"Florist",
+				"Bouquet",
+				"Gifts",
+				"Christmas",
+				"Hari Raya",
+				"Valentine’S Day",
+				"Hampers",
+				"Mother’S Day",
+				"Birthday",
+				"Flower Delivery",
+				"Flower Bouquet",
+				"Flower Arrangement",
+				"Christmas Hampers",
+				"Hari Raya Hampers",
+				"Valentine’S Day Flowers",
+				"Mother’S Day Flowers",
+				"Birthday Cake",
+				"Birthday Gift",
+				"Same Day Delivery",
+				"International Florist",
+				"International Flower Delivery",
+				"Sympathy Flowers",
+				"Anniversary Gifts",
+				"Birthday Flowers",
+				"Christmas Gifts",
+				"Chinese New Year",
+				"Chinese New Year Gifts",
+				"Chinese New Year Hampers",
+				"Roses",
+				"Rose Bouquet",
+				"Souvenirs"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"659df5ee870cc41bd580d998"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Aldmic Pte Ltd",
+			"brand": "FlowerAdvisor",
+			"code": "FLO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "FlowerAdvisor",
+			"address": {
+				"city": "Singapore",
+				"line1": "6001 BEACH ROAD #18-02 GOLDEN MILE TOWER  SINGAPORE 199589",
+				"streetName": "6001 BEACH ROAD",
+				"postalCode": "199589",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL",
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "201110310C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6874617422713931-fa2.jpg",
+			"websiteUrl": "https://www.floweradvisor.com.sg/",
+			"descriptionHtml": "<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">FlowerAdvisor is a leading flowers and gifts e-commerce platform that delivers worldwide with seamless same-day or next-day delivery to over 100 countries, transforming moments into memories. They offer exquisite floral creations and gifts that embody care and thoughtfulness, ensuring every occasion is celebrated beautifully.</span></span></p>  <p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. </span></span>​​​​​​​</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3567144285672854-fa1.jpg",
+			"applicableCities": [],
+			"createdAt": "2024-01-10T01:41:57.532Z",
+			"updatedAt": "2026-08-06T14:17:57.903Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6874617422713931-fa2.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3567144285672854-fa1.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6874617422713931-fa2_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6874617422713931-fa2_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6874617422713931-fa2_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3567144285672854-fa1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3567144285672854-fa1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3567144285672854-fa1_high.jpg"
+			},
+			"searchContent": "FlowerAdvisor is a leading flowers and gifts e-commerce platform that delivers worldwide with seamless same-day or next-day delivery to over 100 countries, transforming moments into memories. They offer exquisite floral creations and gifts that embody care and thoughtfulness, ensuring every occasion is celebrated beautifully. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. ​​​​​​​ Flowers Florist Bouquet Gifts Christmas Hari Raya Valentine’S Day Hampers Mother’S Day Birthday Flower Delivery Flower Bouquet Flower Arrangement Christmas Hampers Hari Raya Hampers Valentine’S Day Flowers Mother’S Day Flowers Birthday Cake Birthday Gift Same Day Delivery International Florist International Flower Delivery Sympathy Flowers Anniversary Gifts Birthday Flowers Christmas Gifts Chinese New Year Chinese New Year Gifts Chinese New Year Hampers Roses Rose Bouquet Souvenirs Retail Home & Lifestyle Gifts & Souvenirs",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:51:24.320Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "floweradvisor-b121d7f1",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "FlowerAdvisor",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,165 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/embu-3fba3aaa",
+	"slug": "embu-3fba3aaa",
+	"fetchedAt": "2026-10-26T16:30:56.702+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6891abfe1685bc0453b9efc5",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.035,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 17.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Buffet",
+				"Buffet Dining",
+				"Local And International Delights",
+				"Weekend Brunch",
+				"Kidfriendly",
+				"Hotel Buffet",
+				"Hotel Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Marina bay Hotel Pte Ltd (trading as Mandarin Oriental Singapore) (embu)",
+			"brand": "embu",
+			"code": "EMB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "embu",
+			"address": {
+				"line1": "5 Raffles Avenue Singapore 039797",
+				"postalCode": "039797",
+				"streetName": "5 Raffles Avenue",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"KID"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.mandarinoriental.com/en/singapore/marina-bay/dine/embu",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Drawing inspiration from the majestic Tembusu, embu is an invitation to rediscover the joy of eating. A feast for your senses, embu presents a lavish spread of buffet selections featuring premium seafood, Indian and Asian specialities, wood-fired pizzas, barbeque delights, homemade desserts and a unique kid's buffer corner.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9019284073524276-Embu.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8275274920640618-15648270841587797-embu%20brand%20image_750px%20X%20540px.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9019284073524276-Embu.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8275274920640618-15648270841587797-embu%20brand%20image_750px%20X%20540px.jpg",
+			"createdAt": "2025-08-05T07:00:14.776Z",
+			"updatedAt": "2026-10-15T12:22:09.112Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9019284073524276-Embu_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9019284073524276-Embu_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9019284073524276-Embu_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:40:10.798Z",
+			"searchContent": "Drawing inspiration from the majestic Tembusu, embu is an invitation to rediscover the joy of eating. A feast for your senses, embu presents a lavish spread of buffet selections featuring premium seafood, Indian and Asian specialities, wood-fired pizzas, barbeque delights, homemade desserts and a unique kid's buffer corner. Buffet Buffet Dining Local And International Delights Weekend Brunch Kidfriendly Hotel Buffet Hotel Dining Dining Buffet Casual Dining Kid-Friendly",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "embu-3fba3aaa",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6891b034d327290455e0b49e",
+					"name": "Mandarin Oriental"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Mandarin Oriental"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "embu",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

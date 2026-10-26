@@ -1,0 +1,219 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/hipvan-99c2399f",
+	"slug": "hipvan-99c2399f",
+	"fetchedAt": "2026-10-26T16:27:17.708+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63857c4dae7b740f48f8e791",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": false,
+			"searchableKeywords": [
+				"Hipvan",
+				"Hipvan Gift Card",
+				"Hipvan Giftcard",
+				"Hipvan Voucher",
+				"Hipvan Singapore",
+				"Hipvan Promo Code",
+				"Hipvan Store",
+				"Hipvan Sale",
+				"Hipvan Furniture",
+				"Furniture",
+				"Online Furniture",
+				"Online Furniture Store",
+				"Furniture Singapore",
+				"Furniture Store",
+				"Furniture Shop",
+				"Furniture Gift Card",
+				"Furniture Giftcard",
+				"Outdoor Furniture",
+				"Wood Furniture",
+				"Sofa Bed",
+				"Tv Console",
+				"Sofa",
+				"Extendable Dining Table",
+				"Dining Table",
+				"Office Chair",
+				"Super Single Bed Frame",
+				"Bed Frame",
+				"Bedside Table",
+				"Bed",
+				"Beds",
+				"Kids Beds",
+				"Shoe Cabinet",
+				"Queen Size Bed",
+				"Coffee Table",
+				"Mattress",
+				"Shoe Rack",
+				"Appliances",
+				"Kitchen Appliances Cookware",
+				"Furnishings",
+				"Soft Furnishings",
+				"Bedlinen",
+				"Rugs",
+				"Lights",
+				"Lighting",
+				"Lamps",
+				"Pendant Light",
+				"Table Lamp",
+				"Floor Lamp",
+				"Home",
+				"Retail",
+				"Décor",
+				"Mirror",
+				"Mirrors",
+				"Cushions",
+				"Cushion",
+				"Clock",
+				"Clocks",
+				"Harvey Norman",
+				"Sealy",
+				"Simmons",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Homefurnishing"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "HipVan Pte Ltd",
+			"brand": "HipVan",
+			"code": "HIP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "HipVan",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "8 TEMASEK BOULEVARD   #15-04   SUNTEC TOWER THREE   SINGAPORE 038988",
+				"postalCode": "038988",
+				"streetName": "8 TEMASEK BOULEVARD   "
+			},
+			"regNumber": "201302975C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8444975925174498-025169409322092662-Brand%20Image%20App%20750x540.png",
+			"websiteUrl": "https://www.hipvan.com",
+			"descriptionHtml": "<p>#FindYourCosy with HipVan – Singapore’s leading online furniture\nstore at www.hipvan.com.\nShop from over 10,000 stylish designs on sofas, beds, dining sets, furnishings\nand more at honest prices.</p><p><br></p><p>\nEnjoy the convenience of online shopping or visit the HipVan Atelier Blk B\n#01-08, Clarke Quay Entrance Beside, Clarke Quay, Drop Off, 179021.</p><p><br></p><p>\nCreate your dream home today with HipVan.</p><p><br></p><p>\n<strong>Note:</strong> Payment via Kris+ directly on HipVan website is not available. Earn or\nredeem your miles on HipVan via purchase of Gift Cards only.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"promotional": "                         ",
+			"participatingOutlets": "                            ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/03370241316594225-HipVan%20Logo-whitelogo-tealbg.png",
+			"createdAt": "2022-11-29T03:28:13.548Z",
+			"updatedAt": "2026-08-06T14:17:38.549Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"ONLINE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95f034603c338929983"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/03370241316594225-HipVan%20Logo-whitelogo-tealbg_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/03370241316594225-HipVan%20Logo-whitelogo-tealbg_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/03370241316594225-HipVan%20Logo-whitelogo-tealbg_high.png"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8444975925174498-025169409322092662-Brand%20Image%20App%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/03370241316594225-HipVan%20Logo-whitelogo-tealbg.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8444975925174498-025169409322092662-Brand%20Image%20App%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8444975925174498-025169409322092662-Brand%20Image%20App%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8444975925174498-025169409322092662-Brand%20Image%20App%20750x540_high.png"
+			},
+			"searchContent": "#FindYourCosy with HipVan – Singapore’s leading online furniture store at www.hipvan.com. Shop from over 10,000 stylish designs on sofas, beds, dining sets, furnishings and more at honest prices. Enjoy the convenience of online shopping or visit the HipVan Atelier Blk B #01-08, Clarke Quay Entrance Beside, Clarke Quay, Drop Off, 179021. Create your dream home today with HipVan. Note: Payment via Kris+ directly on HipVan website is not available. Earn or redeem your miles on HipVan via purchase of Gift Cards only. Hipvan Hipvan Gift Card Hipvan Giftcard Hipvan Voucher Hipvan Singapore Hipvan Promo Code Hipvan Store Hipvan Sale Hipvan Furniture Furniture Online Furniture Online Furniture Store Furniture Singapore Furniture Store Furniture Shop Furniture Gift Card Furniture Giftcard Outdoor Furniture Wood Furniture Sofa Bed Tv Console Sofa Extendable Dining Table Dining Table Office Chair Super Single Bed Frame Bed Frame Bedside Table Bed Beds Kids Beds Shoe Cabinet Queen Size Bed Coffee Table Mattress Shoe Rack Appliances Kitchen Appliances Cookware Furnishings Soft Furnishings Bedlinen Rugs Lights Lighting Lamps Pendant Light Table Lamp Floor Lamp Home Retail Décor Mirror Mirrors Cushions Cushion Clock Clocks Harvey Norman Sealy Simmons Ruhens Grohe Hansgrohe Mayer Homefurnishing Retail Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-04-20T07:56:53.730Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "hipvan-99c2399f",
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "HipVan",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/la-brasserie-the-fullerton-bay-hotel-singapore-ceb6cc0a",
+	"slug": "la-brasserie-the-fullerton-bay-hotel-singapore-ceb6cc0a",
+	"fetchedAt": "2026-10-26T16:29:00.896+08:00",
+	"payload": {
+		"partner": {
+			"_id": "66cda356b4dd77006948069f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.044,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 8.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"French",
+				"Hote",
+				"L Fine Dining",
+				"Brunch",
+				"Set Menu",
+				"Cocktail"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Precious Quay Pte Ltd - La Brasserie",
+			"brand": "La Brasserie - The Fullerton Bay Hotel Singapore",
+			"code": "LBF",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "La Brasserie",
+			"address": {
+				"line1": "80 Collyer Quay Singapore 049326",
+				"postalCode": "049326",
+				"streetName": "80 Collyer Quay",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"KID",
+								"BD",
+								"EUR",
+								"FRE",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.fullertonhotels.com/fullerton-bay-hotel-singapore/dining/restaurants-and-bars/la-brasserie",
+			"descriptionHtml": "<p>Located in the heart of the Fullerton Heritage precinct, La Brasserie serves classic French bistro favourites in a sleek modern setting, alongside panoramic views of the Marina Bay waterfront. Seating options includes two spacious salons and a private room, all with 10-metre-high windows, and an al fresco terrace.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8780978633196022-La%20Brasserie%20Logo%201000x100.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8519615008617019-lab.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-08-27T09:58:46.072Z",
+			"updatedAt": "2026-09-09T01:19:02.478Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8780978633196022-La%20Brasserie%20Logo%201000x100_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8780978633196022-La%20Brasserie%20Logo%201000x100_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8780978633196022-La%20Brasserie%20Logo%201000x100_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8519615008617019-lab.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8780978633196022-La%20Brasserie%20Logo%201000x100.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8519615008617019-lab_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8519615008617019-lab_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8519615008617019-lab_high.jpg"
+			},
+			"searchContent": "Located in the heart of the Fullerton Heritage precinct, La Brasserie serves classic French bistro favourites in a sleek modern setting, alongside panoramic views of the Marina Bay waterfront. Seating options includes two spacious salons and a private room, all with 10-metre-high windows, and an al fresco terrace. French Hote L Fine Dining Brunch Set Menu Cocktail Dining Vegetarian-Friendly Fine Dining Kid-Friendly Beverages & Desserts European French Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:44:09.836Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "la-brasserie-the-fullerton-bay-hotel-singapore-ceb6cc0a",
+			"outlets": [
+				{
+					"_id": "66ce8e30ec7acc0069820883",
+					"name": "Fullerton Bay Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fullerton Bay Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "La Brasserie - The Fullerton Bay Hotel Singapore",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

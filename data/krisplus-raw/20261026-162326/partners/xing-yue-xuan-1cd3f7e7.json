@@ -1,0 +1,199 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/xing-yue-xuan-1cd3f7e7",
+	"slug": "xing-yue-xuan-1cd3f7e7",
+	"fetchedAt": "2026-10-26T16:31:49.238+08:00",
+	"payload": {
+		"partner": {
+			"_id": "691bda781ebfbaf52f12791e",
+			"name": "JUMBO GROUP OF RESTAURANTS PTE LTD (Xing Yue Xuan)",
+			"shortName": "Xing Yue Xuan",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Xing Yue Xuan",
+			"code": "XYX",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6614958403501527-XingYueXuan.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6291726931335806-4914604923074519-DongBo%20Pork%20Belly%20750X540.jpg",
+			"websiteUrl": "https://www.xingyuexuan.com.sg",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "26 Tai Seng Street #08-01",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng Street #08-01",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Xing Yue Xuan is JUMBO Group of Restaurants’ first premium Cantonese concept, located at WEAVE, Resorts World Sentosa. It reimagines timeless Cantonese culinary artistry through refined tasting menus, executive set lunches, and an à la carte menu featuring live seafood, handcrafted dim sum, and luxurious delicacies like Xing Yue Xuan Fuss-Free Crab and Dong Po Pork Belly in Hakka Style. Housed in an elegant, Chao Shan-inspired space with five private dining rooms, it offers an intimate and elevated dining experience.</p>",
+			"searchableKeywords": [
+				"Xing Yue Xuan",
+				"Jumbo premium",
+				"jumbo seafood",
+				"asian food",
+				"chilli crab",
+				"chili crab",
+				"prawn",
+				"seafood",
+				"best seafood",
+				"seafood restaurant",
+				"restaurant",
+				"lobster",
+				"alaskan crab",
+				"chinese",
+				"chinese restaurant",
+				"gathering",
+				"family",
+				"celebrations",
+				"set menu",
+				"tasting menu",
+				"live seafood",
+				"dim sum",
+				"fine dining",
+				"rws",
+				"resorts world Sentosa",
+				"Cantonese food",
+				"Chinese food",
+				"Sentosa",
+				"RWS Chinese",
+				"Sentosa Chinese",
+				"RWS Seafood",
+				"Sentosa Seafood",
+				"RWS Dim Sum",
+				"Sentosa Dim Sum",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 6,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 4.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR4",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"KID",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 180,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-09-23T08:27:27.306Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6614958403501527-XingYueXuan.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6291726931335806-4914604923074519-DongBo%20Pork%20Belly%20750X540.jpg",
+			"createdAt": "2025-11-18T02:31:20.838Z",
+			"updatedAt": "2026-10-15T12:22:28.973Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6291726931335806-4914604923074519-DongBo%20Pork%20Belly%20750X540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6291726931335806-4914604923074519-DongBo%20Pork%20Belly%20750X540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6291726931335806-4914604923074519-DongBo%20Pork%20Belly%20750X540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6614958403501527-XingYueXuan_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6614958403501527-XingYueXuan_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6614958403501527-XingYueXuan_high.jpg"
+			},
+			"searchContent": "Xing Yue Xuan is JUMBO Group of Restaurants’ first premium Cantonese concept, located at WEAVE, Resorts World Sentosa. It reimagines timeless Cantonese culinary artistry through refined tasting menus, executive set lunches, and an à la carte menu featuring live seafood, handcrafted dim sum, and luxurious delicacies like Xing Yue Xuan Fuss-Free Crab and Dong Po Pork Belly in Hakka Style. Housed in an elegant, Chao Shan-inspired space with five private dining rooms, it offers an intimate and elevated dining experience. Xing Yue Xuan Jumbo premium jumbo seafood asian food chilli crab chili crab prawn seafood best seafood seafood restaurant restaurant lobster alaskan crab chinese chinese restaurant gathering family celebrations set menu tasting menu live seafood dim sum fine dining rws resorts world Sentosa Cantonese food Chinese food Sentosa RWS Chinese Sentosa Chinese RWS Seafood Sentosa Seafood RWS Dim Sum Sentosa Dim Sum Dining Fine Dining Kid-Friendly Chinese Asian",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "xing-yue-xuan-1cd3f7e7",
+			"outlets": [
+				{
+					"_id": "691bdc06d7d9d385a1c9e544",
+					"name": "Resorts World Sentosa WEAVE"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Resorts World Sentosa WEAVE"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Xing Yue Xuan",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

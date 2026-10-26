@@ -1,0 +1,219 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/paradise-classic-823f215c",
+	"slug": "paradise-classic-823f215c",
+	"fetchedAt": "2026-10-26T16:26:49.668+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62f7ba739737c23198263de2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese",
+				"Cuisine",
+				"Local",
+				"Jewel",
+				"Changi Airport",
+				"Marina Bay Link Mall",
+				"City Hall",
+				"Resorts World Sentosa",
+				"Dining",
+				"Parkway Parade",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Mooncake",
+				"paradise",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Paradise Classic",
+			"brand": "Paradise Classic",
+			"code": "CLP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Paradise C",
+			"address": {
+				"line1": "91 Defu Lane 10 #07-00 Mandarin Self Storage Singapore 539221",
+				"postalCode": "539221",
+				"streetName": "91 Defu Lane",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201010333R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8873307925185634-Paradise%20Classic.jpg",
+			"websiteUrl": "https://www.paradisegp.com/brand-paradise-classic/",
+			"descriptionHtml": "<p><html>\n    <body>\n    <!--StartFragment--><span data-teams=\"true\"><p><span style=\"font-size: inherit;\">Paradise Classic brings people together through the heartwarming comfort of Zi Char dishes. Every dish captures the essence of Singaporean and Malaysian flavours, expertly elevating them through traditional cooking techniques that are infused with wok hei — the distinct smoky aroma imparted through stir-frying over high heat.  </span></p><p> </p><p><span style=\"font-size: inherit;\">Whether it’s a sizzling plate of stir-fried seafood, tender meats, or vibrant vegetables, every dish is prepared with care and passion, bringing the best of both Singapore and Malaysia to your table.</span></p></span><!--EndFragment-->\n    </body>\n    </html></p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n    <li>Bedok Mall</li>\n    <li>Jewel Changi Airport</li>\n    <li>Marina Bay Link Mall</li>\n    <li>One Holland Village</li>\n    <li>Parkway Parade</li>\n    <li>Pasir Ris Mall</li>\n    <li>Punggol Coast Mall</li>\n    <li>Woodleigh Mall</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR3",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.015,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"promotional": "          ",
+			"participatingOutlets": "•\tBedok Mall\n•\tJewel Changi Airport\n•\tMarina Bay Link Mall\n•\tResorts World Sentosa",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6279850805976306-1706628749344412-Classic%20Kris%20Pic%201000%20x%201000.jpg",
+			"createdAt": "2022-08-13T14:51:31.589Z",
+			"updatedAt": "2026-08-06T14:17:34.625Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef970595add2492446442"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 8
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8873307925185634-Paradise%20Classic.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6279850805976306-1706628749344412-Classic%20Kris%20Pic%201000%20x%201000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8873307925185634-Paradise%20Classic_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8873307925185634-Paradise%20Classic_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8873307925185634-Paradise%20Classic_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6279850805976306-1706628749344412-Classic%20Kris%20Pic%201000%20x%201000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6279850805976306-1706628749344412-Classic%20Kris%20Pic%201000%20x%201000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6279850805976306-1706628749344412-Classic%20Kris%20Pic%201000%20x%201000_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T02:01:24.159Z",
+			"searchContent": "Paradise Classic brings people together through the heartwarming comfort of Zi Char dishes. Every dish captures the essence of Singaporean and Malaysian flavours, expertly elevating them through traditional cooking techniques that are infused with wok hei — the distinct smoky aroma imparted through stir-frying over high heat. Whether it’s a sizzling plate of stir-fried seafood, tender meats, or vibrant vegetables, every dish is prepared with care and passion, bringing the best of both Singapore and Malaysia to your table. Participating Outlets: Bedok Mall Jewel Changi Airport Marina Bay Link Mall One Holland Village Parkway Parade Pasir Ris Mall Punggol Coast Mall Woodleigh Mall Chinese Cuisine Local Jewel Changi Airport Marina Bay Link Mall City Hall Resorts World Sentosa Dining Parkway Parade Reunion Business Corporate Dining Working Lunch Networking Mooncake paradise Dining Chinese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "paradise-classic-823f215c",
+			"outlets": [
+				{
+					"_id": "62f91ff142de063c902ea237",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "62f9202c42de063c902ea239",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "62f9206e42de063c902ea23b",
+					"name": "Marina Bay Link Mall"
+				},
+				{
+					"_id": "64522078e7c984005c1d0149",
+					"name": "Woodleigh Mall"
+				},
+				{
+					"_id": "64b6e36f45f91e00555ac49a",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "658cf3fd2b7f08004ec9386b",
+					"name": "One Holland Village"
+				},
+				{
+					"_id": "665691104b0e6900682643da",
+					"name": "Pasir Ris Mall"
+				},
+				{
+					"_id": "67d2b7d5b567e40414c605af",
+					"name": "Punggol Coast Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bedok Mall",
+			"Jewel Changi Airport",
+			"Marina Bay Link Mall",
+			"Woodleigh Mall",
+			"Parkway Parade",
+			"One Holland Village",
+			"Pasir Ris Mall",
+			"Punggol Coast Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Paradise Classic",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

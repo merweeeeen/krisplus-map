@@ -1,0 +1,209 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sri-murugan-7a4b6c82",
+	"slug": "sri-murugan-7a4b6c82",
+	"fetchedAt": "2026-10-26T16:27:36.768+08:00",
+	"payload": {
+		"partner": {
+			"_id": "641805b100d00b00521966ba",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.034,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Indian Grocery",
+				"Grocery",
+				"Supermarket",
+				"Spices",
+				"Indian",
+				"Masalas",
+				"Indian Supermarket",
+				"Vegetables",
+				"Household",
+				"Sri Murugan",
+				"Murugan",
+				"Retail"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "SRI MURUGAN TRADING PTE. LTD.",
+			"brand": "Sri Murugan",
+			"code": "SMP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5411",
+			"shortName": "Sri Murugan",
+			"address": {
+				"line1": "5 Second Chin Bee, Singapore-618772",
+				"postalCode": "618772",
+				"streetName": "5 Second Chin Bee",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "200414740H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5944288494289574-9786032012461818-BRANDIMAGE750X540.jpg",
+			"websiteUrl": "https://www.srimurugantrading.com.sg/index.php",
+			"descriptionHtml": "<p>Sri Murugan Trading Pte Ltd is a leading retailer in Singapore offering a variety of premium quality Indian groceries, vegetables, and consumer products under a single roof. Quality products like Ponni Rice, Idly Rice, Raw Rice, Indian Dhalls, Spices, Masala powders, Appalam, Tamarind, Vadams and Tasty Pickles are available under their brand.</p>  <p>Participating outlets:</p>  <p>Sri Murugan Plus:<br> •    Eastpoint Mall<br> •    GV Yishun<br>  •    Rivervale Mall<br> •    Jurong East</p>  <p>Sri Murugan Direct Outlet:<br> •    Blk 283 Bukit Batok </p>  <p>Sri Murugan Fresh Mart:<br> •    Blk 276 Bukit Batok </p>",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3805996831619165-3816629123583606-BRANDLOGO1000X1000.jpg",
+			"createdAt": "2023-03-20T07:05:21.487Z",
+			"updatedAt": "2026-09-14T06:46:21.835Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GROC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef951b3267e313a36e14e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 7
+				}
+			],
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5944288494289574-9786032012461818-BRANDIMAGE750X540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3805996831619165-3816629123583606-BRANDLOGO1000X1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5944288494289574-9786032012461818-BRANDIMAGE750X540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5944288494289574-9786032012461818-BRANDIMAGE750X540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5944288494289574-9786032012461818-BRANDIMAGE750X540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3805996831619165-3816629123583606-BRANDLOGO1000X1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3805996831619165-3816629123583606-BRANDLOGO1000X1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3805996831619165-3816629123583606-BRANDLOGO1000X1000_high.jpg"
+			},
+			"searchContent": "Sri Murugan Trading Pte Ltd is a leading retailer in Singapore offering a variety of premium quality Indian groceries, vegetables, and consumer products under a single roof. Quality products like Ponni Rice, Idly Rice, Raw Rice, Indian Dhalls, Spices, Masala powders, Appalam, Tamarind, Vadams and Tasty Pickles are available under their brand. Participating outlets: Sri Murugan Plus: • Eastpoint Mall • GV Yishun • Rivervale Mall • Jurong East Sri Murugan Direct Outlet: • Blk 283 Bukit Batok Sri Murugan Fresh Mart: • Blk 276 Bukit Batok Indian Grocery Grocery Supermarket Spices Indian Masalas Indian Supermarket Vegetables Household Sri Murugan Murugan Retail Retail Groceries",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-26T00:50:39.791Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sri-murugan-7a4b6c82",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6420fed44777ab0052218c0d",
+					"name": "Bukit Batok"
+				},
+				{
+					"_id": "6420ff314777ab0052218c7b",
+					"name": "Bukit Batok (Fresh Mart)"
+				},
+				{
+					"_id": "6420ff966ca6680056a6bb73",
+					"name": "Eastpoint Mall"
+				},
+				{
+					"_id": "642100004a51150052c1648b",
+					"name": "GV Yishun"
+				},
+				{
+					"_id": "64210173f600ea00528acc92",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "642101e99cb46d0052e566f4",
+					"name": "Rivervale Mall"
+				},
+				{
+					"_id": "6752a00217c8a40073307223",
+					"name": "Bayshore Park"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bukit Batok",
+			"Bukit Batok (Fresh Mart)",
+			"Eastpoint Mall",
+			"GV Yishun",
+			"Jurong Point",
+			"Rivervale Mall",
+			"Bayshore Park"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sri Murugan",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

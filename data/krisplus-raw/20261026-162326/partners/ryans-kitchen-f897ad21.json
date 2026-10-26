@@ -1,0 +1,197 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ryans-kitchen-f897ad21",
+	"slug": "ryans-kitchen-f897ad21",
+	"fetchedAt": "2026-10-26T16:26:21.477+08:00",
+	"payload": {
+		"partner": {
+			"_id": "629f1436f92f1717642a2c11",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Healthy",
+				"Sustainable",
+				"Steak",
+				"Beef",
+				"Pork",
+				"Lamb",
+				"Sausages",
+				"Burgers",
+				"Pasta",
+				"Tomahawk",
+				"Glutenfree",
+				"Preservativefree",
+				"Organic",
+				"Carbon Neutral",
+				"Conscious",
+				"Grocery",
+				"Fresh",
+				"Australian",
+				"Farm To Table",
+				"Great World",
+				"River Valley",
+				"Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "RYANS GROCERY (GWC) PTE LTD",
+			"brand": "Ryan's Kitchen",
+			"code": "RYK",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Ryan's Kitchen",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "100G Pasir Panjang Road #06-23 Interlocal Centre Singapore 118523",
+				"postalCode": "118523",
+				"streetName": "100G Pasir Panjang Road"
+			},
+			"regNumber": "201921611Z",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9914805104515936-8722569790971348-RK%20Kris%2B%20App%20Brand%20Image%20750x540.png",
+			"websiteUrl": "https://www.ryanskitchensg.com/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Ryan's%20Kitchen\"><u>Reserve A Table</u>.</a></em><br>\n<br>\nTheir Australian-style kitchen serves a delightful menu prepared with quality produce as well as organic, gluten-free and preservation-free products. Comprising a delectable all-day menu, expect a range of wholesome salads, hearty breakfasts as well as sumptuous, healthy, organic and carbon-neutral meats. Eat well, eat better, eat consciously.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/12866322392530205-9173391619843867-RK%20Kris%2B%20App%20Brand%20Logo%201000x1000.png",
+			"createdAt": "2022-06-07T09:02:46.834Z",
+			"updatedAt": "2026-08-06T14:17:31.909Z",
+			"earnRates": {
+				"amountBlock": 3,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 0,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0.5
+				},
+				"saleOfMiles": 0.015,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 1,
+				"calculatedMilesEarnRate": 0.33,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "Great World",
+			"promotional": "     ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97f2f71c855d5496e31"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9914805104515936-8722569790971348-RK%20Kris%2B%20App%20Brand%20Image%20750x540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12866322392530205-9173391619843867-RK%20Kris%2B%20App%20Brand%20Logo%201000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9914805104515936-8722569790971348-RK%20Kris%2B%20App%20Brand%20Image%20750x540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9914805104515936-8722569790971348-RK%20Kris%2B%20App%20Brand%20Image%20750x540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9914805104515936-8722569790971348-RK%20Kris%2B%20App%20Brand%20Image%20750x540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12866322392530205-9173391619843867-RK%20Kris%2B%20App%20Brand%20Logo%201000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12866322392530205-9173391619843867-RK%20Kris%2B%20App%20Brand%20Logo%201000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12866322392530205-9173391619843867-RK%20Kris%2B%20App%20Brand%20Logo%201000x1000_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. Their Australian-style kitchen serves a delightful menu prepared with quality produce as well as organic, gluten-free and preservation-free products. Comprising a delectable all-day menu, expect a range of wholesome salads, hearty breakfasts as well as sumptuous, healthy, organic and carbon-neutral meats. Eat well, eat better, eat consciously. Healthy Sustainable Steak Beef Pork Lamb Sausages Burgers Pasta Tomahawk Glutenfree Preservativefree Organic Carbon Neutral Conscious Grocery Fresh Australian Farm To Table Great World River Valley Dining Dining Casual Dining Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T09:51:58.796Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ryans-kitchen-f897ad21",
+			"outlets": [
+				{
+					"_id": "629fd705f164452778359547",
+					"name": "Great World"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Great World"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 3,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Ryan's Kitchen",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 3 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

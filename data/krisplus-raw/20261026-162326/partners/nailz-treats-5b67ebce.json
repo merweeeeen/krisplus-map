@@ -1,0 +1,191 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/nailz-treats-5b67ebce",
+	"slug": "nailz-treats-5b67ebce",
+	"fetchedAt": "2026-10-26T16:28:32.695+08:00",
+	"payload": {
+		"partner": {
+			"_id": "65d87ac140466d005b1aeb67",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Nails",
+				"Nail Art",
+				"Beauty",
+				"Eyelash Extension"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"65d87acbfe1fd276f17e2736"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "NAILZ TREATS PTE LTD",
+			"brand": "Nailz Treats",
+			"code": "NPT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Nailz Treats",
+			"address": {
+				"city": "Singapore",
+				"line1": "80 CHANGI ROAD, CENTROPOD at CHANG, 03-16 SINGAPORE 419715",
+				"streetName": "80 CHANGI ROAD, CENTROPOD",
+				"postalCode": "419715",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.facebook.com/NailzTreats/",
+			"descriptionHtml": "<p>With your wellness in mind, Nailz Treats prioritises making your self-care journey a safe and healthy one. Using non-toxic and vegan certified products in stores, practising conscious beauty while keeping yourself in style has never been so accessible. With 6 convenient locations islandwide, your next feel-good routine is just a step away.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Bedok Mall</li>\n\t<li>Clementi Mall</li>\n\t<li>Funan Mall</li>\n\t<li>ION Orchard</li>\n\t<li>One Holland Village</li>\n\t<li>Vivocity</li>\n</ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/10758431808462166-29625041089657733-brand%20logo%20app%201000%20x%201000%20(003).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/12730431224421368-29557718381914366-brand%20image%20app%20750%20x%20540%20(002).png",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR6",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 7
+				}
+			],
+			"createdAt": "2024-02-23T11:00:18.008Z",
+			"updatedAt": "2026-08-06T14:17:59.580Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/12730431224421368-29557718381914366-brand%20image%20app%20750%20x%20540%20(002).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10758431808462166-29625041089657733-brand%20logo%20app%201000%20x%201000%20(003).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/12730431224421368-29557718381914366-brand%20image%20app%20750%20x%20540%20(002)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/12730431224421368-29557718381914366-brand%20image%20app%20750%20x%20540%20(002)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/12730431224421368-29557718381914366-brand%20image%20app%20750%20x%20540%20(002)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10758431808462166-29625041089657733-brand%20logo%20app%201000%20x%201000%20(003)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10758431808462166-29625041089657733-brand%20logo%20app%201000%20x%201000%20(003)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10758431808462166-29625041089657733-brand%20logo%20app%201000%20x%201000%20(003)_high.png"
+			},
+			"searchContent": "With your wellness in mind, Nailz Treats prioritises making your self-care journey a safe and healthy one. Using non-toxic and vegan certified products in stores, practising conscious beauty while keeping yourself in style has never been so accessible. With 6 convenient locations islandwide, your next feel-good routine is just a step away. Participating Outlets: Bedok Mall Clementi Mall Funan Mall ION Orchard One Holland Village Vivocity Nails Nail Art Beauty Eyelash Extension Services Personal Care",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:15:58.575Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "nailz-treats-5b67ebce",
+			"outlets": [
+				{
+					"_id": "65dc542aa18aef0052d8ea7e",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "65dc549fb4dfc700531508b5",
+					"name": "The Clementi Mall"
+				},
+				{
+					"_id": "65dc5c1955c3e7005359af2f",
+					"name": "Funan Mall"
+				},
+				{
+					"_id": "65dc5c97241ebd0058fd6955",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "65dc5d04fb3d8100536b23f3",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "65dc5d90241ebd0058fd6ad2",
+					"name": "One Holland Village"
+				},
+				{
+					"_id": "65e191089cfbb60069418462",
+					"name": "Bedok Mall (Plus)"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bedok Mall",
+			"The Clementi Mall",
+			"Funan Mall",
+			"VivoCity",
+			"ION Orchard",
+			"One Holland Village",
+			"Bedok Mall (Plus)"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Nailz Treats",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

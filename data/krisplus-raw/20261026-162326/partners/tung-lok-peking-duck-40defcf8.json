@@ -1,0 +1,194 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tung-lok-peking-duck-40defcf8",
+	"slug": "tung-lok-peking-duck-40defcf8",
+	"fetchedAt": "2026-10-26T16:26:34.579+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e8bd399806fb2ea0dda7c6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Chinese",
+				"Food",
+				"Chinese Cuisine",
+				"Tunglok Peking Duck",
+				"Local",
+				"Seafood",
+				"Duck",
+				"Dining",
+				"Orchard Central",
+				"Tourist",
+				"Somerset",
+				"Velocity",
+				"Novena Square",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Mooncake",
+				"tung lok",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "TUNG LOK PEKING DUCK",
+			"brand": "TUNG LOK PEKING DUCK",
+			"code": "PEK",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "PEKING DUCK",
+			"address": {
+				"line1": "26 Tai Seng St, #02-01, Singapore 534057 ",
+				"postalCode": "534057",
+				"streetName": "26 Tai Seng St",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201204450W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/45113251644129937-Tung%20Lok%20Peking%20Duck.png",
+			"websiteUrl": "https://www.tunglokpekingduck.com/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\"><u>Reserve A Table</u>.</a></em><br />\n<br />\n​​​​​​​TungLok Peking Duck offers a delectable spread of premium Chinese cuisine reinterpreted for the modern era.</p>\n\n<p>The brand is proud to be the First in Singapore to serve the famed Irish Duck from Silver Hill Farm traditional Peking style.</p>\n\n<p>Participating Outlets:</p>\n\n<ul>\n\t<li>Orchard Central</li>\n\t<li>Velocity @ Novena Square</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR4",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "             ",
+			"participatingOutlets": "•\tOrchard Central \n•\tThe Grandstand",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8935755808244832-5440096592885999-Brand%20Logo10.jpg",
+			"createdAt": "2022-08-02T05:59:21.440Z",
+			"updatedAt": "2026-08-06T14:17:33.920Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef975b35256c5b2c9bedd"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/45113251644129937-Tung%20Lok%20Peking%20Duck.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8935755808244832-5440096592885999-Brand%20Logo10.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/45113251644129937-Tung%20Lok%20Peking%20Duck_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/45113251644129937-Tung%20Lok%20Peking%20Duck_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/45113251644129937-Tung%20Lok%20Peking%20Duck_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8935755808244832-5440096592885999-Brand%20Logo10_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8935755808244832-5440096592885999-Brand%20Logo10_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8935755808244832-5440096592885999-Brand%20Logo10_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​TungLok Peking Duck offers a delectable spread of premium Chinese cuisine reinterpreted for the modern era. The brand is proud to be the First in Singapore to serve the famed Irish Duck from Silver Hill Farm traditional Peking style. Participating Outlets: Orchard Central Velocity @ Novena Square Chinese Food Chinese Cuisine Tunglok Peking Duck Local Seafood Duck Dining Orchard Central Tourist Somerset Velocity Novena Square Reunion Business Corporate Dining Working Lunch Networking Mooncake tung lok Dining Chinese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-15T06:41:31.041Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tung-lok-peking-duck-40defcf8",
+			"outlets": [
+				{
+					"_id": "62e8bf67e82b3a02c48df52d",
+					"name": "Orchard Central"
+				},
+				{
+					"_id": "6329e2392215a8438060e53e",
+					"name": "Velocity @ Novena Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Orchard Central",
+			"Velocity @ Novena Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TUNG LOK PEKING DUCK",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

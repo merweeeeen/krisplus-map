@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-dempsey-cookhouse-bar-7be02989",
+	"slug": "the-dempsey-cookhouse-bar-7be02989",
+	"fetchedAt": "2026-10-26T16:29:54.868+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67cfb266ac17b40418787484",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 7,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16.1
+				},
+				"saleOfMiles": 0.023,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 9,
+				"calculatedMilesEarnRate": 9,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bar",
+				"Western",
+				"Asian",
+				"Pizza",
+				"Cocktails",
+				"Wine",
+				"Champagne",
+				"Steak",
+				"Seafood",
+				"Brunch",
+				"Dinner"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "The Dempsey Cookhouse & Bar Pte Ltd",
+			"brand": "The Dempsey Cookhouse & Bar",
+			"code": "DCH",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "The Dempsey CH",
+			"address": {
+				"city": "Singapore",
+				"line1": "6B ORANGE GROVE ROAD",
+				"streetName": "COMO HOUSE",
+				"postalCode": "258332",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"VEG"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"KID",
+								"QBS",
+								"BD",
+								"WES",
+								"EUR"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"websiteUrl": "https://www.comodempsey.sg/restaurant/the-dempsey-cookhouse-and-bar",
+			"descriptionHtml": "<p>World-renowned Chef Jean-Georges Vongerichten brings his visionary touch to The Dempsey Cookhouse and Bar, his Singapore flagship at COMO Dempsey. The menu features his signature Asian-inspired European cuisine, blending creative flavours with fresh, locally-sourced ingredients for a dining experience that enlivens the senses. </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5186705793829371-The%20Dempsey%20Cookhouse%20and%20Bar%20Logo_260x260px.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/41007909446545887-73982111470055-The%20Dempsey%20Cookhouse%20and%20Bar%20Brand%20Image_750x540px.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5186705793829371-The%20Dempsey%20Cookhouse%20and%20Bar%20Logo_260x260px.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/41007909446545887-73982111470055-The%20Dempsey%20Cookhouse%20and%20Bar%20Brand%20Image_750x540px.png",
+			"createdAt": "2025-03-11T03:47:50.799Z",
+			"updatedAt": "2026-08-06T14:18:12.806Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/41007909446545887-73982111470055-The%20Dempsey%20Cookhouse%20and%20Bar%20Brand%20Image_750x540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/41007909446545887-73982111470055-The%20Dempsey%20Cookhouse%20and%20Bar%20Brand%20Image_750x540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/41007909446545887-73982111470055-The%20Dempsey%20Cookhouse%20and%20Bar%20Brand%20Image_750x540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5186705793829371-The%20Dempsey%20Cookhouse%20and%20Bar%20Logo_260x260px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5186705793829371-The%20Dempsey%20Cookhouse%20and%20Bar%20Logo_260x260px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5186705793829371-The%20Dempsey%20Cookhouse%20and%20Bar%20Logo_260x260px_high.png"
+			},
+			"searchContent": "World-renowned Chef Jean-Georges Vongerichten brings his visionary touch to The Dempsey Cookhouse and Bar, his Singapore flagship at COMO Dempsey. The menu features his signature Asian-inspired European cuisine, blending creative flavours with fresh, locally-sourced ingredients for a dining experience that enlivens the senses. Bar Western Asian Pizza Cocktails Wine Champagne Steak Seafood Brunch Dinner Dining Vegetarian-Friendly Kid-Friendly Quick Bites & Snacks Beverages & Desserts Western European",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.210Z",
+			"slugId": "the-dempsey-cookhouse-bar-7be02989",
+			"outlets": [
+				{
+					"_id": "67cfb474a1ac08041096c5da",
+					"name": "Dempsey Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Dempsey Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 9,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Dempsey Cookhouse & Bar",
+		"earnBadge": "Earn 9 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,178 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/tajimaya-yakiniku-d365279f",
+	"slug": "tajimaya-yakiniku-d365279f",
+	"fetchedAt": "2026-10-26T16:26:43.600+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62e9eba05eae3716fce5e96e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Yakiniku",
+				"Sake",
+				"Shochu",
+				"Grill",
+				"Japanese",
+				"Meat",
+				"Dining",
+				"Great World",
+				"Vivocity",
+				"Harbourfront"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "TAJIMAYA YAKINIKU PTE LTD",
+			"brand": "Tajimaya Yakiniku",
+			"code": "TJY",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Tajimaya",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "211 HENDERSON ROAD, #05-03",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON ROAD"
+			},
+			"regNumber": "201818343H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/837873133238493-5192735752287738-750540Brand.jpg",
+			"websiteUrl": "https://www.tajimaya.com.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Tajimaya%20Yakiniku\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>​​​​​​​At Tajimaya, you can expect an authentic Japanese charcoal grill experience like no other. The restaurant offers a fun and interactive ‘hands-on cooking’ and dining experience by allowing you to grill delectable meats at your very own table.</p>  <p>No Yakiniku experience can be complete without Sake and Shochu; Tajimaya boasts a wide range of the finest quality drinks to complete your meal.</p>  <p>Participating Outlets:</p>  <p>•    Great World<br> </p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "                 ",
+			"participatingOutlets": "•\tGreat World\n•\tVivoCity",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3218843862567131-7828636192657552-10001000Tajimaya_logo.jpg",
+			"createdAt": "2022-08-03T03:29:36.128Z",
+			"updatedAt": "2026-09-11T09:58:56.362Z",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef972b35256c5b2c9beda"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/837873133238493-5192735752287738-750540Brand.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3218843862567131-7828636192657552-10001000Tajimaya_logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/837873133238493-5192735752287738-750540Brand_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/837873133238493-5192735752287738-750540Brand_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/837873133238493-5192735752287738-750540Brand_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3218843862567131-7828636192657552-10001000Tajimaya_logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3218843862567131-7828636192657552-10001000Tajimaya_logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3218843862567131-7828636192657552-10001000Tajimaya_logo_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​At Tajimaya, you can expect an authentic Japanese charcoal grill experience like no other. The restaurant offers a fun and interactive ‘hands-on cooking’ and dining experience by allowing you to grill delectable meats at your very own table. No Yakiniku experience can be complete without Sake and Shochu; Tajimaya boasts a wide range of the finest quality drinks to complete your meal. Participating Outlets: • Great World Yakiniku Sake Shochu Grill Japanese Meat Dining Great World Vivocity Harbourfront Dining Casual Dining Japanese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-11T01:27:20.973Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "tajimaya-yakiniku-d365279f",
+			"outlets": [
+				{
+					"_id": "62eb8dd79ec6f1134485f5ef",
+					"name": "Great World"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Great World"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Tajimaya Yakiniku",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ippoh-tempura-bar-by-ginza-ippoh-20b07da9",
+	"slug": "ippoh-tempura-bar-by-ginza-ippoh-20b07da9",
+	"fetchedAt": "2026-10-26T16:29:58.797+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67cfd4ecfec6950411efc2a4",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 13.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Japanese",
+				"Dining",
+				"Tempura",
+				"Sake",
+				"Wine",
+				"Cocktail",
+				"Somen",
+				"Seafood"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "COMO Lifestyle Pte Ltd (Ippoh Tempura Bar)",
+			"brand": "Ippoh Tempura Bar by Ginza Ippoh",
+			"code": "ITB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Ippoh Tempura",
+			"address": {
+				"city": "Singapore",
+				"line1": "6B ORANGE GROVE ROAD",
+				"streetName": "COMO HOUSE",
+				"postalCode": "258332",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"QBS",
+								"BD",
+								"JAP"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.comodempsey.sg/restaurant/ippoh-tempura-bar-by-ginza-ippoh",
+			"descriptionHtml": "<p>Ippoh, Osaka’s oldest premium tempura restaurant, has won the hearts and taste buds of diners around the world for over 150 years with its heritage Osaka-style tempura. At Ippoh Tempura Bar by Ginza Ippoh, its first Southeast Asian outpost at COMO Dempsey, diners can look forward to the same refined tempura prepared according to culinary traditions dating back to 1850.  </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3390241564035319-Ippoh%20Logo_260x260px.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/07286826994378037-16657349776558195-Ippoh%20Brand%20Image_750x540px.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3390241564035319-Ippoh%20Logo_260x260px.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07286826994378037-16657349776558195-Ippoh%20Brand%20Image_750x540px.png",
+			"createdAt": "2025-03-11T06:15:08.933Z",
+			"updatedAt": "2026-10-15T12:22:16.021Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07286826994378037-16657349776558195-Ippoh%20Brand%20Image_750x540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07286826994378037-16657349776558195-Ippoh%20Brand%20Image_750x540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07286826994378037-16657349776558195-Ippoh%20Brand%20Image_750x540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3390241564035319-Ippoh%20Logo_260x260px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3390241564035319-Ippoh%20Logo_260x260px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3390241564035319-Ippoh%20Logo_260x260px_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:56:00.013Z",
+			"searchContent": "Ippoh, Osaka’s oldest premium tempura restaurant, has won the hearts and taste buds of diners around the world for over 150 years with its heritage Osaka-style tempura. At Ippoh Tempura Bar by Ginza Ippoh, its first Southeast Asian outpost at COMO Dempsey, diners can look forward to the same refined tempura prepared according to culinary traditions dating back to 1850. Japanese Dining Tempura Sake Wine Cocktail Somen Seafood Dining Quick Bites & Snacks Beverages & Desserts Japanese",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ippoh-tempura-bar-by-ginza-ippoh-20b07da9",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "67cfd62abfd3f10410fef9a9",
+					"name": "Dempsey Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Dempsey Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Ippoh Tempura Bar by Ginza Ippoh",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

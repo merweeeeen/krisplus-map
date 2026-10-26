@@ -1,0 +1,219 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/drspa-0dc00aa2",
+	"slug": "drspa-0dc00aa2",
+	"fetchedAt": "2026-10-26T16:24:41.036+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6018b4a03ae09b21fcae54ce",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "DrSpa - CLS International Marketing Private Limited",
+			"brand": "DrSpa",
+			"code": "SPA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "DrSpa",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "100H Pasir Panjang Road, #06-01",
+				"postalCode": "118524",
+				"streetName": "OC Pasir Panjang"
+			},
+			"regNumber": "20020394M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6833225534515057-app_brand%20(1).jpg",
+			"websiteUrl": "https://drgl.com/store-locator/",
+			"descriptionHtml": "<p>​​​​​​​Amplify your DrGL<sup>®</sup> skincare routine with treatments customised for you at DrSpa<sup>®</sup>. Clinical Solutions combine exclusive DrGL<sup>®</sup> professional formulations with curated protocols for treatments that yield optimal, long-lasting results.</p>  <ul> <br></ul>",
+			"countryCode": "SG",
+			"mccDescription": "undefined",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/18254270931116157-app_logo%20(1).jpg",
+			"createdAt": "2021-02-02T02:10:40.690Z",
+			"updatedAt": "2026-08-06T14:17:13.776Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "orchardgateway\n277 Orchard Road, B1-07\nSingapore 238858\n\nPalais Renaissance\n390 Orchard Road, 03-04\nSingapore 238871",
+			"promotional": "Treatments for face and body for optimal and long-lasting results.",
+			"searchableKeywords": [
+				"Orchard",
+				"City",
+				"Town",
+				"Central",
+				"Beauty",
+				"Spa",
+				"Face",
+				"Skin",
+				"Skincare",
+				"Repair",
+				"Rejuvenate",
+				"Anti Aging",
+				"Glowing Skin",
+				"Hydrating",
+				"Facelift",
+				"Treatment",
+				"Wellness",
+				"Massage Gateway",
+				"Palais Renaissance",
+				"Facial",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9cc45578ca5d7f0b3c5"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6833225534515057-app_brand%20(1).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18254270931116157-app_logo%20(1).jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6833225534515057-app_brand%20(1)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6833225534515057-app_brand%20(1)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6833225534515057-app_brand%20(1)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18254270931116157-app_logo%20(1)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18254270931116157-app_logo%20(1)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18254270931116157-app_logo%20(1)_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T08:08:47.037Z",
+			"searchContent": "​​​​​​​Amplify your DrGL® skincare routine with treatments customised for you at DrSpa®. Clinical Solutions combine exclusive DrGL® professional formulations with curated protocols for treatments that yield optimal, long-lasting results. Orchard City Town Central Beauty Spa Face Skin Skincare Repair Rejuvenate Anti Aging Glowing Skin Hydrating Facelift Treatment Wellness Massage Gateway Palais Renaissance Facial Dermalogica Elemis Spa Natureland Clarins Aesop Cleanser Massage Guasha Foot Massage Body Massage Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "drspa-0dc00aa2",
+			"outlets": [
+				{
+					"_id": "602ca094abd6d514444112e0",
+					"name": "International Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"International Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "DrSpa",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,349 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/skechers-1fd2f630",
+	"slug": "skechers-1fd2f630",
+	"fetchedAt": "2026-10-26T16:28:20.744+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6585375574fe19004f195b86",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.017,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Skechers",
+				"Shoes",
+				"Sandals",
+				"Sneakers",
+				"Socks",
+				"Apparels",
+				"Sports",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts",
+				"Adidas",
+				"Puma",
+				"Asics"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"658537609546a017b810e5ef"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Skechers Singapore Pte Ltd",
+			"brand": "Skechers",
+			"code": "SQA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Skechers",
+			"address": {
+				"line1": "45 Ubi Road 1 #03-01 Singapore 408696",
+				"postalCode": "408696",
+				"streetName": "45 Ubi Road 1",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "200618576R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5661849528348657-6156744171065442-SP23_UNISEX_SIT_SUN_750x540.jpg",
+			"websiteUrl": "https://www.skechers.com.sg",
+			"descriptionHtml": "<p>A multi-billion-dollar, award-winning global brand, Skechers designs and develops lifestyle and performance product known for style, innovation, quality and comfort. Along with its diverse footwear offering, the Company’s head-to-toe collections for men, women and kids include a growing range of apparel and accessories.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9897476799470781-05824075416515173-Skechers-Logo_1000x1000.jpg",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 32
+				}
+			],
+			"createdAt": "2023-12-22T07:14:29.751Z",
+			"updatedAt": "2026-10-06T07:45:25.964Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5661849528348657-6156744171065442-SP23_UNISEX_SIT_SUN_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9897476799470781-05824075416515173-Skechers-Logo_1000x1000.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5661849528348657-6156744171065442-SP23_UNISEX_SIT_SUN_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5661849528348657-6156744171065442-SP23_UNISEX_SIT_SUN_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5661849528348657-6156744171065442-SP23_UNISEX_SIT_SUN_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9897476799470781-05824075416515173-Skechers-Logo_1000x1000_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9897476799470781-05824075416515173-Skechers-Logo_1000x1000_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9897476799470781-05824075416515173-Skechers-Logo_1000x1000_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-10-06T07:45:25.964Z",
+			"searchContent": "A multi-billion-dollar, award-winning global brand, Skechers designs and develops lifestyle and performance product known for style, innovation, quality and comfort. Along with its diverse footwear offering, the Company’s head-to-toe collections for men, women and kids include a growing range of apparel and accessories. Skechers Shoes Sandals Sneakers Socks Apparels Sports Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Adidas Puma Asics Retail Fashion",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "skechers-1fd2f630",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "658d0c5e140421004ebdc0ba",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "658d193c9f6756004f0b0c35",
+					"name": "VIVO city"
+				},
+				{
+					"_id": "658d1e94f080a5004d4b7b54",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "658d1fdb3e1d18004fb3d057",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "658d2463df6a60004f95ee57",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "658d2812937063004f1e32cc",
+					"name": "Lot One"
+				},
+				{
+					"_id": "658d2b28864263004f6810e9",
+					"name": "Waterway Point"
+				},
+				{
+					"_id": "658d2be7864263004f68144f",
+					"name": "IMM"
+				},
+				{
+					"_id": "658d2c8d23e2e6004d84f239",
+					"name": "Compass One"
+				},
+				{
+					"_id": "658d2d02154548004f08642a",
+					"name": "Tiong Bahru Plaza"
+				},
+				{
+					"_id": "658d312ab4fa0d004e2cad66",
+					"name": "NEX"
+				},
+				{
+					"_id": "658d33459f6756004f0b6fd9",
+					"name": "Velocity Novena Square"
+				},
+				{
+					"_id": "658d389e140421004ebe75cb",
+					"name": "JEM"
+				},
+				{
+					"_id": "658d3e79b4fa0d004e2cdd2f",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "658d3ffa2b7f08004eca7f94",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "658d4369df6a60004f966051",
+					"name": "Clementi Mall"
+				},
+				{
+					"_id": "658d43bd23e2e6004d854201",
+					"name": "SingPost Centre"
+				},
+				{
+					"_id": "658d455f9f6756004f0bad02",
+					"name": "Junction 8"
+				},
+				{
+					"_id": "658d46f62b7f08004eca96d6",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "658d4742a3a3fb004eb85ce6",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "658e24af937063004f2049f4",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "658e25222b7f08004ecc451f",
+					"name": "City Square"
+				},
+				{
+					"_id": "658e257f9f6756004f0d5fb0",
+					"name": "Paragon"
+				},
+				{
+					"_id": "658e268da3a3fb004eba085e",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "65f791e43416e10070bd977d",
+					"name": "Wisma Atria"
+				},
+				{
+					"_id": "65fd3b8f2138dc006a1d074d",
+					"name": "Hillion Mall"
+				},
+				{
+					"_id": "66da7c29224276006ccf3f49",
+					"name": "White Sands"
+				},
+				{
+					"_id": "672984e5f3c8090073535bc6",
+					"name": "Century Square"
+				},
+				{
+					"_id": "67c652006e97e7041235a292",
+					"name": "Punggol Coast Mall"
+				},
+				{
+					"_id": "681427bf82be9e04066e6256",
+					"name": "SingPost Centre (Foamies)"
+				},
+				{
+					"_id": "6825464ff584887cecc6ae6f",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "690bf90b5ab690c4b82b394f",
+					"name": "Hougang Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tampines 1",
+			"VIVO city",
+			"Suntec City",
+			"Marina Square",
+			"Jurong Point",
+			"Lot One",
+			"Waterway Point",
+			"IMM",
+			"Compass One",
+			"Tiong Bahru Plaza",
+			"NEX",
+			"Velocity Novena Square",
+			"JEM",
+			"Parkway Parade",
+			"Causeway Point",
+			"Clementi Mall",
+			"SingPost Centre",
+			"Junction 8",
+			"Northpoint City",
+			"Bugis Junction",
+			"313@Somerset",
+			"City Square",
+			"Paragon",
+			"Changi City Point",
+			"Wisma Atria",
+			"Hillion Mall",
+			"White Sands",
+			"Century Square",
+			"Punggol Coast Mall",
+			"SingPost Centre (Foamies)",
+			"Bedok Mall",
+			"Hougang Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Skechers",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

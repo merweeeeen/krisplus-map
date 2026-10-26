@@ -1,0 +1,165 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/affordable-wines-d28da795",
+	"slug": "affordable-wines-d28da795",
+	"fetchedAt": "2026-10-26T16:27:43.728+08:00",
+	"payload": {
+		"partner": {
+			"_id": "644883c0e2373c005c0cf838",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"ONLINE"
+			],
+			"searchableKeywords": [
+				"Wines",
+				"Affordable",
+				"Bordeaux",
+				"French",
+				"Red Wine",
+				"Alcohol"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"name": "Ang Jiu Pte Ltd",
+			"brand": "Affordable Wines",
+			"code": "AWN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5921",
+			"shortName": "Affordable Win",
+			"address": {
+				"line1": "7 Temasek Boulevard, #12-07, Singapore 038987",
+				"postalCode": "038987",
+				"streetName": "7 Temasek Boulevard",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201926439E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7048875837868547-08424937863669668-Affordable%20wimes.jpg.png",
+			"websiteUrl": "https://affordablewines.com.sg/",
+			"descriptionHtml": "<p>Affordable Wines takes the provenance of their wines seriously and are predominantly selling French wines that are carefully sourced from vineyards/suppliers worldwide. They are based locally and their wines are professionally stored in one of the best wine storages. </p>  <p>Visit <a href=\"https://affordablewines.com.sg/\">https://affordablewines.com.sg/</a> for their full catalogue. Place your orders via Whatsapp to +65 8661 9619​​​​​​​ and quote Kris+ to receive the QR code for payment. </p>  <p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Note: Direct payment via Kris+ on partner’s website is not available. </span></span>​​​​​​​</p>",
+			"countryCode": "SG",
+			"mccDescription": "Package Stores - Beer, Wine, and Liquor",
+			"partnershipGroup": "GR5",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2741723638435307-5818075533662403-Screenshot%202023-04-07%20091357.png",
+			"createdAt": "2023-04-26T01:52:00.379Z",
+			"updatedAt": "2026-09-01T01:52:57.968Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef94b3d10e34df66b46fc"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"privilege": false,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7048875837868547-08424937863669668-Affordable%20wimes.jpg.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2741723638435307-5818075533662403-Screenshot%202023-04-07%20091357.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7048875837868547-08424937863669668-Affordable%20wimes_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7048875837868547-08424937863669668-Affordable%20wimes_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7048875837868547-08424937863669668-Affordable%20wimes_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2741723638435307-5818075533662403-Screenshot%202023-04-07%20091357_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2741723638435307-5818075533662403-Screenshot%202023-04-07%20091357_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2741723638435307-5818075533662403-Screenshot%202023-04-07%20091357_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Affordable Wines takes the provenance of their wines seriously and are predominantly selling French wines that are carefully sourced from vineyards/suppliers worldwide. They are based locally and their wines are professionally stored in one of the best wine storages. Visit https://affordablewines.com.sg/ for their full catalogue. Place your orders via Whatsapp to +65 8661 9619​​​​​​​ and quote Kris+ to receive the QR code for payment. Note: Direct payment via Kris+ on partner’s website is not available. ​​​​​​​ Wines Affordable Bordeaux French Red Wine Alcohol Retail",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "affordable-wines-d28da795",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-09-01T01:52:42.196Z",
+			"newMerchantEndDate": null,
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Affordable Wines",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

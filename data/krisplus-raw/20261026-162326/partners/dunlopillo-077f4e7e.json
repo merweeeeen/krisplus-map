@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/dunlopillo-077f4e7e",
+	"slug": "dunlopillo-077f4e7e",
+	"fetchedAt": "2026-10-26T16:31:04.944+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68a46a6d1caeb10467550f12",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Pilloe",
+				"Bedding",
+				"Sleep",
+				"Ergonomic",
+				"Mattress",
+				"Latex Mattress",
+				"Organic Mattress",
+				"Natural Sleep",
+				"Sustainable Sleep",
+				"Sleep Wellness",
+				"Sleep Products",
+				"Pillows",
+				"Bolster",
+				"Ergonomic Pillow",
+				"Boutique Sleep",
+				"Bed",
+				"Neck Care",
+				"Hotel Mattress",
+				"Natural Latex Pillow",
+				"Organic Pillow",
+				"Latex Pillow",
+				"Premium Mattress",
+				"Cooling Sleep",
+				"Hotel Pillow",
+				"Orthopedic Mattress Back Support Mattress",
+				"Antibacterial Mattress"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Dunlopillo Singapore Pte Ltd",
+			"brand": "Dunlopillo",
+			"code": "DUN",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Dunlopillo",
+			"address": {
+				"line1": "8 Tuas Avenue 20  #03-01",
+				"postalCode": "638821",
+				"streetName": "8 Tuas Avenue 20  #03-01",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://dunlopillo.com.sg",
+			"descriptionHtml": "<p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\">Dunlopillo Singapore - the latex inventor and the mattress brand with the longest continuous presence in Singapore, with a legacy dating back to 1929.</p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\">Renowned for pioneering natural latex sleep solutions, Dunlopillo combines almost 100 years of expertise with innovative technology to deliver exceptional comfort and support.</p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;\">Each product is crafted with 100 percent pure natural latex to promote healthier, more restful sleep. From cooling comfort to body-contouring support, Dunlopillo offers premium bedding designed for modern sleep needs.</p><p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>City Square</li><li>IMM</li><li>Marina Square</li></ul>\n\n",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7503128500119296-Dunlopillo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5038069785374732-2222838666291902-Brand%20Images_750x540.png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7503128500119296-Dunlopillo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5038069785374732-2222838666291902-Brand%20Images_750x540.png",
+			"createdAt": "2025-08-19T12:13:33.224Z",
+			"updatedAt": "2026-08-06T14:18:19.567Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7503128500119296-Dunlopillo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7503128500119296-Dunlopillo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7503128500119296-Dunlopillo_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T01:43:28.853Z",
+			"searchContent": "Dunlopillo Singapore - the latex inventor and the mattress brand with the longest continuous presence in Singapore, with a legacy dating back to 1929. Renowned for pioneering natural latex sleep solutions, Dunlopillo combines almost 100 years of expertise with innovative technology to deliver exceptional comfort and support. Each product is crafted with 100 percent pure natural latex to promote healthier, more restful sleep. From cooling comfort to body-contouring support, Dunlopillo offers premium bedding designed for modern sleep needs. Participating outlets: City SquareIMMMarina Square Pilloe Bedding Sleep Ergonomic Mattress Latex Mattress Organic Mattress Natural Sleep Sustainable Sleep Sleep Wellness Sleep Products Pillows Bolster Ergonomic Pillow Boutique Sleep Bed Neck Care Hotel Mattress Natural Latex Pillow Organic Pillow Latex Pillow Premium Mattress Cooling Sleep Hotel Pillow Orthopedic Mattress Back Support Mattress Antibacterial Mattress Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "dunlopillo-077f4e7e",
+			"outlets": [
+				{
+					"_id": "68a46c7e8419f80467f385b8",
+					"name": "IMM"
+				},
+				{
+					"_id": "68a46d03caf256046e4c4135",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "68a46da21caeb104675511b4",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "69ba1bdbd4ddee9a6c5bccdb",
+					"name": "Tan Boon Liat Building"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"IMM",
+			"City Square Mall",
+			"Marina Square",
+			"Tan Boon Liat Building"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Dunlopillo",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

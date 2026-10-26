@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/song-cho-48887bbf",
+	"slug": "song-cho-48887bbf",
+	"fetchedAt": "2026-10-26T16:31:28.865+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68ee07a3161e930474c6ab36",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Kitchen",
+				"Bathroom",
+				"Stainless Steel",
+				"Rice Cooker",
+				"Hood",
+				"Cooker",
+				"Faucet",
+				"Appliances"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"name": "Song-Cho (Imp & Exp) Pte Ltd",
+			"brand": "Song-Cho",
+			"code": "CHO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Song Cho",
+			"address": {
+				"line1": "39B Jalan Pemimpin 06-00 Prime Industrial Building Singapore 577184",
+				"postalCode": "577184",
+				"streetName": "39B Jalan Pemimpin",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.songcho.com.sg",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Established in 1995, Song-Cho specializes in 18-8 stainless\n    steel household products under the WEL-MI brand. As the exclusive distributor\n    for CLEANUP SS KITCHEN and FDO SS WARDROBE (SYSTEM), the company also offers\n    its own product range including kitchen and bathroom storage racks, cookware,\n    appliances, water filters, faucets, and more.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating Outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>AMK Hub</li><li>IMM</li><li>Leisure Park Kallang</li><li>Mapex</li><li>Tan Boon Liat</li></ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6841848892697189-SongCho.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/38545205321174714-20241579632860374-Kris%2B_750x540_Brand%20Image_Song-Cho.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6841848892697189-SongCho.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/38545205321174714-20241579632860374-Kris%2B_750x540_Brand%20Image_Song-Cho.jpg",
+			"createdAt": "2025-10-14T08:19:47.978Z",
+			"updatedAt": "2026-08-06T14:18:22.818Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/38545205321174714-20241579632860374-Kris%2B_750x540_Brand%20Image_Song-Cho_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/38545205321174714-20241579632860374-Kris%2B_750x540_Brand%20Image_Song-Cho_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/38545205321174714-20241579632860374-Kris%2B_750x540_Brand%20Image_Song-Cho_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6841848892697189-SongCho_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6841848892697189-SongCho_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6841848892697189-SongCho_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2025-11-03T01:26:35.231Z",
+			"searchContent": "Established in 1995, Song-Cho specializes in 18-8 stainless steel household products under the WEL-MI brand. As the exclusive distributor for CLEANUP SS KITCHEN and FDO SS WARDROBE (SYSTEM), the company also offers its own product range including kitchen and bathroom storage racks, cookware, appliances, water filters, faucets, and more. Participating Outlets: AMK HubIMMLeisure Park KallangMapexTan Boon Liat Kitchen Bathroom Stainless Steel Rice Cooker Hood Cooker Faucet Appliances Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "song-cho-48887bbf",
+			"outlets": [
+				{
+					"_id": "68ef0927f837d7046d5d94b6",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "68ef098e9866080466c79268",
+					"name": "IMM"
+				},
+				{
+					"_id": "68ef0a2b161e930474c774e4",
+					"name": "Leisure Park Kallang"
+				},
+				{
+					"_id": "68ef0b34fd4b2a046dfe2d2e",
+					"name": "Mapex"
+				},
+				{
+					"_id": "68f0498ac5ea8e046c614bc0",
+					"name": "Tan Boon Liat"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"AMK Hub",
+			"IMM",
+			"Leisure Park Kallang",
+			"Mapex",
+			"Tan Boon Liat"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Song-Cho",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

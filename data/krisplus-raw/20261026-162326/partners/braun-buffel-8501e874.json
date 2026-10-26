@@ -1,0 +1,214 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/braun-buffel-8501e874",
+	"slug": "braun-buffel-8501e874",
+	"fetchedAt": "2026-10-26T16:28:39.642+08:00",
+	"payload": {
+		"partner": {
+			"_id": "660e11b0ee7d73006a13d1dc",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3
+				},
+				"saleOfMiles": 0.03,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Braun Büffel",
+				"Leather Bags",
+				"Bags",
+				"Leather Wallets",
+				"Wallets",
+				"Tote Bags",
+				"Crossbody Bags",
+				"Handbags For Women",
+				"Messenger Bags",
+				"Postman Bags",
+				"Cross Shoulder Bag",
+				"Leather Purses",
+				"Wallets For Men",
+				"Shoulder Bags",
+				"Billfold Wallet",
+				"Long Wallet",
+				"Sunglasses",
+				"Sling Bags For Men",
+				"Cardholders",
+				"Leather Briefcase",
+				"Briefcase"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"660e11ba627f8084105ec69d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "LIANBEE-JECO PTE LTD",
+			"brand": "Braun Büffel",
+			"code": "LJP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Braun Büffel",
+			"address": {
+				"city": "Singapore",
+				"line1": "315 Outram Road, 09-09 Tan Boon Liat Building, Singapore 169074",
+				"streetName": "315 Outram Road",
+				"postalCode": "169074",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://braunbuffel.com",
+			"descriptionHtml": "<p>For over a century, Braun Büffel has remained an emblem of style, strength and dependability, transcending its humble beginnings as a family trade in Kirn, Germany to become a renowned symbol of global recognition. With each meticulously crafted creation, Braun Büffel exemplifies unwavering craftsmanship, timeless appeal and a rich legacy of excellence that continues to define the brand.</p>  <p>Participating Outlets:</p>  <p>•    Changi Airport T2 (Transit)<br> •    ION Orchard<br> •    NEX<br> •    Parkway Parade<br> •    Suntec City<br> •    Westgate<br> •    VivoCity</p>  <p> </p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6657966977323468-026920058669254843-BB_BrandLogo%20For%20App.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4925795987736574-Brand%20Image%20(App).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 8
+				}
+			],
+			"createdAt": "2024-04-04T02:34:24.768Z",
+			"updatedAt": "2026-09-16T02:20:32.076Z",
+			"privilege": false,
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4925795987736574-Brand%20Image%20(App)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4925795987736574-Brand%20Image%20(App)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4925795987736574-Brand%20Image%20(App)_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4925795987736574-Brand%20Image%20(App).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6657966977323468-026920058669254843-BB_BrandLogo%20For%20App.jpg",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6657966977323468-026920058669254843-BB_BrandLogo%20For%20App_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6657966977323468-026920058669254843-BB_BrandLogo%20For%20App_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6657966977323468-026920058669254843-BB_BrandLogo%20For%20App_high.jpg"
+			},
+			"searchContent": "For over a century, Braun Büffel has remained an emblem of style, strength and dependability, transcending its humble beginnings as a family trade in Kirn, Germany to become a renowned symbol of global recognition. With each meticulously crafted creation, Braun Büffel exemplifies unwavering craftsmanship, timeless appeal and a rich legacy of excellence that continues to define the brand. Participating Outlets: • Changi Airport T2 (Transit) • ION Orchard • NEX • Parkway Parade • Suntec City • Westgate • VivoCity Braun Büffel Leather Bags Bags Leather Wallets Wallets Tote Bags Crossbody Bags Handbags For Women Messenger Bags Postman Bags Cross Shoulder Bag Leather Purses Wallets For Men Shoulder Bags Billfold Wallet Long Wallet Sunglasses Sling Bags For Men Cardholders Leather Briefcase Briefcase Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:34:12.177Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "braun-buffel-8501e874",
+			"outlets": [
+				{
+					"_id": "6614a573bb49d7006d48d63f",
+					"name": "Changi Airport T2 (Transit)"
+				},
+				{
+					"_id": "6614a758ac6208006fcfd48a",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "6614a811567839006a8650eb",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "6614a87cac6208006fcfd647",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "6614a8e713ca9b006bb77b14",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "6614a94b9ec4b9006b456c7d",
+					"name": "Westgate"
+				},
+				{
+					"_id": "66cedcf12c3eee006985d3ae",
+					"name": "NEX"
+				},
+				{
+					"_id": "6aa9fce84bfe0fb06b527fd6",
+					"name": "Tampines Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi Airport T2 (Transit)",
+			"ION Orchard",
+			"Parkway Parade",
+			"Suntec City",
+			"VivoCity",
+			"Westgate",
+			"NEX",
+			"Tampines Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Braun Büffel",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

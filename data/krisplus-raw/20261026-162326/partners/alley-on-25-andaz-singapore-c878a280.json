@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/alley-on-25-andaz-singapore-c878a280",
+	"slug": "alley-on-25-andaz-singapore-c878a280",
+	"fetchedAt": "2026-10-26T16:26:04.092+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62374a82e3207118e8526503",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Andaz Singapore",
+				"Restaurant",
+				"Grill",
+				"Dining In The Sky",
+				"Drinks",
+				"Bugis",
+				"Friends",
+				"Colleagues",
+				"Couple",
+				"Staycation",
+				"Lunch",
+				"Dinner",
+				"Family",
+				"Set Meal",
+				"Dining"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Alley on 25 ",
+			"brand": "Alley on 25 - Andaz Singapore",
+			"code": "A25",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Alley on 25",
+			"address": {
+				"line1": "5 Fraser Street",
+				"postalCode": "189354",
+				"streetName": "Fraser Street",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "53333587J",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8196683504041935-Alley%20on%2025%20Food%20(750%20x%20540).jpg",
+			"websiteUrl": "https://www.hyatt.com/andaz/sinaz-andaz-singapore/dining/alley-on-25",
+			"descriptionHtml": "<p>Conceived as the culinary hub of the hotel, Alley on 25 is located at Level 25 of Andaz Singapore. It is the hotel’s all-day oven and grill restaurant which recreates the fluid and spontaneous experience of Singapore street dining in the sky.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "All-day dining restaurant with stellar views of the city",
+			"participatingOutlets": "Andaz Singapore",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4335082776318939-Alley-on-25-app-brand-logo.jpg",
+			"createdAt": "2022-03-20T15:38:42.131Z",
+			"updatedAt": "2026-10-15T12:22:03.542Z",
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef98a5e6d0897746a1e66"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8196683504041935-Alley%20on%2025%20Food%20(750%20x%20540).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4335082776318939-Alley-on-25-app-brand-logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8196683504041935-Alley%20on%2025%20Food%20(750%20x%20540)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8196683504041935-Alley%20on%2025%20Food%20(750%20x%20540)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8196683504041935-Alley%20on%2025%20Food%20(750%20x%20540)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4335082776318939-Alley-on-25-app-brand-logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4335082776318939-Alley-on-25-app-brand-logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4335082776318939-Alley-on-25-app-brand-logo_high.jpg"
+			},
+			"searchContent": "Conceived as the culinary hub of the hotel, Alley on 25 is located at Level 25 of Andaz Singapore. It is the hotel’s all-day oven and grill restaurant which recreates the fluid and spontaneous experience of Singapore street dining in the sky. Andaz Singapore Restaurant Grill Dining In The Sky Drinks Bugis Friends Colleagues Couple Staycation Lunch Dinner Family Set Meal Dining Dining Casual Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:41:05.175Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "alley-on-25-andaz-singapore-c878a280",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "623978c05fb669817c9d6467",
+					"name": "Andaz Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Andaz Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Alley on 25 - Andaz Singapore",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

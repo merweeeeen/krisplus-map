@@ -1,0 +1,218 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/si-chuan-dou-hua-55c97409",
+	"slug": "si-chuan-dou-hua-55c97409",
+	"fetchedAt": "2026-10-26T16:24:55.062+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6077d1e35155d534c8653682",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Si Chuan Dou Hua",
+			"brand": "Si Chuan Dou Hua",
+			"code": "SCD",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "SiChuanDouHua",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "101 Thomson Road, #33-00 , United Square",
+				"postalCode": "307591",
+				"streetName": "Thomson Road"
+			},
+			"regNumber": "199705943E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/3224116931784555-KrisPay%20750%20x%20540%20(Brand%20Image).png",
+			"websiteUrl": "https://www.sichuandouhua.com/en/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\"></em>A premier fine dining Chinese restaurant renowned for quality and authentic Sichuan and Cantonese cuisine. The dining experience is enhanced with premium Chinese tea alongside skillful tea-pouring displays by expert tea masters.</p>    <p>Participating Outlets:</p>  <ul> \t<li>PARKROYAL on Beach Road</li> \t<li>TOP of UOB Plaza</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.046,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 4,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "     ",
+			"participatingOutlets": "       ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/09817063784731794-KrisPay%201000x1000%20(Brand%20Logo).png",
+			"createdAt": "2021-04-15T05:40:51.742Z",
+			"updatedAt": "2026-08-06T14:17:15.621Z",
+			"searchableKeywords": [
+				"Bugis",
+				"Beach Road",
+				"Nicoll Highway",
+				"Farrer Park",
+				"Kitchener Road",
+				"Raffles Place",
+				"Chinese",
+				"East",
+				"Relaxation",
+				"Afternoon Tea",
+				"Chinese Tea",
+				"Dessert",
+				"Tea Time",
+				"Soya Bean",
+				"Dou Hua",
+				"Cuisine",
+				"Fine Dining",
+				"Lunch Meeting",
+				"Uob Plaza 1",
+				"View",
+				"Dining",
+				"Dim Sum",
+				"Reunion",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Taste Paradise",
+				"Paradise Teochew",
+				"Canton Paradise",
+				"Paradise Dynasty",
+				"Tsui Wah",
+				"Jumbo Seafood",
+				"Peach Blossom",
+				"Mimi Restaurant",
+				"Jiangnan Chun",
+				"Honolulu",
+				"Tai Cheong Bakery",
+				"Mooncake",
+				"FortuneFeast"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR1",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c5595add249244646d"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3224116931784555-KrisPay%20750%20x%20540%20(Brand%20Image).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/09817063784731794-KrisPay%201000x1000%20(Brand%20Logo).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3224116931784555-KrisPay%20750%20x%20540%20(Brand%20Image)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3224116931784555-KrisPay%20750%20x%20540%20(Brand%20Image)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3224116931784555-KrisPay%20750%20x%20540%20(Brand%20Image)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/09817063784731794-KrisPay%201000x1000%20(Brand%20Logo)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/09817063784731794-KrisPay%201000x1000%20(Brand%20Logo)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/09817063784731794-KrisPay%201000x1000%20(Brand%20Logo)_high.png"
+			},
+			"searchContent": "A premier fine dining Chinese restaurant renowned for quality and authentic Sichuan and Cantonese cuisine. The dining experience is enhanced with premium Chinese tea alongside skillful tea-pouring displays by expert tea masters. Participating Outlets: PARKROYAL on Beach Road TOP of UOB Plaza Bugis Beach Road Nicoll Highway Farrer Park Kitchener Road Raffles Place Chinese East Relaxation Afternoon Tea Chinese Tea Dessert Tea Time Soya Bean Dou Hua Cuisine Fine Dining Lunch Meeting Uob Plaza 1 View Dining Dim Sum Reunion Business Corporate Dining Working Lunch Networking Taste Paradise Paradise Teochew Canton Paradise Paradise Dynasty Tsui Wah Jumbo Seafood Peach Blossom Mimi Restaurant Jiangnan Chun Honolulu Tai Cheong Bakery Mooncake FortuneFeast Dining Chinese",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-19T04:34:49.477Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "si-chuan-dou-hua-55c97409",
+			"outlets": [
+				{
+					"_id": "608ba03245ba573ee44dabec",
+					"name": "PARKROYAL on Beach Road"
+				},
+				{
+					"_id": "6098a4d045ba573ee44daec5",
+					"name": "TOP OF UOB Plaza 1"
+				},
+				{
+					"_id": "6944d2d3d7d191631eb1b3bc",
+					"name": "Parkroyal on Beach Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"PARKROYAL on Beach Road",
+			"TOP OF UOB Plaza 1",
+			"Parkroyal on Beach Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Si Chuan Dou Hua",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

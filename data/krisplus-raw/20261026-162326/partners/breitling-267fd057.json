@@ -1,0 +1,190 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/breitling-267fd057",
+	"slug": "breitling-267fd057",
+	"fetchedAt": "2026-10-26T16:24:39.039+08:00",
+	"payload": {
+		"partner": {
+			"_id": "60124ccf59336359f477434d",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "HOB House of Brands South East Asia Pte Ltd",
+			"brand": "Breitling",
+			"code": "BRE",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Breitling",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "11, Bishan Street 21, #03-03B BOSCH Building",
+				"postalCode": "573943",
+				"streetName": "Bishan Street"
+			},
+			"regNumber": "200105844N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6445502853287697-Breitling_Kris%20Brand%20image_App%20750x540px%20FA.jpg",
+			"websiteUrl": "https://www.breitling.com/sg-en/",
+			"descriptionHtml": "<p>Since 1884, Breitling has established a global reputa­tion for high-precision timepieces. Breitling manufactures its own movements in-house, in Switzerland, and the quality is confirmed in its status as an accredited chronometer manufacturer.</p>  <p>Participating Outlets: </p>  <ul> \t \t<li>Marina Bay Sands</li> \t<li>Raffles City Shopping Centre<br> \t​​​​​​​</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8544024429408783-08837049167425715-Breitling%20Logo%201000x1000px%20FA.jpg",
+			"createdAt": "2021-01-28T05:34:07.629Z",
+			"updatedAt": "2026-08-06T14:17:13.402Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 3,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"saleOfMiles": 0.032,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "     ",
+			"promotional": "              ",
+			"searchableKeywords": [
+				"Bayfront",
+				"Bayfront Avenue",
+				"Ion Orchard",
+				"Orchard Boulevard",
+				"Paterson Road",
+				"Timepieces",
+				"Retail",
+				"Fashion",
+				"Mbs",
+				"Marina Bay Sands",
+				"Watch",
+				"Straps",
+				"Timeless",
+				"Gifts",
+				"Present",
+				"Luxury Watch",
+				"Luxury Life",
+				"Watchcollection",
+				"Watchcollector",
+				"Wristwatches",
+				"Swiss",
+				"Premium",
+				"Luxury",
+				"Raffles City Shopping Centre"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9cc595add2492446475"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6445502853287697-Breitling_Kris%20Brand%20image_App%20750x540px%20FA.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8544024429408783-08837049167425715-Breitling%20Logo%201000x1000px%20FA.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6445502853287697-Breitling_Kris%20Brand%20image_App%20750x540px%20FA_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6445502853287697-Breitling_Kris%20Brand%20image_App%20750x540px%20FA_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6445502853287697-Breitling_Kris%20Brand%20image_App%20750x540px%20FA_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8544024429408783-08837049167425715-Breitling%20Logo%201000x1000px%20FA_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8544024429408783-08837049167425715-Breitling%20Logo%201000x1000px%20FA_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8544024429408783-08837049167425715-Breitling%20Logo%201000x1000px%20FA_high.jpg"
+			},
+			"searchContent": "Since 1884, Breitling has established a global reputa­tion for high-precision timepieces. Breitling manufactures its own movements in-house, in Switzerland, and the quality is confirmed in its status as an accredited chronometer manufacturer. Participating Outlets: Marina Bay Sands Raffles City Shopping Centre ​​​​​​​ Bayfront Bayfront Avenue Ion Orchard Orchard Boulevard Paterson Road Timepieces Retail Fashion Mbs Marina Bay Sands Watch Straps Timeless Gifts Present Luxury Watch Luxury Life Watchcollection Watchcollector Wristwatches Swiss Premium Luxury Raffles City Shopping Centre Retail Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:35:16.215Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "breitling-267fd057",
+			"outlets": [
+				{
+					"_id": "6017615424c94452b85db428",
+					"name": "Marina Bay Sands"
+				},
+				{
+					"_id": "64e2d55d90a22b004fc6d039",
+					"name": "Raffles City Shopping Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Bay Sands",
+			"Raffles City Shopping Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Breitling",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

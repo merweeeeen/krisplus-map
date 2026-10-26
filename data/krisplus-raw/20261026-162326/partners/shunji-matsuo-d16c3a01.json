@@ -1,0 +1,216 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/shunji-matsuo-d16c3a01",
+	"slug": "shunji-matsuo-d16c3a01",
+	"fetchedAt": "2026-10-26T16:24:07.946+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e72c84ed5be3f4bcca87807",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Shunji Matsuo Pte Ltd",
+			"brand": "Shunji Matsuo",
+			"code": "SHM",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "20 Kramat Lane, #05-08/09 , United House",
+				"postalCode": "228773",
+				"streetName": "Kramat Lane"
+			},
+			"category": "SERVICES",
+			"regNumber": "199805615H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-3ad34191-faed-4451-8846-a590d1d75b67.jpg",
+			"websiteUrl": "https://shunjimatsuo.com.sg/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-9a01a012-996b-40e5-98dd-2ea6539e881f.jpg",
+			"createdAt": "2020-03-19T01:18:06.645Z",
+			"updatedAt": "2026-08-06T14:17:09.358Z",
+			"categary": "Others",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tNgee Ann City (Flagship)\n•\tCentury Square\n•\tHolland Village\n•\tION Orchard Mall\n",
+			"promotional": "         ",
+			"hideFromCustomer": false,
+			"categories": [
+				"SERVICES"
+			],
+			"mccCode": "7298",
+			"mccDescription": "Health and Beauty Spas",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>​​​​​​​Shunji Matsuo transforms the whole look and feel of the individual with cutting edge hair technology and Japanese-influenced techniques. The brand's success is based on Mr Shunji Matsuo's commitment to delivering high quality hair services using superior products at affordable prices.</p>\n\n<p>Participating outlets:</p>\n\n<p>•    Ngee Ann City (Flagship)<br />\n•    Holland Village<br />\n•    ION Orchard Mall</p>",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Shunji",
+			"searchableKeywords": [
+				"Holland Road",
+				"Holland Avenue",
+				"Ion Orchard",
+				"Orchard Road",
+				"Paterson Road",
+				"Tampines Central 5",
+				"Tampines",
+				"Wellness",
+				"Retail",
+				"Hv",
+				"Holland Village",
+				"Hair",
+				"Treatment",
+				"Dye",
+				"Makeover",
+				"Cut",
+				"Beauty",
+				"Century Square",
+				"Ngee Ann City",
+				"Japanese",
+				"Lush",
+				"Style",
+				"Services",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e20108b03f047da5bb"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-3ad34191-faed-4451-8846-a590d1d75b67.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-9a01a012-996b-40e5-98dd-2ea6539e881f.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-3ad34191-faed-4451-8846-a590d1d75b67_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-3ad34191-faed-4451-8846-a590d1d75b67_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-3ad34191-faed-4451-8846-a590d1d75b67_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-9a01a012-996b-40e5-98dd-2ea6539e881f_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-9a01a012-996b-40e5-98dd-2ea6539e881f_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-9a01a012-996b-40e5-98dd-2ea6539e881f_high.jpg"
+			},
+			"searchContent": "​​​​​​​Shunji Matsuo transforms the whole look and feel of the individual with cutting edge hair technology and Japanese-influenced techniques. The brand's success is based on Mr Shunji Matsuo's commitment to delivering high quality hair services using superior products at affordable prices. Participating outlets: • Ngee Ann City (Flagship) • Holland Village • ION Orchard Mall Holland Road Holland Avenue Ion Orchard Orchard Road Paterson Road Tampines Central 5 Tampines Wellness Retail Hv Holland Village Hair Treatment Dye Makeover Cut Beauty Century Square Ngee Ann City Japanese Lush Style Services Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Services Personal Care",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:17:18.471Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "shunji-matsuo-d16c3a01",
+			"outlets": [
+				{
+					"_id": "5e842c9421edab14706d0580",
+					"name": "Thong Teck Building"
+				},
+				{
+					"_id": "5e842d0621edab14706d0582",
+					"name": "ION Orchard (Hair Atelier)"
+				},
+				{
+					"_id": "5e8430896ebb3b1490ede91c",
+					"name": "Holland Village"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Thong Teck Building",
+			"ION Orchard (Hair Atelier)",
+			"Holland Village"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Shunji Matsuo",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

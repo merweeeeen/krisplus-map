@@ -1,0 +1,174 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/oumi-modern-japanese-kappo-restaurant-48ae186a",
+	"slug": "oumi-modern-japanese-kappo-restaurant-48ae186a",
+	"fetchedAt": "2026-10-26T16:29:32.640+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6773be373f123c14e8649c29",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Omakase",
+				"Sashimi",
+				"Sushi",
+				"Teppanyaki",
+				"Robatayaki",
+				"Tempura",
+				"Japanese Cuisine",
+				"Raffles Place",
+				"Rooftop Restaurant",
+				"Japan"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "1-Spring Pte Ltd (Oumi Modern Japanese Kappo Restaurant)",
+			"brand": "Oumi Modern Japanese Kappo Restaurant",
+			"code": "OJK",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Oumi Modern Ja",
+			"address": {
+				"line1": "211 HENDERSON ROAD",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"JAP",
+								"FD",
+								"BD"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.oumi.sg/",
+			"descriptionHtml": "<p>Oumi is a contemporary Japanese Kappo restaurant with a stunning city view of Marina Bay, located at the rooftop of CapitaSpring. Oumi offers a reinvention of tradition by incorporating ‘nose-to-tail’ and sustainably sourced ingredients locally, Japan and Australia.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/16575271548771386-7926878047064927-Oumi.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/1979937040163413-49384475378307435-Oumi%20750x540px.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-12-31T09:49:43.307Z",
+			"updatedAt": "2026-09-18T08:30:02.119Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/1979937040163413-49384475378307435-Oumi%20750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/1979937040163413-49384475378307435-Oumi%20750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/1979937040163413-49384475378307435-Oumi%20750x540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/16575271548771386-7926878047064927-Oumi_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/16575271548771386-7926878047064927-Oumi_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/16575271548771386-7926878047064927-Oumi_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/1979937040163413-49384475378307435-Oumi%20750x540px.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/16575271548771386-7926878047064927-Oumi.png",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:22:59.850Z",
+			"searchContent": "Oumi is a contemporary Japanese Kappo restaurant with a stunning city view of Marina Bay, located at the rooftop of CapitaSpring. Oumi offers a reinvention of tradition by incorporating ‘nose-to-tail’ and sustainably sourced ingredients locally, Japan and Australia. Omakase Sashimi Sushi Teppanyaki Robatayaki Tempura Japanese Cuisine Raffles Place Rooftop Restaurant Japan Dining Japanese Fine Dining Beverages & Desserts",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "oumi-modern-japanese-kappo-restaurant-48ae186a",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6773bfc79ba3df0076c7c7c1",
+					"name": "CapitaSpring"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"CapitaSpring"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Oumi Modern Japanese Kappo Restaurant",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/joo-bar-2d57a3a1",
+	"slug": "joo-bar-2d57a3a1",
+	"fetchedAt": "2026-10-26T16:26:26.590+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62d8e4fca1782116bc579b31",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Korean",
+				"Korea Restaurant",
+				"Happy Hour",
+				"Makgeolli",
+				"Wine",
+				"Joo Bar",
+				"Dining",
+				"Tan Quee Lan",
+				"Outram"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Joo Bar Pte. Ltd.",
+			"brand": "Joo Bar",
+			"code": "JOO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Joo Bar",
+			"address": {
+				"line1": "28 Binchang Rise 579895",
+				"postalCode": "579895",
+				"streetName": "28 Binchang Rise 579895",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201412544R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5784430817586603-7635730628634128-joo%20bar%20image.jpg",
+			"websiteUrl": "https://www.joo-bar.com/",
+			"descriptionHtml": "<p><em>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Joo%20Bar\"><u>Reserve A Table</u>.</a></em>  <br><br>​​​​​​​A sleek, casual and inviting venue within a three-storey heritage shophouse along the charming streets of Tan Quee Lan. Ingeniously created by Singaporean aficionados of Korean culture and food, Joo was born from a desire to offer top notch modern Korean bites and creative drinks in a space that exudes a laid-back vibe with a tasteful dose of edginess.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/18158065595067763-5961628482931258-joo%20bar_main.jpg",
+			"participatingOutlets": "5 Tan Quee Lan St",
+			"createdAt": "2022-07-21T05:32:44.114Z",
+			"updatedAt": "2026-08-13T01:06:29.967Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "           ",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97aa3718718842dd94a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5784430817586603-7635730628634128-joo%20bar%20image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18158065595067763-5961628482931258-joo%20bar_main.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5784430817586603-7635730628634128-joo%20bar%20image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5784430817586603-7635730628634128-joo%20bar%20image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5784430817586603-7635730628634128-joo%20bar%20image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18158065595067763-5961628482931258-joo%20bar_main_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18158065595067763-5961628482931258-joo%20bar_main_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18158065595067763-5961628482931258-joo%20bar_main_high.jpg"
+			},
+			"searchContent": "*Click here to Reserve A Table. ​​​​​​​A sleek, casual and inviting venue within a three-storey heritage shophouse along the charming streets of Tan Quee Lan. Ingeniously created by Singaporean aficionados of Korean culture and food, Joo was born from a desire to offer top notch modern Korean bites and creative drinks in a space that exudes a laid-back vibe with a tasteful dose of edginess. Korean Korea Restaurant Happy Hour Makgeolli Wine Joo Bar Dining Tan Quee Lan Outram Dining Pubs & Bars",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T09:50:23.334Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "joo-bar-2d57a3a1",
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "62d91212a1782116bc579b58",
+					"name": "Tan Quee Lan Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tan Quee Lan Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Joo Bar",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,149 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/leading-holiday-47949e3a",
+	"slug": "leading-holiday-47949e3a",
+	"fetchedAt": "2026-10-26T16:34:15.500+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6ac468d9353a59c7174356ba",
+			"name": "LEADING HOLIDAY PTE. LTD.",
+			"shortName": "Leading Holida",
+			"mccCode": "4722",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"brand": "Leading Holiday",
+			"code": "LEA",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3355724854534765-5943542641610164-Brand%20Logo.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9617755486034147-3671984917189255-Brand%20Image.png",
+			"websiteUrl": "https://www.leadingholiday.com/tour",
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "171 Tras Street, #08-175, Union Building  ",
+				"postalCode": "079025",
+				"streetName": "171 Tras Street",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Leading Holiday is a Singapore-based travel agency     specialising in air ticketing and educational tour packages. They offer     competitive airfares, group travel arrangements, and end-to-end travel     solutions to destinations around the world.</p>",
+			"searchableKeywords": [
+				"Travel",
+				"Tour Airfare",
+				"Flights",
+				"Air tickets"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR3",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": null,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-10-06T03:19:53.068Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3355724854534765-5943542641610164-Brand%20Logo.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9617755486034147-3671984917189255-Brand%20Image.png",
+			"createdAt": "2026-10-06T03:19:53.073Z",
+			"updatedAt": "2026-10-19T05:59:07.332Z",
+			"searchContent": "Leading Holiday is a Singapore-based travel agency specialising in air ticketing and educational tour packages. They offer competitive airfares, group travel arrangements, and end-to-end travel solutions to destinations around the world. Travel Tour Airfare Flights Air tickets Services",
+			"slugId": "leading-holiday-47949e3a",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9617755486034147-3671984917189255-Brand%20Image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9617755486034147-3671984917189255-Brand%20Image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9617755486034147-3671984917189255-Brand%20Image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3355724854534765-5943542641610164-Brand%20Logo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3355724854534765-5943542641610164-Brand%20Logo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3355724854534765-5943542641610164-Brand%20Logo_high.png"
+			},
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Leading Holiday",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

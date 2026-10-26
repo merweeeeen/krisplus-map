@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/serta-51f257c3",
+	"slug": "serta-51f257c3",
+	"fetchedAt": "2026-10-26T16:33:04.309+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69e5d406da82d998c70762e5",
+			"name": "SERTA INTERNATIONAL PTE. LTD.",
+			"shortName": "Serta",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Serta",
+			"code": "ERT",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/057605769327113254-5711216829311065-Serta_logo_260x260.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/15956893893494772-9263206957435053-Serta_brand%20image_750x540.jpg",
+			"websiteUrl": "https://www.serta.com.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "9 Tuas South Avenue 10 #02-01/02, Singapore 637014",
+				"postalCode": "637014",
+				"streetName": "9 Tuas South Avenue 10",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Elevate your sleep with Serta, America’s trusted mattress\n    brand for 90+ years. In Singapore since 2003, their sleep experts match you to\n    the right mattress for orthopedic alignment, back pain relief, and cool,\n    breathable comfort. Explore memory foam, latex, and hybrid designs trusted by\n    Marriott, Hilton, and Resorts World Sentosa.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>\n\n<ul style=\"list-style-type: circle;\"><li>City Square Mall</li><li>IMM</li><li>Plaza Singapura</li><li>Marina Square</li></ul>\n\n",
+			"searchableKeywords": [
+				"Mattress",
+				"Bed",
+				"Beds",
+				"Pillow",
+				"Pillows",
+				"Bedding",
+				"Sleep",
+				"Bedroom",
+				"Furniture",
+				"Home",
+				"Memory Foam",
+				"Latex",
+				"Hybrid",
+				"Orthopedic",
+				"Back Support",
+				"Cooling",
+				"Serta"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-07-05T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-04-20T07:21:42.502Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/057605769327113254-5711216829311065-Serta_logo_260x260.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/15956893893494772-9263206957435053-Serta_brand%20image_750x540.jpg",
+			"createdAt": "2026-04-20T07:21:42.508Z",
+			"updatedAt": "2026-08-06T14:18:30.956Z",
+			"searchContent": "Elevate your sleep with Serta, America’s trusted mattress brand for 90+ years. In Singapore since 2003, their sleep experts match you to the right mattress for orthopedic alignment, back pain relief, and cool, breathable comfort. Explore memory foam, latex, and hybrid designs trusted by Marriott, Hilton, and Resorts World Sentosa. Participating outlets: City Square MallIMMPlaza SingapuraMarina Square Mattress Bed Beds Pillow Pillows Bedding Sleep Bedroom Furniture Home Memory Foam Latex Hybrid Orthopedic Back Support Cooling Serta Retail Home & Lifestyle",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/15956893893494772-9263206957435053-Serta_brand%20image_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/15956893893494772-9263206957435053-Serta_brand%20image_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/15956893893494772-9263206957435053-Serta_brand%20image_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/057605769327113254-5711216829311065-Serta_logo_260x260_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/057605769327113254-5711216829311065-Serta_logo_260x260_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/057605769327113254-5711216829311065-Serta_logo_260x260_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "serta-51f257c3",
+			"outlets": [
+				{
+					"_id": "69e5d52a1712516e34a38a45",
+					"name": "City Square Mall"
+				},
+				{
+					"_id": "69e5d58a90a0fe039b0a485c",
+					"name": "IMM"
+				},
+				{
+					"_id": "69e5d5e1d58e51fd793278f6",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "69e5d6a75242bd792c8dadd7",
+					"name": "Marina Square"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"City Square Mall",
+			"IMM",
+			"Plaza Singapura",
+			"Marina Square"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Serta",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,206 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/cyc-made-to-measure-25c1686d",
+	"slug": "cyc-made-to-measure-25c1686d",
+	"fetchedAt": "2026-10-26T16:25:21.072+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6102390bb9a8ee916cf9fe99",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Tailor",
+				"Clothes",
+				"Retail",
+				"Clothing",
+				"Fabric",
+				"Mens",
+				"For Him",
+				"Fitting",
+				"Pants",
+				"Shirts",
+				"Craftmanship",
+				"City Hall",
+				"Custom Made",
+				"Customised",
+				"Menswear",
+				"Fashion",
+				"Tie",
+				"Shirt",
+				"Tee",
+				"Smart",
+				"Male",
+				"Suits",
+				"Newclothes",
+				"Zara",
+				"Uniqlo",
+				"Charles",
+				"Keith",
+				"H M",
+				"Love Bonito",
+				"Womans",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "CYC Company Pte. Ltd.",
+			"brand": "CYC Made to Measure",
+			"code": "CYC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5691",
+			"shortName": "CYC ",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "994 Bendemeer Road, #04-05/06/07",
+				"postalCode": "339943",
+				"streetName": "Bendemeer Road"
+			},
+			"regNumber": "196700126W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5127134942553309-750x540-brand-image%20(in-app).jpg",
+			"websiteUrl": "https://cyctailor.com/",
+			"descriptionHtml": "<p>An award-winning tailor with a commitment to excellence. CYC strives to give their clients the most authentic and personalised experience by sourcing from the finest fabric mills and holding their craftspeople to high standards of craftsmanship.</p>  <p>Participating Outlet: </p>  <ul> \t<li>Capitol Singapore</li> </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Mens and womens clothing stores",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/18569344730232484-CYC-Logo-1000x1000%20(in-app).png",
+			"createdAt": "2021-07-29T05:13:47.950Z",
+			"updatedAt": "2026-09-01T02:06:55.954Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "•\tCapitol Singapore\n•\tThe Fullerton Hotel",
+			"promotional": "  \n    ",
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR7",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS",
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9b45e6d0897746a1e70"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5127134942553309-750x540-brand-image%20(in-app).jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18569344730232484-CYC-Logo-1000x1000%20(in-app).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5127134942553309-750x540-brand-image%20(in-app)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5127134942553309-750x540-brand-image%20(in-app)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5127134942553309-750x540-brand-image%20(in-app)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18569344730232484-CYC-Logo-1000x1000%20(in-app)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18569344730232484-CYC-Logo-1000x1000%20(in-app)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18569344730232484-CYC-Logo-1000x1000%20(in-app)_high.png"
+			},
+			"searchContent": "An award-winning tailor with a commitment to excellence. CYC strives to give their clients the most authentic and personalised experience by sourcing from the finest fabric mills and holding their craftspeople to high standards of craftsmanship. Participating Outlet: Capitol Singapore Tailor Clothes Retail Clothing Fabric Mens For Him Fitting Pants Shirts Craftmanship City Hall Custom Made Customised Menswear Fashion Tie Shirt Tee Smart Male Suits Newclothes Zara Uniqlo Charles Keith H M Love Bonito Womans Blouse Trousers Tshirt Shorts Leggings Accessories Hats Caps Garments Scarves Jewellery Bags Belts Retail Fashion Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-07-14T06:41:11.322Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "cyc-made-to-measure-25c1686d",
+			"outlets": [
+				{
+					"_id": "6103ca48b9f1f97500ecaf21",
+					"name": "Capitol Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Capitol Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "CYC Made to Measure",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

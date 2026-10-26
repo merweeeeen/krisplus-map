@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/nova-d685870e",
+	"slug": "nova-d685870e",
+	"fetchedAt": "2026-10-26T16:30:00.889+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67d82188dfc292041418c844",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 5,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Bar",
+				"beverage",
+				"rooftop",
+				"club",
+				"cocktails"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "OUE Sky Pte Ltd",
+			"brand": "NOVA",
+			"code": "NOV",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5813",
+			"shortName": "NOVA",
+			"address": {
+				"line1": "50 COLLYER QUAY",
+				"postalCode": "049321",
+				"streetName": "OUE BAYFRONT  #18-01/02",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"PB",
+								"BD",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://novabar.sg/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">NOVA, the highest rooftop bar in Singapore has an unobstructed 360-degree panoramic view of Singapore. It is located at Level 63 just above HighHouse.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6393642286167027-Nova.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8239849875600518-4588865935102244-nova%20brand.png",
+			"countryCode": "SG",
+			"mccDescription": "Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6393642286167027-Nova.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8239849875600518-4588865935102244-nova%20brand.png",
+			"createdAt": "2025-03-17T13:20:08.739Z",
+			"updatedAt": "2026-09-30T16:00:06.059Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8239849875600518-4588865935102244-nova%20brand_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8239849875600518-4588865935102244-nova%20brand_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8239849875600518-4588865935102244-nova%20brand_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6393642286167027-Nova_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6393642286167027-Nova_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6393642286167027-Nova_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:25:10.158Z",
+			"searchContent": "NOVA, the highest rooftop bar in Singapore has an unobstructed 360-degree panoramic view of Singapore. It is located at Level 63 just above HighHouse. Bar beverage rooftop club cocktails Dining Casual Dining Pubs & Bars Beverages & Desserts Asian Western",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "nova-d685870e",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "67d8239499230d0410d08a7a",
+					"name": "One Raffles Place"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"One Raffles Place"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "NOVA",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

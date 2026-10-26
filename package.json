@@ -1,0 +1,20 @@
+{
+	"name": "krisplus-map",
+	"private": true,
+	"type": "module",
+	"engines": {
+		"node": ">=22.18"
+	},
+	"scripts": {
+		"data:refresh": "NODE_USE_ENV_PROXY=1 node pipeline/run.ts",
+		"data:test": "node --test \"pipeline/**/*.test.ts\"",
+		"typecheck": "tsc --noEmit"
+	},
+	"dependencies": {
+		"zod": "4.6.6"
+	},
+	"devDependencies": {
+		"@types/node": "26.6.5",
+		"typescript": "7.0.2"
+	}
+}

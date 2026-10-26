@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-little-gym-singapore-fdd6051f",
+	"slug": "the-little-gym-singapore-fdd6051f",
+	"fetchedAt": "2026-10-26T16:24:51.953+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6070032dd8cf0b398caa8b47",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Gym & Sports Pte Ltd",
+			"brand": "The Little Gym Singapore",
+			"code": "TLG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "The Little Gym",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "FORUM The Shopping Mall, #B1-24, 583 Orchard Road",
+				"postalCode": "238884",
+				"streetName": "Orchard Road"
+			},
+			"regNumber": "200108281N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5875920046519358-App%20Brand%20Image.jpg",
+			"websiteUrl": "https://www.thelittlegym.com.sg/",
+			"descriptionHtml": "<p>The Little Gym is the world’s premier enrichment and physical development center for children. Programs offer movement-based learning and imaginative play to help build the confidence and skills needed at each stage of childhood.</p>\n\n<p>Participating outlets:</p>\n\n<ul>\n\t<li>Marina Square</li>\n\t<li>Forum The Shopping Mall</li>\n</ul>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/23526851963788342-Brand%20Logo_app.jpg",
+			"createdAt": "2021-04-09T07:33:01.435Z",
+			"updatedAt": "2026-08-06T14:17:15.280Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 5,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 5,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": ". FORUM The Shopping Mall\n. Marina Square",
+			"promotional": "  ",
+			"searchableKeywords": [
+				"Marina Square",
+				"Esplanade",
+				"Promenade",
+				"Orchard Road",
+				"Kids",
+				"Retail",
+				"Marina Bay",
+				"Family",
+				"Kids",
+				"Infants",
+				"Children",
+				"Gym",
+				"Fitness",
+				"Exercise",
+				"Kids",
+				"Services",
+				"Forum The Shopping Mall",
+				"Activities",
+				"Play"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c52f71c855d5496e56"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5875920046519358-App%20Brand%20Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/23526851963788342-Brand%20Logo_app.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5875920046519358-App%20Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5875920046519358-App%20Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5875920046519358-App%20Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/23526851963788342-Brand%20Logo_app_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/23526851963788342-Brand%20Logo_app_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/23526851963788342-Brand%20Logo_app_high.jpg"
+			},
+			"searchContent": "The Little Gym is the world’s premier enrichment and physical development center for children. Programs offer movement-based learning and imaginative play to help build the confidence and skills needed at each stage of childhood. Participating outlets: Marina Square Forum The Shopping Mall Marina Square Esplanade Promenade Orchard Road Kids Retail Marina Bay Family Kids Infants Children Gym Fitness Exercise Kids Services Forum The Shopping Mall Activities Play Services",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-03T02:42:44.295Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-little-gym-singapore-fdd6051f",
+			"outlets": [
+				{
+					"_id": "60791b11cab4f11a9c25582a",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "60791b7cb1b45918b4853a49",
+					"name": "Forum The Shopping Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Square",
+			"Forum The Shopping Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 5,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Little Gym Singapore",
+		"earnBadge": "Earn 5 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

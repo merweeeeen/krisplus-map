@@ -1,0 +1,173 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/parkroyal-collection-pickering-weddings-31f23c82",
+	"slug": "parkroyal-collection-pickering-weddings-31f23c82",
+	"fetchedAt": "2026-10-26T16:28:41.686+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6618926e849c4500696271fc",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.2
+				},
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 4,
+				"saleOfMiles": 0.046,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"base": 6,
+				"calculatedMilesEarnRate": 6,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Hotel",
+				"Wedding",
+				"Wedding Banquet",
+				"Wedding Lunch",
+				"Wedding Dinner",
+				"Solemnisation",
+				"Wedding Reception",
+				"Hotel Wedding"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"661892785e6d2f0ef365d8a4"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"name": "PARKROYAL PICKERING HOTEL PTE LTD",
+			"brand": "PARKROYAL COLLECTION Pickering Weddings",
+			"code": "PPW",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Pickering Wedd",
+			"address": {
+				"city": "Singapore",
+				"line1": "101 Thomson Road #33-00 United Square",
+				"streetName": "101 Thomson Road",
+				"postalCode": "307591",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ASI",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.tablecheck.com/en/parkroyal-pickering-wedding/reserve/message?utm_source=kris_plus",
+			"descriptionHtml": "<p>From the exquisite cuisine and picture-perfect venues to the personalised service, there’s nothing quite like a PARKROYAL COLLECTION wedding. Elegant glass walls flood the ballroom with natural daylight, while soft colour hues lend an organic feel to the space, creating a stunning backdrop for your special occasion.</p>  <p>Note: Valid for Exclusively Yours Wedding Package only. Total payment(s) via Kris+ is limited to S$20,000 nett per package and is strictly limited to F&B spend.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/47262161541041237-PWED%201.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5364229453579381-PWED%202.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-04-12T01:46:22.408Z",
+			"updatedAt": "2026-08-06T14:18:01.455Z",
+			"privilege": false,
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5364229453579381-PWED%202.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/47262161541041237-PWED%201.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5364229453579381-PWED%202_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5364229453579381-PWED%202_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5364229453579381-PWED%202_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/47262161541041237-PWED%201_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/47262161541041237-PWED%201_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/47262161541041237-PWED%201_high.png"
+			},
+			"searchContent": "From the exquisite cuisine and picture-perfect venues to the personalised service, there’s nothing quite like a PARKROYAL COLLECTION wedding. Elegant glass walls flood the ballroom with natural daylight, while soft colour hues lend an organic feel to the space, creating a stunning backdrop for your special occasion. Note: Valid for Exclusively Yours Wedding Package only. Total payment(s) via Kris+ is limited to S$20,000 nett per package and is strictly limited to F&B spend. Hotel Wedding Wedding Banquet Wedding Lunch Wedding Dinner Solemnisation Wedding Reception Hotel Wedding Dining Casual Dining Asian Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-19T03:30:10.226Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "parkroyal-collection-pickering-weddings-31f23c82",
+			"outlets": [
+				{
+					"_id": "661899c52ed61300693d4c4e",
+					"name": "Parkroyal Pickering Wedding"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Parkroyal Pickering Wedding"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "PARKROYAL COLLECTION Pickering Weddings",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

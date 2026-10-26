@@ -1,0 +1,221 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/scent-by-six-ae865b7c",
+	"slug": "scent-by-six-ae865b7c",
+	"fetchedAt": "2026-10-26T16:28:03.653+08:00",
+	"payload": {
+		"partner": {
+			"_id": "64fa900979a7e00050f62db5",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Scents",
+				"Reed Diffuser",
+				"Fragrance",
+				"Six",
+				"Perfume",
+				"Edt",
+				"Aroma",
+				"Diffuser",
+				"Pillow Mist",
+				"Scent Tag",
+				"Nebulizer",
+				"Spa",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Scent By Six",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [
+				"64ff4ba87a67705fcc71a724"
+			],
+			"name": "La Parfumerie Pte Ltd",
+			"brand": "Scent by SIX",
+			"code": "LPP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Scent by SIX",
+			"address": {
+				"line1": "24 Boon Lay Way, Trade Hub 21, #01-66, Singapore 609969",
+				"postalCode": "609969",
+				"streetName": "24 Boon Lay Way, Trade Hub",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BEA",
+								"HL"
+							]
+						}
+					]
+				}
+			],
+			"regNumber": "201431333D",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7298092107108372-pink%20neb%20w%20ae%20750%20x%20540%20px.png",
+			"websiteUrl": "https://www.scentbysix.com/",
+			"descriptionHtml": "<p>Scent by SIX, a homegrown label that champions mental health, using scents to soothe, to heal and to delight our mental wellness. The products are made in collaboration with world renowned perfumers using premium ingredients and raw materials, sourced sustainably.</p>  <p>Participating outlets:<br> •    313@Somerset <br> •    Bugis Junction<br> •    JEM<br> </p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7528328302789069-3254696084827784-1000x1000.png",
+			"createdAt": "2023-09-08T03:07:53.275Z",
+			"updatedAt": "2026-08-06T14:17:47.734Z",
+			"acceptedCurrencyCode": "SGD",
+			"privilege": false,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7298092107108372-pink%20neb%20w%20ae%20750%20x%20540%20px.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7528328302789069-3254696084827784-1000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7298092107108372-pink%20neb%20w%20ae%20750%20x%20540%20px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7298092107108372-pink%20neb%20w%20ae%20750%20x%20540%20px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7298092107108372-pink%20neb%20w%20ae%20750%20x%20540%20px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7528328302789069-3254696084827784-1000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7528328302789069-3254696084827784-1000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7528328302789069-3254696084827784-1000x1000_high.png"
+			},
+			"searchContent": "Scent by SIX, a homegrown label that champions mental health, using scents to soothe, to heal and to delight our mental wellness. The products are made in collaboration with world renowned perfumers using premium ingredients and raw materials, sourced sustainably. Participating outlets: • 313@Somerset • Bugis Junction • JEM Scents Reed Diffuser Fragrance Six Perfume Edt Aroma Diffuser Pillow Mist Scent Tag Nebulizer Spa Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Treatment Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Scent By Six Ruhens Grohe Hansgrohe Mayer Simmons Sealy Retail Beauty Home & Lifestyle",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-05-13T01:36:28.267Z",
+			"newMerchantEndDate": null,
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "scent-by-six-ae865b7c",
+			"outlets": [
+				{
+					"_id": "6508f52d097a8200567434cf",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "6508f8f92c9010005567e9db",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "6508f970e3eac90056ab9a83",
+					"name": "JEM"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset",
+			"Bugis Junction",
+			"JEM"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Scent by SIX",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,187 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-experts-sound-f9767727",
+	"slug": "the-experts-sound-f9767727",
+	"fetchedAt": "2026-10-26T16:24:08.815+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e73126e0200c55dd0db9fbd",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "The Experts Group Pte Ltd",
+			"brand": "The Experts Sound",
+			"code": "BNW",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "50 Gambas Crescent, #10-41 Proxima at Gambas",
+				"postalCode": "757022",
+				"streetName": "Gambas Crescent"
+			},
+			"category": "RETAIL",
+			"regNumber": "200720199G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/2359856702103882-5850417410705042-Privilege%20image%20App%20750_540px.jpg",
+			"websiteUrl": "https://www.facebook.com/TheExpertsGroup.SG/",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9680009825633353-5409190256276566-TEG%20new%20logo_square.jpg",
+			"createdAt": "2020-03-19T06:34:22.239Z",
+			"updatedAt": "2026-08-06T14:17:09.423Z",
+			"categary": "Electronics and Technology",
+			"hideFromCustomer": false,
+			"description": "",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "Funan Mall",
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy 15% off selected wireless noise cancelling headphones and wireless speakers. To enjoy this privilege, enquire instore to find out more.\n\nTerms and Conditions:\n•\tPrivilege is only applicable on selected models. \n\nFind out more at:\nhttps://facebook.com/bwsingapore",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5732",
+			"mccDescription": "Electronics Stores",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"countryCode": "SG",
+			"descriptionHtml": "<p>The Experts Sound curates and partners with leading sound and vision brands from different parts of the world to deliver world’s finest sound at their immersive showrooms.</p>\n\n<p>As an expert service provider, they are focused on delivering top-notch pre-sales consultation and post-sales services.  Their showroom sales consultants were honored “Best of Service Star” by Singapore Tourism Board in 2012.</p>\n\n<p>Participating Outlet: Funan Mall</p>",
+			"shortName": "TES23",
+			"searchableKeywords": [
+				"City Hall",
+				"North Bridge Road",
+				"South Bridge Road",
+				"Eu Tong Seng Street",
+				"Clarke Quay",
+				"Living",
+				"Home",
+				"Central",
+				"City",
+				"Speakers",
+				"Sound Systems",
+				"Sound Bar",
+				"Home Improvement",
+				"Birthday",
+				"Headphones",
+				"Earphones",
+				"Funan Mall",
+				"Cinema",
+				"Noise Cancelling",
+				"Hifi",
+				"Home Appliances",
+				"Retail",
+				"Ear Piece",
+				"Svs",
+				"The Experts Sound",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy",
+				"Homefurnishing"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"HL"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9e19d00b0a527865c36"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2359856702103882-5850417410705042-Privilege%20image%20App%20750_540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9680009825633353-5409190256276566-TEG%20new%20logo_square.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2359856702103882-5850417410705042-Privilege%20image%20App%20750_540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2359856702103882-5850417410705042-Privilege%20image%20App%20750_540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2359856702103882-5850417410705042-Privilege%20image%20App%20750_540px_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9680009825633353-5409190256276566-TEG%20new%20logo_square_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9680009825633353-5409190256276566-TEG%20new%20logo_square_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9680009825633353-5409190256276566-TEG%20new%20logo_square_high.jpg"
+			},
+			"searchContent": "The Experts Sound curates and partners with leading sound and vision brands from different parts of the world to deliver world’s finest sound at their immersive showrooms. As an expert service provider, they are focused on delivering top-notch pre-sales consultation and post-sales services. Their showroom sales consultants were honored “Best of Service Star” by Singapore Tourism Board in 2012. Participating Outlet: Funan Mall City Hall North Bridge Road South Bridge Road Eu Tong Seng Street Clarke Quay Living Home Central City Speakers Sound Systems Sound Bar Home Improvement Birthday Headphones Earphones Funan Mall Cinema Noise Cancelling Hifi Home Appliances Retail Ear Piece Svs The Experts Sound Ruhens Grohe Hansgrohe Mayer Simmons Sealy Homefurnishing Retail Home & Lifestyle",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-experts-sound-f9767727",
+			"outlets": [
+				{
+					"_id": "5ed217975fd52212fc69fdaf",
+					"name": "Funan"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Funan"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Experts Sound",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

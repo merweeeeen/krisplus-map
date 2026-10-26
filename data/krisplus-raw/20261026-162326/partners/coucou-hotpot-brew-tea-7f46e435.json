@@ -1,0 +1,177 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/coucou-hotpot-brew-tea-7f46e435",
+	"slug": "coucou-hotpot-brew-tea-7f46e435",
+	"fetchedAt": "2026-10-26T16:30:10.801+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6805ae9814e07d04129f3108",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.023,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 7,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.4,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Hotpot",
+				"Chinese",
+				"Asian",
+				"Tea",
+				"Bubble Tea",
+				"FortuneFeast"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Xiabu Xiabu Catering Management (Singapore) Pte Ltd",
+			"brand": "Coucou Hotpot . Brew Tea",
+			"code": "COU",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Coucou Hotpot",
+			"address": {
+				"line1": "8 WILKIE ROAD #03-01 WILKIE EDGE",
+				"postalCode": "228095",
+				"streetName": "8 WILKIE ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"BD",
+								"CHI",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.facebook.com/coucouhotpotsg/",
+			"descriptionHtml": "<p><em style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"http://sqkrisplus.page.link/redirect?screen=makan_intermediary\" style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"box-sizing: border-box; font-weight: 300;\">Reserve A Table</u>.</a><br><br></em>Inspired by the idea of “gathering,” Coucou blends premium hotpot with authentic brewed tea, creating a heartfelt dining experience. Since 2016, they have redefined social dining with themed interiors, warm Taiwanese-style service, and signature flavors like Taiwanese Mala Soup and Da Hong Pao Milk Tea.</p><p>Participating outlets: <br>- Jewel Changi Airport <br>- Suntec City Mall</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3812978360708159-Coucou.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/10308301327106606-7776855255150528-Coucou%20Hotpot%20Kis%2B%20Brand%20Image.png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3812978360708159-Coucou.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/10308301327106606-7776855255150528-Coucou%20Hotpot%20Kis%2B%20Brand%20Image.png",
+			"createdAt": "2025-04-21T02:34:00.457Z",
+			"updatedAt": "2026-09-30T16:00:02.158Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/10308301327106606-7776855255150528-Coucou%20Hotpot%20Kis%2B%20Brand%20Image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/10308301327106606-7776855255150528-Coucou%20Hotpot%20Kis%2B%20Brand%20Image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/10308301327106606-7776855255150528-Coucou%20Hotpot%20Kis%2B%20Brand%20Image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3812978360708159-Coucou_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3812978360708159-Coucou_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3812978360708159-Coucou_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-02T02:02:01.398Z",
+			"searchContent": "*Click here to Reserve A Table. Inspired by the idea of “gathering,” Coucou blends premium hotpot with authentic brewed tea, creating a heartfelt dining experience. Since 2016, they have redefined social dining with themed interiors, warm Taiwanese-style service, and signature flavors like Taiwanese Mala Soup and Da Hong Pao Milk Tea. Participating outlets: - Jewel Changi Airport - Suntec City Mall Hotpot Chinese Asian Tea Bubble Tea FortuneFeast Dining Casual Dining Kid-Friendly Beverages & Desserts Chinese Asian",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "coucou-hotpot-brew-tea-7f46e435",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6805b33b14e07d04129f3b81",
+					"name": "Jewel Changi Airport"
+				},
+				{
+					"_id": "6805b3d3ff1bfe0419cec684",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jewel Changi Airport",
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Coucou Hotpot . Brew Tea",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

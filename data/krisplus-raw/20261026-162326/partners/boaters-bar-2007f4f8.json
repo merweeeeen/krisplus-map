@@ -1,0 +1,182 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/boaters-bar-2007f4f8",
+	"slug": "boaters-bar-2007f4f8",
+	"fetchedAt": "2026-10-26T16:32:20.165+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6954e6dd78c4a47a9624672e",
+			"name": "SUTL MARINA DEVELOPMENT PTE LTD (Boaters Bar)",
+			"shortName": "Boaters Bar",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Boaters Bar",
+			"code": "BSB",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/695379043758817-BoatersBar.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9672628702670629-7208902890800364-750x540%20(9).png",
+			"websiteUrl": "https://boatersbar.sg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "11 Cove Drive",
+				"postalCode": "098497",
+				"streetName": "Sentosa Cove",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Boaters%20Bar\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(0, 86, 179); text-decoration: underline; background-color: transparent; cursor: pointer;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Perched on water and fired by lava rock, Boaters Bar is Singapore’s only floating bar and grill — where sunsets sizzle and good times come well done. Tuck into flame-licked bites grilled à la minute, paired with cheeky craft cocktails and curated pours. Laid-back luxe with a wink — especially on Wednesdays and Fridays, when live DJs and acoustic acts turn up the tempo.</p>",
+			"searchableKeywords": [
+				"Beer",
+				"wine",
+				"happy hour",
+				"craft beer",
+				"cocktail",
+				"bar bites",
+				"bar",
+				"ladies night",
+				"DJ",
+				"1for1",
+				"petfriendly",
+				"sentosa",
+				"alfresco",
+				"sunset",
+				"drinks"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"PB",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-31T09:03:25.481Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/695379043758817-BoatersBar.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9672628702670629-7208902890800364-750x540%20(9).png",
+			"createdAt": "2025-12-31T09:03:25.491Z",
+			"updatedAt": "2026-08-06T14:18:27.452Z",
+			"searchContent": "*Click here to Reserve A Table. Perched on water and fired by lava rock, Boaters Bar is Singapore’s only floating bar and grill — where sunsets sizzle and good times come well done. Tuck into flame-licked bites grilled à la minute, paired with cheeky craft cocktails and curated pours. Laid-back luxe with a wink — especially on Wednesdays and Fridays, when live DJs and acoustic acts turn up the tempo. Beer wine happy hour craft beer cocktail bar bites bar ladies night DJ 1for1 petfriendly sentosa alfresco sunset drinks Dining Vegetarian-Friendly Casual Dining Pubs & Bars Beverages & Desserts Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9672628702670629-7208902890800364-750x540%20(9)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9672628702670629-7208902890800364-750x540%20(9)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9672628702670629-7208902890800364-750x540%20(9)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/695379043758817-BoatersBar_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/695379043758817-BoatersBar_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/695379043758817-BoatersBar_high.png"
+			},
+			"newMerchantEndDate": "2026-03-26T15:59:59.999Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "boaters-bar-2007f4f8",
+			"outlets": [
+				{
+					"_id": "6954e8952b54b67cf339d54b",
+					"name": "Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Boaters Bar",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

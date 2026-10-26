@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/swaf-sake-wine-and-food-60dd0bfb",
+	"slug": "swaf-sake-wine-and-food-60dd0bfb",
+	"fetchedAt": "2026-10-26T16:33:37.181+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a365014521de511a4280516",
+			"name": "WEYS PROJECTS PTE LTD",
+			"shortName": "SWaF",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "SWaF (Sake Wine and Food)",
+			"code": "SWF",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/606613549603132-9518492420170352-Logo%20(2).png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6505176682669669-42389768993291654-Brand%20Image%20(2).png",
+			"websiteUrl": "https://linktr.ee/swaf.sg",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "1 TANGLIN ROAD  #02-17",
+				"postalCode": "247905",
+				"streetName": "ORCHARD RENDEZVOUS HOTEL",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">SWaF (Sake Wine and Food) at Orchard Rendezvous Hotel offers a captivating blend of modern Japanese tapas and sophisticated bar culture. This new destination is a perfect spot for unwinding after a long day or celebrating with friends in an intimate setting.</span></p>",
+			"searchableKeywords": [
+				"Pubs",
+				"Bars",
+				"Dining",
+				"Casual Dinning",
+				"FoodBeverage",
+				"Japanese",
+				"Asian"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"JAP",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-20T08:32:20.586Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/606613549603132-9518492420170352-Logo%20(2).png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6505176682669669-42389768993291654-Brand%20Image%20(2).png",
+			"createdAt": "2026-06-20T08:32:20.599Z",
+			"updatedAt": "2026-08-06T14:18:32.825Z",
+			"searchContent": "SWaF (Sake Wine and Food) at Orchard Rendezvous Hotel offers a captivating blend of modern Japanese tapas and sophisticated bar culture. This new destination is a perfect spot for unwinding after a long day or celebrating with friends in an intimate setting. Pubs Bars Dining Casual Dinning FoodBeverage Japanese Asian Dining Casual Dining Japanese Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6505176682669669-42389768993291654-Brand%20Image%20(2)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6505176682669669-42389768993291654-Brand%20Image%20(2)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6505176682669669-42389768993291654-Brand%20Image%20(2)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/606613549603132-9518492420170352-Logo%20(2)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/606613549603132-9518492420170352-Logo%20(2)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/606613549603132-9518492420170352-Logo%20(2)_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "swaf-sake-wine-and-food-60dd0bfb",
+			"outlets": [
+				{
+					"_id": "6a3652131bde345462cddeb9",
+					"name": "Orchard Rendezvous Hotel"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Orchard Rendezvous Hotel"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SWaF (Sake Wine and Food)",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

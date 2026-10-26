@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/ctc-travel-a7367c8c",
+	"slug": "ctc-travel-a7367c8c",
+	"fetchedAt": "2026-10-26T16:27:13.819+08:00",
+	"payload": {
+		"partner": {
+			"_id": "636a12e41a44801908f042b2",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Travel",
+				"Tour",
+				"Holidays",
+				"Itinerary",
+				"Ticket",
+				"Overseas",
+				"Chinatown",
+				"People’S Park Centre",
+				"Services",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "COMMONWEALTH TRAVEL SERVICE CORPORATION PTE LTD",
+			"brand": "CTC Travel",
+			"code": "CTC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "CTC Travel",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "101 Upper Cross Street, #02-33, People's Park Centre",
+				"postalCode": "058357",
+				"streetName": "101 Upper Cross Street,"
+			},
+			"regNumber": "199000981G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/03583230353949385-35195184591186246-CTC_BrandImage_app.jpg.png",
+			"websiteUrl": "https://www.facebook.com/CTCTravel.sg/",
+			"descriptionHtml": "<p>CTC Travel, Singapore’s leading travel and tour operator, is a one-stop travel hub that provides a wide array of services travel services including Outbound Tour Packages, Flexi Holidays, Customised & Private Touring Experiences; MICE/Incentive Travel, Educational & Immersion Programs and many more.</p>\n\n<p>Together with their worldwide network with hotels, tourism offices and embassies, CTC Travel aims to deliver the best travel deals to their clients.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/07739995938300259-6468414744843725-CTC_Logo_4C.png",
+			"createdAt": "2022-11-08T08:27:16.124Z",
+			"updatedAt": "2026-08-06T14:17:38.116Z",
+			"participatingOutlets": "                 ",
+			"promotional": "                 ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9623d10e34df66b470a"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/03583230353949385-35195184591186246-CTC_BrandImage_app.jpg.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/07739995938300259-6468414744843725-CTC_Logo_4C.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/03583230353949385-35195184591186246-CTC_BrandImage_app_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/03583230353949385-35195184591186246-CTC_BrandImage_app_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/03583230353949385-35195184591186246-CTC_BrandImage_app_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/07739995938300259-6468414744843725-CTC_Logo_4C_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/07739995938300259-6468414744843725-CTC_Logo_4C_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/07739995938300259-6468414744843725-CTC_Logo_4C_high.png"
+			},
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-16T02:15:28.577Z",
+			"searchContent": "CTC Travel, Singapore’s leading travel and tour operator, is a one-stop travel hub that provides a wide array of services travel services including Outbound Tour Packages, Flexi Holidays, Customised & Private Touring Experiences; MICE/Incentive Travel, Educational & Immersion Programs and many more. Together with their worldwide network with hotels, tourism offices and embassies, CTC Travel aims to deliver the best travel deals to their clients. Travel Tour Holidays Itinerary Ticket Overseas Chinatown People’S Park Centre Services Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Services",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "ctc-travel-a7367c8c",
+			"outlets": [
+				{
+					"_id": "636b39c09ed8f126506cca00",
+					"name": "People's Park Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"People's Park Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "CTC Travel",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

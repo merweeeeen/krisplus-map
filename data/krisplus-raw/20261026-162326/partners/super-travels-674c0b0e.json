@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/super-travels-674c0b0e",
+	"slug": "super-travels-674c0b0e",
+	"fetchedAt": "2026-10-26T16:27:11.616+08:00",
+	"payload": {
+		"partner": {
+			"_id": "636470696d37fe2ab4700765",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Europe Tour",
+				"Europe Tour Package",
+				"New Zealand Tour Package",
+				"Iceland Tour Package",
+				"Japan Tour Package",
+				"China Tour Package",
+				"China Tour",
+				"Spain Tour Package",
+				"Switzerland Tour Package",
+				"Swiss Tour Package",
+				"Germany Tour Package",
+				"Germany Tour",
+				"Turkey Tour Package",
+				"Morocco Tour Package",
+				"Alaska Tour Package",
+				"Holiday",
+				"Chinatown",
+				"Peoples Park Complex",
+				"Services",
+				"Travel Agent"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "SUPER TRAVELS PTE LTD",
+			"brand": "Super Travels",
+			"code": "SUP",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "SuperTravels",
+			"address": {
+				"city": "Singapore",
+				"line1": "133 NEW BRIDGE ROAD, #03-01/02 CHINATOWN POINT, SINGAPORE 059413",
+				"streetName": "133 NEW BRIDGE ROAD",
+				"postalCode": "059413",
+				"cityCode": "SIN"
+			},
+			"regNumber": "197800905G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5134337602555847-29596329018252-ST_FB_Banner.jpg",
+			"websiteUrl": "https://super-travels.com/",
+			"descriptionHtml": "<p>Super Travels is Singapore's leading travel agency specialising in tours to everywhere around the world! The company endeavours to provide the best tour packages to the market to achieve its vision of the “Best Itinerary, Best Price, Best Service, All at Super”.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7417176621238866-6743859458644306-ST_FB_LOGO.jpg",
+			"createdAt": "2022-11-04T01:52:41.891Z",
+			"updatedAt": "2026-08-06T14:17:38.036Z",
+			"participatingOutlets": "                        ",
+			"promotional": "                        ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96345578ca5d7f0b390"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5134337602555847-29596329018252-ST_FB_Banner.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7417176621238866-6743859458644306-ST_FB_LOGO.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5134337602555847-29596329018252-ST_FB_Banner_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5134337602555847-29596329018252-ST_FB_Banner_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5134337602555847-29596329018252-ST_FB_Banner_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7417176621238866-6743859458644306-ST_FB_LOGO_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7417176621238866-6743859458644306-ST_FB_LOGO_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7417176621238866-6743859458644306-ST_FB_LOGO_high.jpg"
+			},
+			"searchContent": "Super Travels is Singapore's leading travel agency specialising in tours to everywhere around the world! The company endeavours to provide the best tour packages to the market to achieve its vision of the “Best Itinerary, Best Price, Best Service, All at Super”. Europe Tour Europe Tour Package New Zealand Tour Package Iceland Tour Package Japan Tour Package China Tour Package China Tour Spain Tour Package Switzerland Tour Package Swiss Tour Package Germany Tour Package Germany Tour Turkey Tour Package Morocco Tour Package Alaska Tour Package Holiday Chinatown Peoples Park Complex Services Travel Agent Services",
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-07-27T02:13:00.431Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "super-travels-674c0b0e",
+			"outlets": [
+				{
+					"_id": "636475ac9ed8f1265066addd",
+					"name": "Chinatown Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Chinatown Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Super Travels",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

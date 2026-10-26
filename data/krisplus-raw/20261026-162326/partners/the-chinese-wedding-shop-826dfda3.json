@@ -1,0 +1,211 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-chinese-wedding-shop-826dfda3",
+	"slug": "the-chinese-wedding-shop-826dfda3",
+	"fetchedAt": "2026-10-26T16:34:00.234+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a7293820611a467e17615df",
+			"name": "WEDDING MONKEY PTE LTD",
+			"shortName": "The Chinese We",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "The Chinese Wedding Shop",
+			"code": "TCW",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9224615997548611-7456104892429407-260px_Kris.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/39590354532424366-3846455741185424-750x540px.png",
+			"websiteUrl": "https://www.thechineseweddingshop.com.sg/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "398 Kallang Road #16-01 Singapore 339098",
+				"postalCode": "339098",
+				"streetName": "398 Kallang Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">The Chinese Wedding Shop is a one-stop destination     specialising in traditional Chinese wedding customs such as Guo Da Li, dowry,     bed-setting, tea ceremonies, and more.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">With 5 outlets across the island, The Chinese Wedding Shop     offers a wide selection of exquisite wedding essentials. Established 17 years     ago, the brand is well-regarded for its exceptional service and high-quality     products.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>Bedok North St 1</li><li>JEM</li><li>Jubilee Square</li><li>Jurong Point</li><li>Parkway Parade</li></ul>      ",
+			"searchableKeywords": [
+				"Betrothal",
+				"guo da li",
+				"an chuang",
+				"dowry",
+				"jia zhuang",
+				"hui li",
+				"tea ceremony",
+				"teaset",
+				"bowl set",
+				"red packet",
+				"angbao",
+				"ang pow",
+				"basket",
+				"decoration",
+				"chinese wedding",
+				"bridal",
+				"red cloth",
+				"candles",
+				"lamps",
+				"pin jin",
+				"wedding",
+				"Chinese new year",
+				"traditional",
+				"Chinese customs",
+				"retail",
+				"jubilee square",
+				"ang mo kio",
+				"AMK",
+				"JEM",
+				"Jurong east",
+				"Jurong point",
+				"boon lay",
+				"parkway parade",
+				"marine parade",
+				"Bedok north"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.026,
+				"amountBlock": 2,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.3
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": "2026-10-14T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-08-05T01:36:02.896Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9224615997548611-7456104892429407-260px_Kris.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/39590354532424366-3846455741185424-750x540px.png",
+			"createdAt": "2026-08-05T01:36:02.905Z",
+			"updatedAt": "2026-08-14T01:58:11.017Z",
+			"searchContent": "The Chinese Wedding Shop is a one-stop destination specialising in traditional Chinese wedding customs such as Guo Da Li, dowry, bed-setting, tea ceremonies, and more. With 5 outlets across the island, The Chinese Wedding Shop offers a wide selection of exquisite wedding essentials. Established 17 years ago, the brand is well-regarded for its exceptional service and high-quality products. Participating outlets: Bedok North St 1JEMJubilee SquareJurong PointParkway Parade Betrothal guo da li an chuang dowry jia zhuang hui li tea ceremony teaset bowl set red packet angbao ang pow basket decoration chinese wedding bridal red cloth candles lamps pin jin wedding Chinese new year traditional Chinese customs retail jubilee square ang mo kio AMK JEM Jurong east Jurong point boon lay parkway parade marine parade Bedok north Retail Gifts & Souvenirs",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/39590354532424366-3846455741185424-750x540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/39590354532424366-3846455741185424-750x540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/39590354532424366-3846455741185424-750x540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9224615997548611-7456104892429407-260px_Kris_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9224615997548611-7456104892429407-260px_Kris_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9224615997548611-7456104892429407-260px_Kris_high.png"
+			},
+			"slugId": "the-chinese-wedding-shop-826dfda3",
+			"outlets": [
+				{
+					"_id": "6a729674788fb1512ebfed43",
+					"name": "Jubilee Square"
+				},
+				{
+					"_id": "6a7296ecd9f5edf70a9970fa",
+					"name": "Jem"
+				},
+				{
+					"_id": "6a72976afb98d846878449cb",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "6a7297ebc4e25a220b77c34b",
+					"name": "Blk 214 Bedok North Street 1"
+				},
+				{
+					"_id": "6a729845d4d3ecea1c5090b6",
+					"name": "Parkway Parade"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Jubilee Square",
+			"Jem",
+			"Jurong Point",
+			"Blk 214 Bedok North Street 1",
+			"Parkway Parade"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Chinese Wedding Shop",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

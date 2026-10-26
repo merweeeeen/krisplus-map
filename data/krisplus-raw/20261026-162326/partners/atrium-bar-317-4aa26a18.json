@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/atrium-bar-317-4aa26a18",
+	"slug": "atrium-bar-317-4aa26a18",
+	"fetchedAt": "2026-10-26T16:28:49.630+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6666af57e62af7006758e4e6",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 3,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 9.6
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Happy Hour",
+				"Beer",
+				"Cocktail",
+				"Alcohol",
+				"Sandwiches",
+				"Light Bite",
+				"Bar",
+				"Drinks",
+				"Live Band"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Holiday Inn Singapore Atrium - Bar 317",
+			"brand": "Atrium Bar 317",
+			"code": "AB3",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Atrium Bar 317",
+			"address": {
+				"line1": "317 Outram Road, Holiday Inn Atrium, Singapore 169075",
+				"postalCode": "169075",
+				"streetName": "317 OUTRAM ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB",
+								"CAF",
+								"CD",
+								"QBS",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://singaporeatrium.holidayinn.com/atrium-bar-317",
+			"descriptionHtml": "<p>Experience dynamic dining at Atrium Bar 317. Grab a sandwich, enjoy lunch, or unwind with cocktails, beers, and wines while watching live sports.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5031007094438529-Atrium%20Bar%20317%20-%20Black%20JPG.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6778468460699425-Atrium%20Bar317%20photo_750x540px.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-06-10T07:46:31.617Z",
+			"updatedAt": "2026-08-06T14:18:03.814Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5031007094438529-Atrium%20Bar%20317%20-%20Black%20JPG_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5031007094438529-Atrium%20Bar%20317%20-%20Black%20JPG_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5031007094438529-Atrium%20Bar%20317%20-%20Black%20JPG_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6778468460699425-Atrium%20Bar317%20photo_750x540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5031007094438529-Atrium%20Bar%20317%20-%20Black%20JPG.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6778468460699425-Atrium%20Bar317%20photo_750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6778468460699425-Atrium%20Bar317%20photo_750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6778468460699425-Atrium%20Bar317%20photo_750x540px_high.jpg"
+			},
+			"searchContent": "Experience dynamic dining at Atrium Bar 317. Grab a sandwich, enjoy lunch, or unwind with cocktails, beers, and wines while watching live sports. Happy Hour Beer Cocktail Alcohol Sandwiches Light Bite Bar Drinks Live Band Dining Pubs & Bars Cafe Casual Dining Quick Bites & Snacks Beverages & Desserts Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-05T08:14:04.640Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "atrium-bar-317-4aa26a18",
+			"outlets": [
+				{
+					"_id": "6666b1cf067add006857c992",
+					"name": "Holiday Inn Atrium Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Holiday Inn Atrium Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Atrium Bar 317",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

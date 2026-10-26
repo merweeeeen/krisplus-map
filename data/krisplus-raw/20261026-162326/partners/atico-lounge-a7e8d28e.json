@@ -1,0 +1,176 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/atico-lounge-a7e8d28e",
+	"slug": "atico-lounge-a7e8d28e",
+	"fetchedAt": "2026-10-26T16:27:34.705+08:00",
+	"payload": {
+		"partner": {
+			"_id": "64127afd780626005c8d7210",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Penthouse",
+				"Panoramicviews",
+				"Ion Orchard",
+				"Exclusive",
+				"Cocktail",
+				"High Tea",
+				"Dining",
+				"Orchard"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "1-Atico Pte Ltd",
+			"brand": "Atico Lounge",
+			"code": "AT7",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Atico Lounge",
+			"address": {
+				"line1": "211 Henderson Road #04-03",
+				"postalCode": "159552",
+				"streetName": "211 Henderson Road #04-03",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201907382W",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/9614078541494959-6733323330315455-Atico%20x%20Kris%20Brand%20Image%20(750x540px).png",
+			"websiteUrl": "https://www.1-atico.sg/atico-lounge/",
+			"descriptionHtml": "<p>A multi-concept sky high lifestyle destination in the heart of Singapore’s luxury shopping precinct Orchard Road, 1-ATICO (Spanish for “Penthouse”) is perched atop Singapore’s most iconic shopping mall, ION Orchard. A unique coalescence of three different concepts under one roof - FIRE, FLNT and 1-Atico Ultra Lounge, the space is animated by a luxurious array of sounds, scents and lighting, envisioned to provide gastronomic fire-in-the-sky experiences accompanied by world-class service, dynamic entertainment and unparalleled views of the city.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2987038643302904-6167433860571587-bw%20Logo%20(1000%20x%201000).png",
+			"createdAt": "2023-03-16T02:12:13.230Z",
+			"updatedAt": "2026-09-18T08:25:29.903Z",
+			"participatingOutlets": "          ",
+			"promotional": "     ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"PB"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef952a65eaf5ea7682873"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9614078541494959-6733323330315455-Atico%20x%20Kris%20Brand%20Image%20(750x540px).png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2987038643302904-6167433860571587-bw%20Logo%20(1000%20x%201000).png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9614078541494959-6733323330315455-Atico%20x%20Kris%20Brand%20Image%20(750x540px)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9614078541494959-6733323330315455-Atico%20x%20Kris%20Brand%20Image%20(750x540px)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9614078541494959-6733323330315455-Atico%20x%20Kris%20Brand%20Image%20(750x540px)_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2987038643302904-6167433860571587-bw%20Logo%20(1000%20x%201000)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2987038643302904-6167433860571587-bw%20Logo%20(1000%20x%201000)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2987038643302904-6167433860571587-bw%20Logo%20(1000%20x%201000)_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-12-10T09:32:04.126Z",
+			"searchContent": "A multi-concept sky high lifestyle destination in the heart of Singapore’s luxury shopping precinct Orchard Road, 1-ATICO (Spanish for “Penthouse”) is perched atop Singapore’s most iconic shopping mall, ION Orchard. A unique coalescence of three different concepts under one roof - FIRE, FLNT and 1-Atico Ultra Lounge, the space is animated by a luxurious array of sounds, scents and lighting, envisioned to provide gastronomic fire-in-the-sky experiences accompanied by world-class service, dynamic entertainment and unparalleled views of the city. Penthouse Panoramicviews Ion Orchard Exclusive Cocktail High Tea Dining Orchard Dining Pubs & Bars",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "atico-lounge-a7e8d28e",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "64193042bb1cf30052a54ea1",
+					"name": "ION Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"ION Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Atico Lounge",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

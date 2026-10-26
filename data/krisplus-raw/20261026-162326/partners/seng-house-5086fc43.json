@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/seng-house-5086fc43",
+	"slug": "seng-house-5086fc43",
+	"fetchedAt": "2026-10-26T16:29:19.769+08:00",
+	"payload": {
+		"partner": {
+			"_id": "673aa950d424490072408655",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 3,
+				"baseFundedByKrisPlus": 5,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 8,
+				"calculatedMilesEarnRate": 8,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Café",
+				"Casual",
+				"Western",
+				"Hainanese",
+				"Coffee",
+				"Wine",
+				"Breakfast",
+				"Brunch"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Seng House Pte Ltd",
+			"brand": "Seng House",
+			"code": "HOU",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Seng House",
+			"address": {
+				"city": "Singapore",
+				"line1": "389 Changi Road Singapore 419838",
+				"streetName": "389 Changi Road",
+				"postalCode": "419838",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [
+								"CAF",
+								"CD",
+								"KID",
+								"QBS",
+								"BD",
+								"ASI",
+								"WES"
+							],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"websiteUrl": "https://www.senghouse.sg",
+			"descriptionHtml": "<p>Seng House is The Seng People's latest venture, building on the family's tradition of serving homely dishes with familiar local flavors. Named in honor of their father, the cafe aims to blend traditional Hainanese flavors with modern Western café fare, creating a fresh and youthful dining experience with an eclectic and compelling menu.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/645309355114583-3499494886829211-(A)%20Brand%20logo%20V1.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8798319362388685-13307740824709602-(C)%20Brand%20Imageb%20V1.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"createdAt": "2024-11-18T02:41:20.484Z",
+			"updatedAt": "2026-09-30T16:00:06.232Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8798319362388685-13307740824709602-(C)%20Brand%20Imageb%20V1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8798319362388685-13307740824709602-(C)%20Brand%20Imageb%20V1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8798319362388685-13307740824709602-(C)%20Brand%20Imageb%20V1_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/645309355114583-3499494886829211-(A)%20Brand%20logo%20V1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/645309355114583-3499494886829211-(A)%20Brand%20logo%20V1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/645309355114583-3499494886829211-(A)%20Brand%20logo%20V1_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8798319362388685-13307740824709602-(C)%20Brand%20Imageb%20V1.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/645309355114583-3499494886829211-(A)%20Brand%20logo%20V1.jpg",
+			"searchContent": "Seng House is The Seng People's latest venture, building on the family's tradition of serving homely dishes with familiar local flavors. Named in honor of their father, the cafe aims to blend traditional Hainanese flavors with modern Western café fare, creating a fresh and youthful dining experience with an eclectic and compelling menu. Café Casual Western Hainanese Coffee Wine Breakfast Brunch Dining Cafe Casual Dining Kid-Friendly Quick Bites & Snacks Beverages & Desserts Asian Western",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "seng-house-5086fc43",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-09-30T16:00:06.231Z",
+			"outlets": [
+				{
+					"_id": "673c268381a2100072d78f45",
+					"name": "Tanjong Katong Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tanjong Katong Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Seng House",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

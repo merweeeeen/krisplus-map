@@ -1,0 +1,313 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/benjamin-barker-b37347c8",
+	"slug": "benjamin-barker-b37347c8",
+	"fetchedAt": "2026-10-26T16:26:57.673+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6305c390ce59d425d814e57e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 50000,
+				"minTokens": 10000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Menswear",
+				"Men",
+				"Suits",
+				"Shirt",
+				"Formal",
+				"Casual",
+				"Polo Tees",
+				"T Shirts",
+				"Tees",
+				"Polos",
+				"Bedsheets",
+				"Tencel",
+				"Bugis Junction",
+				"Funan",
+				"City Hall",
+				"Imm",
+				"Jurong East",
+				"Jem",
+				"Marina Square",
+				"Esplanade",
+				"Ngee Ann City",
+				"Somerset",
+				"Orchard Cineleisure",
+				"Parkway Parade",
+				"Suntec City",
+				"Promenade",
+				"Tampines One",
+				"Tampines 1",
+				"The Cathay",
+				"Dhoby Ghaut",
+				"Vivocity",
+				"Vivo City",
+				"Harbourfront",
+				"Orchard",
+				"Wheelock Place",
+				"Retail",
+				"Plaza Singapura",
+				"Ion Orchard",
+				"Newclothes",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Benjamin Barker Aust Pte Ltd",
+			"brand": "Benjamin Barker",
+			"code": "BJB",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5691",
+			"shortName": "BenjaminBarker",
+			"address": {
+				"line1": "132 Joo Seng Road #02-02 Singapore 368358",
+				"postalCode": "368358",
+				"streetName": "132 Joo Seng Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/26239973219220425-BB%20New%20Brand%20Image.jpg",
+			"websiteUrl": "https://www.benjaminbarker.co/",
+			"descriptionHtml": "<p>Benjamin Barker is a purveyor of smart-casual, heritage-inspired apparel and a lifestyle destination for the discerning gentleman.</p>  <p>From the fit, construction and form, they develop and explore different fabrics with modernised style details to add personality and other thoughtful touches.</p>  <p>Suits, shoes and accessories - a one-stop retail destination to complete the look of the distinguished connoisseur.</p>  <p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Participating outlets:</span></span></p>  <ul><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">313@Somerset </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Bugis Junction</span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Cluny Court</span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Funan </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">ION Orchard </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">IMM </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">JEM </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Marina Square </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Ngee Ann City </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Orchard Cineleisure </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Parkway Parade</span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Plaza Singapura </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Suntec City </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">Tampines 1 </span></span></li><li><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\">VivoCity<br> </span></span></li></ul>",
+			"countryCode": "SG",
+			"mccDescription": "Mens and womens clothing stores",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8463395109000984-BB_KrisPlus_22-A-BrandLogo.png",
+			"createdAt": "2022-08-24T06:22:08.188Z",
+			"updatedAt": "2026-09-01T01:38:31.475Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"regNumber": "200903891C",
+			"participatingOutlets": "•\tBugis Junction\n•\tFunan\n•\tIMM\n•\tJEM\n•\tMarina Square\n•\tNgee Ann City\n•\tOrchard Cineleisure\n•\tParkway Parade\n•\tSuntec City\n•\tTampines 1\n•\tThe Cathay\n•\tVivoCity\n•\tWheelock Place",
+			"platformFee": 0,
+			"promotional": "      ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96ca65eaf5ea7682877"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 17
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/26239973219220425-BB%20New%20Brand%20Image.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8463395109000984-BB_KrisPlus_22-A-BrandLogo.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6860463386354858-BB_KrisPlus_22-C-BrandImage_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6860463386354858-BB_KrisPlus_22-C-BrandImage_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6860463386354858-BB_KrisPlus_22-C-BrandImage_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8463395109000984-BB_KrisPlus_22-A-BrandLogo_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8463395109000984-BB_KrisPlus_22-A-BrandLogo_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8463395109000984-BB_KrisPlus_22-A-BrandLogo_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "$31",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"refundPeriodUpdatedAt": "2026-08-05T10:13:12.163Z",
+			"slugId": "benjamin-barker-b37347c8",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "6305c60cb3427c22b89c40d5",
+					"name": "Bugis Junction"
+				},
+				{
+					"_id": "6305c644b3427c22b89c40fb",
+					"name": "Funan"
+				},
+				{
+					"_id": "6305c679b3427c22b89c4113",
+					"name": "IMM"
+				},
+				{
+					"_id": "6305c6b5b3427c22b89c412c",
+					"name": "JEM"
+				},
+				{
+					"_id": "6305c6f2b3427c22b89c4144",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "6305c735b3427c22b89c4177",
+					"name": "Ngee Ann City"
+				},
+				{
+					"_id": "6305c7729abe8f159cf075ad",
+					"name": "Orchard Cineleisure"
+				},
+				{
+					"_id": "6305c7aeb3427c22b89c41b0",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "6305c7f5b3427c22b89c41cb",
+					"name": "Suntec City"
+				},
+				{
+					"_id": "6305c8209abe8f159cf075ef",
+					"name": "Tampines 1"
+				},
+				{
+					"_id": "6305c8929abe8f159cf07613",
+					"name": "VivoCity"
+				},
+				{
+					"_id": "6388052cd4cd13292c8eae38",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "656158d8e6d68c00566e39f1",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "657aa3b3069f31004d44e1b6",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "667e1a328df0780064273f83",
+					"name": "Cluny Court"
+				},
+				{
+					"_id": "67492c227fbaec0069a77c58",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "67492c8ffffc0c0063c2167c",
+					"name": "Waterway Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bugis Junction",
+			"Funan",
+			"IMM",
+			"JEM",
+			"Marina Square",
+			"Ngee Ann City",
+			"Orchard Cineleisure",
+			"Parkway Parade",
+			"Suntec City",
+			"Tampines 1",
+			"VivoCity",
+			"Plaza Singapura",
+			"ION Orchard",
+			"313@Somerset",
+			"Cluny Court",
+			"Changi City Point",
+			"Waterway Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Benjamin Barker",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

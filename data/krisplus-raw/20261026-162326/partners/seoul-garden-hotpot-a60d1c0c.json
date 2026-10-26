@@ -1,0 +1,185 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/seoul-garden-hotpot-a60d1c0c",
+	"slug": "seoul-garden-hotpot-a60d1c0c",
+	"fetchedAt": "2026-10-26T16:29:24.772+08:00",
+	"payload": {
+		"partner": {
+			"_id": "67497c60f337b0006be3b114",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Hotpot",
+				"Bibimbap",
+				"Kimchi Soup",
+				"Army Stew",
+				"Ginseng Chicken Soup",
+				"Halal Certified",
+				"Korean Cuisine",
+				"Nutritious",
+				"Leshrimp",
+				"Lenu"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "ZINGRILL PTE LTD",
+			"brand": "Seoul Garden HOTPOT",
+			"code": "SEO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Seoul Garden H",
+			"address": {
+				"line1": "1 COLEMAN STREET  #10-07  THE ADELPHI",
+				"postalCode": "179803",
+				"streetName": "THE ADELPHI  #10-07",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://seoulgardenhotpot.com.sg/",
+			"descriptionHtml": "<p>Indulge in the authentic flavours of Korea, served piping hot and bursting with goodness and nutrition. At Seoul Garden HOTPOT, an ala-carte Korean dining concept, indulge in individual hotpots that will tantalise your taste buds with every bite.<br> <br> Participating outlets:</p>  <ul> \t<li>Changi City Point</li><li>City Square Mall (Coming soon)</li> \t \t<li>IMM</li> \t<li>​​​​​​​Northpoint</li> </ul>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/34169653088901697-7858785065647116-Hotpot.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8222545979242248-31174929652705563-750%20x%20540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"createdAt": "2024-11-29T08:33:36.709Z",
+			"updatedAt": "2026-10-12T02:49:23.092Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8222545979242248-31174929652705563-750%20x%20540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8222545979242248-31174929652705563-750%20x%20540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8222545979242248-31174929652705563-750%20x%20540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/34169653088901697-7858785065647116-Hotpot_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/34169653088901697-7858785065647116-Hotpot_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/34169653088901697-7858785065647116-Hotpot_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8222545979242248-31174929652705563-750%20x%20540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/34169653088901697-7858785065647116-Hotpot.png",
+			"searchContent": "Indulge in the authentic flavours of Korea, served piping hot and bursting with goodness and nutrition. At Seoul Garden HOTPOT, an ala-carte Korean dining concept, indulge in individual hotpots that will tantalise your taste buds with every bite. Participating outlets: Changi City PointCity Square Mall (Coming soon) IMM ​​​​​​​Northpoint Hotpot Bibimbap Kimchi Soup Army Stew Ginseng Chicken Soup Halal Certified Korean Cuisine Nutritious Leshrimp Lenu Dining Halal Casual Dining Asian",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T14:31:19.462Z",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "seoul-garden-hotpot-a60d1c0c",
+			"outlets": [
+				{
+					"_id": "67497ec63d1928006b020664",
+					"name": "Changi City Point"
+				},
+				{
+					"_id": "67497f80fffc0c0063c28f82",
+					"name": "IMM"
+				},
+				{
+					"_id": "67497fe3e35231006a4b1cce",
+					"name": "Northpoint City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Changi City Point",
+			"IMM",
+			"Northpoint City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Seoul Garden HOTPOT",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

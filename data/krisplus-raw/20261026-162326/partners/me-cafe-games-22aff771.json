@@ -1,0 +1,171 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/me-cafe-games-22aff771",
+	"slug": "me-cafe-games-22aff771",
+	"fetchedAt": "2026-10-26T16:30:43.820+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6882e75216acb33adebc7d90",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"saleOfMiles": 0.025,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Cafe",
+				"board games",
+				"PS5",
+				"Xbox",
+				"Nintendo Switch",
+				"Mahjong",
+				"Party",
+				"Gaming",
+				"Cat Cafe",
+				"date",
+				"private",
+				"entertainment",
+				"Orchard",
+				"Chill"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "ME CAFE GAMES LP",
+			"brand": "ME Cafe & Games",
+			"code": "MCG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "ME Cafe Games",
+			"address": {
+				"city": "Singapore",
+				"line1": "77A TANJONG PAGAR ROAD  LEVEL 3",
+				"streetName": "77A TANJONG PAGAR ROAD L3",
+				"postalCode": "088498",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"priority": 1,
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY"
+						},
+						{
+							"chosenTags": [],
+							"priority": 2,
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES"
+						}
+					],
+					"categoryName": "Dining",
+					"categoryCode": "DINING"
+				}
+			],
+			"websiteUrl": "https://www.mecafegames.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">ME Cafe & Games is an unique all-in-one entertainment spot in Singapore with outlets at Tanjong Pagar and Orchard. Enjoy private rooms with PS5, Xbox, Switch, board games, and Mahjong. The Orchard branch features a cozy camping-themed tent with snacks, drinks, and friendly cats—perfect for parties, dates, and hangouts.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/2638158815001137-MeGames.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/20512749835491761-7700428061128803-Brand%20Image%20(4).jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/2638158815001137-MeGames.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/20512749835491761-7700428061128803-Brand%20Image%20(4).jpg",
+			"createdAt": "2025-07-25T02:09:22.062Z",
+			"updatedAt": "2026-08-06T14:18:17.478Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/2638158815001137-MeGames_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/2638158815001137-MeGames_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/2638158815001137-MeGames_high.jpg"
+			},
+			"searchContent": "ME Cafe & Games is an unique all-in-one entertainment spot in Singapore with outlets at Tanjong Pagar and Orchard. Enjoy private rooms with PS5, Xbox, Switch, board games, and Mahjong. The Orchard branch features a cozy camping-themed tent with snacks, drinks, and friendly cats—perfect for parties, dates, and hangouts. Cafe board games PS5 Xbox Nintendo Switch Mahjong Party Gaming Cat Cafe date private entertainment Orchard Chill Dining",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "me-cafe-games-22aff771",
+			"outlets": [
+				{
+					"_id": "6882eb4872998a4a0c8d698c",
+					"name": "Orchard Gateway"
+				},
+				{
+					"_id": "6882ecadee9e4a10b89c8c19",
+					"name": "Tanjong Pagar"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Orchard Gateway",
+			"Tanjong Pagar"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "ME Cafe & Games",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

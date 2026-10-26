@@ -1,0 +1,167 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/opus-bar-and-grill-79c6521e",
+	"slug": "opus-bar-and-grill-79c6521e",
+	"fetchedAt": "2026-10-26T16:30:30.761+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6852c1bb990e3d364974b72e",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 2,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Steak",
+				"Steakhouse",
+				"Best Restaurant In Orchard",
+				"Seafood",
+				"Sustainable Seafood",
+				"Romantic Dining Date",
+				"Grill House"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "voco Orchard Singapore (Opus Bar and Grill)",
+			"brand": "Opus Bar and Grill",
+			"code": "OBG",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Opus Bar Grill",
+			"address": {
+				"line1": "581 Orchard Road",
+				"postalCode": "238883",
+				"streetName": "voco Orchard Singapore",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"KID",
+								"BD",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://orcharddining.vocohotels.com/dining/opus-bar-grill",
+			"descriptionHtml": "<p>*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Opus%20Bar%20and%20Grill\">Reserve A Table</a>.</p><p>One of the top steakhouses in Singapore, Opus Bar and Grill is a symphony for the senses. Delight in the rich flavours of freshly grilled sustainable seafood and meticulously selected steaks. These prime cuts are expertly cooked over an open flame grill, imparting an unparalleled depth of aroma and flavor to each bite.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/39775326358080254-OpusBarNGrill.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/923982854966376-5880934311709896-OpusBar%26Grill_BrandImage_App_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR1",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/39775326358080254-OpusBarNGrill.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/923982854966376-5880934311709896-OpusBar%26Grill_BrandImage_App_750x540.jpg",
+			"createdAt": "2025-06-18T13:40:11.774Z",
+			"updatedAt": "2026-08-06T14:18:15.658Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/39775326358080254-OpusBarNGrill_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/39775326358080254-OpusBarNGrill_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/39775326358080254-OpusBarNGrill_high.png"
+			},
+			"searchContent": "*Click here to Reserve A Table. One of the top steakhouses in Singapore, Opus Bar and Grill is a symphony for the senses. Delight in the rich flavours of freshly grilled sustainable seafood and meticulously selected steaks. These prime cuts are expertly cooked over an open flame grill, imparting an unparalleled depth of aroma and flavor to each bite. Steak Steakhouse Best Restaurant In Orchard Seafood Sustainable Seafood Romantic Dining Date Grill House Dining Buffet Casual Dining Kid-Friendly Beverages & Desserts Western",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-01-31T10:14:53.630Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "opus-bar-and-grill-79c6521e",
+			"outlets": [
+				{
+					"_id": "6852c4e027b54e35b7af31f6",
+					"name": "voco Orchard"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"voco Orchard"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Opus Bar and Grill",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

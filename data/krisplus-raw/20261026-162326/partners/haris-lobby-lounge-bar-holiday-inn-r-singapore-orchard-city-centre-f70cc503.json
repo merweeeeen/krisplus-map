@@ -1,0 +1,179 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/haris-lobby-lounge-bar-holiday-inn-r-singapore-orchard-city-centre-f70cc503",
+	"slug": "haris-lobby-lounge-bar-holiday-inn-r-singapore-orchard-city-centre-f70cc503",
+	"fetchedAt": "2026-10-26T16:24:02.991+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5e5df1b404d4ba2a689d8d33",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"name": "Holiday Inn Singapore Orchard Hari's Lobby Lounge & Bar",
+			"brand": "Hari's Lobby Lounge & Bar (Holiday Inn® Singapore Orchard City Centre",
+			"code": "HLL",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "11 Cavenagh Road,  ",
+				"postalCode": "229616",
+				"streetName": "Cavenagh Road"
+			},
+			"category": "HOTEL",
+			"regNumber": "198002635K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-5db7b9aa-f262-464a-a5d3-810a51c7722d.jpg",
+			"websiteUrl": "https://singaporeorchard.holidayinn.com/wine-dine/lobby-lounge-bar",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-4eaf43bd-dbbb-4f03-932d-72bc0cafeb75.png",
+			"createdAt": "2020-03-03T05:57:08.554Z",
+			"updatedAt": "2026-08-06T14:17:09.068Z",
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "HOLIDAY INN SINGAPORE ORCHARD LOBBY LOUNGE & BAR\n",
+			"promotional": "HOLIDAY INN SINGAPORE ORCHARD LOBBY LOUNGE & BAR\n",
+			"categary": "Food and Beverage",
+			"hideFromCustomer": false,
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"categories": [
+				"DINING"
+			],
+			"countryCode": "SG",
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"shortName": "Holiday Inn",
+			"descriptionHtml": "<p>Lobby Lounge & Bar is the prefect alcove to unwind after a day of sightseeing, shopping or work. Pamper yourself with the delightful high tea or simply enjoy a collection of tasty cocktails complemented with savoury snacks from our menu.</p>",
+			"searchableKeywords": [
+				"Dining",
+				"Orchard",
+				"City",
+				"Town",
+				"Central",
+				"Somerset",
+				"Western",
+				"Cocktail",
+				"Lounge",
+				"Bar",
+				"Snacks",
+				"High Tea",
+				"Beer",
+				"Wine",
+				"Relax",
+				"Chill",
+				"Couples",
+				"First Date"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9e33d10e34df66b4740"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-5db7b9aa-f262-464a-a5d3-810a51c7722d.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-4eaf43bd-dbbb-4f03-932d-72bc0cafeb75.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-5db7b9aa-f262-464a-a5d3-810a51c7722d_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-5db7b9aa-f262-464a-a5d3-810a51c7722d_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-5db7b9aa-f262-464a-a5d3-810a51c7722d_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-4eaf43bd-dbbb-4f03-932d-72bc0cafeb75_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-4eaf43bd-dbbb-4f03-932d-72bc0cafeb75_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-4eaf43bd-dbbb-4f03-932d-72bc0cafeb75_high.png"
+			},
+			"searchContent": "Lobby Lounge & Bar is the prefect alcove to unwind after a day of sightseeing, shopping or work. Pamper yourself with the delightful high tea or simply enjoy a collection of tasty cocktails complemented with savoury snacks from our menu. Dining Orchard City Town Central Somerset Western Cocktail Lounge Bar Snacks High Tea Beer Wine Relax Chill Couples First Date Dining",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-04T06:43:14.106Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "haris-lobby-lounge-bar-holiday-inn-r-singapore-orchard-city-centre-f70cc503",
+			"outlets": [
+				{
+					"_id": "5e5f74ee901d0a40389787c5",
+					"name": "Holiday Inn® Singapore Orchard City Centre"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Holiday Inn® Singapore Orchard City Centre"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Hari's Lobby Lounge & Bar (Holiday Inn® Singapore Orchard City Centre",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

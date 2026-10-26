@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sarai-07611a29",
+	"slug": "sarai-07611a29",
+	"fetchedAt": "2026-10-26T16:27:03.561+08:00",
+	"payload": {
+		"partner": {
+			"_id": "633b896407df2802c8b48d49",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 2,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"saleOfMiles": 0.02,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Thai Food",
+				"Restaurant",
+				"Fine Dining",
+				"Orchard",
+				"Central",
+				"Dining",
+				"Tanglin Mall",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "SARAI RESTAURANT PTE LTD",
+			"brand": "SARAI",
+			"code": "SRI",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "SARAI",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "211 Henderson Road #05-03",
+				"postalCode": "159552",
+				"streetName": "211 HENDERSON ROAD"
+			},
+			"regNumber": "201905500K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/018269114945514087-12044397149599417-Sarai%20Outlet%20Image_750x540px.png",
+			"websiteUrl": "https://www.sarai.com.sg/",
+			"descriptionHtml": "<p>With more than 27 years of culinary experience, Isan-born Chef Lisa, is dedicated to bringing a part of her Thai heritage to Sarai. Enjoy traditional Thai-style dining known only as สำรับ (sumrub), with beautifully crafted menus that have been delicately and meticulously curated to conjure warm feelings of belonging and gastronomic contentment.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7028048838779746-8143536572460814-Sarai%20Logo_1000x1000px.png",
+			"createdAt": "2022-10-04T01:16:20.110Z",
+			"updatedAt": "2026-08-06T14:17:37.371Z",
+			"participatingOutlets": "Tanglin Mall",
+			"promotional": "                           ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"chosenTags": [],
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1
+						},
+						{
+							"chosenTags": [
+								"ASI"
+							],
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9690108b03f047da576"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/018269114945514087-12044397149599417-Sarai%20Outlet%20Image_750x540px.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7028048838779746-8143536572460814-Sarai%20Logo_1000x1000px.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/018269114945514087-12044397149599417-Sarai%20Outlet%20Image_750x540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/018269114945514087-12044397149599417-Sarai%20Outlet%20Image_750x540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/018269114945514087-12044397149599417-Sarai%20Outlet%20Image_750x540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7028048838779746-8143536572460814-Sarai%20Logo_1000x1000px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7028048838779746-8143536572460814-Sarai%20Logo_1000x1000px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7028048838779746-8143536572460814-Sarai%20Logo_1000x1000px_high.png"
+			},
+			"searchContent": "With more than 27 years of culinary experience, Isan-born Chef Lisa, is dedicated to bringing a part of her Thai heritage to Sarai. Enjoy traditional Thai-style dining known only as สำรับ (sumrub), with beautifully crafted menus that have been delicately and meticulously curated to conjure warm feelings of belonging and gastronomic contentment. Thai Food Restaurant Fine Dining Orchard Central Dining Tanglin Mall Business Corporate Dining Working Lunch Networking Dining Asian",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sarai-07611a29",
+			"outlets": [
+				{
+					"_id": "633beff1745e1115948605ef",
+					"name": "Tanglin Mall"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Tanglin Mall"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "SARAI",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

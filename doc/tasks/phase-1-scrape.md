@@ -4,6 +4,11 @@ This phase produces a typed partner record for every Singapore partner in the si
 
 Read [source-findings.md](../source-findings.md) first. It describes the page payload these tasks parse.
 
+Status on 2026-10-26: tasks 1.1 to 1.6 are done. The first complete crawl is run `20261026-162326`. Audit question 7 waits for Phase 6. Two changes from the plan below:
+
+- The fetch stage records a 404 as `notFound`, separate from `failures`. A crawl whose only misses are 404s counts as complete, because Kris+ answered for every URL.
+- `pnpm data:test` uses Node's built-in test runner. The HTTP client tests start a local server, so they need local port binding.
+
 ## Tasks
 
 ### 1.1 Build the rate-limited HTTP client

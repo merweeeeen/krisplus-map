@@ -1,0 +1,222 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/for-the-love-of-laundry-191735b8",
+	"slug": "for-the-love-of-laundry-191735b8",
+	"fetchedAt": "2026-10-26T16:24:16.874+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5eeb0d7bdb084d4c4852e1af",
+			"active": true,
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "For the Love of Laundry Pte Ltd",
+			"brand": "For the Love of Laundry",
+			"code": "FTL",
+			"countryIncorporation": "Singapore",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "17 Soon Lee Road,  ",
+				"postalCode": "628080",
+				"streetName": "Soon Lee Road"
+			},
+			"category": "SERVICES",
+			"regNumber": "201024646H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-d8ca3dbe-2b52-41f0-a54a-f6548484d40b.jpg",
+			"websiteUrl": "https://www.fortheloveoflaundry.com/home",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-55bade40-0bc4-4d47-b121-4966a0b64a73.jpg",
+			"createdAt": "2020-06-18T06:45:15.718Z",
+			"updatedAt": "2026-09-01T01:59:10.633Z",
+			"categories": [
+				"SERVICES"
+			],
+			"description": "",
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.027,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.7
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"participatingOutlets": "•\tUnited Square Shopping Mall\n•\tNassim Road\n•\tOne Raffles Place\n•\tAsia Square \n•\tRV Point\n•\tKINEX",
+			"promotional": "              ",
+			"mccCode": "7210",
+			"mccDescription": "Laundry, Cleaning, and Garment Services",
+			"countryCode": "SG",
+			"descriptionHtml": "<p>For the Love of Laundry is the only company in Singapore to clean purely with GreenEarth, a toxin-free technology that is better for you, your clothes and the environment. All-natural liquid silicone is used to gently rejuvenate delicate fabrics, making your clothes feel cleaner, look better and last longer.<br> <br> Participating Outlets: </p>  <ul> \t<li>Asia Square </li> \t<li>i12 Katong</li> \t<li>Nassim Road</li> \t<li>One Holland Village</li> \t<li>RV Point</li> \t<li>United Square Shopping Mall</li> </ul>",
+			"payByCard": true,
+			"shortName": "LoveOfLaundry",
+			"searchableKeywords": [
+				"Thomson Road",
+				"Novena",
+				"River Valley Road",
+				"Fort Canning",
+				"Marina View",
+				"Tanjong Pagar",
+				"Marina Bay",
+				"One Raffles Place",
+				"Raffles Place",
+				"Convenience",
+				"Central",
+				"City",
+				"Laundry",
+				"Dryclean",
+				"Drywash",
+				"Coat",
+				"Wash",
+				"Rinse",
+				"Cycle",
+				"Washing Machine Jacket",
+				"Curtains",
+				"Pressed",
+				"Iron",
+				"Services",
+				"Asia Square",
+				"Nassim Road",
+				"Rv Point",
+				"United Square",
+				"Robertson Quay",
+				"Fabrics",
+				"Linen",
+				"I12 Katong",
+				"One Holland Village"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR6",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"PC"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9dc2f71c855d5496e63"
+			],
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 6
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-d8ca3dbe-2b52-41f0-a54a-f6548484d40b.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/logoImage-55bade40-0bc4-4d47-b121-4966a0b64a73.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-d8ca3dbe-2b52-41f0-a54a-f6548484d40b_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-d8ca3dbe-2b52-41f0-a54a-f6548484d40b_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-d8ca3dbe-2b52-41f0-a54a-f6548484d40b_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-55bade40-0bc4-4d47-b121-4966a0b64a73_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-55bade40-0bc4-4d47-b121-4966a0b64a73_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/logoImage-55bade40-0bc4-4d47-b121-4966a0b64a73_high.jpg"
+			},
+			"searchContent": "For the Love of Laundry is the only company in Singapore to clean purely with GreenEarth, a toxin-free technology that is better for you, your clothes and the environment. All-natural liquid silicone is used to gently rejuvenate delicate fabrics, making your clothes feel cleaner, look better and last longer. Participating Outlets: Asia Square i12 Katong Nassim Road One Holland Village RV Point United Square Shopping Mall Thomson Road Novena River Valley Road Fort Canning Marina View Tanjong Pagar Marina Bay One Raffles Place Raffles Place Convenience Central City Laundry Dryclean Drywash Coat Wash Rinse Cycle Washing Machine Jacket Curtains Pressed Iron Services Asia Square Nassim Road Rv Point United Square Robertson Quay Fabrics Linen I12 Katong One Holland Village Services Personal Care",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-06-12T05:45:36.352Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "for-the-love-of-laundry-191735b8",
+			"isDisplayOnKrisWeb": false,
+			"newMerchantEndDate": null,
+			"outlets": [
+				{
+					"_id": "5eec0a2240deb14d0891bc3e",
+					"name": "United Square"
+				},
+				{
+					"_id": "5eec0a4ee0e3484a3c1007b3",
+					"name": "One Nassim"
+				},
+				{
+					"_id": "5eec0a9de0e3484a3c1007b5",
+					"name": "Asia Square"
+				},
+				{
+					"_id": "5eec0acd40deb14d0891bc42",
+					"name": "RV Point"
+				},
+				{
+					"_id": "61b8147eb607fe37c001d0ba",
+					"name": "i12 Katong"
+				},
+				{
+					"_id": "6552e51a476cd6004f4aa258",
+					"name": "One Holland Village"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"United Square",
+			"One Nassim",
+			"Asia Square",
+			"RV Point",
+			"i12 Katong",
+			"One Holland Village"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "For the Love of Laundry",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

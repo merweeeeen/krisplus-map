@@ -1,0 +1,168 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/the-missing-piece-e1a53aab",
+	"slug": "the-missing-piece-e1a53aab",
+	"fetchedAt": "2026-10-26T16:31:40.249+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6909c9f68c6b647e932e8dd9",
+			"name": "The Missing Piece Clothing Pte Ltd",
+			"shortName": "Missing Piece",
+			"mccCode": "5621",
+			"mccDescription": "Women’s Ready-To-Wear Stores",
+			"brand": "The Missing Piece",
+			"code": "TMP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6640607688470153-TheMissingPiece.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7617884931592627-5945932940906227-TMP_FLIGHTOFFANCY-1226_750x650.jpg",
+			"websiteUrl": "https://iwantthemissingpiece.com/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "501 Bukit Timah Road  #03-05",
+				"postalCode": "259760",
+				"streetName": "501 Bukit Timah Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\">The Missing Piece is an independent Singaporean fashion label specialising in womenswear. Inspired by Asian heritage, botanical motifs, and nostalgia, their designs balance style and wearability. Known for modern cheongsams, flattering cut-outs, and versatile separates, they create effortlessly beautiful pieces to elevate everyday life and inspire confidence.</p><ul><br></ul>",
+			"searchableKeywords": [
+				"Dress",
+				"Singapore fashion",
+				"Singapore designer",
+				"cheongsam",
+				"qipao",
+				"resortwear",
+				"fashion"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"FAS",
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-11-04T09:40:06.877Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6640607688470153-TheMissingPiece.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7617884931592627-5945932940906227-TMP_FLIGHTOFFANCY-1226_750x650.jpg",
+			"createdAt": "2025-11-04T09:40:06.885Z",
+			"updatedAt": "2026-08-06T14:18:24.357Z",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7617884931592627-5945932940906227-TMP_FLIGHTOFFANCY-1226_750x650_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7617884931592627-5945932940906227-TMP_FLIGHTOFFANCY-1226_750x650_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7617884931592627-5945932940906227-TMP_FLIGHTOFFANCY-1226_750x650_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6640607688470153-TheMissingPiece_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6640607688470153-TheMissingPiece_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6640607688470153-TheMissingPiece_high.jpg"
+			},
+			"searchContent": "The Missing Piece is an independent Singaporean fashion label specialising in womenswear. Inspired by Asian heritage, botanical motifs, and nostalgia, their designs balance style and wearability. Known for modern cheongsams, flattering cut-outs, and versatile separates, they create effortlessly beautiful pieces to elevate everyday life and inspire confidence. Dress Singapore fashion Singapore designer cheongsam qipao resortwear fashion Retail Fashion Accessories, Jewellery & Watches",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "the-missing-piece-e1a53aab",
+			"outlets": [
+				{
+					"_id": "691e7ee93f7bada4ae9097a6",
+					"name": " New Bahru"
+				},
+				{
+					"_id": "691e80837593b201f1796fe0",
+					"name": "Cluny Court"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			" New Bahru",
+			"Cluny Court"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "The Missing Piece",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

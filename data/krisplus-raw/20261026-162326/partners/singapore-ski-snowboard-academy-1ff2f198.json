@@ -1,0 +1,166 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/singapore-ski-snowboard-academy-1ff2f198",
+	"slug": "singapore-ski-snowboard-academy-1ff2f198",
+	"fetchedAt": "2026-10-26T16:33:40.331+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a3e1a163c1b1bc93c49901d",
+			"name": "Singapore Ski & Snowboard Academy Pte Ltd",
+			"shortName": "Ski Snowboard",
+			"mccCode": "7832",
+			"mccDescription": "Amusement and Entertainment",
+			"brand": "Singapore Ski & Snowboard Academy",
+			"code": "3SA",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/46322167569008044-logo%20(3).jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/43802328622132536-brand%20image%20(9).jpg",
+			"websiteUrl": "https://ski.sg/",
+			"active": true,
+			"categories": [
+				"ACTIVITIES"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "3 Temasek Boulevard  #02-350",
+				"postalCode": "038983",
+				"streetName": "Suntec City Mall",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 1.5;\">Singapore Ski & Snowboard Academy (SSSA) is Singapore’s premier indoor ski and snowboard school, offering lessons for all ages and skill levels. With certified instructors and state-of-the-art simulators, SSSA provides a safe, fun environment where learners build skills, confidence, and a love for winter sports year-round.</p><p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 1.5;\"><span style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;\">For enquiries, please reach out to +65 8070 8801. </span></p><p style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); margin-top: 0px; margin-bottom: 1rem; font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 1.5;\"><strong style=\"font-weight: bolder; box-sizing: border-box;\">Participating outlets:<br></strong>- Marina Square<br style=\"font-weight: 300; box-sizing: border-box;\">- Suntec City </p>",
+			"searchableKeywords": [
+				"ski",
+				"snowboard",
+				"ski sg",
+				"ski academy",
+				"ski singapore",
+				"indoor ski"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR3",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Activities",
+					"categoryCode": "ACTIVITIES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Activities Options",
+							"subCategoryGroupCode": "ACTIVITIES_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"LEA",
+								"INDR"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-27T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-26T06:20:06.946Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/46322167569008044-logo%20(3).jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/43802328622132536-brand%20image%20(9).jpg",
+			"createdAt": "2026-06-26T06:20:06.956Z",
+			"updatedAt": "2026-10-15T08:57:11.607Z",
+			"searchContent": "Singapore Ski & Snowboard Academy (SSSA) is Singapore’s premier indoor ski and snowboard school, offering lessons for all ages and skill levels. With certified instructors and state-of-the-art simulators, SSSA provides a safe, fun environment where learners build skills, confidence, and a love for winter sports year-round. For enquiries, please reach out to +65 8070 8801. Participating outlets: - Marina Square - Suntec City ski snowboard ski sg ski academy ski singapore indoor ski Activities Learning Indoor",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/43802328622132536-brand%20image%20(9)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/43802328622132536-brand%20image%20(9)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/43802328622132536-brand%20image%20(9)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/46322167569008044-logo%20(3)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/46322167569008044-logo%20(3)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/46322167569008044-logo%20(3)_high.jpg"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "singapore-ski-snowboard-academy-1ff2f198",
+			"outlets": [
+				{
+					"_id": "6a3e1c6f91327a10be4f4162",
+					"name": "Marina Square"
+				},
+				{
+					"_id": "6a3e1cef2ad95c49c8a36fca",
+					"name": "Suntec City"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Square",
+			"Suntec City"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Singapore Ski & Snowboard Academy",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

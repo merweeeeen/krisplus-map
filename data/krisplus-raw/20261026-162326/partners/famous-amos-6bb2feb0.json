@@ -1,0 +1,300 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/famous-amos-6bb2feb0",
+	"slug": "famous-amos-6bb2feb0",
+	"fetchedAt": "2026-10-26T16:26:56.680+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63033f260ac7be1d44bce9fe",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL",
+				"DINING"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Dessert",
+				"Cookies",
+				"Treats",
+				"Food",
+				"Dining",
+				"Snacks",
+				"Muffins",
+				"Brownies",
+				"Cakes",
+				"Sweets",
+				"Amk Hub",
+				"Ang Mo Kio",
+				"Causeway Point",
+				"Woodlands",
+				"Cineleisure Orchard",
+				"City Square Mall",
+				"Farrer Park",
+				"Seng Kang",
+				"Great World",
+				"Orchard",
+				"Hdb Hub",
+				"Toa Payoh",
+				"Jem",
+				"Jurong East",
+				"Jurong Point",
+				"Jurong West",
+				"Nex",
+				"Serangoon",
+				"Yishun",
+				"Northpoint City",
+				"One Raffles Place",
+				"Parkway Parade",
+				"Plaza Singapura",
+				"Dhoby Ghaut",
+				"Tampines Mall",
+				"White Sands",
+				"Pasir Ris",
+				"Wisma Atria",
+				"Retail",
+				"Halal",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "The Famous Amos Chocolate Chip Cookie(S) Pte Ltd.",
+			"brand": "Famous Amos",
+			"code": "FAC",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "Famous Amos",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "10 Ubi Crescent, 06-28/30 Lobby B",
+				"postalCode": "408564",
+				"streetName": "10 Ubi Crescent"
+			},
+			"regNumber": "198205269K",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8272257322292218-2586378396478941-KRIS%2B%20App%20Brand%20Image%20C.png",
+			"websiteUrl": "https://www.famous-amos.com.sg/",
+			"descriptionHtml": "<p>Serving delectable handmade and freshly baked cookies since 1975, Famous Amos is a household name when it comes to sweet treats in Singapore! With a distinct aroma wafting through the air from miles away, it is hard to resist these crunchy and delicious cookies. </p>\n\n<p><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Participating Outlets:</span></span></p>\n\n<ul>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">AMK Hub</span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Causeway Point</span></span></span></li>\n\t\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Compass One</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">HDB Hub</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">JEM</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Jurong Point</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">NEX</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Northpoint City</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Orchard Cineleisure (Milk & Cookies)</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Parkway Parade</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Plaza Singapura</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Tampines Mall</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">​​​​​​​Waterway Point</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">White Sands</span></span></span></li>\n\t<li><span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\"><span style=\"color:black\">Wisma Atria</span></span></span>​​​​​​​​​​​​​​​​​​​​​</li>\n</ul>\n\n<p>​​​​​​​<span style=\"font-size:14px\"><span style=\"font-family:Arial,Helvetica,sans-serif\">Non-participating outlet: Changi Airport Terminal 3</span></span></p>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR4",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/31388102432154685-5951016487455905-KRIS%2B%20App%20Brand%20Logo%20A.png",
+			"createdAt": "2022-08-22T08:32:38.785Z",
+			"updatedAt": "2026-08-12T01:58:33.346Z",
+			"earnRates": {
+				"amountBlock": 3,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 0,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.5
+				},
+				"saleOfMiles": 0.045,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 3,
+				"calculatedMilesEarnRate": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"participatingOutlets": "             ",
+			"platformFee": 0,
+			"promotional": "          ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS",
+								"FS"
+							]
+						}
+					]
+				},
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96d2f71c855d5496e2b"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 14
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8272257322292218-2586378396478941-KRIS%2B%20App%20Brand%20Image%20C.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/31388102432154685-5951016487455905-KRIS%2B%20App%20Brand%20Logo%20A.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8272257322292218-2586378396478941-KRIS%2B%20App%20Brand%20Image%20C_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8272257322292218-2586378396478941-KRIS%2B%20App%20Brand%20Image%20C_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8272257322292218-2586378396478941-KRIS%2B%20App%20Brand%20Image%20C_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/31388102432154685-5951016487455905-KRIS%2B%20App%20Brand%20Logo%20A_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/31388102432154685-5951016487455905-KRIS%2B%20App%20Brand%20Logo%20A_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/31388102432154685-5951016487455905-KRIS%2B%20App%20Brand%20Logo%20A_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "$31",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "famous-amos-6bb2feb0",
+			"outlets": [
+				{
+					"_id": "630432738dfedc07ecc8da12",
+					"name": "AMK Hub"
+				},
+				{
+					"_id": "630432b739c6e92a8cccd42e",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "6304330939c6e92a8cccd450",
+					"name": "Compass One"
+				},
+				{
+					"_id": "630433778dfedc07ecc8da55",
+					"name": "HDB Hub"
+				},
+				{
+					"_id": "630433eb8dfedc07ecc8da6b",
+					"name": "JEM"
+				},
+				{
+					"_id": "630434188dfedc07ecc8da7b",
+					"name": "Jurong Point"
+				},
+				{
+					"_id": "630434a639c6e92a8cccd4a7",
+					"name": "NEX"
+				},
+				{
+					"_id": "630434cf8dfedc07ecc8dabc",
+					"name": "Northpoint City"
+				},
+				{
+					"_id": "630435498dfedc07ecc8daf5",
+					"name": "Parkway Parade"
+				},
+				{
+					"_id": "630435748dfedc07ecc8db0d",
+					"name": "Plaza Singapura"
+				},
+				{
+					"_id": "630435db39c6e92a8cccd503",
+					"name": "Tampines Mall"
+				},
+				{
+					"_id": "6304360b39c6e92a8cccd517",
+					"name": "White Sands"
+				},
+				{
+					"_id": "6304362939c6e92a8cccd52b",
+					"name": "Wisma Atria"
+				},
+				{
+					"_id": "6705edae6ec8e8006c4716cd",
+					"name": "Waterway Point"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"AMK Hub",
+			"Causeway Point",
+			"Compass One",
+			"HDB Hub",
+			"JEM",
+			"Jurong Point",
+			"NEX",
+			"Northpoint City",
+			"Parkway Parade",
+			"Plaza Singapura",
+			"Tampines Mall",
+			"White Sands",
+			"Wisma Atria",
+			"Waterway Point"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 3,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Famous Amos",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 3 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

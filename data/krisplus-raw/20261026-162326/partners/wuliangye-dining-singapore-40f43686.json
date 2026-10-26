@@ -1,0 +1,169 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/wuliangye-dining-singapore-40f43686",
+	"slug": "wuliangye-dining-singapore-40f43686",
+	"fetchedAt": "2026-10-26T16:31:09.902+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68ad2b87f1c74e0466dc9df7",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"China",
+				"White Spirit",
+				"White Liquor",
+				"Liquor",
+				"Chinese Cuisine"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "BAICHUANHUI RESTAURANT PTE LTD",
+			"brand": "Wuliangye Dining Singapore",
+			"code": "WLY",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Wuliangye Dini",
+			"address": {
+				"line1": "21 WOODLANDS CLOSE #04-12 PRIMZ BIZHUB",
+				"postalCode": "737854",
+				"streetName": "21 WOODLANDS CLOSE",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"QBS",
+								"BD",
+								"CHI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.instagram.com/wuliangye.sg/",
+			"descriptionHtml": "<p><em style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);\">*Click here to <a href=\"https://ca.krisplus.com/redirect?screen=makan_intermediary&redirectPath=restaurants?keyword=Wuliangye%20Dining%20Singapore\" style=\"font-weight: 300; box-sizing: border-box; color: rgb(61, 73, 105); text-decoration: none; background-color: transparent;\"><u style=\"font-weight: 300; box-sizing: border-box;\">Reserve A Table</u></a>.</em></p><p>Wuliangye Dining Singapore embodies a harmonious blend of tradition and modernity, offering an exquisite culinary journey rooted in Chinese heritage.</p><p>Each meal is an invitation to explore the elegance of Chinese cuisine, where high-quality ingredients and expert craftsmanship come together in a warm and inviting atmosphere.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6467699338153217-WuliangyeDiningSG.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/15442557481424934-750x540%20(10).png",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR2",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6467699338153217-WuliangyeDiningSG.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/15442557481424934-750x540%20(10).png",
+			"createdAt": "2025-08-26T03:35:35.619Z",
+			"updatedAt": "2026-08-06T14:18:20.016Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6467699338153217-WuliangyeDiningSG_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6467699338153217-WuliangyeDiningSG_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6467699338153217-WuliangyeDiningSG_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-05T02:08:03.859Z",
+			"searchContent": "*Click here to Reserve A Table. Wuliangye Dining Singapore embodies a harmonious blend of tradition and modernity, offering an exquisite culinary journey rooted in Chinese heritage. Each meal is an invitation to explore the elegance of Chinese cuisine, where high-quality ingredients and expert craftsmanship come together in a warm and inviting atmosphere. China White Spirit White Liquor Liquor Chinese Cuisine Dining Casual Dining Quick Bites & Snacks Beverages & Desserts Chinese",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/15442557481424934-750x540%20(10)_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/15442557481424934-750x540%20(10)_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/15442557481424934-750x540%20(10)_high.png"
+			},
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "wuliangye-dining-singapore-40f43686",
+			"outlets": [
+				{
+					"_id": "68ad2ec97dc7f504748d61d4",
+					"name": "Middle Road"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Middle Road"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Wuliangye Dining Singapore",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,201 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/willow-stream-spa-b3d65ae2",
+	"slug": "willow-stream-spa-b3d65ae2",
+	"fetchedAt": "2026-10-26T16:27:22.720+08:00",
+	"payload": {
+		"partner": {
+			"_id": "63a26a4a181a653038199561",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 6.4
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Spa",
+				"Massage",
+				"Steam Rooms",
+				"Sauna",
+				"Wellness",
+				"Fairmont Swissotel",
+				"Spa",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "RC Hotels (Pte) Ltd. - Fairmont Singapore and Swissotel The Stamford ",
+			"brand": "Willow Stream Spa",
+			"code": "WSS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "Willow Stream ",
+			"address": {
+				"city": "Singapore",
+				"line1": "2 STAMFORD ROAD SINGAPORE 178882",
+				"streetName": "2 STAMFORD ROAD ",
+				"postalCode": "178882",
+				"cityCode": "SIN"
+			},
+			"regNumber": "198904859N",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5878702636005204-22795515828379997-Kris%2B%20750%20x%20540px.png",
+			"websiteUrl": "https://www.fairmont-singapore.com/wellness-spa/willow-stream-spa/",
+			"descriptionHtml": "<p>Awarded Best Hotel Spa 2022 in Asia's Best Awards 2022 (Travel + Leisure Southeast Asia), Willow Stream Spa has a range of massages, body treatments and facials for your individual skin and body care needs. From invigorating massages to soothing restorative treatments using premium products, their therapists will adapt their techniques to suit your requests.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"partnershipGroup": "GR1",
+			"promotional": "               ",
+			"participatingOutlets": "                                                           ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/7842439105908972-logo_high%20res.jpg",
+			"createdAt": "2022-12-21T02:07:06.364Z",
+			"updatedAt": "2026-08-06T14:17:39.190Z",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef95d0108b03f047da56e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5878702636005204-22795515828379997-Kris%2B%20750%20x%20540px.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7842439105908972-logo_high%20res.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5878702636005204-22795515828379997-Kris%2B%20750%20x%20540px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5878702636005204-22795515828379997-Kris%2B%20750%20x%20540px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5878702636005204-22795515828379997-Kris%2B%20750%20x%20540px_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7842439105908972-logo_high%20res_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7842439105908972-logo_high%20res_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7842439105908972-logo_high%20res_high.jpg"
+			},
+			"searchContent": "Awarded Best Hotel Spa 2022 in Asia's Best Awards 2022 (Travel + Leisure Southeast Asia), Willow Stream Spa has a range of massages, body treatments and facials for your individual skin and body care needs. From invigorating massages to soothing restorative treatments using premium products, their therapists will adapt their techniques to suit your requests. Spa Massage Steam Rooms Sauna Wellness Fairmont Swissotel Spa Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Treatment Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-05T06:49:48.938Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "willow-stream-spa-b3d65ae2",
+			"outlets": [
+				{
+					"_id": "63a26ffe2906a33b84b198b8",
+					"name": "Fairmont Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Fairmont Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Willow Stream Spa",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

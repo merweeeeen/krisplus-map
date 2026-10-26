@@ -1,0 +1,184 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/hong-thai-travel-fd22ff08",
+	"slug": "hong-thai-travel-fd22ff08",
+	"fetchedAt": "2026-10-26T16:27:12.678+08:00",
+	"payload": {
+		"partner": {
+			"_id": "636a0ef01a44801908f03e90",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 1,
+				"saleOfMiles": 0.02,
+				"amountBlock": 1,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"SERVICES"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Travel",
+				"Holiday",
+				"Vacation",
+				"Travel Agency",
+				"Travel Agent",
+				"Leisure",
+				"Package",
+				"Experience",
+				"Travelling",
+				"Chinatown",
+				"Peoples Park Complex",
+				"Services",
+				"Tour",
+				"Tour Packages",
+				"Free  Easy",
+				"Tourist",
+				"Travellers",
+				"Excursions",
+				"Cruises",
+				"Airlines",
+				"Visa",
+				"Miles",
+				"Holiday",
+				"Tourism Services",
+				"Travel Solutions",
+				"Travel Assistance",
+				"Travel Bookings",
+				"Travel Management"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": false,
+			"supportedCards": [
+				"Visa",
+				"Mastercard"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"name": "HONG THAI TRAVEL SERVICES (S) PTE LTD",
+			"brand": "Hong Thai Travel",
+			"code": "HTT",
+			"countryIncorporation": "Singapore",
+			"mccCode": "4722",
+			"shortName": "Hong Thai",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "1 Park Road, #04-25/26, 57-60, Peoples Park Complex, Singapore 05910",
+				"postalCode": "05910",
+				"streetName": "1 Park Road"
+			},
+			"regNumber": "198500733H",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/25113278392847893-6301089787615581-BRAND%20IMAGE%20%26%20PRIV_APP_750%20x%20540.png",
+			"websiteUrl": "https://www.hongthai.com.sg",
+			"descriptionHtml": "<p>Hong Thai Travel is dedicated in providing professional travel products and services to their customers. Today, after more than three decades of conscientious effort, they are recognised as one of the leading industry players and a premier travel agency providing multifarious services. They continue to innovate in providing the best travel selections around.</p>",
+			"countryCode": "SG",
+			"mccDescription": "Travel Agencies and Tour Operators",
+			"partnershipGroup": "GR3",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5499996661827788-8111558191115982-HT%20LOGO_APP_1000%20X%201000%20stacked.png",
+			"createdAt": "2022-11-08T08:10:24.831Z",
+			"updatedAt": "2026-08-06T14:17:38.086Z",
+			"participatingOutlets": "                     ",
+			"promotional": "                     ",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Services",
+					"categoryCode": "SERVICES",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Services Options",
+							"subCategoryGroupCode": "SERVICES_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef96245578ca5d7f0b38f"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/25113278392847893-6301089787615581-BRAND%20IMAGE%20%26%20PRIV_APP_750%20x%20540.png",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5499996661827788-8111558191115982-HT%20LOGO_APP_1000%20X%201000%20stacked.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/25113278392847893-6301089787615581-BRAND%20IMAGE%20%26%20PRIV_APP_750%20x%20540_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/25113278392847893-6301089787615581-BRAND%20IMAGE%20%26%20PRIV_APP_750%20x%20540_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/25113278392847893-6301089787615581-BRAND%20IMAGE%20%26%20PRIV_APP_750%20x%20540_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5499996661827788-8111558191115982-HT%20LOGO_APP_1000%20X%201000%20stacked_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5499996661827788-8111558191115982-HT%20LOGO_APP_1000%20X%201000%20stacked_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5499996661827788-8111558191115982-HT%20LOGO_APP_1000%20X%201000%20stacked_high.png"
+			},
+			"refundPeriodInDays": 180,
+			"refundPeriodUpdatedAt": "2026-01-06T02:21:59.256Z",
+			"searchContent": "Hong Thai Travel is dedicated in providing professional travel products and services to their customers. Today, after more than three decades of conscientious effort, they are recognised as one of the leading industry players and a premier travel agency providing multifarious services. They continue to innovate in providing the best travel selections around. Travel Holiday Vacation Travel Agency Travel Agent Leisure Package Experience Travelling Chinatown Peoples Park Complex Services Tour Tour Packages Free  Easy Tourist Travellers Excursions Cruises Airlines Visa Miles Holiday Tourism Services Travel Solutions Travel Assistance Travel Bookings Travel Management Services",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "hong-thai-travel-fd22ff08",
+			"outlets": [
+				{
+					"_id": "636b3639a91ab23828a2ffc8",
+					"name": "People's Park Complex"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"People's Park Complex"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Hong Thai Travel",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard through Apple Pay / Google Pay"
+		]
+	}
+}

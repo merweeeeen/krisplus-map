@@ -1,0 +1,223 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/sunday-staples-18346183",
+	"slug": "sunday-staples-18346183",
+	"fetchedAt": "2026-10-26T16:26:23.364+08:00",
+	"payload": {
+		"partner": {
+			"_id": "62b2dd152828ce189c09f76f",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Retail",
+				"Shopping",
+				"Shoes",
+				"Footwear",
+				"Heels",
+				"Flats",
+				"Outfits",
+				"Orchard",
+				"Jem",
+				"Jurong East",
+				"Suntec City",
+				"Central",
+				"West",
+				"Promenade",
+				"Esplanade",
+				"Wedding",
+				"City Hall",
+				"Capitol Singapore",
+				"Newclothes",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Sunday Staples Pte Ltd",
+			"brand": "Sunday Staples",
+			"code": "SYS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "Sunday Staples",
+			"address": {
+				"city": "Singapore",
+				"line1": "101 Eunos Avenue 3, TSL Holdings #06-01 Singapore 409835",
+				"streetName": "101 Eunos Avenue 3",
+				"postalCode": "409835",
+				"cityCode": "SIN"
+			},
+			"regNumber": "201706213C",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5504820459697619-App_750x540.jpg",
+			"websiteUrl": "https://sundaystaples.com/",
+			"descriptionHtml": "<p>Sunday Staples is a lifestyle footwear brand known for its fashionable styles and exceptional comfort. With a wide and versatile range of designs suited for all occasions, their collections aspire to be staples amongst women globally.</p>  <p>Participating Outlets:</p>  <ul> \t<li>313@Somerset</li> \t<li>Capitol Singapore</li> \t<li>JEM</li> \t </ul>",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR7",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1.65
+				},
+				"saleOfMiles": 0.0165,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "       ",
+			"participatingOutlets": "                 ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/18920533942489537-App_1000x1000.png",
+			"createdAt": "2022-06-22T09:12:53.397Z",
+			"updatedAt": "2026-08-06T14:17:32.227Z",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW",
+								"FAS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef97f45578ca5d7f0b3a1"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 3
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5504820459697619-App_750x540.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/18920533942489537-App_1000x1000.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5504820459697619-App_750x540_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5504820459697619-App_750x540_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5504820459697619-App_750x540_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/18920533942489537-App_1000x1000_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/18920533942489537-App_1000x1000_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/18920533942489537-App_1000x1000_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "Sunday Staples is a lifestyle footwear brand known for its fashionable styles and exceptional comfort. With a wide and versatile range of designs suited for all occasions, their collections aspire to be staples amongst women globally. Participating Outlets: 313@Somerset Capitol Singapore JEM Retail Shopping Shoes Footwear Heels Flats Outfits Orchard Jem Jurong East Suntec City Central West Promenade Esplanade Wedding City Hall Capitol Singapore Newclothes Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Retail Accessories, Jewellery & Watches Fashion",
+			"refundPeriodUpdatedAt": "2026-05-06T07:09:13.721Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "sunday-staples-18346183",
+			"outlets": [
+				{
+					"_id": "62b57f2cec159c37d060e6a7",
+					"name": "313@Somerset"
+				},
+				{
+					"_id": "62b57f8e24e97d128c40ce74",
+					"name": "JEM"
+				},
+				{
+					"_id": "64e2e2b4748675004fb4ea8d",
+					"name": "Capitol Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"313@Somerset",
+			"JEM",
+			"Capitol Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Sunday Staples",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

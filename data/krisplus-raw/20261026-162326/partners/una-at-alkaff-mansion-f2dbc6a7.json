@@ -1,0 +1,198 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/una-at-alkaff-mansion-f2dbc6a7",
+	"slug": "una-at-alkaff-mansion-f2dbc6a7",
+	"fetchedAt": "2026-10-26T16:24:45.883+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6045960c867e9e273c040f12",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "UNA at Alkaff Mansion",
+			"brand": "UNA at Alkaff Mansion",
+			"code": "UNA",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "UNAatAlkaffMan",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "211 Henderson Road, #04-03",
+				"postalCode": "159552",
+				"streetName": "Henderson Road"
+			},
+			"regNumber": "201907373R",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/26809818339570013-9661690918745407-Brand%20Image%20App.jpg",
+			"websiteUrl": "https://www.una.sg/",
+			"descriptionHtml": "<p>UNA is a modern and romantic Spanish restaurant serving contemporary culinary creations that are authentic, flavourful and unpretentious. Serving up the best of Spain, expect Spanish delicacies of tapas, paellas and parilla grill specialties.</p>  <p> <br></p>",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.028,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.8
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": " ",
+			"participatingOutlets": "     ",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/3424730141586183-7991557848836961-UNA%20Logo%20App.jpg",
+			"createdAt": "2021-03-08T03:12:12.844Z",
+			"updatedAt": "2026-09-18T08:31:02.641Z",
+			"searchableKeywords": [
+				"Telok Blangah Road",
+				"Telok Blangah Green",
+				"Spanish",
+				"Telok Blangah Hill",
+				"Alkaff Mansion",
+				"Restaurant",
+				"Paella",
+				"Squid Ink Pasta",
+				"Squid Ink Paella",
+				"Tapas",
+				"Bocadillo",
+				"Ibiza",
+				"Tumaca",
+				"Iberico Ham",
+				"Arroz Negro",
+				"Rioja Wine",
+				"Sangria",
+				"Couples",
+				"First Dates",
+				"Valentines Day",
+				"Romantic",
+				"Celebrations",
+				"Dining",
+				"Alchohol",
+				"Wine",
+				"Drinks",
+				"Business",
+				"Corporate Dining",
+				"Working Lunch",
+				"Networking",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR2",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"EUR"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9c89d00b0a527865c2e"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/26809818339570013-9661690918745407-Brand%20Image%20App.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/3424730141586183-7991557848836961-UNA%20Logo%20App.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/26809818339570013-9661690918745407-Brand%20Image%20App_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/26809818339570013-9661690918745407-Brand%20Image%20App_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/26809818339570013-9661690918745407-Brand%20Image%20App_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/3424730141586183-7991557848836961-UNA%20Logo%20App_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/3424730141586183-7991557848836961-UNA%20Logo%20App_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/3424730141586183-7991557848836961-UNA%20Logo%20App_high.jpg"
+			},
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2025-11-19T03:26:00.359Z",
+			"searchContent": "UNA is a modern and romantic Spanish restaurant serving contemporary culinary creations that are authentic, flavourful and unpretentious. Serving up the best of Spain, expect Spanish delicacies of tapas, paellas and parilla grill specialties. Telok Blangah Road Telok Blangah Green Spanish Telok Blangah Hill Alkaff Mansion Restaurant Paella Squid Ink Pasta Squid Ink Paella Tapas Bocadillo Ibiza Tumaca Iberico Ham Arroz Negro Rioja Wine Sangria Couples First Dates Valentines Day Romantic Celebrations Dining Alchohol Wine Drinks Business Corporate Dining Working Lunch Networking Art Braci Origin Nobu 665 Solo Restaurant Dining European",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "una-at-alkaff-mansion-f2dbc6a7",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "6049ea23d83ae918d0cd1e33",
+					"name": "The Alkaff Mansion"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"The Alkaff Mansion"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "UNA at Alkaff Mansion",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

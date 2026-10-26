@@ -1,0 +1,180 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/shake-shake-in-a-tub-34f8f0ac",
+	"slug": "shake-shake-in-a-tub-34f8f0ac",
+	"fetchedAt": "2026-10-26T16:32:16.159+08:00",
+	"payload": {
+		"partner": {
+			"_id": "694e89bb2a99e46e788d8637",
+			"name": "Shake Shake Pte Ltd",
+			"shortName": "ShakeShake Tub",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Shake Shake In A Tub",
+			"code": "5ST",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6493480937092735-ShakeShakeinaTub.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/03582892203694432-9953101375282782-Brand%20Image%20(750%20x%20540).jpg",
+			"websiteUrl": "https://shakeshakeinatub.com/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "33 Leonie Hill Road  #08-04",
+				"postalCode": "239197",
+				"streetName": "OUE Twin Peaks",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p>Shake Shake in a Tub brings a fun twist to finger food, offering signature dishes like the Shake Shake Fries, Popcorn Chicken, and Sweet Potato Fries. Halal-certified by MUIS, you can customise your snacks with a range of seasonal flavours, making each bite a unique and flavourful experience.</p><p>Participating outlets:<br>- Somerset<br>- Tampines</p>",
+			"searchableKeywords": [
+				"Fries",
+				"Popcorn",
+				"Chicken",
+				"Onion Rings",
+				"Bento",
+				"Corn Dog",
+				"Fried",
+				"Party",
+				"Fish"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"KID",
+								"QBS",
+								"WES"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"refundPeriodUpdatedAt": "2025-12-26T13:12:27.469Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6493480937092735-ShakeShakeinaTub.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/03582892203694432-9953101375282782-Brand%20Image%20(750%20x%20540).jpg",
+			"createdAt": "2025-12-26T13:12:27.477Z",
+			"updatedAt": "2026-08-06T14:18:27.086Z",
+			"searchContent": "Shake Shake in a Tub brings a fun twist to finger food, offering signature dishes like the Shake Shake Fries, Popcorn Chicken, and Sweet Potato Fries. Halal-certified by MUIS, you can customise your snacks with a range of seasonal flavours, making each bite a unique and flavourful experience. Participating outlets: - Somerset - Tampines Fries Popcorn Chicken Onion Rings Bento Corn Dog Fried Party Fish Dining Halal Casual Dining Kid-Friendly Quick Bites & Snacks Western",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/03582892203694432-9953101375282782-Brand%20Image%20(750%20x%20540)_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/03582892203694432-9953101375282782-Brand%20Image%20(750%20x%20540)_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/03582892203694432-9953101375282782-Brand%20Image%20(750%20x%20540)_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6493480937092735-ShakeShakeinaTub_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6493480937092735-ShakeShakeinaTub_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6493480937092735-ShakeShakeinaTub_high.jpg"
+			},
+			"newMerchantEndDate": "2026-03-14T15:59:59.999Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "shake-shake-in-a-tub-34f8f0ac",
+			"outlets": [
+				{
+					"_id": "694e8f57090cb9c0587d7615",
+					"name": "Somerset"
+				},
+				{
+					"_id": "695202093bac6b3edcfd32fa",
+					"name": "Our Tampines Hub"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Somerset",
+			"Our Tampines Hub"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Shake Shake In A Tub",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/avocadoria-singapore-fbf6ab65",
+	"slug": "avocadoria-singapore-fbf6ab65",
+	"fetchedAt": "2026-10-26T16:31:00.858+08:00",
+	"payload": {
+		"partner": {
+			"_id": "689ea494faa71704701b00cc",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 8,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 8,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 7,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 17.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Avocado Shakes",
+				"Avocado Ice Cream",
+				"Ice Creams",
+				"Shakes",
+				"Avocado",
+				"Smoothies"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "GOLDEN F&B VENTURES PTE LTD",
+			"brand": "Avocadoria Singapore",
+			"code": "AVO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5814",
+			"shortName": "Avocadoria",
+			"address": {
+				"line1": "61 UBI ROAD 1  #03-16  OXLEY BIZHUB  LOBBY 2",
+				"postalCode": "408727",
+				"streetName": "61 UBI ROAD 1",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"HAL"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BD",
+								"HEAL"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.instagram.com/avocadoriasg",
+			"descriptionHtml": "<p>Avocadoria Singapore is an international franchise originating from The Philippines, proudly bringing healthy, innovative, and delectable avocado treats to Singapore. From rich avocado shakes and soft-serves to refreshing smoothies and creative bowls, every item on the menu offers a fresh take on guilt-free enjoyment.</p><p>Avocadoria Singapore <span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">is a Muslim owned establishment.</span></p><p>Participating Outlets:<br>- Bedok Mall<br>- Causeway Point<br>- Lucky Plaza<br>- Paya Lebar Square<br>- White Sands</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/5451835401460252-Avocadoria.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5732816600734574-7162376050552584-750x540px.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Fast Food Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5451835401460252-Avocadoria.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5732816600734574-7162376050552584-750x540px.jpg",
+			"createdAt": "2025-08-15T03:08:04.134Z",
+			"updatedAt": "2026-10-16T01:22:27.549Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5451835401460252-Avocadoria_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5451835401460252-Avocadoria_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5451835401460252-Avocadoria_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-12-08T01:32:22.536Z",
+			"searchContent": "Avocadoria Singapore is an international franchise originating from The Philippines, proudly bringing healthy, innovative, and delectable avocado treats to Singapore. From rich avocado shakes and soft-serves to refreshing smoothies and creative bowls, every item on the menu offers a fresh take on guilt-free enjoyment. Avocadoria Singapore is a Muslim owned establishment. Participating Outlets: - Bedok Mall - Causeway Point - Lucky Plaza - Paya Lebar Square - White Sands Avocado Shakes Avocado Ice Cream Ice Creams Shakes Avocado Smoothies Dining Halal Beverages & Desserts Healthy",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "avocadoria-singapore-fbf6ab65",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "689eb0e26a7a4c046e6c5359",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "689eb13056ebe2046675e7d3",
+					"name": "Lucky Plaza"
+				},
+				{
+					"_id": "69362b5916299d0f34661ba3",
+					"name": "Paya Lebar Square"
+				},
+				{
+					"_id": "6ac5f81033b7873fb16c23b6",
+					"name": "White Sands"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bedok Mall",
+			"Lucky Plaza",
+			"Paya Lebar Square",
+			"White Sands"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 8,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Avocadoria Singapore",
+		"earnBadge": "Earn 8 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

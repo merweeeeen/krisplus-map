@@ -1,0 +1,183 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/xiao-yu-hao-15ec6c2e",
+	"slug": "xiao-yu-hao-15ec6c2e",
+	"fetchedAt": "2026-10-26T16:33:07.245+08:00",
+	"payload": {
+		"partner": {
+			"_id": "69f44f7dac3c43a9e6b46250",
+			"name": "All Best Foods Pte Ltd (XYH)",
+			"shortName": "Xiao Yu Hao",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Xiao Yu Hao",
+			"code": "XYH",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/9109258567785512-8817866007088351-20260130_XYH_Kris_Logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/7441425563144837-6047856193663093-20260130_XYH_Kris_Brand%20Image.jpg",
+			"websiteUrl": "https://www.instagram.com/xiaoyuhaosg/",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "41 Tampines Street 92",
+				"postalCode": "528881",
+				"streetName": "ABR Building",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">Xiao Yu Hao is China’s leading quick-service Suan Cai Yu brand with over 800 outlets. Known for its bold, nourishing soups and grilled fish, the brand brings authentic flavours to Singapore diners.</span></p>",
+			"searchableKeywords": [
+				"Xiao Yu Hao",
+				"XiaoYuHao",
+				"Suan Cai Yu",
+				"Spicy",
+				"Sichuan",
+				"Sauerkraut Fish Soup",
+				"Noodle Beef",
+				"Grilled Fish",
+				"Mala",
+				"Collagen Broth",
+				"Collyer Quay",
+				"Quick Bite",
+				"Lunch",
+				"CBD",
+				"Barramundi",
+				"Herbal",
+				"Soup",
+				"Rice",
+				"Laksa",
+				"Chinese cuisine",
+				"Tofu"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.5,
+				"saleOfMiles": 0.02,
+				"amountBlock": 2,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 0.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 1
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR2",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"CD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-01T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-05-01T07:00:13.914Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/9109258567785512-8817866007088351-20260130_XYH_Kris_Logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/7441425563144837-6047856193663093-20260130_XYH_Kris_Brand%20Image.jpg",
+			"createdAt": "2026-05-01T07:00:13.921Z",
+			"updatedAt": "2026-08-06T14:18:31.289Z",
+			"searchContent": "Xiao Yu Hao is China’s leading quick-service Suan Cai Yu brand with over 800 outlets. Known for its bold, nourishing soups and grilled fish, the brand brings authentic flavours to Singapore diners. Xiao Yu Hao XiaoYuHao Suan Cai Yu Spicy Sichuan Sauerkraut Fish Soup Noodle Beef Grilled Fish Mala Collagen Broth Collyer Quay Quick Bite Lunch CBD Barramundi Herbal Soup Rice Laksa Chinese cuisine Tofu Dining Casual Dining Asian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/7441425563144837-6047856193663093-20260130_XYH_Kris_Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/7441425563144837-6047856193663093-20260130_XYH_Kris_Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/7441425563144837-6047856193663093-20260130_XYH_Kris_Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/9109258567785512-8817866007088351-20260130_XYH_Kris_Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/9109258567785512-8817866007088351-20260130_XYH_Kris_Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/9109258567785512-8817866007088351-20260130_XYH_Kris_Logo_high.jpg"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "xiao-yu-hao-15ec6c2e",
+			"outlets": [
+				{
+					"_id": "69f45184f56f359c4766b62a",
+					"name": "Collyer Quay"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Collyer Quay"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Xiao Yu Hao",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

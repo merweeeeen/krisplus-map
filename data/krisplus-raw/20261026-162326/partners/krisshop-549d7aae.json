@@ -1,0 +1,264 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/krisshop-549d7aae",
+	"slug": "krisshop-549d7aae",
+	"fetchedAt": "2026-10-26T16:25:38.802+08:00",
+	"payload": {
+		"partner": {
+			"_id": "617fba108ea68032087aff03",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": false,
+			"searchableKeywords": [
+				"Krisshop",
+				"Ecommerce",
+				"Retailtherapy",
+				"Gifts",
+				"For Him",
+				"For Her",
+				"Beauty",
+				"Retail",
+				"Merchandise",
+				"Sia",
+				"Batik",
+				"Local",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"TShirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts",
+				"Electronic",
+				"Electric",
+				"Courts",
+				"Best Denki",
+				"Gain City",
+				"Apple",
+				"Xiaomi",
+				"Electrical Components",
+				"Electronical Components",
+				"Audio",
+				"Television",
+				"Headphones",
+				"Cables",
+				"Plug",
+				"Travel Accessories",
+				"Hairdryer",
+				"Airconditioner",
+				"Washing Machine",
+				"Kettle",
+				"Hair Straightener",
+				"Lifestyle Appliances",
+				"Fans",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume",
+				"Samsung",
+				"Ruhens",
+				"Grohe",
+				"Hansgrohe",
+				"Mayer",
+				"Simmons",
+				"Sealy"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": false,
+			"hideFromCustomer": false,
+			"name": "KrisShop Pte Ltd (Online)",
+			"brand": "KrisShop",
+			"code": "KSO",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5309",
+			"shortName": "KrisShopOnline",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "25 Airline Road, Airline House",
+				"postalCode": "819829",
+				"streetName": "Airline Road"
+			},
+			"regNumber": "197401891E",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/11400324954853014-KS%20Brand-Image_Nov20_750x540px.jpg",
+			"websiteUrl": "https://ca.krisplus.com/redirect?screen=krisshop_intermediary",
+			"descriptionHtml": "<p>KrisShop is an omni channel retailer offering an assortment of premium product categories and services. Their brand portfolio includes more than 3000 brands which are made up on big international and local brands available for both travellers and non travellers to purchase.   </p><p>Easily access KrisShop on Kris+: </p><ul><li>Tap on the link under 'Location & Contact' below; or ·</li><li>Go back to the Homepage and tap on the \"KrisShop\" icon on the top bar.</li></ul>",
+			"countryCode": "SG",
+			"mccDescription": "Duty Free Stores",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/0050296833310141675-krisshop%20logo.jpg",
+			"createdAt": "2021-11-01T09:57:36.260Z",
+			"updatedAt": "2026-09-02T01:56:52.860Z",
+			"earnRates": {
+				"calculatedMilesEarnRate": 1.5,
+				"saleOfMiles": 0.012,
+				"amountBlock": 2,
+				"base": 3,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 150000,
+				"minTokens": 30000,
+				"cardMerchantFees": {
+					"refundable": 1.1,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 0
+				},
+				"autoDeductSaleOfMilesPct": false
+			},
+			"participatingOutlets": "                                       ",
+			"promotional": "                                            ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"partnershipGroup": "GR4",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"ONLINE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS",
+								"HL",
+								"FAS",
+								"AJW",
+								"EE",
+								"BK"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef99b3d10e34df66b4722"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0050296833310141675-krisshop%20logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0050296833310141675-krisshop%20logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0050296833310141675-krisshop%20logo_high.jpg"
+			},
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/11400324954853014-KS%20Brand-Image_Nov20_750x540px.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0050296833310141675-krisshop%20logo.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/11400324954853014-KS%20Brand-Image_Nov20_750x540px_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/11400324954853014-KS%20Brand-Image_Nov20_750x540px_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/11400324954853014-KS%20Brand-Image_Nov20_750x540px_high.jpg"
+			},
+			"refundPeriodUpdatedAt": "2026-04-23T07:03:44.249Z",
+			"refundPeriodInDays": 180,
+			"searchContent": "KrisShop is an omni channel retailer offering an assortment of premium product categories and services. Their brand portfolio includes more than 3000 brands which are made up on big international and local brands available for both travellers and non travellers to purchase. Easily access KrisShop on Kris+: Tap on the link under 'Location & Contact' below; or ·Go back to the Homepage and tap on the \"KrisShop\" icon on the top bar. Krisshop Ecommerce Retailtherapy Gifts For Him For Her Beauty Retail Merchandise Sia Batik Local Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers TShirt Shoes Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Electronic Electric Courts Best Denki Gain City Apple Xiaomi Electrical Components Electronical Components Audio Television Headphones Cables Plug Travel Accessories Hairdryer Airconditioner Washing Machine Kettle Hair Straightener Lifestyle Appliances Fans Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Birthdays Holidays Anniversary Special Occasions Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Samsung Ruhens Grohe Hansgrohe Mayer Simmons Sealy Retail Gifts & Souvenirs Home & Lifestyle Fashion Accessories, Jewellery & Watches Electrical & Electronics Baby & Kids",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "krisshop-549d7aae",
+			"isDisplayOnKrisWeb": true,
+			"newMerchantEndDate": null,
+			"outlets": []
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 2,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "KrisShop",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 2 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

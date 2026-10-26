@@ -1,0 +1,164 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/willow-restaurant-a2548731",
+	"slug": "willow-restaurant-a2548731",
+	"fetchedAt": "2026-10-26T16:31:17.774+08:00",
+	"payload": {
+		"partner": {
+			"_id": "68c3d49fb90d880474944fdc",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"calculatedMilesEarnRate": 4,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 4,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 3,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 7.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Asian",
+				"Japanese",
+				"Fine Dining",
+				"Private Room",
+				"Private Dining",
+				"Beverages",
+				"Desserts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "WILLOW RESTAURANT PTE LTD",
+			"brand": "Willow Restaurant",
+			"code": "WWR",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5812",
+			"shortName": "Willow Restaur",
+			"address": {
+				"line1": "48 LORONG 21 GEYLANG",
+				"postalCode": "388464",
+				"streetName": "GREATLAND BUILDING  #06-02",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": []
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"FD",
+								"ASI"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.willowrestaurant.sg/",
+			"descriptionHtml": "<p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">Ingredient-driven and quietly elegant, Willow is a one-Michelin-star contemporary Asian dining concept. It's ever-evolving menu draws inspiration from Japanese and Asian influences, filtered through a modern, global lens. With just a handful of seats in a warm, serene space, enjoy an intimate dining experience marked by intention and thoughtful hospitality.</p><p style=\"box-sizing: border-box; font-weight: 300; margin-top: 0px; margin-bottom: 1rem; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">*Kris+ payment is not applicable for private group bookings or in conjunction with bank promotions.</p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/8705720457667308-WillowRestaurant.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/04258661650380269-8858273289339873-Brand%20Image_750x540.jpg",
+			"countryCode": "SG",
+			"mccDescription": "Eating Places and Restaurants",
+			"partnershipGroup": "GR5",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8705720457667308-WillowRestaurant.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/04258661650380269-8858273289339873-Brand%20Image_750x540.jpg",
+			"createdAt": "2025-09-12T08:06:55.248Z",
+			"updatedAt": "2026-08-06T14:18:20.609Z",
+			"refundPeriodInDays": 60,
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8705720457667308-WillowRestaurant_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8705720457667308-WillowRestaurant_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8705720457667308-WillowRestaurant_high.png"
+			},
+			"refundPeriodUpdatedAt": "2025-12-01T01:37:23.541Z",
+			"searchContent": "Ingredient-driven and quietly elegant, Willow is a one-Michelin-star contemporary Asian dining concept. It's ever-evolving menu draws inspiration from Japanese and Asian influences, filtered through a modern, global lens. With just a handful of seats in a warm, serene space, enjoy an intimate dining experience marked by intention and thoughtful hospitality. *Kris+ payment is not applicable for private group bookings or in conjunction with bank promotions. Asian Japanese Fine Dining Private Room Private Dining Beverages Desserts Dining Fine Dining Asian",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "willow-restaurant-a2548731",
+			"outlets": [
+				{
+					"_id": "68c78fa1a303990465af95e4",
+					"name": "Hongkong Street"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Hongkong Street"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 4,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Willow Restaurant",
+		"earnBadge": "Earn 4 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

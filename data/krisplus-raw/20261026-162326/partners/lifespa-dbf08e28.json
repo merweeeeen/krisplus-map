@@ -1,0 +1,235 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/lifespa-dbf08e28",
+	"slug": "lifespa-dbf08e28",
+	"fetchedAt": "2026-10-26T16:24:28.017+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5f7e995b0074146c54d96ee4",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"WELLNESS"
+			],
+			"physicalShop": true,
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Lifespa Slenders Bodyrite Pte Ltd",
+			"brand": "LifeSpa",
+			"code": "LIF",
+			"countryIncorporation": "Singapore",
+			"mccCode": "7298",
+			"shortName": "LifeSpa",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "218 Orchard Road #11-01/02",
+				"postalCode": "238851",
+				"streetName": "Orchard Gateway Emerald"
+			},
+			"regNumber": "200409395M",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4867118487697464-03449472284893029-750x540_1.jpg",
+			"websiteUrl": "https://lifespa.com.sg/contact-us/",
+			"description": "LifeSpa is a haven of peace and harmony to unwind and be rejuvenated. Skillful therapists deliver personalised service with great care. Spa treatments are a unique mix of traditional and contemporary, and use only the finest natural ingredients.",
+			"countryCode": "SG",
+			"mccDescription": "Health and Beauty Spas",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4579501208339216-1000x1000%20lifespa%20logo-image%201.png",
+			"createdAt": "2020-10-08T04:45:15.434Z",
+			"updatedAt": "2026-08-06T14:17:11.479Z",
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 2,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"base": 3,
+				"calculatedMilesEarnRate": 3,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"autoDeductSaleOfMilesPct": true
+			},
+			"participatingOutlets": "•\tOrchard Gateway\n•\tCarlton Hotel Premier Wing \n•\tCarlton Hotel Executive Wing",
+			"promotional": "                 ",
+			"descriptionHtml": "<p>​​​​​​​LifeSpa is a haven of peace and harmony to unwind and be rejuvenated. Skillful therapists deliver personalised service with great care. Spa treatments are a unique mix of traditional and contemporary, and use only the finest natural ingredients.</p>\n\n<p>Participating outlets:</p>\n\n<ul>\n\t<li>Orchard Gateway</li>\n\t<li>Carlton Hotel Premier Wing</li>\n\t<li>Carlton Hotel Executive Wing</li>\n</ul>",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Orchard Gateway",
+				"Bras Basah Road",
+				"City Hall",
+				"Wellness",
+				"Retail",
+				"Beauty",
+				"Facial",
+				"Makeover",
+				"Brow",
+				"Tonic",
+				"Skin Mask",
+				"Flawless",
+				"Cosmetic Artistry",
+				"Experts",
+				"Design",
+				"Face Eye Treatment",
+				"Facial Treatment",
+				"Body Massage",
+				"Stress Relieving",
+				"Antiache",
+				"Eye Treatment",
+				"Birthday Exclusive",
+				"Couples",
+				"Face",
+				"Eye",
+				"Spa",
+				"Natural",
+				"Carlton Hotel",
+				"Spa",
+				"Beauty",
+				"Dermalogica",
+				"Elemis Spa",
+				"Natureland",
+				"Clarins",
+				"Aesop",
+				"Facial",
+				"Cleanser",
+				"Massage",
+				"Guasha",
+				"Foot Massage",
+				"Body Massage",
+				"Treatment",
+				"Beauty",
+				"Sephora",
+				"Mac Cosmetics",
+				"Innisfree",
+				"Laneige",
+				"Clinique",
+				"Radiance",
+				"Cosmetics",
+				"Skincare Products",
+				"Personal Care",
+				"Beauty Aids",
+				"Beauty Essentials",
+				"Make Up",
+				"Grooming Products",
+				"Serum",
+				"Cleansers",
+				"Mosturisers",
+				"Lip Stick",
+				"Lotion",
+				"Perfume"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"platformFee": 0,
+			"partnershipGroup": "GR6",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Wellness",
+					"categoryCode": "WELLNESS",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Wellness Options",
+							"subCategoryGroupCode": "WELLNESS_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"BTS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9d745578ca5d7f0b3ca"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 2
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4867118487697464-03449472284893029-750x540_1.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4579501208339216-1000x1000%20lifespa%20logo-image%201.png",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4867118487697464-03449472284893029-750x540_1_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4867118487697464-03449472284893029-750x540_1_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4867118487697464-03449472284893029-750x540_1_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4579501208339216-1000x1000%20lifespa%20logo-image%201_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4579501208339216-1000x1000%20lifespa%20logo-image%201_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4579501208339216-1000x1000%20lifespa%20logo-image%201_high.png"
+			},
+			"searchContent": "​​​​​​​LifeSpa is a haven of peace and harmony to unwind and be rejuvenated. Skillful therapists deliver personalised service with great care. Spa treatments are a unique mix of traditional and contemporary, and use only the finest natural ingredients. Participating outlets: Orchard Gateway Carlton Hotel Premier Wing Carlton Hotel Executive Wing Orchard Road Orchard Gateway Bras Basah Road City Hall Wellness Retail Beauty Facial Makeover Brow Tonic Skin Mask Flawless Cosmetic Artistry Experts Design Face Eye Treatment Facial Treatment Body Massage Stress Relieving Antiache Eye Treatment Birthday Exclusive Couples Face Eye Spa Natural Carlton Hotel Spa Beauty Dermalogica Elemis Spa Natureland Clarins Aesop Facial Cleanser Massage Guasha Foot Massage Body Massage Treatment Beauty Sephora Mac Cosmetics Innisfree Laneige Clinique Radiance Cosmetics Skincare Products Personal Care Beauty Aids Beauty Essentials Make Up Grooming Products Serum Cleansers Mosturisers Lip Stick Lotion Perfume Wellness Beauty Treatment & Spa",
+			"refundPeriodInDays": 60,
+			"refundPeriodUpdatedAt": "2026-03-02T02:14:41.859Z",
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "lifespa-dbf08e28",
+			"outlets": [
+				{
+					"_id": "5f8eaa2685041a63ac6ac5bc",
+					"name": "LifeSpa Orchard "
+				},
+				{
+					"_id": "5f8eab116a2e901a681f3b25",
+					"name": "LifeSpa PrestigeOne L5"
+				},
+				{
+					"_id": "5f8eab616a2e901a681f3b27",
+					"name": "LifeSpa PrestigeTwo L4"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"LifeSpa Orchard ",
+			"LifeSpa PrestigeOne L5",
+			"LifeSpa PrestigeTwo L4"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "LifeSpa",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

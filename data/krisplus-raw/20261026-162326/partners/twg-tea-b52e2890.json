@@ -1,0 +1,280 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/twg-tea-b52e2890",
+	"slug": "twg-tea-b52e2890",
+	"fetchedAt": "2026-10-26T16:23:30.899+08:00",
+	"payload": {
+		"partner": {
+			"_id": "5b289d1938755b2508600118",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "390 Havelock Road , King's Centre, #05-01 ",
+				"postalCode": "169662",
+				"streetName": "Havelock Road"
+			},
+			"exchangeRate": {
+				"sale": 0.0066666667,
+				"settlement": 0.0066666667
+			},
+			"active": true,
+			"name": "TWG Tea Company Pte Ltd",
+			"brand": "TWG Tea",
+			"code": "TWG",
+			"countryIncorporation": "Singapore",
+			"description": "",
+			"categary": "Gifts and Souvenirs",
+			"regNumber": "200108022Z",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/0810368315313752-TWGTeaLogo-Round_1200px.png",
+			"createdAt": "2018-06-19T06:05:13.010Z",
+			"updatedAt": "2026-10-01T03:25:23.644Z",
+			"earn": true,
+			"convert": false,
+			"burn": true,
+			"earnRates": {
+				"calculatedMilesEarnRate": 3,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 3,
+				"baseFundedByKrisPlus": 2,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 50000,
+				"minTokens": 10000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"promotional": "KrisPay Exclusive Promotion:\nEnjoy a complimentary box of 12 macarons with a minimum retail spend of nett SGD250, when you flash the KrisPay app at the point of payment. \n\nTerms & Conditions:\n•\tNot valid with other promotions, vouchers, privileges or exchangeable for cash\n•\tTWG Tea Management reserves the right to amend the T&Cs without prior notice\n\nFind out more at: https://twgtea.com/",
+			"category": "RETAIL",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/brandImagePath-fc86f654-7795-456f-a434-d35cf8b8d328.jpg",
+			"participatingOutlets": "•\tChangi Airport T1\n•\tChangi Airport T2\n•\tChangi Airport T3\n•\tChangi Airport T4\n•\tION Orchard\n•\tRepublic Plaza \n•\tSwissôtel The Stamford\n•\tThe Shoppes at Marina Bay Sands",
+			"physicalShop": true,
+			"privilege": true,
+			"websiteUrl": "https://twgtea.com/",
+			"categories": [
+				"RETAIL"
+			],
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"hideFromCustomer": false,
+			"payByCard": true,
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"descriptionHtml": "<p>TWG Tea, luxury tea company, was established in Singapore and offers the largest collection of fine harvests, exclusive tea blends from every tea producing country, tea accessories and exquisite Tea Gastronomy for gourmands and tea lovers.</p>  <p>Participating Outlets:</p>  <ul> \t<li>Changi Airport T1 (Transit)</li> \t<li>Changi Airport T2 (Transit)</li> \t<li>Changi Airport T3 (Transit)</li> \t<li>​​​​Changi Airport T4 (Transit)</li> \t<li>ION Orchard</li> \t<li>Raffles City Shopping Centre</li> \t<li>Republic Plaza </li> \t<li>Swissôtel The Stamford</li> \t<li>The Shoppes at Marina Bay Sands (B1 and B2)</li> </ul>",
+			"countryCode": "SG",
+			"shortName": "TWG",
+			"searchableKeywords": [
+				"Orchard Road",
+				"Paterson Road",
+				"Changi Airport",
+				"Airport Boulevard",
+				"Bayfront",
+				"Bayfront Avenue",
+				"Stamford Road",
+				"City Hall",
+				"Raffles Place",
+				"Wellness",
+				"Retail",
+				"East",
+				"Terminal",
+				"Cleansing",
+				"Cold Pressed",
+				"Immune",
+				"Strengthen",
+				"Inflmmation",
+				"Metabolism",
+				"Health Benefits",
+				"Tumeric Essence",
+				"Organic",
+				"Wild Raw Honey",
+				"Dates",
+				"Figs",
+				"Luxury",
+				"Exquisite",
+				"Tea Gastronomy",
+				"Macarons",
+				"Singleestate",
+				"Tea Harvest",
+				"Changi Airport Terminal 1",
+				"Changi Airport Terminal 2",
+				"Changi Airport Terminal 3",
+				"Changi Airport Terminal 4",
+				"Ion Orchard",
+				"Republic Plaza",
+				"Swisshotel The Stamford",
+				"The Shoppes At Marina Bay Sands",
+				"T1",
+				"T2",
+				"T3",
+				"T4",
+				"Tourists",
+				"Mbs",
+				"Cnysnacks",
+				"Chinese New Year",
+				"Gift",
+				"Souvenirs",
+				"Lush",
+				"The Body Shop",
+				"Kiehl’S",
+				"Bath  Body Works",
+				"Yankee Candle",
+				"Gifts",
+				"Birthdays",
+				"Holidays",
+				"Anniversary",
+				"Special Occasions",
+				"Art",
+				"Braci",
+				"Origin",
+				"Nobu",
+				"665",
+				"Solo Restaurant",
+				"Romantic"
+			],
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"payByAmexCard": true,
+			"partnershipGroup": "GR3",
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"GS"
+							]
+						}
+					]
+				}
+			],
+			"translations": [
+				"64eef9f40108b03f047da5c5"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/brandImagePath-fc86f654-7795-456f-a434-d35cf8b8d328.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/0810368315313752-TWGTeaLogo-Round_1200px.png",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/0810368315313752-TWGTeaLogo-Round_1200px_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/0810368315313752-TWGTeaLogo-Round_1200px_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/0810368315313752-TWGTeaLogo-Round_1200px_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "TWG Tea, luxury tea company, was established in Singapore and offers the largest collection of fine harvests, exclusive tea blends from every tea producing country, tea accessories and exquisite Tea Gastronomy for gourmands and tea lovers. Participating Outlets: Changi Airport T1 (Transit) Changi Airport T2 (Transit) Changi Airport T3 (Transit) ​​​​Changi Airport T4 (Transit) ION Orchard Raffles City Shopping Centre Republic Plaza Swissôtel The Stamford The Shoppes at Marina Bay Sands (B1 and B2) Orchard Road Paterson Road Changi Airport Airport Boulevard Bayfront Bayfront Avenue Stamford Road City Hall Raffles Place Wellness Retail East Terminal Cleansing Cold Pressed Immune Strengthen Inflmmation Metabolism Health Benefits Tumeric Essence Organic Wild Raw Honey Dates Figs Luxury Exquisite Tea Gastronomy Macarons Singleestate Tea Harvest Changi Airport Terminal 1 Changi Airport Terminal 2 Changi Airport Terminal 3 Changi Airport Terminal 4 Ion Orchard Republic Plaza Swisshotel The Stamford The Shoppes At Marina Bay Sands T1 T2 T3 T4 Tourists Mbs Cnysnacks Chinese New Year Gift Souvenirs Lush The Body Shop Kiehl’S Bath  Body Works Yankee Candle Gifts Birthdays Holidays Anniversary Special Occasions Art Braci Origin Nobu 665 Solo Restaurant Romantic Retail Gifts & Souvenirs",
+			"refundPeriodUpdatedAt": "2026-04-29T03:51:23.584Z",
+			"newMerchantEndDate": null,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "twg-tea-b52e2890",
+			"isDisplayOnKrisWeb": false,
+			"outlets": [
+				{
+					"_id": "5b289de138755b2508600123",
+					"name": "Marina Bay Sands (B1)"
+				},
+				{
+					"_id": "5b289e6338755b2508600129",
+					"name": "Marina Bay Sands (B2)"
+				},
+				{
+					"_id": "5b289ef938755b2508600136",
+					"name": "ION Orchard"
+				},
+				{
+					"_id": "5ddccad15aa86d03442f3c4b",
+					"name": "Swissotel The Stamford"
+				},
+				{
+					"_id": "5ddccc6b2ddaf814108ab2c9",
+					"name": "Republic Plaza"
+				},
+				{
+					"_id": "5dde1d6774752c0ee815312c",
+					"name": "Changi Airport T1 (Transit)"
+				},
+				{
+					"_id": "5dde1d8a98617c16145c42e4",
+					"name": "Changi Airport T2 (Transit)"
+				},
+				{
+					"_id": "5dde1e2df05e6a1360e5aa56",
+					"name": "Changi Airport T3 (Transit L2)"
+				},
+				{
+					"_id": "5dde1e702fadf31050cc0714",
+					"name": "Changi Airport T3 (Transit K)"
+				},
+				{
+					"_id": "5dde1e9a2fadf31050cc0716",
+					"name": "Changi Airport T4 (Transit)"
+				},
+				{
+					"_id": "636324457e739d0f04b553cb",
+					"name": "Raffles City Singapore"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Marina Bay Sands (B1)",
+			"Marina Bay Sands (B2)",
+			"ION Orchard",
+			"Swissotel The Stamford",
+			"Republic Plaza",
+			"Changi Airport T1 (Transit)",
+			"Changi Airport T2 (Transit)",
+			"Changi Airport T3 (Transit L2)",
+			"Changi Airport T3 (Transit K)",
+			"Changi Airport T4 (Transit)",
+			"Raffles City Singapore"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 3,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "TWG Tea",
+		"earnBadge": "Earn 3 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

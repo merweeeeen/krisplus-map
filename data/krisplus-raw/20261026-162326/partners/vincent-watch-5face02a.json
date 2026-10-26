@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/vincent-watch-5face02a",
+	"slug": "vincent-watch-5face02a",
+	"fetchedAt": "2026-10-26T16:34:16.357+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6acc3e9d408e623ebc7b389f",
+			"name": "VINCENT WATCH PTE LTD",
+			"shortName": "VINCENT WATCH",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "VINCENT WATCH",
+			"code": "VWP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/6465088814730804-9415370345543845-Brand%20Logo.jpg",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/8697475826170471-4591318498366841-Brand%20Image.jpg",
+			"websiteUrl": "https://www.vincentwatch.com.sg",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "18 HOWARD ROAD #09-09 SINGAPORE 369585",
+				"postalCode": "369585",
+				"streetName": "18 HOWARD ROAD",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Founded in 1985, Vincent Watch is one of Singapore’s most     trusted authorised watch retailers, with nearly 40 years of heritage. They     carry over 20 renowned brands, including TAG Heuer, Tudor, Longines, and     Tissot, and are the sole distributor of Marshal Watch and D1 Milano. From     milestones to marriages, they are here to help you celebrate life’s special     moments.</p>  <p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating outlets:</p>  <ul style=\"list-style-type: circle;\"><li>Bedok Mall</li><li>Causeway Point</li><li>Jem</li><li>Jurong Point 2</li><li>Tampines Mall (under renovation)</li></ul>      ",
+			"searchableKeywords": [
+				"Watches",
+				"watch straps",
+				"clocks",
+				"smart watches"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"isDisplayOnKrisWeb": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 0.33,
+				"saleOfMiles": 0.0285,
+				"amountBlock": 3,
+				"base": 1,
+				"baseFundedByKrisPlus": 0,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1,
+					"nonRefundable": 1.5,
+					"saleOfMilesPct": 0.95
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR7",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"AJW"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"newMerchantEndDate": "2026-12-21T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 5
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-10-12T01:57:49.517Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6465088814730804-9415370345543845-Brand%20Logo.jpg",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/8697475826170471-4591318498366841-Brand%20Image.jpg",
+			"createdAt": "2026-10-12T01:57:49.526Z",
+			"updatedAt": "2026-10-22T03:43:07.950Z",
+			"searchContent": "Founded in 1985, Vincent Watch is one of Singapore’s most trusted authorised watch retailers, with nearly 40 years of heritage. They carry over 20 renowned brands, including TAG Heuer, Tudor, Longines, and Tissot, and are the sole distributor of Marshal Watch and D1 Milano. From milestones to marriages, they are here to help you celebrate life’s special moments. Participating outlets: Bedok MallCauseway PointJemJurong Point 2Tampines Mall (under renovation) Watches watch straps clocks smart watches Retail Accessories, Jewellery & Watches",
+			"slugId": "vincent-watch-5face02a",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/8697475826170471-4591318498366841-Brand%20Image_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/8697475826170471-4591318498366841-Brand%20Image_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/8697475826170471-4591318498366841-Brand%20Image_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6465088814730804-9415370345543845-Brand%20Logo_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6465088814730804-9415370345543845-Brand%20Logo_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6465088814730804-9415370345543845-Brand%20Logo_high.jpg"
+			},
+			"outlets": [
+				{
+					"_id": "6acc402a1f8d6db540b58612",
+					"name": "Bedok Mall"
+				},
+				{
+					"_id": "6acc409ae33888058366f012",
+					"name": "Causeway Point"
+				},
+				{
+					"_id": "6acc4102e33888058366f0f6",
+					"name": "Jem"
+				},
+				{
+					"_id": "6acc41950f57daaf0ce4834c",
+					"name": "Jurong Point 2"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Bedok Mall",
+			"Causeway Point",
+			"Jem",
+			"Jurong Point 2"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 1,
+				"amountBlock": 3,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "VINCENT WATCH",
+		"earnBadge": "Earn 1 KrisPay miles per SGD 3 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

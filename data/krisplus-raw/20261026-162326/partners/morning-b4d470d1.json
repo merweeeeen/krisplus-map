@@ -1,0 +1,181 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/morning-b4d470d1",
+	"slug": "morning-b4d470d1",
+	"fetchedAt": "2026-10-26T16:30:23.849+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6841040a5a771904011d0843",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"earnRates": {
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 3.2
+				},
+				"saleOfMiles": 0.032,
+				"autoDeductSaleOfMilesPct": true,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"searchableKeywords": [
+				"Coffee",
+				"Capsules",
+				"Nespresso",
+				"Capsule Machine",
+				"Morning Coffee",
+				"The Morning Coffee",
+				"Drink Morning Coffee",
+				"Drink Morning Singapore",
+				"Drinkmorning",
+				"Morning Coffee Singapore",
+				"Good Morning Coffee Machine",
+				"Drink Morning Machine",
+				"Coffee Morning",
+				"Goodmorning Coffee",
+				"Morning Coffee New Bahru",
+				"Morning Coffee Machine",
+				"Morning Machine",
+				"Morning Capsule Machine",
+				"The Morning Coffee Machine",
+				"The Morning Machine",
+				"Morning Coffee Capsule Machine",
+				"Morning Machine Singapore",
+				"Drink Morning Coffee Machine",
+				"Morning Coffee Machine Singapore",
+				"Coffee Capsule Machine",
+				"Capsule Coffee Machine",
+				"Capsule Coffee Machine Singapore",
+				"Automatic Coffee Maker"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"hideFromCustomer": false,
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"acceptedCurrencyCode": "SGD",
+			"name": "Akronym Pte Ltd",
+			"brand": "MORNING",
+			"code": "APL",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5499",
+			"shortName": "MORNING",
+			"address": {
+				"city": "Singapore",
+				"line1": "240 MacPherson Road #02-02, Singapore 348574",
+				"streetName": "240 MacPherson Road",
+				"postalCode": "348574",
+				"cityCode": "SIN"
+			},
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": [
+								"EE",
+								"HL",
+								"GS",
+								"FS"
+							]
+						}
+					]
+				}
+			],
+			"websiteUrl": "https://www.drinkmorning.com/",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">MORNING is a coffee tech company committed to make better coffee more accessible.</span></p><p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\"></span><br style=\"box-sizing: border-box; font-weight: 300; color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">The MORNING Ecosystem delivers a world-class capsule coffee experience — featuring the award-winning MORNING Machine, designed for precision-brewing, and an online marketplace offering specialty coffee pods from leading roasters around the world.</span></p>",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/40884167371066327-morning.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5694905866977122-5650209593993643-MORNING_Kris%2B_Brand%20Image%20(750%20x%20540px).png",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous Food Stores – Convenience Stores and Specialty Markets",
+			"partnershipGroup": "GR7",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/40884167371066327-morning.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5694905866977122-5650209593993643-MORNING_Kris%2B_Brand%20Image%20(750%20x%20540px).png",
+			"createdAt": "2025-06-05T02:42:18.310Z",
+			"updatedAt": "2026-08-06T14:18:15.142Z",
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/40884167371066327-morning_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/40884167371066327-morning_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/40884167371066327-morning_high.png"
+			},
+			"refundPeriodInDays": 60,
+			"searchContent": "MORNING is a coffee tech company committed to make better coffee more accessible. The MORNING Ecosystem delivers a world-class capsule coffee experience — featuring the award-winning MORNING Machine, designed for precision-brewing, and an online marketplace offering specialty coffee pods from leading roasters around the world. Coffee Capsules Nespresso Capsule Machine Morning Coffee The Morning Coffee Drink Morning Coffee Drink Morning Singapore Drinkmorning Morning Coffee Singapore Good Morning Coffee Machine Drink Morning Machine Coffee Morning Goodmorning Coffee Morning Coffee New Bahru Morning Coffee Machine Morning Machine Morning Capsule Machine The Morning Coffee Machine The Morning Machine Morning Coffee Capsule Machine Morning Machine Singapore Drink Morning Coffee Machine Morning Coffee Machine Singapore Coffee Capsule Machine Capsule Coffee Machine Capsule Coffee Machine Singapore Automatic Coffee Maker Retail Electrical & Electronics Home & Lifestyle Gifts & Souvenirs Food Specialities",
+			"isDisplayOnKrisWeb": false,
+			"refundPeriodUpdatedAt": "2026-07-14T08:45:05.493Z",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "morning-b4d470d1",
+			"outlets": [
+				{
+					"_id": "68410dd80bc6a90409ca62dd",
+					"name": "New Bahru"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"New Bahru"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "MORNING",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

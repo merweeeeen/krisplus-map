@@ -1,0 +1,168 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/feed-my-paws-bdb35fdc",
+	"slug": "feed-my-paws-bdb35fdc",
+	"fetchedAt": "2026-10-26T16:33:28.257+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a2a19337750ec6d2b87113c",
+			"name": "FEED MY PAWS PETS SINGAPORE PTE. LTD.",
+			"shortName": "Feed My Paws",
+			"mccCode": "5999",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"brand": "Feed My Paws",
+			"code": "FMP",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/4476232925540038-8216676302204806-Feed%20My%20Paws%20Logo%20260x260%20for%20Kris%2B.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/6361968304057519-21191952079531173-Feed%20My%20Paws%20750x540%20Kris%2B%20Brand%20Image.png",
+			"websiteUrl": "https://www.feedmypaws.com/",
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE",
+				"ONLINE"
+			],
+			"address": {
+				"line1": "Blk 4, Lorong 7 Toa Payoh, #01-129, Singapore 310004",
+				"postalCode": "310004",
+				"streetName": "Blk 4, Lorong 7 Toa Payoh",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Feed My Paws is a Singapore-based handmade pet bakery that     creates fresh, human-grade meals and treats for dogs, cats, and small pets, all     free from preservatives. With a focus on nutrition and convenience, they offer     gently cooked recipes made from quality ingredients to support pets’ overall     health and well-being.</p><p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\"><br></p><p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-size: 15px; font-family: Aptos, sans-serif;\">Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only.</p>",
+			"searchableKeywords": [
+				"pet bakery",
+				"dog cake",
+				"dog birthday",
+				"dog cupcakes",
+				"pupcakes",
+				"dog treats",
+				"cat treats",
+				"freezedried treats",
+				"handmade pet treats",
+				"premium pet treats",
+				"dog cookies",
+				"hamster",
+				"rabbit",
+				"guinea pig"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 2,
+				"saleOfMiles": 0.025,
+				"amountBlock": 1,
+				"base": 2,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 1,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 2.5
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR5",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS",
+							"priority": 1,
+							"chosenTags": []
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-08-15T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-11T02:10:59.500Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4476232925540038-8216676302204806-Feed%20My%20Paws%20Logo%20260x260%20for%20Kris%2B.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/6361968304057519-21191952079531173-Feed%20My%20Paws%20750x540%20Kris%2B%20Brand%20Image.png",
+			"createdAt": "2026-06-11T02:10:59.506Z",
+			"updatedAt": "2026-08-06T14:18:32.444Z",
+			"searchContent": "Feed My Paws is a Singapore-based handmade pet bakery that creates fresh, human-grade meals and treats for dogs, cats, and small pets, all free from preservatives. With a focus on nutrition and convenience, they offer gently cooked recipes made from quality ingredients to support pets’ overall health and well-being. Note: Direct payment via Kris+ on partner’s website is not available. Earn or redeem miles via purchase of promo codes only. pet bakery dog cake dog birthday dog cupcakes pupcakes dog treats cat treats freezedried treats handmade pet treats premium pet treats dog cookies hamster rabbit guinea pig Retail",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/6361968304057519-21191952079531173-Feed%20My%20Paws%20750x540%20Kris%2B%20Brand%20Image_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/6361968304057519-21191952079531173-Feed%20My%20Paws%20750x540%20Kris%2B%20Brand%20Image_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/6361968304057519-21191952079531173-Feed%20My%20Paws%20750x540%20Kris%2B%20Brand%20Image_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4476232925540038-8216676302204806-Feed%20My%20Paws%20Logo%20260x260%20for%20Kris%2B_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4476232925540038-8216676302204806-Feed%20My%20Paws%20Logo%20260x260%20for%20Kris%2B_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4476232925540038-8216676302204806-Feed%20My%20Paws%20Logo%20260x260%20for%20Kris%2B_high.png"
+			},
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "feed-my-paws-bdb35fdc",
+			"outlets": [
+				{
+					"_id": "6a2a1c0813deac6c1b9c0631",
+					"name": "4 Lor 7 Toa Payoh"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"4 Lor 7 Toa Payoh"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Feed My Paws",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

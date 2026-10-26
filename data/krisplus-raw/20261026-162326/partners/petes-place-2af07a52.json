@@ -1,0 +1,175 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/petes-place-2af07a52",
+	"slug": "petes-place-2af07a52",
+	"fetchedAt": "2026-10-26T16:33:32.382+08:00",
+	"payload": {
+		"partner": {
+			"_id": "6a3389ffb1e378d32fd5d440",
+			"name": "Borneo  Properties Sdn Bhd (Trading as Grand Hyatt Singapore)",
+			"shortName": "Petes Place",
+			"mccCode": "5812",
+			"mccDescription": "Eating Places and Restaurants",
+			"brand": "Pete's Place",
+			"code": "P5P",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/24880066889460917-663698110424378-Pete%27s%20Place.png",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/5938369625161415-Pete%27s%20Place.png",
+			"websiteUrl": "https://www.singapore.grand.hyattrestaurants.com/petes-place",
+			"active": true,
+			"categories": [
+				"DINING"
+			],
+			"physicalShop": true,
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"address": {
+				"line1": "10 Scotts Road Singapore 228211",
+				"postalCode": "228211",
+				"streetName": "10 Scotts Road",
+				"city": "Singapore",
+				"cityCode": "SIN"
+			},
+			"countryCode": "SG",
+			"countryIncorporation": "Singapore",
+			"descriptionHtml": "<p><span style=\"color: rgb(61, 73, 105); font-family: Proxima, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">An icon of classic Italian cuisine since 1973, Pete’s Place is a beloved destination for heartwarming meals shared among family and friends. Within the rustic charm of a reimagined trattoria, its signature offerings include handcrafted pizzas, wholesome pastas, freshly baked breads and indulgent desserts.</span></p>",
+			"searchableKeywords": [
+				"Dining",
+				"Casual Dining",
+				"Tiramisu",
+				"Pasta",
+				"Pizza",
+				"Wines",
+				"Grand Hyatt Singapore",
+				"Orchard"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"hideFromCustomer": false,
+			"earnRates": {
+				"calculatedMilesEarnRate": 6,
+				"saleOfMiles": 0.032,
+				"amountBlock": 1,
+				"base": 6,
+				"baseFundedByKrisPlus": 1,
+				"baseFundedByPartner": 5,
+				"reloadTokens": 15000,
+				"minTokens": 3000,
+				"cardMerchantFees": {
+					"refundable": 1.5,
+					"nonRefundable": 1,
+					"saleOfMilesPct": 16
+				},
+				"autoDeductSaleOfMilesPct": true
+			},
+			"platformFee": 0,
+			"partnershipGroup": "GR1",
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"translations": [],
+			"subCategories": [
+				{
+					"categoryName": "Dining",
+					"categoryCode": "DINING",
+					"subCategories": [
+						{
+							"subCategoryGroupName": "Dietary",
+							"subCategoryGroupCode": "DIETARY",
+							"priority": 1,
+							"chosenTags": [
+								"VEG"
+							]
+						},
+						{
+							"subCategoryGroupName": "Preferences",
+							"subCategoryGroupCode": "PREFERENCES",
+							"priority": 2,
+							"chosenTags": [
+								"BUF",
+								"CD",
+								"KID",
+								"ITA"
+							]
+						}
+					]
+				}
+			],
+			"acceptedCurrencyCode": "SGD",
+			"refundPeriodInDays": 60,
+			"newMerchantEndDate": "2026-09-20T15:59:59.999Z",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 1
+				}
+			],
+			"refundPeriodUpdatedAt": "2026-06-18T06:02:39.705Z",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/24880066889460917-663698110424378-Pete%27s%20Place.png",
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/5938369625161415-Pete%27s%20Place.png",
+			"createdAt": "2026-06-18T06:02:39.712Z",
+			"updatedAt": "2026-08-06T14:18:32.694Z",
+			"searchContent": "An icon of classic Italian cuisine since 1973, Pete’s Place is a beloved destination for heartwarming meals shared among family and friends. Within the rustic charm of a reimagined trattoria, its signature offerings include handcrafted pizzas, wholesome pastas, freshly baked breads and indulgent desserts. Dining Casual Dining Tiramisu Pasta Pizza Wines Grand Hyatt Singapore Orchard Dining Vegetarian-Friendly Buffet Casual Dining Kid-Friendly Italian",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/5938369625161415-Pete%27s%20Place_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/5938369625161415-Pete%27s%20Place_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/5938369625161415-Pete%27s%20Place_high.png"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/24880066889460917-663698110424378-Pete%27s%20Place_low.png",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/24880066889460917-663698110424378-Pete%27s%20Place_med.png",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/24880066889460917-663698110424378-Pete%27s%20Place_high.png"
+			},
+			"isDisplayOnKrisWeb": false,
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "petes-place-2af07a52",
+			"outlets": [
+				{
+					"_id": "6a3611f4521de511a426e6a2",
+					"name": "Grand Hyatt"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Grand Hyatt"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 6,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Pete's Place",
+		"earnBadge": "Earn 6 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}

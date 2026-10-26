@@ -1,0 +1,236 @@
+{
+	"url": "https://www.krisplus.com/en/sg/partners/details/le-petit-society-39958251",
+	"slug": "le-petit-society-39958251",
+	"fetchedAt": "2026-10-26T16:26:20.507+08:00",
+	"payload": {
+		"partner": {
+			"_id": "628b2b1b31db5e17c8e54a57",
+			"privilegeConfig": {
+				"scanToRedeem": true
+			},
+			"active": true,
+			"categories": [
+				"RETAIL"
+			],
+			"physicalShop": true,
+			"searchableKeywords": [
+				"Baby",
+				"Baby Clothes",
+				"Swaddles",
+				"Hypoallergenic",
+				"Sensitive Skin",
+				"Eczema Skin",
+				"Baby Gifts",
+				"Newborn Essentials",
+				"Bubble Tulle Dresses",
+				"Birthday Tees",
+				"Baby Dresses",
+				"Boys Tees",
+				"Baby Shirt Rompers",
+				"Graphic Tees",
+				"Soft",
+				"Comfortable",
+				"Clothes Kids Love",
+				"Matching Mama Mini Clothing",
+				"Retail",
+				"Shopping",
+				"Downtown Gallery",
+				"Paragon",
+				"Orchard",
+				"Kids",
+				"Children",
+				"Babies",
+				"Mothercare",
+				"Family",
+				"Newclothes",
+				"Fashion",
+				"Zara",
+				"Uniqlo",
+				"Charles  Keith",
+				"H M",
+				"Love Bonito",
+				"Mens",
+				"Womans",
+				"Shirts",
+				"Pants",
+				"Blouse",
+				"Trousers",
+				"Tshirt",
+				"Shoes",
+				"Shorts",
+				"Leggings",
+				"Suits",
+				"Accessories",
+				"Hats",
+				"Caps",
+				"Garments",
+				"Scarves",
+				"Jewellery",
+				"Bags",
+				"Belts"
+			],
+			"burn": true,
+			"earn": true,
+			"convert": false,
+			"payByCard": true,
+			"payByAmexCard": true,
+			"supportedCards": [
+				"Visa",
+				"Mastercard",
+				"Amex"
+			],
+			"privilege": true,
+			"hideFromCustomer": false,
+			"name": "Lepetitsociety Pte. Ltd.",
+			"brand": "Le Petit Society",
+			"code": "LPS",
+			"countryIncorporation": "Singapore",
+			"mccCode": "5999",
+			"shortName": "LePetitSociety",
+			"address": {
+				"city": "Singapore",
+				"cityCode": "SIN",
+				"line1": "128 Joo Seng Road, #06-02, Singapore 368356",
+				"postalCode": "368356",
+				"streetName": "128 Joo Seng Road"
+			},
+			"regNumber": "201207725G",
+			"brandImagePath": "https://prod-static-content.prod-krispay.com/merchant-logs/4416097109147177-LPS-Brand-Image-C-.jpg",
+			"websiteUrl": "https://www.lepetitsociety.com/",
+			"descriptionHtml": "<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">The little society was founded upon the desire to create\n    versatile, well-crafted clothing for children that will journey with them from\n    the moment they arrive in this world, as precious little newborns, to the time\n    they step out as spirited young individuals.</p>\n\n<p class=\"MsoNormal\" style=\"margin: 0px 0px 11px; line-height: 107%; font-family: Aptos, sans-serif; font-size: 15px;\">Participating Outlets:</p><ul style=\"list-style-type: circle;\"><li>Downtown Gallery</li><li>Jewel Changi Airport</li><li>Paragon</li><li>Resorts World Sentosa</li></ul>\n\n\n\n\n\n",
+			"countryCode": "SG",
+			"mccDescription": "Miscellaneous and Specialty Retail Shops",
+			"partnershipGroup": "GR1",
+			"logoPath": "https://prod-static-content.prod-krispay.com/merchant-logs/45332292347852676-LPS-Brand-Logo-A.jpg",
+			"participatingOutlets": "      ",
+			"createdAt": "2022-05-23T06:35:07.750Z",
+			"updatedAt": "2026-08-06T14:17:30.571Z",
+			"earnRates": {
+				"cardMerchantFees": {
+					"refundable": 1,
+					"saleOfMilesPct": 1.65,
+					"nonRefundable": 1
+				},
+				"autoDeductSaleOfMilesPct": true,
+				"amountBlock": 1,
+				"baseFundedByPartner": 1,
+				"baseFundedByKrisPlus": 1,
+				"saleOfMiles": 0.0165,
+				"base": 2,
+				"calculatedMilesEarnRate": 2,
+				"reloadTokens": 15000,
+				"minTokens": 3000
+			},
+			"promotional": "        ",
+			"loyaltyProgram": {
+				"name": null,
+				"pointName": null,
+				"logoPath": null,
+				"description": null,
+				"tncLink": null,
+				"loginUrl": null
+			},
+			"platformFee": 0,
+			"tags": [
+				"SG",
+				"STANDALONE"
+			],
+			"saleChannels": [
+				"IN_STORE"
+			],
+			"subCategories": [
+				{
+					"subCategories": [
+						{
+							"chosenTags": [
+								"FAS",
+								"BK"
+							],
+							"priority": 1,
+							"subCategoryGroupName": "Retail Options",
+							"subCategoryGroupCode": "RETAIL_OPTIONS"
+						}
+					],
+					"categoryName": "Retail",
+					"categoryCode": "RETAIL"
+				}
+			],
+			"translations": [
+				"64eef9819d00b0a527865c14"
+			],
+			"acceptedCurrencyCode": "SGD",
+			"applicableCities": [
+				{
+					"city": "Singapore",
+					"cityCode": "SIN",
+					"outletsCount": 4
+				}
+			],
+			"brandImageBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/4416097109147177-LPS-Brand-Image-C-.jpg",
+			"logoBlobPath": "https://prodkrispaysa.blob.core.windows.net/merchant-logs/45332292347852676-LPS-Brand-Logo-A.jpg",
+			"brandImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/4416097109147177-LPS-Brand-Image-C-_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/4416097109147177-LPS-Brand-Image-C-_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/4416097109147177-LPS-Brand-Image-C-_high.jpg"
+			},
+			"logoImageFiles": {
+				"low": "https://prod-static-content.prod-krispay.com/merchant-logs/45332292347852676-LPS-Brand-Logo-A_low.jpg",
+				"medium": "https://prod-static-content.prod-krispay.com/merchant-logs/45332292347852676-LPS-Brand-Logo-A_med.jpg",
+				"high": "https://prod-static-content.prod-krispay.com/merchant-logs/45332292347852676-LPS-Brand-Logo-A_high.jpg"
+			},
+			"searchContent": "The little society was founded upon the desire to create versatile, well-crafted clothing for children that will journey with them from the moment they arrive in this world, as precious little newborns, to the time they step out as spirited young individuals. Participating Outlets: Downtown GalleryJewel Changi AirportParagonResorts World Sentosa Baby Baby Clothes Swaddles Hypoallergenic Sensitive Skin Eczema Skin Baby Gifts Newborn Essentials Bubble Tulle Dresses Birthday Tees Baby Dresses Boys Tees Baby Shirt Rompers Graphic Tees Soft Comfortable Clothes Kids Love Matching Mama Mini Clothing Retail Shopping Downtown Gallery Paragon Orchard Kids Children Babies Mothercare Family Newclothes Fashion Zara Uniqlo Charles  Keith H M Love Bonito Mens Womans Shirts Pants Blouse Trousers Tshirt Shoes Shorts Leggings Suits Accessories Hats Caps Garments Scarves Jewellery Bags Belts Retail Fashion Baby & Kids",
+			"dailyPromoCodeLimitPerCustomer": 10,
+			"slugId": "le-petit-society-39958251",
+			"outlets": [
+				{
+					"_id": "628ca9bc5cd65416800b0e5c",
+					"name": "Paragon"
+				},
+				{
+					"_id": "628caa1873b0bc15f08edb29",
+					"name": "Downtown Gallery"
+				},
+				{
+					"_id": "6656b0c1ef76280068a065ff",
+					"name": "Jewel Changi"
+				},
+				{
+					"_id": "6841111b53c4cc04022b2fa9",
+					"name": "Resorts World Sentosa"
+				}
+			]
+		},
+		"countryCode": "SG",
+		"searchParams": {},
+		"outlets": [
+			"Paragon",
+			"Downtown Gallery",
+			"Jewel Changi",
+			"Resorts World Sentosa"
+		],
+		"paymentOptions": {
+			"showSection": true,
+			"milesRedemption": true,
+			"earning": {
+				"base": 2,
+				"amountBlock": 1,
+				"hasApplePay": true
+			},
+			"appleAndGooglePayNotice": {
+				"cards": [
+					"Visa",
+					"Mastercard",
+					"Amex"
+				]
+			}
+		}
+	},
+	"rendered": {
+		"heading": "Le Petit Society",
+		"earnBadge": "Earn 2 KrisPay miles per SGD 1 spent!",
+		"paymentOptions": [
+			"KrisPay Miles",
+			"Visa, Mastercard, Amex through Apple Pay / Google Pay"
+		]
+	}
+}
