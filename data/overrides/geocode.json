@@ -66,11 +66,16 @@
 		"TAN TOCK SENG": { "query": "TAN TOCK SENG HOSPITAL", "note": "Inferred: Polar Puffs & Cakes names its outlet after the hospital, 11 Jalan Tan Tock Seng, 308433. Checked 2026-10-27." },
 		"OUE DOWNTOWN GALLERY": { "query": "OUE DOWNTOWN", "note": "Downtown Gallery is part of OUE Downtown, 6 Shenton Way, 068809. Checked 2026-10-27." },
 		"HOLIDAY INN® SINGAPORE ORCHARD CITY CENTRE": { "query": "HOLIDAY INN SINGAPORE ORCHARD CITY CENTRE", "note": "Drops the ® sign. 11 Cavenagh Road, 229616. Checked 2026-10-27." },
-		"CCK MRT": { "query": "CHOA CHU KANG MRT STATION", "note": "CCK is Choa Chu Kang. 60 Choa Chu Kang Loop, 689960. Checked 2026-10-27." }
+		"CCK MRT": { "query": "CHOA CHU KANG MRT STATION", "note": "CCK is Choa Chu Kang. 60 Choa Chu Kang Loop, 689960. Checked 2026-10-27." },
+		"SINGPOST CENTRE": { "query": "SINGAPORE POST CENTRE", "note": "OneMap spells it SINGAPORE POST CENTRE, 10 Eunos Road 8, 408600. \"SINGPOST CENTRE\" matched the SingPost logistics hub on Greenwich Drive. Checked 2026-10-27." }
 	},
 	"outlets": {
 		"674ec6f3e2634a006cc017b1": { "exclude": true, "note": "\"Raffles Place\" is a square, not a building. OneMap's RAFFLES PLACE record marks the square itself. Checked 2026-10-27." },
 		"6a7597316d0c24e2a63590ce": { "exclude": true, "note": "\"Raffles Place\" is a square, not a building. OneMap's RAFFLES PLACE record marks the square itself. Checked 2026-10-27." },
-		"6a5ddd6c86bcb8c595e29458": { "exclude": true, "note": "\"Raffles Place\" is a square, not a building. OneMap's RAFFLES PLACE record marks the square itself. Checked 2026-10-27." }
+		"6a5ddd6c86bcb8c595e29458": { "exclude": true, "note": "\"Raffles Place\" is a square, not a building. OneMap's RAFFLES PLACE record marks the square itself. Checked 2026-10-27." },
+		"614c1868e6eef976585cf43f": { "exclude": true, "note": "\"Clementi Central\" is a town centre, not a building. OneMap's only match was a 24-hour clinic at 450 Clementi Avenue 3. Checked 2026-10-27." },
+		"659cb5c1aeeee4004fa0eac5": { "exclude": true, "note": "\"Dempsey Hill\" is an estate, not a building. OneMap's only match was Harry's bar at 11 Dempsey Road. Checked 2026-10-27." },
+		"67c000937b5d2d041403206e": { "exclude": true, "note": "\"Kensington Park\" is an estate, not a building. OneMap's only match was Kensington Park Condominium. Checked 2026-10-27." },
+		"5f6044d190c882116c9e16fc": { "exclude": true, "note": "\"Serangoon Gardens\" is an estate, not a building. OneMap's only match was Serangoon Gardens Country Club. Checked 2026-10-27." }
 	}
 }

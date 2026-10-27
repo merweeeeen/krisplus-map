@@ -123,6 +123,26 @@ function requiredTokens(text: string): string[] {
 	return tokens(text).filter((token) => !OPTIONAL_WORDS.has(token));
 }
 
+// Words a building's name can add to the outlet name and still be the same place, as in "SUNTEC CITY MALL".
+const GENERIC_WORDS = new Set(["MALL", "CITY", "BUILDING", "HOTEL", "TOWER", "PLAZA", "STATION", "RESORT", "CONDOMINIUM"]);
+
+function addsOnlyGenericWords(query: GeocodeQuery, candidate: Candidate): boolean {
+	const wanted = new Set(requiredTokens(query.query));
+	return requiredTokens(candidate.building ?? candidate.searchval).every((token) => wanted.has(token) || GENERIC_WORDS.has(token));
+}
+
+// OneMap lists "SOMERSET" as a road and an MRT station. The filters drop both, so without this check
+// the serviced apartment "SOMERSET BENCOOLEN", 1.2 km away, would be the only result left.
+function namesAPlace(query: GeocodeQuery, candidates: Candidate[]): boolean {
+	const wanted = requiredTokens(query.query).join(" ");
+	return candidates.some((candidate) => {
+		const road = roadTokens(candidate).join(" ");
+		const name = tokens(candidate.searchval).join(" ");
+		const rest = name.startsWith(`${wanted} `) ? name.slice(wanted.length + 1) : null;
+		return road === wanted || road.startsWith(`${wanted} `) || (rest !== null && /^(MRT|LRT)\b|^CONSERVATION AREA$/.test(rest));
+	});
+}
+
 function hasPostalCode(candidate: Candidate): boolean {
 	return candidate.postal !== null && /^\d{6}$/.test(candidate.postal);
 }
@@ -172,6 +192,9 @@ export function matchCandidates(query: GeocodeQuery, candidates: Candidate[]): M
 	if (chosen === undefined) return { status: "rejected", reason: "no candidate left to choose", passing };
 	const spread = Math.max(...tier.map((candidate) => distanceMeters(chosen, candidate)));
 	if (spread > CLUSTER_RADIUS_M) return { status: "rejected", reason: `${tier.length} matching results lie up to ${Math.round(spread)} m apart`, passing: tier };
+	if (query.kind === "building" && exact.length === 0 && !addsOnlyGenericWords(query, chosen) && namesAPlace(query, candidates)) {
+		return { status: "rejected", reason: "OneMap also lists the name as a road, station, or area, and no building has exactly that name", passing: tier };
+	}
 	if (!isInSingapore(chosen)) return { status: "rejected", reason: "match lies outside Singapore", passing: tier };
 	return { status: "matched", candidate: chosen, passing: tier.length };
 }

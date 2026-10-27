@@ -139,6 +139,12 @@ test("a road named T2 VIP Drive does not make the VIP Complex Terminal 2", () =>
 	assert.equal(result.status, "rejected");
 });
 
+test("Somerset is a road and an MRT station, so a serviced apartment named after it is not accepted", () => {
+	const result = matchCandidates({ kind: "building", query: "SOMERSET" }, cachedCandidates("SOMERSET"));
+	assert.equal(result.status, "rejected");
+	if (result.status === "rejected") assert.equal(result.reason, "OneMap also lists the name as a road, station, or area, and no building has exactly that name");
+});
+
 test("an alias replaces the query for every outlet with that name", () => {
 	const aliases = { "VIVO CITY": { query: "VIVOCITY", note: "OneMap spells it VIVOCITY." } };
 	assert.deepEqual(buildQueries({ merchant_name: "Krispy Kreme", outlet_name: "Vivo City" }, aliases), [{ kind: "building", query: "VIVOCITY" }]);

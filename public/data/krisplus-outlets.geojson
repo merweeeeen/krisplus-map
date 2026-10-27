@@ -1,7 +1,7 @@
 {
 	"type": "FeatureCollection",
 	"schema_version": "1.0",
-	"generated_at": "2026-10-27T00:07:43.095+08:00",
+	"generated_at": "2026-10-27T09:47:40.299+08:00",
 	"features": [
 		{
 			"type": "Feature",
@@ -7673,42 +7673,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "5f44d3603212007da0f8f3f0",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8462663749992,
-					1.281704856307252
-				]
-			},
-			"properties": {
-				"merchant_id": "5f3a2a4b800ea063f0c6c14f",
-				"outlet_id": "5f44d3603212007da0f8f3f0",
-				"merchant_name": "Perk by Kate",
-				"outlet_name": "Telok Ayer",
-				"category": "retail",
-				"categories": [
-					"retail"
-				],
-				"earn_miles_per_sgd": 5,
-				"earn_rate_raw": "Earn 5 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "TELOK AYER CONSERVATION AREA",
-				"geocode_matched_address": "65 CLUB STREET TELOK AYER CONSERVATION AREA SINGAPORE 069439",
-				"geocode_postal_code": "069439",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/perk-by-kate-be9e2138",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/6455511181881743-PBKLogo_med.png",
-				"website_url": "https://www.perkbykate.com",
-				"scraped_at": "2026-10-26T17:25:35.776+08:00",
-				"last_seen_at": "2026-10-26T17:25:35.776+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "5f50c6bd73f04b9880f3bf9e",
 			"geometry": {
 				"type": "Point",
@@ -7812,42 +7776,6 @@
 				"website_url": "https://thespot.sg/",
 				"scraped_at": "2026-10-26T17:25:38.808+08:00",
 				"last_seen_at": "2026-10-26T17:25:38.808+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "5f6044d190c882116c9e16fc",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.866921701207,
-					1.365789444626861
-				]
-			},
-			"properties": {
-				"merchant_id": "5f17d6d63210f40e40cb0f0a",
-				"outlet_id": "5f6044d190c882116c9e16fc",
-				"merchant_name": "Srisun Express",
-				"outlet_name": "Serangoon Gardens",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 3,
-				"earn_rate_raw": "Earn 3 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "SERANGOON GARDENS COUNTRY CLUB",
-				"geocode_matched_address": "22 KENSINGTON PARK ROAD SERANGOON GARDENS COUNTRY CLUB SINGAPORE 557271",
-				"geocode_postal_code": "557271",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/srisun-express-0a42b891",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/8281299663750319-logoImage-b8a94e51-ad2d-4a6d-b95b-ec5e360e3f1b_med.jpg",
-				"website_url": "https://www.srisunexpress.com.sg/",
-				"scraped_at": "2026-10-26T17:25:33.710+08:00",
-				"last_seen_at": "2026-10-26T17:25:33.710+08:00",
 				"promotions": null
 			}
 		},
@@ -9157,8 +9085,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.909691774237,
-					1.369165868780853
+					103.8948949159614,
+					1.318996669036639
 				]
 			},
 			"properties": {
@@ -9175,9 +9103,9 @@
 				"accepts_miles_payment": true,
 				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
 				"participation_notes": null,
-				"geocode_building": "SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB",
-				"geocode_matched_address": "37 GREENWICH DRIVE SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB SINGAPORE 533864",
-				"geocode_postal_code": "533864",
+				"geocode_building": "SINGAPORE POST CENTRE",
+				"geocode_matched_address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"geocode_postal_code": "408600",
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/challenger-3e965393",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/07615222343776784-logo_med.jpg",
@@ -10237,8 +10165,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.909691774237,
-					1.369165868780853
+					103.8948949159614,
+					1.318996669036639
 				]
 			},
 			"properties": {
@@ -10255,9 +10183,9 @@
 				"accepts_miles_payment": true,
 				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
 				"participation_notes": null,
-				"geocode_building": "SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB",
-				"geocode_matched_address": "37 GREENWICH DRIVE SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB SINGAPORE 533864",
-				"geocode_postal_code": "533864",
+				"geocode_building": "SINGAPORE POST CENTRE",
+				"geocode_matched_address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"geocode_postal_code": "408600",
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/mayer-a7243165",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/8912557228186275-Collaboration-with-SIA-Kris%2B_Brand-logo-1000-x-1000_med.jpg",
@@ -12573,42 +12501,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "614c1868e6eef976585cf43f",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.7654837156467,
-					1.313448009029098
-				]
-			},
-			"properties": {
-				"merchant_id": "61442a0f4611506488dd6b74",
-				"outlet_id": "614c1868e6eef976585cf43f",
-				"merchant_name": "Bee Cheng Hiang",
-				"outlet_name": "Clementi Central",
-				"category": "retail",
-				"categories": [
-					"retail"
-				],
-				"earn_miles_per_sgd": 8,
-				"earn_rate_raw": "Earn 8 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "CENTRAL 24-HR CLINIC (CLEMENTI)",
-				"geocode_matched_address": "450 CLEMENTI AVENUE 3 CENTRAL 24-HR CLINIC (CLEMENTI)",
-				"geocode_postal_code": null,
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/bee-cheng-hiang-cef63516",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/05919804624345604-599628943655786-20210825_BCH_Kris_1000x1000px_med.jpg",
-				"website_url": "https://www.beechenghiang.com.sg/",
-				"scraped_at": "2026-10-26T17:26:40.862+08:00",
-				"last_seen_at": "2026-10-26T17:26:40.862+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "614c18a7e6eef976585cf441",
 			"geometry": {
 				"type": "Point",
@@ -13441,8 +13333,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.909691774237,
-					1.369165868780853
+					103.8948949159614,
+					1.318996669036639
 				]
 			},
 			"properties": {
@@ -13459,9 +13351,9 @@
 				"accepts_miles_payment": true,
 				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
 				"participation_notes": null,
-				"geocode_building": "SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB",
-				"geocode_matched_address": "37 GREENWICH DRIVE SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB SINGAPORE 533864",
-				"geocode_postal_code": "533864",
+				"geocode_building": "SINGAPORE POST CENTRE",
+				"geocode_matched_address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"geocode_postal_code": "408600",
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/farm-frozen-69c12416",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/9074084113037659-App%20brand%20logo%20-%20Farm%20Frozen_med.png",
@@ -15677,8 +15569,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.909691774237,
-					1.369165868780853
+					103.8948949159614,
+					1.318996669036639
 				]
 			},
 			"properties": {
@@ -15695,9 +15587,9 @@
 				"accepts_miles_payment": true,
 				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
 				"participation_notes": null,
-				"geocode_building": "SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB",
-				"geocode_matched_address": "37 GREENWICH DRIVE SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB SINGAPORE 533864",
-				"geocode_postal_code": "533864",
+				"geocode_building": "SINGAPORE POST CENTRE",
+				"geocode_matched_address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"geocode_postal_code": "408600",
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/syoujin-09c34d6e",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/7522190897631817-7222361945445239-Kris%2B_Syoujin_Logo_1000x1000_med.png",
@@ -24911,42 +24803,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "649bdc5ab55d69004e4c908b",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8332466621192,
-					1.276019838038653
-				]
-			},
-			"properties": {
-				"merchant_id": "649bd31fcccf1400550b8b38",
-				"outlet_id": "649bdc5ab55d69004e4c908b",
-				"merchant_name": "Canadian Pizza",
-				"outlet_name": "Kampong Bahru",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 2,
-				"earn_rate_raw": "Earn 2 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "KAMPONG BAHRU BUS TERMINAL",
-				"geocode_matched_address": "11A SPOONER ROAD KAMPONG BAHRU BUS TERMINAL SINGAPORE 168795",
-				"geocode_postal_code": "168795",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/canadian-pizza-a423dc6b",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/9263205943506128-006704231249794468-Kris%20Plus%20x%20CP%20-%20Brand%20Logo%20-%20App_med.jpg",
-				"website_url": "https://www.canadian-pizza.com",
-				"scraped_at": "2026-10-26T17:29:12.620+08:00",
-				"last_seen_at": "2026-10-26T17:29:12.620+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "64a248a14eef81004e87e765",
 			"geometry": {
 				"type": "Point",
@@ -28515,8 +28371,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.909691774237,
-					1.369165868780853
+					103.8948949159614,
+					1.318996669036639
 				]
 			},
 			"properties": {
@@ -28533,9 +28389,9 @@
 				"accepts_miles_payment": true,
 				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
 				"participation_notes": null,
-				"geocode_building": "SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB",
-				"geocode_matched_address": "37 GREENWICH DRIVE SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB SINGAPORE 533864",
-				"geocode_postal_code": "533864",
+				"geocode_building": "SINGAPORE POST CENTRE",
+				"geocode_matched_address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"geocode_postal_code": "408600",
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/skechers-1fd2f630",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/9897476799470781-05824075416515173-Skechers-Logo_1000x1000_med.jpg",
@@ -28830,42 +28686,6 @@
 				"website_url": "https://www.skechers.com.sg",
 				"scraped_at": "2026-10-26T17:29:35.568+08:00",
 				"last_seen_at": "2026-10-26T17:29:35.568+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "659cb5c1aeeee4004fa0eac5",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.81012569095,
-					1.304056809306878
-				]
-			},
-			"properties": {
-				"merchant_id": "659caf7a7543230055f3e37f",
-				"outlet_id": "659cb5c1aeeee4004fa0eac5",
-				"merchant_name": "JUMBO Seafood",
-				"outlet_name": "Dempsey Hill",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 3,
-				"earn_rate_raw": "Earn 3 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "HARRY'S DEMPSEY HILL DEMPSEY CLUSTER (TANGLIN VILLAGE)",
-				"geocode_matched_address": "11 DEMPSEY ROAD HARRY'S DEMPSEY HILL DEMPSEY CLUSTER (TANGLIN VILLAGE)",
-				"geocode_postal_code": null,
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/jumbo-seafood-80c1fffe",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/06705867477200611-J1_med.png",
-				"website_url": "https://www.jumboseafood.com.sg",
-				"scraped_at": "2026-10-26T17:29:37.637+08:00",
-				"last_seen_at": "2026-10-26T17:29:37.637+08:00",
 				"promotions": null
 			}
 		},
@@ -31170,42 +30990,6 @@
 				"website_url": "https://sg.ecco.com/",
 				"scraped_at": "2026-10-26T17:28:52.651+08:00",
 				"last_seen_at": "2026-10-26T17:28:52.651+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "6642db9f6df578006ab6c825",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8462663749992,
-					1.281704856307252
-				]
-			},
-			"properties": {
-				"merchant_id": "6642d8aa1f23440068c7c3d6",
-				"outlet_id": "6642db9f6df578006ab6c825",
-				"merchant_name": "Ikkoten Omakase",
-				"outlet_name": "Telok Ayer",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 4,
-				"earn_rate_raw": "Earn 4 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "TELOK AYER CONSERVATION AREA",
-				"geocode_matched_address": "65 CLUB STREET TELOK AYER CONSERVATION AREA SINGAPORE 069439",
-				"geocode_postal_code": "069439",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/ikkoten-omakase-3fec3d29",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/2567334234113756-logo_med.jpg",
-				"website_url": "https://ikkoten.com.sg/",
-				"scraped_at": "2026-10-26T17:29:58.692+08:00",
-				"last_seen_at": "2026-10-26T17:29:58.692+08:00",
 				"promotions": null
 			}
 		},
@@ -37803,42 +37587,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "67c000937b5d2d041403206e",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8693257670227,
-					1.367741726598479
-				]
-			},
-			"properties": {
-				"merchant_id": "67bffe852efd7704147577e8",
-				"outlet_id": "67c000937b5d2d041403206e",
-				"merchant_name": "Kelim Dakdoritang",
-				"outlet_name": "Kensington Park",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 2,
-				"earn_rate_raw": "Earn 2 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "KENSINGTON PARK CONDOMINIUM",
-				"geocode_matched_address": "10 KENSINGTON PARK DRIVE KENSINGTON PARK CONDOMINIUM SINGAPORE 557324",
-				"geocode_postal_code": "557324",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/kelim-dakdoritang-39b6f7d3",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/244966092541268-Kelim%20logo_med.jpg",
-				"website_url": "https://www.kelimdakdoritang.com.sg/",
-				"scraped_at": "2026-10-26T17:31:04.663+08:00",
-				"last_seen_at": "2026-10-26T17:31:04.663+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "67c01fc296f1dd07eb3ae9c0",
 			"geometry": {
 				"type": "Point",
@@ -38635,8 +38383,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.909691774237,
-					1.369165868780853
+					103.8948949159614,
+					1.318996669036639
 				]
 			},
 			"properties": {
@@ -38653,9 +38401,9 @@
 				"accepts_miles_payment": true,
 				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
 				"participation_notes": null,
-				"geocode_building": "SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB",
-				"geocode_matched_address": "37 GREENWICH DRIVE SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB SINGAPORE 533864",
-				"geocode_postal_code": "533864",
+				"geocode_building": "SINGAPORE POST CENTRE",
+				"geocode_matched_address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"geocode_postal_code": "408600",
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/skechers-1fd2f630",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/9897476799470781-05824075416515173-Skechers-Logo_1000x1000_med.jpg",
@@ -39418,42 +39166,6 @@
 				"website_url": "https://www.drinkmorning.com/",
 				"scraped_at": "2026-10-26T17:31:38.914+08:00",
 				"last_seen_at": "2026-10-26T17:31:38.914+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "684110d053c4cc04022b2f07",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8431878572636,
-					1.278870346773878
-				]
-			},
-			"properties": {
-				"merchant_id": "68410eb37d6fd00401f27422",
-				"outlet_id": "684110d053c4cc04022b2f07",
-				"merchant_name": "Rappu",
-				"outlet_name": "Duxton",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 4,
-				"earn_rate_raw": "Earn 4 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "DUXTON RESERVE",
-				"geocode_matched_address": "83 DUXTON ROAD DUXTON RESERVE SINGAPORE 089540",
-				"geocode_postal_code": "089540",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/rappu-1b618883",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/4720915210834342-RAPPU_med.jpg",
-				"website_url": "https://www.rappu.sg/",
-				"scraped_at": "2026-10-26T17:31:39.766+08:00",
-				"last_seen_at": "2026-10-26T17:31:39.766+08:00",
 				"promotions": null
 			}
 		},
@@ -45258,42 +44970,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "691421fe9c164d2303a768b4",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.7874040609595,
-					1.299294055832288
-				]
-			},
-			"properties": {
-				"merchant_id": "691405f69e8c1deb91a0bccf",
-				"outlet_id": "691421fe9c164d2303a768b4",
-				"merchant_name": "SaladStop!",
-				"outlet_name": "Fusionopolis",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 2,
-				"earn_rate_raw": "Earn 2 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "FUSIONOPOLIS ONE - GUARDIAN CONNEXIS",
-				"geocode_matched_address": "1 FUSIONOPOLIS WAY FUSIONOPOLIS ONE - GUARDIAN CONNEXIS",
-				"geocode_postal_code": null,
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/saladstop-69ea94bd",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/40468740922750257-SaladStop_med.png",
-				"website_url": "https://saladstop.com.sg/",
-				"scraped_at": "2026-10-26T17:33:01.167+08:00",
-				"last_seen_at": "2026-10-26T17:33:01.167+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "69142259311d359c63e85b36",
 			"geometry": {
 				"type": "Point",
@@ -46878,42 +46554,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "69462d3dcf588846e1b10991",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8610762946389,
-					1.302556327147701
-				]
-			},
-			"properties": {
-				"merchant_id": "694627d08b096f32545f1963",
-				"outlet_id": "69462d3dcf588846e1b10991",
-				"merchant_name": "Tipo Pasta Bar",
-				"outlet_name": "Aliwal",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 2,
-				"earn_rate_raw": "Earn 2 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "ALIWAL ARTS CENTRE",
-				"geocode_matched_address": "28 ALIWAL STREET ALIWAL ARTS CENTRE SINGAPORE 199918",
-				"geocode_postal_code": "199918",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/tipo-pasta-bar-1e604832",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/4039934392713962-TipoPastaBar_med.png",
-				"website_url": "https://www.tipo.sg/",
-				"scraped_at": "2026-10-26T17:33:22.006+08:00",
-				"last_seen_at": "2026-10-26T17:33:22.006+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "69462d7d436c102f8c34484c",
 			"geometry": {
 				"type": "Point",
@@ -47011,42 +46651,6 @@
 				"geocode_building": "WHEELOCK PLACE",
 				"geocode_matched_address": "501 ORCHARD ROAD WHEELOCK PLACE SINGAPORE 238880",
 				"geocode_postal_code": "238880",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/tipo-strada-7e1f680e",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/2397836529148818-TipoStrada_med.png",
-				"website_url": "https://www.tipo.sg/",
-				"scraped_at": "2026-10-26T17:33:23.084+08:00",
-				"last_seen_at": "2026-10-26T17:33:23.084+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "6947c0e202cb685ed8dfcf4c",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.7971479137267,
-					1.312081189399359
-				]
-			},
-			"properties": {
-				"merchant_id": "6947b9b1efcfb21a7f0136ef",
-				"outlet_id": "6947c0e202cb685ed8dfcf4c",
-				"merchant_name": "Tipo Strada",
-				"outlet_name": "Keong Saik",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 8,
-				"earn_rate_raw": "Earn 8 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "KEONG SAIK BAKERY",
-				"geocode_matched_address": "44 JALAN MERAH SAGA KEONG SAIK BAKERY",
-				"geocode_postal_code": null,
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/tipo-strada-7e1f680e",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/2397836529148818-TipoStrada_med.png",
@@ -47305,42 +46909,6 @@
 				"website_url": "https://www.granary.sg/",
 				"scraped_at": "2026-10-26T17:33:28.110+08:00",
 				"last_seen_at": "2026-10-26T17:33:28.110+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "694e8f57090cb9c0587d7615",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8503561805973,
-					1.299373796156171
-				]
-			},
-			"properties": {
-				"merchant_id": "694e89bb2a99e46e788d8637",
-				"outlet_id": "694e8f57090cb9c0587d7615",
-				"merchant_name": "Shake Shake In A Tub",
-				"outlet_name": "Somerset",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 2,
-				"earn_rate_raw": "Earn 2 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "SOMERSET BENCOOLEN SINGAPORE",
-				"geocode_matched_address": "51 BENCOOLEN STREET SOMERSET BENCOOLEN SINGAPORE SINGAPORE 189630",
-				"geocode_postal_code": "189630",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/shake-shake-in-a-tub-34f8f0ac",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/6493480937092735-ShakeShakeinaTub_med.jpg",
-				"website_url": "https://shakeshakeinatub.com/",
-				"scraped_at": "2026-10-26T17:33:29.081+08:00",
-				"last_seen_at": "2026-10-26T17:33:29.081+08:00",
 				"promotions": null
 			}
 		},
@@ -51778,8 +51346,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.909691774237,
-					1.369165868780853
+					103.8948949159614,
+					1.318996669036639
 				]
 			},
 			"properties": {
@@ -51796,9 +51364,9 @@
 				"accepts_miles_payment": true,
 				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
 				"participation_notes": null,
-				"geocode_building": "SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB",
-				"geocode_matched_address": "37 GREENWICH DRIVE SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB SINGAPORE 533864",
-				"geocode_postal_code": "533864",
+				"geocode_building": "SINGAPORE POST CENTRE",
+				"geocode_matched_address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"geocode_postal_code": "408600",
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/swensens-0a37dd42",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/95239092200747-8948918228173963-20260130_SW_Kris%2B_Brand%20Logo%20260%20x%20260_SW_med.jpg",
@@ -52030,8 +51598,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					103.909691774237,
-					1.369165868780853
+					103.8948949159614,
+					1.318996669036639
 				]
 			},
 			"properties": {
@@ -52048,9 +51616,9 @@
 				"accepts_miles_payment": true,
 				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
 				"participation_notes": null,
-				"geocode_building": "SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB",
-				"geocode_matched_address": "37 GREENWICH DRIVE SINGPOST REGIONAL ECOMMERCE LOGISTICS HUB SINGAPORE 533864",
-				"geocode_postal_code": "533864",
+				"geocode_building": "SINGAPORE POST CENTRE",
+				"geocode_matched_address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"geocode_postal_code": "408600",
 				"coordinate_precision": "building",
 				"source_url": "https://www.krisplus.com/en/sg/partners/details/dreame-43441caf",
 				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/4517246199689373-Dreame_med.jpg",
@@ -54768,42 +54336,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": "6a5f0df20ddd7b277bc59e2e",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8503561805973,
-					1.299373796156171
-				]
-			},
-			"properties": {
-				"merchant_id": "6a5f0b037eee1bf9b4aca0d8",
-				"outlet_id": "6a5f0df20ddd7b277bc59e2e",
-				"merchant_name": "Piadini Italian Streats",
-				"outlet_name": "Somerset",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 2,
-				"earn_rate_raw": "Earn 2 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "SOMERSET BENCOOLEN SINGAPORE",
-				"geocode_matched_address": "51 BENCOOLEN STREET SOMERSET BENCOOLEN SINGAPORE SINGAPORE 189630",
-				"geocode_postal_code": "189630",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/piadini-italian-streats-24696eb1",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/6837463382370936-34382453720226724-Brand%20Logo%20(7)_med.png",
-				"website_url": "https://piadini.sg/",
-				"scraped_at": "2026-10-26T17:35:07.402+08:00",
-				"last_seen_at": "2026-10-26T17:35:07.402+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
 			"id": "6a62bdcf4db2330ff8e26dea",
 			"geometry": {
 				"type": "Point",
@@ -55699,42 +55231,6 @@
 				"website_url": "https://linktr.ee/tipsybirdsg",
 				"scraped_at": "2026-10-26T17:35:22.092+08:00",
 				"last_seen_at": "2026-10-26T17:35:22.092+08:00",
-				"promotions": null
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "6a9e2802d41de8f2802df4cc",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.8492310297781,
-					1.287258019840631
-				]
-			},
-			"properties": {
-				"merchant_id": "6a9e24f2e1b0e8ff470636ff",
-				"outlet_id": "6a9e2802d41de8f2802df4cc",
-				"merchant_name": "Truth or Dare Rooftop Bar",
-				"outlet_name": "Boat Quay",
-				"category": "dining",
-				"categories": [
-					"dining"
-				],
-				"earn_miles_per_sgd": 2,
-				"earn_rate_raw": "Earn 2 KrisPay miles per SGD 1 spent!",
-				"accepts_miles_payment": true,
-				"miles_payment_raw": "KrisPay Miles; Visa, Mastercard, Amex through Apple Pay / Google Pay",
-				"participation_notes": null,
-				"geocode_building": "BOAT QUAY CONSERVATION AREA",
-				"geocode_matched_address": "56 BOAT QUAY BOAT QUAY CONSERVATION AREA SINGAPORE 049845",
-				"geocode_postal_code": "049845",
-				"coordinate_precision": "building",
-				"source_url": "https://www.krisplus.com/en/sg/partners/details/truth-or-dare-2792a6f9",
-				"logo_url": "https://prod-static-content.prod-krispay.com/merchant-logs/48985312008415516-4139339455942441-LOGO%20TOD%20BLACK%20260%20x%20260_med.png",
-				"website_url": "https://www.truthordare.sg/",
-				"scraped_at": "2026-10-26T17:35:23.231+08:00",
-				"last_seen_at": "2026-10-26T17:35:23.231+08:00",
 				"promotions": null
 			}
 		},

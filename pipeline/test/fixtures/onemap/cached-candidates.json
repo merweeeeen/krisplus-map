@@ -562,5 +562,87 @@
 			"latitude": 1.349172021922926,
 			"longitude": 103.9868473793911
 		}
+	],
+	"SOMERSET": [
+		{
+			"searchval": "SOMERSET BENCOOLEN SINGAPORE",
+			"blk_no": "51",
+			"road_name": "BENCOOLEN STREET",
+			"building": "SOMERSET BENCOOLEN SINGAPORE",
+			"address": "51 BENCOOLEN STREET SOMERSET BENCOOLEN SINGAPORE SINGAPORE 189630",
+			"postal": "189630",
+			"latitude": 1.299373796156171,
+			"longitude": 103.8503561805973
+		},
+		{
+			"searchval": "SOMERSET MRT STATION",
+			"blk_no": "1",
+			"road_name": "SOMERSET ROAD",
+			"building": "SOMERSET MRT STATION",
+			"address": "1 SOMERSET ROAD SOMERSET MRT STATION",
+			"postal": null,
+			"latitude": 1.300252877105424,
+			"longitude": 103.8391583368474
+		},
+		{
+			"searchval": "SOMERSET MRT STATION (NS23)",
+			"blk_no": "1",
+			"road_name": "SOMERSET ROAD",
+			"building": "SOMERSET MRT STATION (NS23)",
+			"address": "1 SOMERSET ROAD SOMERSET MRT STATION (NS23) SINGAPORE 238162",
+			"postal": "238162",
+			"latitude": 1.300264167390052,
+			"longitude": 103.8390857531233
+		},
+		{
+			"searchval": "SOMERSET MRT STATION EXIT A",
+			"blk_no": null,
+			"road_name": null,
+			"building": "SOMERSET MRT STATION EXIT A",
+			"address": "SOMERSET MRT STATION EXIT A",
+			"postal": null,
+			"latitude": 1.30003194313604,
+			"longitude": 103.8383856439358
+		},
+		{
+			"searchval": "SOMERSET MRT STATION EXIT B",
+			"blk_no": null,
+			"road_name": null,
+			"building": "SOMERSET MRT STATION EXIT B",
+			"address": "SOMERSET MRT STATION EXIT B",
+			"postal": null,
+			"latitude": 1.300784726782759,
+			"longitude": 103.8384547585687
+		},
+		{
+			"searchval": "SOMERSET MRT STATION EXIT C",
+			"blk_no": null,
+			"road_name": null,
+			"building": "SOMERSET MRT STATION EXIT C",
+			"address": "SOMERSET MRT STATION EXIT C",
+			"postal": null,
+			"latitude": 1.300449733617113,
+			"longitude": 103.8387638206007
+		},
+		{
+			"searchval": "SOMERSET MRT STATION EXIT D",
+			"blk_no": null,
+			"road_name": null,
+			"building": "SOMERSET MRT STATION EXIT D",
+			"address": "SOMERSET MRT STATION EXIT D",
+			"postal": null,
+			"latitude": 1.300252324925155,
+			"longitude": 103.8397444998511
+		},
+		{
+			"searchval": "SOMERSET SKATE PARK",
+			"blk_no": null,
+			"road_name": null,
+			"building": "SOMERSET SKATE PARK",
+			"address": "SOMERSET SKATE PARK",
+			"postal": null,
+			"latitude": 1.300008111830785,
+			"longitude": 103.8385732992991
+		}
 	]
 }

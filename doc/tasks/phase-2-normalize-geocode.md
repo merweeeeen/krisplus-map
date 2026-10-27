@@ -17,7 +17,9 @@ Status on 2026-10-27, after a pass through `needs-review.csv` on run `20261026-1
 - Compared with the previous output, the only pins that moved are the 9 Terminal 2 outlets, and the only pins lost are the 3 Raffles Place outlets.
 - Most remaining rows are area names such as "Toa Payoh" or "Sentosa", which have no single location, and restaurants named after their street. Those need an address from the merchant's own site and an `outlets` override.
 
-The match rules changed during both passes. See "Geocoding accepts only clear matches" in [architecture.md](../architecture.md).
+Later on 2026-10-27, the owner spotted two "Somerset" outlets pinned to the Somerset Bencoolen serviced apartment, 1.2 km from Somerset. A search of every pin whose building name adds words to the outlet name found 22 outlets with the same problem. 8 SingPost Centre outlets sat on a SingPost logistics hub, because OneMap spells the real building SINGAPORE POST CENTRE. An alias moved them to 10 Eunos Road 8. A new rule sends 10 outlets named after a road, station, or area to review. 4 more area names are excluded. 1,552 outlets now match, 208 need review, and 7 are excluded. No other outlet changed.
+
+The match rules changed during all three passes. See "Geocoding accepts only clear matches" in [architecture.md](../architecture.md).
 
 ## Tasks
 

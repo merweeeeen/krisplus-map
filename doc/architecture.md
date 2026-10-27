@@ -82,11 +82,12 @@ For each physical outlet, geocode builds its queries from the outlet name. It re
 2. **Merchant and street.** The name is a street, ending in a word such as Road or Avenue. The first query is `<merchant name> <outlet name>`, for example `ESSO ANG MO KIO AVE 8`, and a candidate must contain every word of it. The second query is the merchant name alone, and a candidate must contain the merchant's words in its name and the street's words in its road. The pipeline never searches a street alone. OneMap answers `BEDOK NORTH ROAD` with one point on the road, which says nothing about where the outlet is.
 3. **Building.** Any other name. A candidate must contain every word of the query except optional words such as "Shopping" and "Centre".
 
-Both sides of a comparison expand abbreviations, so `AVE` matches `AVENUE` and `T1` matches `TERMINAL 1`. OneMap's road names are the exception. OneMap writes them in full, and expanding them put 9 Terminal 2 outlets on the VIP Complex at `1 T2 VIP DRIVE`. Car parks, entrances, and bus stops never pass, and MRT and LRT stations pass only when the query names one. Then geocode narrows the passing candidates in three steps:
+Both sides of a comparison expand abbreviations, so `AVE` matches `AVENUE` and `T1` matches `TERMINAL 1`. OneMap's road names are the exception. OneMap writes them in full, and expanding them put 9 Terminal 2 outlets on the VIP Complex at `1 T2 VIP DRIVE`. Car parks, entrances, and bus stops never pass, and MRT and LRT stations pass only when the query names one. Then geocode narrows the passing candidates in four steps:
 
 1. Keep candidates with a block number. Results without one are roads and areas, such as the whole of Sentosa. Many real buildings, such as Changi City Point, have a block but no postal code.
 2. If any candidate's name equals the query, keep only those. This step drops a clinic 1.6 km from Jurong Point whose name contains both words.
 3. Choose the first candidate with a six-digit postal code, or the first one if none has a postal code. Accept it when every kept candidate lies within 250 m of it. Northpoint City's three postal addresses lie 205 m apart.
+4. If no candidate's name equals the query, and the chosen building's name adds words other than generic ones such as Mall, City, or Hotel, check whether OneMap also lists the query as a road, an MRT or LRT station, or a conservation area. If it does, send the outlet to review. "Somerset" is a road and an MRT station. The earlier filters drop both, which left the serviced apartment Somerset Bencoolen, 1.2 km away, as the only result.
 
 Otherwise the outlet gets `geocode_status: "needs_review"` and `null` coordinates, and its candidates go into `data/out/needs-review.csv`.
 

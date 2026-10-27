@@ -36451,6 +36451,22 @@
 			}
 		]
 	},
+	"SINGAPORE POST CENTRE": {
+		"fetched_at": "2026-10-27T01:47:17.910Z",
+		"found": 1,
+		"candidates": [
+			{
+				"searchval": "SINGAPORE POST CENTRE",
+				"blk_no": "10",
+				"road_name": "EUNOS ROAD 8",
+				"building": "SINGAPORE POST CENTRE",
+				"address": "10 EUNOS ROAD 8 SINGAPORE POST CENTRE SINGAPORE 408600",
+				"postal": "408600",
+				"latitude": 1.318996669036639,
+				"longitude": 103.8948949159614
+			}
+		]
+	},
 	"SINGAPORE SHOPPING CENTRE": {
 		"fetched_at": "2026-10-26T16:53:35.006+08:00",
 		"found": 1,
